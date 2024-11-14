@@ -1,0 +1,1023 @@
+TY  - JOUR
+T1  - The influence of task design on upper limb muscles fatigue during low-load repetitive work: A systematic review
+AU  - Santos, Joana
+AU  - Baptista, João Santos
+AU  - Monteiro, Pedro Ribeiro Rocha
+AU  - Miguel, Alberto Sérgio
+AU  - Santos, Rubim
+AU  - Vaz, Mário A.P.
+JO  - International Journal of Industrial Ergonomics
+VL  - 52
+SP  - 78
+EP  - 91
+PY  - 2016
+DA  - 2016/03/01/
+T2  - New Approaches and Interventions to Prevent Work Related Musculoskeletal Disorders
+SN  - 0169-8141
+DO  - https://doi.org/10.1016/j.ergon.2015.09.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0169814115300287
+KW  - Fatigue
+KW  - Repetitive work
+KW  - Low-load work
+KW  - Upper limbs
+AB  - Ergonomic interventions such as increased scheduled breaks or job rotation have been proposed to reduce upper limb muscle fatigue in repetitive low-load work. This review was performed to summarize and analyze the studies investigating the effect of job rotation and work-rest schemes, as well as, work pace, cycle time and duty cycle, on upper limb muscle fatigue. The effects of these work organization factors on subjective fatigue or discomfort were also analyzed. This review was based on relevant articles published in PubMed, Scopus and Web of Science. The studies included in this review were performed in humans and assessed muscle fatigue in upper limbs. 14 articles were included in the systematic review. Few studies were performed in a real work environment and the most common methods used to assess muscle fatigue were surface electromyography (EMG). No consistent results were found related to the effects of job rotation on muscle activity and subjective measurements of fatigue. Rest breaks had some positive effects, particularly in perceived discomfort. The increase in work pace reveals a higher muscular load in specific muscles. The duration of experiments and characteristics of participants appear to be the factors that most have influenced the results. Future research should be focused on the improvement of the experimental protocols and instrumentation, in order to the outcomes represent adequately the actual working conditions.
+Relevance to industry
+Introducing more physical workload variation in low-load repetitive work is considered an effective ergonomic intervention against muscle fatigue and musculoskeletal disorders in industry. Results will be useful to identify the need of future research, which will eventually lead to the adoption of best industrial work practices according to the workers capabilities.
+ER  - 
+
+TY  - JOUR
+T1  - Improving and Modifying the Design of Workstations within a Manufacturing Environment
+AU  - Khan, Mustafa
+AU  - Pope-Ford, Regina
+JO  - Procedia Manufacturing
+VL  - 3
+SP  - 4927
+EP  - 4934
+PY  - 2015
+DA  - 2015/01/01/
+T2  - 6th International Conference on Applied Human Factors and Ergonomics (AHFE 2015) and the Affiliated Conferences, AHFE 2015
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2015.07.631
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978915006320
+KW  - Work-related musculoskeletal disorders
+KW  - Ergonomic injuries
+KW  - Workstation
+AB  - Manual assembly tasks are widespread in many production facilities. However, the manual tasks are often linked to workstations that are not ergonomically designed, which can lead to work-related musculoskeletal disorders (WRMDs). These may result in low productivity, deterioration of worker performance, and issues affecting quality. The first aim of this research project is to analyze the various work postures associated with manual assembly work, within a plastics manufacturing company. The analysis of these work postures will help in understanding the ergonomic conditions of different workstations within the company. The second aim of this project is to study the OSHA incident reports and determine whether correlation exists between a specific workstation and specific body parts. The ultimate objective of this research is to find solutions and to recommend changes that improve the workstations. One way this can be accomplished is by taking ergonomic measures that can be used to evaluate working postures and physical workloads for manual assembly tasks to prevent ergonomic injuries which may lead to WRMDs. This is expected to result in improved productivity, better product quality, and lower medical costs.
+ER  - 
+
+TY  - JOUR
+T1  - A Novel Kernel-based Extreme Learning Machine with Incremental Hidden Layer Nodes
+AU  - Min, Mengcan
+AU  - Chen, Xiaofang
+AU  - Lei, Yongxiang
+AU  - Chen, Zhiwen
+AU  - Xie, Yongfang
+JO  - IFAC-PapersOnLine
+VL  - 53
+IS  - 2
+SP  - 11836
+EP  - 11841
+PY  - 2020
+DA  - 2020/01/01/
+T2  - 21st IFAC World Congress
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2020.12.695
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896320310089
+KW  - ELM
+KW  - I-ELM
+KW  - Kernel function
+KW  - SD classification
+AB  - Extreme learning machine (ELM) is widely used in various fields because of its advantages such as short training time and good generalization performance. The input weights and bias of hidden layer of traditional ELM are generated randomly, and the number of hidden layer nodes is determined by artificial experience. Only by adjusting parameters manually can an appropriate network structure be found. This training method is complex and time-consuming, which increases the workload of workers. To solve this problem, the incremental extreme learning machine (I-ELM) is used to determine the appropriate number of hidden layer nodes and construct a compact network structure in this paper. At the same time, a new hidden layer activation function STR is proposed, which avoids the disadvantages of incomplete output information of hidden layer due to uneven distribution of sample data. The proposed algorithm is evaluated by public data sets and applied to the classification of superheat degree (SD) in aluminum electrolysis industry. The experimental results show that STR activation function has a good learning speed, and the proposed algorithm is superior to the existing SD identification algorithm in terms of accuracy and robustness.
+ER  - 
+
+TY  - JOUR
+T1  - On the potential of pupil size as a metric of physical fatigue during a repeated handle push/pull task
+AU  - Biondi, Francesco N.
+AU  - Graf, Frida
+AU  - Cort, Joel
+JO  - Applied Ergonomics
+VL  - 110
+SP  - 104025
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 0003-6870
+DO  - https://doi.org/10.1016/j.apergo.2023.104025
+UR  - https://www.sciencedirect.com/science/article/pii/S0003687023000637
+KW  - Measurement
+KW  - Ocular motor behaviour
+KW  - Repetitive task
+KW  - Force
+KW  - Blink rate
+KW  - Cognitive load
+KW  - Ergonomics
+KW  - Injury
+KW  - Eye-tracking
+KW  - Workers
+KW  - Industry
+KW  - Muscle
+KW  - EMG
+AB  - Force output and muscle activity represent the gold standards for measuring physical fatigue. This study explores using ocular metrics for tracking changes in physical fatigue during the completion of a repeated handle push/pull task. Participants completed this task over three trials, and pupil size was recorded by means of a head-mounted eye-tracker. Blink frequency was also measured. Force impulse and maximum peak force were used as ground-truth measures of physical fatigue. As expected, a reduction in peak force and impulse was observed over time as participants became more fatigued. More interestingly, pupil size was also found to decrease from trial 1 through trial 3. No changes in blink rate were found with increasing physical fatigue. While exploratory in nature, these findings add to the sparse literature exploring the use of ocular metrics in Ergonomics. They also advance the use of pupil size as a possible future alternative for physical fatigue detection.
+ER  - 
+
+TY  - JOUR
+T1  - Methodology for augmented reality-based adaptive assistance in industry
+AU  - Mompeu, Grégoire
+AU  - Danglade, Florence
+AU  - Mérienne, Frédéric
+AU  - Guillet, Christophe
+JO  - Computers in Industry
+VL  - 154
+SP  - 104021
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0166-3615
+DO  - https://doi.org/10.1016/j.compind.2023.104021
+UR  - https://www.sciencedirect.com/science/article/pii/S0166361523001719
+KW  - Augmented reality
+KW  - Maintenance
+KW  - Adaptive assistance
+KW  - Cognitive workload
+KW  - Industry
+AB  - Industry 4.0 technologies are key elements for companies’ competitiveness. Among these technologies, Augmented Reality (AR) already shows great potential and results to assist workers through a large panel of industrial processes. Latest research suggests that AR systems should meet the user’s needs to deliver a personalized experience and therefore improve the adoption of the technology. Nevertheless, there is still a lack of theoretical guidance to design AR-based assistance capable of delivering both the right level of details of information and the best information design, based on the user’s needs. To address this problematic, we developed a methodology describing the principle of adaptive assistance as well as standard characteristics and criteria to design Augmented Reality-based Adaptive Assistance Systems (ARAAS). We applied this methodology on an industrial maintenance use case in the context of landing gears’ overhaul operation. The feedbacks from different profiles of inspectors underline the usefulness of such system and its capacity to deliver an assistance adapted to their needs.
+ER  - 
+
+TY  - JOUR
+T1  - Scheduling controllable processing time jobs with position-dependent workloads
+AU  - Oron, Daniel
+JO  - International Journal of Production Economics
+VL  - 173
+SP  - 153
+EP  - 160
+PY  - 2016
+DA  - 2016/03/01/
+SN  - 0925-5273
+DO  - https://doi.org/10.1016/j.ijpe.2015.12.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0925527315005393
+KW  - Makespan
+KW  - Total flowtime
+KW  - Resource consumption function
+KW  - Workload
+AB  - In various real life applications job processing times are controllable through the allocation of a limited resource. To date research has been conducted under the assumption that the relationship between the amount of resource allocated to a job and its processing time is independent of the number of tasks processed previously. However, there exist many manufacturing and service systems where workers and machines acquire, develop and refine skills through the repetition of identical or similar operations. In this paper we consider a scheduling model where job processing times are a convex function of the amount of resource they are allocated. In addition, we assume that the parameters of this function are position-dependent, i.e., vary with the job׳s position in the sequence. This assumption reflects general processes of learning or aging, or a combination of both. We first focus on a single machine setting and the makespan and total flowtime criteria. We show that the combined problem of finding an optimal job sequence and an optimal resource allocation can be solved in O(n3) time. We show that our algorithm can be used to address a bicriteria objective comprising of a linear combination of makespan and the total flowtime criteria on a single machine. We then extend the results to a parallel machine setting for the total flowtime criteria.
+ER  - 
+
+TY  - JOUR
+T1  - Wristband-type wearable health devices to measure construction workers' physical demands
+AU  - Hwang, Sungjoo
+AU  - Lee, SangHyun
+JO  - Automation in Construction
+VL  - 83
+SP  - 330
+EP  - 340
+PY  - 2017
+DA  - 2017/11/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2017.06.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580517305010
+KW  - Physical demands
+KW  - Occupational health and safety
+KW  - Wearable devices
+KW  - Heart rate reserve
+KW  - Activity analysis
+KW  - Work physiology
+AB  - Recent advancements in wearable health devices equipped with biosensor systems (e.g., heart rate (HR) sensor) have provided an ample opportunity to continuously measure and understand workers' physical demands from construction work. Specifically, a relative measurement of physical demands, which is a percentage of HR reserve (%HRR), is convenient and useful by normalizing individual differences of HR. Since affordable HR monitoring using wearable devices (particularly, a comfortable wristband-type device: wristband hereafter) becomes available, %HRR-based physical demand measurement, which can be continuously calculated without interfering with workers' ongoing work, provides an enormous potential to protect workers' safety and health and to sustain expected productivity. This research investigates the usefulness of affordable %HRR-based physical demand measurement using a wristband from a case study of 19 workers in construction sites. The aim of the analysis is to examine the potential of this continuous measurement in capturing any significant physical demand variations, by investigating in-depth information on factors affecting physical demands (e.g., work tasks, individual and environmental factors). The results show that workers' physical demands are highly variable according to their working patterns (i.e., direct work, and indirect work including tool/equipment/material handling, traveling, and preparatory work), combined influences of work tasks, as well as individual and environmental factors (e.g., age and heat stress). These results demonstrate the need for continuous physical measurement during workers' ongoing work so that any significant high physical demands, which need to be avoided if possible, can be captured. The findings of this paper show that the continuous measurement of physical demands using a wristband provides rich information to understand, manage, and design physically demanding construction work (e.g., flexible work-rest cycle and managing demanding indirect work) by balancing workloads throughout a day and/or reducing unnecessary physical demands beyond direct work. By anticipating potential health and safety problems from excessive physical demands, as well as productivity loss before they occur, this research will have an ameliorative impact across the construction industry.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient evolutionary optimization using predictive auto-scaling in containerized environment
+AU  - Ivanovic, Milos
+AU  - Simic, Visnja
+JO  - Applied Soft Computing
+VL  - 129
+SP  - 109610
+PY  - 2022
+DA  - 2022/11/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2022.109610
+UR  - https://www.sciencedirect.com/science/article/pii/S1568494622006597
+KW  - Parallel metaheuristics based optimization framework
+KW  - Auto-scaling cloud resources
+KW  - Machine learning
+KW  - Resource usage prediction
+AB  - Solving complex real-world optimization problems is a computationally demanding task. To solve it efficiently and effectively, one must possess expert knowledge in various fields (problem domain knowledge, optimization, parallel and distributed computing) and appropriate expensive software and hardware resources. In this regard, we present a cloud-native, container-based distributed optimization framework that enables efficient and cost-effective optimization over platforms such as Amazon ECS/EKS, Azure AKS, and on-premise Kubernetes. The solution consists of dozens of microservices scaled out using a specially developed PETAS Auto-scaler based on predictive analytics. Existing schedulers, whether Kubernetes or commercial, do not take into account the specifics of optimization based on evolutionary algorithms. Therefore, their performance is not optimal in terms of results’ delivery time and cloud infrastructure costs. The proposed PETAS Auto-scaler elastically maintains an adequate number of worker pods following the exact pace dictated by the demands of the optimization process. We evaluate the proposed framework’s performance using two real-world computationally demanding optimizations. The first use case belongs to the manufacturing domain and involves optimization of the transportation pallets for train parts. The second use case belongs to the field of automated machine learning and includes neural architecture search and hyperparameter optimization. The results indicate an IaaS cost savings of up to 49% can be achieved, with almost unchanged result delivery time.
+ER  - 
+
+TY  - JOUR
+T1  - Investigation of productivity enhancement and biomechanical risks in greenhouse crops
+AU  - Riemer, Raziel
+AU  - Bechar, Avital
+JO  - Biosystems Engineering
+VL  - 147
+SP  - 39
+EP  - 50
+PY  - 2016
+DA  - 2016/07/01/
+SN  - 1537-5110
+DO  - https://doi.org/10.1016/j.biosystemseng.2016.03.009
+UR  - https://www.sciencedirect.com/science/article/pii/S1537511015304475
+KW  - Human labour
+KW  - Greenhouse
+KW  - Work study
+KW  - Biomechanics
+KW  - Ergonomics
+AB  - Labour is the single largest cost contributor and main limiting factor to development of the agricultural industry. Manual labour remains a major, essential factor for greenhouse-grown specialty crops. Furthermore, musculoskeletal injuries are prevalent during manual work processes performed in agricultural environments. This study aims to improve work efficiency and productivity and to identify tasks that can cause musculoskeletal injury. Working procedures were characterised using a work-study method, environmental conditions were recorded and a biomechanical analysis of the inspected task was conducted. An innovative measuring system was developed that enables synchronisation and analysis of the manufacturing, biomechanics, workload and environmental data. The study focused on the trellising and harvesting stages of pepper and tomato in greenhouses on two farms located in southwest Israel. We further conducted several experiments in which we changed the working method and assessed the effect on productivity. Another experiment was conducted to test the effect of three different trellising angles (30°, 60°, 90°) on labour and yield in tomato. The results revealed that in tomato, in comparison to current methods, picking 4 fruit per cycle will increase production rate by 17%, leaf removal from the fruit area will increase production rate by 14.4%—up to 40.2%—and the best trellising angle with respect to yield and labour will be 30°. Analysis of biomechanical risk showed that the maximum weight of lifted boxes should not exceed 12 kg, and when picking fruit growing low to the ground, the workers are exposed to medium to high risk of injury.
+ER  - 
+
+TY  - JOUR
+T1  - Optimal cross-trained worker assignment for a hybrid seru production system to minimize makespan and workload imbalance
+AU  - Liu, Feng
+AU  - Niu, Ben
+AU  - Xing, Muze
+AU  - Wu, Lang
+AU  - Feng, Yuanyue
+JO  - Computers & Industrial Engineering
+VL  - 160
+SP  - 107552
+PY  - 2021
+DA  - 2021/10/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2021.107552
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835221004563
+KW  - Hybrid  production system
+KW  - Cross-trained worker assignment
+KW  - NSGA-II algorithms
+KW  - Memetic algorithm
+KW  - Machine learning
+AB  - As a worker-centred assembly mode developed in the electronics industry in Japan, seru is receiving growing attention due to improved flexibility and responsiveness. In seru implementation, cross-trained worker assignment is a vital problem. Most previous studies focused on assigning cross-trained workers into pure divisional or rotating seru separately, but overlooked the problem for a hybrid seru production system that includes both seru types. This research fills this gap by minimizing the makespan and balancing the workers’ workload of each seru in a bi-objective mathematical model. For medium-scale instances, the exact solutions are obtained. For large-scale instances, we propose an NSGA-II-based memetic algorithm that uses two-level encoding and incorporates the bat algorithm as a local search and two K-means-based NSGA-II algorithms. The experimental results illustrate that the K-means-based NSGA-II not only outperforms other algorithms with respect to common proximity and diversity metrics but also runs an order of magnitude faster (in seconds versus minutes required by others on the same computer). Some management insights are obtained based on many numerical experiments.
+ER  - 
+
+TY  - JOUR
+T1  - The taxi industry: working conditions and health of drivers, a literature review
+AU  - Poó, Fernando Martín
+AU  - Ledesma, Rubén Daniel
+AU  - López, Soledad Susana
+JO  - Transport Reviews
+VL  - 38
+IS  - 3
+SP  - 394
+EP  - 411
+PY  - 2018
+DA  - 2018/01/01/
+SN  - 0144-1647
+DO  - https://doi.org/10.1080/01441647.2017.1370035
+UR  - https://www.sciencedirect.com/science/article/pii/S014416472200174X
+KW  - Taxi industry
+KW  - taxi drivers
+KW  - working conditions
+KW  - health
+KW  - review
+AB  - ABSTRACT
+The taxi industry plays an important role in urban transportation systems, both in economic and mobility terms. In the case of the former, it provides employment for a large number of people and circulates significant amounts of money. In the case of the latter, it is a flexible means of transportation capable of arriving at any destination. Although the way the taxi industry is organised varies across countries and even within countries, some factors are shared at varying latitudes of the globe. Working conditions, habits, health, and exposure to road crashes have been a subject of interest for researchers from various disciplines, including medicine, psychology, and economics. However, much of this research focuses on a part of the problem and is not mutually referential. A review of the literature may be useful not only to researchers of diverse disciplines but also to industry representatives and those public officials responsible for transportation, road safety and health policy. This article provides a comprehensive review of the working conditions of taxi drivers, their relationship to road risk exposure and their consequences on the health of workers. It also includes information on coping strategies and protective behaviors. The review is based on a Scopus database search. The search covered the period from 1990 to 2015. This initial search was complemented with other database searches, which yielded some additional studies. Our goal was to summarise existing knowledge, identify possible lines of research and suggest some practical recommendations. It would be important (a) to reduce the workload, establish adequate time for breaks, and provide access to healthcare, (b) to implement actions to promote and maintain healthy habits, (c) to diagnose, detect and treat indicators of occupational fatigue and stress, and (d) to develop programs that make it possible to evaluate work concerns and broaden coping strategies to foster positive changes.
+ER  - 
+
+TY  - JOUR
+T1  - The Influence of Safety Climate, Safety Leadership, Workload, and Accident Experiences on Risk Perception: A Study of Korean Manufacturing Workers
+AU  - Oah, Shezeen
+AU  - Na, Rudia
+AU  - Moon, Kwangsu
+JO  - Safety and Health at Work
+VL  - 9
+IS  - 4
+SP  - 427
+EP  - 433
+PY  - 2018
+DA  - 2018/12/01/
+SN  - 2093-7911
+DO  - https://doi.org/10.1016/j.shaw.2018.01.008
+UR  - https://www.sciencedirect.com/science/article/pii/S2093791117303347
+KW  - Accident experience
+KW  - Risk perception
+KW  - Safety climate
+KW  - Safety leadership
+KW  - Workload
+AB  - Background
+The purpose of this study was to identify the influence of workers' perceived workload, accident experiences, supervisors' safety leadership, and an organization's safety climate on the cognitive and emotional risk perception.
+Methods
+Six hundred and twenty employees in a variety of manufacturing organizations were asked to complete to a questionnaire. Among them, a total of 376 employees provided valid data for analysis. To test the hypothesis, correlation analysis and hierarchical regression analysis were used. Statistical analyses were conducted using IBM SPSS program, version 23.
+Results
+The results indicated that workload and accident experiences have a positive influence and safety leadership and safety climate have a negative influence on the cognitive and emotional risk perception. Workload, safety leadership, and the safety climate influence perceived risk more than accident experience, especially for the emotional risk perception.
+Conclusion
+These results indicated that multilevel factors (organization, group, and individual) play a critical role in predicting individual risk perceptions. Based on these results, therefore, to reduce risk perception related with unsafe behaviors and accidents, organizations need to conduct a variety of safety programs that enhance their safety climate beyond simple safety-related education and training. Simultaneously, it needs to seek ways to promote supervisors' safety leadership behaviors (e.g., site visits, feedback, safety communication, etc.). In addition, it is necessary to adjust work speed and amount and allocate task considering employees' skill and ability to reduce the workload for reducing risk perception.
+ER  - 
+
+TY  - JOUR
+T1  - Determining the fatigue associated with different task complexity during maintenance operations in males using electromyography features
+AU  - Alhaag, Mohammed H.
+AU  - Ramadan, Mohamed Z.
+AU  - Al-harkan, Ibrahim M.
+AU  - Alessa, Faisal M.
+AU  - Alkhalefah, Hisham
+AU  - Abidi, Mustufa Haider
+AU  - Sayed, Abdelaty E.
+JO  - International Journal of Industrial Ergonomics
+VL  - 88
+SP  - 103273
+PY  - 2022
+DA  - 2022/03/01/
+SN  - 0169-8141
+DO  - https://doi.org/10.1016/j.ergon.2022.103273
+UR  - https://www.sciencedirect.com/science/article/pii/S0169814122000142
+KW  - Electromyography
+KW  - Muscle activity
+KW  - Muscle fatigue
+KW  - Workload
+KW  - Maintenance task complexity
+KW  - Human performance
+AB  - Purpose
+Maintenance workers often perform tasks with high levels of complexity. The association between maintenance task complexity and muscle fatigue needs further investigation. In this study, the effect of maintenance task complexity on muscle fatigue and perceived workload was evaluated.
+Methods
+Fifteen male participants performed two maintenance tasks with two levels of complexity: repairing a gearbox of piston pump (complex task) and repairing a faulty pump housing (simple task). The electromyographic (EMG) activity data from six muscle sites of the neck and the dominant side of the shoulder and arm were recorded. Muscle fatigue was assessed using normalized root-mean-square (RMS) of EMG data and the slopes of median frequency (MF) and mean power frequency (MPF). The NASA Task Load Index (TLX) was utilized as a secondary subjective measure for perceived workload.
+Findings
+Compared to the simple task, performance of the complex task was associated with significantly higher values of RMS EMG (29.92% in average) for all sampled muscles. The slopes of MF and MPF for the flexor carpi radialis muscle during the complex task were significantly lower than that of the simple task. Also, TLX scores for the complex task were significantly higher than those for the simple task.
+Conclusions
+Findings of this study indicate that, within the sampled muscles, the complexity of the maintenance task could cause more muscle fatigue, especially for the forearm muscle. The results of the TLX scores suggest that task complexity could contribute to a significant increase in mental, physical, and temporal demands, effort, and frustration.
+Relevance to industry
+The findings of this study could be utilized to improve the designs of industrial maintenance tasks with respect to human ability and performance.
+ER  - 
+
+TY  - JOUR
+T1  - Revealing the “Invisible Gorilla” in construction: Estimating construction safety through mental workload assessment
+AU  - Chen, Jiayu
+AU  - Song, Xinyi
+AU  - Lin, Zhenghang
+JO  - Automation in Construction
+VL  - 63
+SP  - 173
+EP  - 183
+PY  - 2016
+DA  - 2016/03/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2015.12.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580515002666
+KW  - Construction safety
+KW  - Mental workload
+KW  - Electroencephalography (EEG)
+KW  - Inattentional blindness
+KW  - Vulnerability
+AB  - Construction companies can accrue losses due to labor fatalities and injuries. Since more than 70% of all accidents are related to human activities, detecting and mitigating human-related risks hold the key to improving the safety conditions within the construction industry. Previous research has revealed that the psychological and emotional conditions of workers can contribute to fatalities and injuries. Recent observations in the area of neural science and psychology suggest that inattentional blindness is one major cause of unexpected human related accidents. Due to the limitation of human mental workload, laborers are vulnerable to unexpected hazards while focusing on complicated construction tasks. Therefore, the ability to detect the mental conditions of workers could reduce unexpected injuries. However, there are currently no available measurement approaches or devices capable of monitoring construction workers' mental conditions. The research proposed in this paper aims to develop a measurement approach to evaluate hazards through neural time–frequency analysis. The experimental results show that neural signals are valid for mental load assessment of construction workers, especially the low frequency bands signals. The research also describes the development of a prototype for a wearable electroencephalography (EEG) safety helmet that enables the collection of the neural information required as input for the measurement approach.
+ER  - 
+
+TY  - JOUR
+T1  - An innovative integrated solution to support digital postural assessment using the TACOs methodology
+AU  - Khamaisi, Riccardo Karim
+AU  - Perini, Matteo
+AU  - Morganti, Alessio
+AU  - Placci, Marco
+AU  - Grandi, Fabio
+AU  - Peruzzini, Margherita
+AU  - Botti, Lucia
+JO  - Computers & Industrial Engineering
+VL  - 194
+SP  - 110376
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2024.110376
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835224004972
+KW  - Ergonomics
+KW  - Motion Capture
+KW  - Digital Postural Assessment
+KW  - TACOs
+AB  - The diversification of work as well as the challenges of modern industrial tasks make manual ergonomic assessment tools (i.e., checklist, excel-based worksheet) time consuming and strongly related to the ergonomist’s experience. Recent advancements in wearable sensors technology offer new perspectives in terms of integrating human-monitoring solutions with traditional ergonomics methods by movements’ digitization. Furthermore, digital posture assessment plays a critical role in the context of Industry 5.0, promoting worker well-being and productivity by identifying ergonomic risks and optimizing work environments. Also, leveraging advanced technologies for posture assessment enables proactive intervention strategies to mitigate musculoskeletal disorders and enhance overall workplace safety and efficiency. The present study proposes an innovative hardware and software solution which allows even non-expert designers or ergonomists to carry out a reliable postural ergonomic assessment according to well-known ergonomic methods, speeding up the analysis and providing accurate information. The setup consists of a wearable suit and its proprietary software tool specifically programmed to carry out the ergonomic assessment according to the Time-Based Assessment COmputerized Strategy (TACOs) method. The setup has been preliminarily tested in a controlled environment simulating a real industrial scenario and a comparison with standard ergonomic practices has been performed. The Mann-Whitney U test returned a p-value of [2.198e-11] < α [0.05] demonstrating how the solution proposes results which are numerically and qualitatively enhanced while showing the practical utility of the suggested technical setup and the validity of the suggested digital technique in retrieving and recognizing the workers’ posture.
+ER  - 
+
+TY  - JOUR
+T1  - Musculoskeletal Load Assessment of Farmers during Selected Agricultural Works
+AU  - Kuta, Łukasz
+AU  - Cież, Józef
+AU  - Młotek, Małgorzata
+JO  - Procedia Manufacturing
+VL  - 3
+SP  - 1696
+EP  - 1703
+PY  - 2015
+DA  - 2015/01/01/
+T2  - 6th International Conference on Applied Human Factors and Ergonomics (AHFE 2015) and the Affiliated Conferences, AHFE 2015
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2015.07.990
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978915009919
+KW  - Milking
+KW  - Electromyography
+KW  - Job Strain Index
+KW  - Risk
+KW  - Agriculture
+AB  - During the last years, as a result of the technological development, farmers started to include a new solution like machinery or other devices but the risk level connected with accidents resulting from their use is still high. Agriculture is described as one of the most dangerous industry in Poland. Based on these circumstances the studies were conducted where the main objective was to investigate a workload during agricultural manual and mechanized tasks. The analysis was conducted on 15 farmers on their own farms during the morning and evening milking in the tethering and carousel systems while lifting and carrying a full bucket or a sack and while the tractor was moving. The analysis of muscle load was conducted with the surface EMG (Electromyography) system and Job Strain Index method. The highest values of muscle tension and force were observed in the forearm muscles during the attachment of teat cups to the udder. It was connected with lifting the equipment in an uncomfortable posture assumed by the milker. For the tractor driver the ergonomics of the seat and steering wheel was measured. It has been demonstrated that unfavourable working conditions increase the musculoskeletal overload. One of the methods of preventing them is to create appropriate working conditions for a specific person and gender. This will allow each worker to properly adjust the work and to apply specific matching equipment.
+ER  - 
+
+TY  - JOUR
+T1  - Shift work and hospital employees: A descriptive multi-site study
+AU  - McElroy, Susan F.
+AU  - Olney, Adrienne
+AU  - Hunt, Cheri
+AU  - Glennon, Catherine
+JO  - International Journal of Nursing Studies
+VL  - 112
+SP  - 103746
+PY  - 2020
+DA  - 2020/12/01/
+T2  - Shift work in nursing: closing the knowledge gaps and advancing innovation in practice
+SN  - 0020-7489
+DO  - https://doi.org/10.1016/j.ijnurstu.2020.103746
+UR  - https://www.sciencedirect.com/science/article/pii/S0020748920302327
+KW  - Shift work
+KW  - Satisfaction
+KW  - Circadian rhythm
+KW  - Fatigue
+KW  - Drowsy driving
+KW  - Hospital workers
+AB  - Background
+Hospitals staff with 12-hour and other shift work patterns to account for daily and seasonal workload requirements. Research in healthcare and industries requiring shift work suggests there may be negative health consequences to the workers related to fatigue and other factors. Due to the 24/7 nature of healthcare, it is important to understand the impact of shift work on employees.
+Objectives
+The objectives of this study were to investigate how shift work impacts satisfaction with time for social and home activities, based on the Social and Domestic Survey, and chronic fatigue. In addition, an exploration of drowsy driving was undertaken.
+Design and setting
+This study was a multi-site, descriptive survey study, conducted in 4 acute care hospitals in one metropolitan area in the central United States.
+Participants
+Participants included healthcare workers in five 24/7 departments: nursing, respiratory therapy, laboratory, radiology and pharmacy.
+Methods
+Measures included demographics, work characteristics, and scales including the: Social and Domestic Survey, Circadian Type Inventory, and Chronic Fatigue Scale along with data regarding drowsy driving and automobile accidents/near misses. Data were analyzed using descriptive statistics for sample characteristics. An exploratory factor analysis was conducted on the Social and Domestic Survey. Group differences were tested using Mann-Whitney U tests and regression analyses.
+Results
+The sample included 1563 subjects (24% RR). The mean age was 40 years. Nursing comprised 77% of the sample, 88% were female, 85% were in a direct patient care role, 67% worked day shift, and 49% worked 12-hour shifts. Pay was important for working night shift, but home life was important for day shift. Night shift (p<0.001) and 12-hour shift workers (p<0.001) had higher chronic fatigue. However, after controlling for other factors, working night shift remained a significant predictor of chronic fatigue and lower satisfaction with time for daily tasks and family/social life, whereas working 12-hour shifts predicted higher satisfaction with daily tasks and periodic life activities. Thirty-five percent of workers reported altering their driving behavior at least half the time due to drowsy driving and 19% had an automobile accident or near miss due to drowsy driving.
+Conclusions
+Findings suggest that night and long shifts can have negative effects on fatigue, family, and social life. Drowsy driving and accidents/near misses frequently occur due to drowsy driving. Leaders should continue to study the 24/7 work environment and test measures to improve the safety of shift workers.
+ER  - 
+
+TY  - JOUR
+T1  - A case study for the optimization of moment-matching in wind turbine blade fatigue tests with a resonant type exciting approach
+AU  - Lu, Liang
+AU  - Wu, Haijun
+AU  - Wu, Jianzhong
+JO  - Renewable Energy
+VL  - 174
+SP  - 769
+EP  - 785
+PY  - 2021
+DA  - 2021/08/01/
+SN  - 0960-1481
+DO  - https://doi.org/10.1016/j.renene.2021.04.114
+UR  - https://www.sciencedirect.com/science/article/pii/S0960148121006340
+KW  - Blade fatigue test
+KW  - Moment-matching
+KW  - TMM (Transfer matrix method)
+KW  - PSO (Particle swarm optimization)
+AB  - In order to effectively test the performance of the wind turbine during the blade fatigue test with a resonant type of exciting approach, it is important to moment-match the test moment to the target moment. The distribution of the moments on the critical sections can be adjusted by using additional masses that are reasonably located on these sections, but that have different location, number and size options. Achieving this through the traditional trial-and-error method however, which attempts to find the best additional mass variables combination for optimal moment-matching, requires an extremely heavy artificial workload, as the combination options for the additional mass variables are many. To tackle this dilemma, FEA (Finite Element Analysis) associated with PSO (Particle Swarm Optimization) method is now commonly used for moment prediction and optimal combination searching. Nonetheless, the enlargement of the blade scale has meant that using FEA poses some disadvantages, which in turn means an increased amount of time needed for integrated-parameters computing. Moreover, pre-computing work, such as physical object modeling, grid generation & checking, solution setting & parameter adjusting, may also require lots of time and a heavy reliance on professional workers to carry out processing tasks – requirements that are adverse to realizing an automatic dealing procedure. Fortunately, in the blade design and factory leaving stages, those important blade parameters are already defined in a lumped manner. This therefore leads to an applicative use of TMM (Transfer Matrix Method) as when outputting the section data, including moment, it only requires these section parameters for the modeling and the moment-matching process. It is reasonable to believe that FEA usually offers better computing accuracy, while it is also understandable that for the present condition cloud and after describing the lumped definition manner, TMM also presents sufficient accuracy. For the present case study, TMM shows satisfactory prediction accuracy when compared with the test results, with a relative error of no more than 1% for any critical blade section. Additionally, moment-matching optimization work has been conducted by combining with the PSO procedure. The optimal variables combination is finally confirmed with two additional masses of 4000 kg and 605.6 kg located 25m and 48m from the blade root section respectively, which obtains the minimum standard of 4.25%, a higher matching precision compared with that of the test which had 5.6%. Thus, it seems that the TMM-associated PSO method introduced in this paper provides a more efficient way to figure out the optimal variables combination for moment-matching while maintaining sufficient computational precision. In addition, since the strict requirements for moment-matching accuracy have not yet been officially issued, the present case study does not treat the additional mass number as a variable but as the constant 2. Compared with the test however, this paper's result still shows improvements in moment-matching accuracy while also reducing the installing workload needed for the 2 additional masses.
+ER  - 
+
+TY  - JOUR
+T1  - Forest harvesting in rural properties: Risks and worsening to the worker’s health under the ergonomics approach
+AU  - Schettino, Stanley
+AU  - Minette, Luciano José
+AU  - Andrade Lima, Roldão Carlos
+AU  - Pedroso Nascimento, Glicia Silvania
+AU  - Caçador, Silvio Sérgio
+AU  - Leme Vieira, Marlice Paes
+JO  - International Journal of Industrial Ergonomics
+VL  - 82
+SP  - 103087
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0169-8141
+DO  - https://doi.org/10.1016/j.ergon.2021.103087
+UR  - https://www.sciencedirect.com/science/article/pii/S0169814121000056
+KW  - Forest management
+KW  - Forest work
+KW  - Worker's health
+KW  - Ergonomic risk
+AB  - Through an ergonomic approach, this study aimed to evaluate whether workers involved in forest harvesting activities in rural properties are subject to the development of work-related diseases, as well as their consequences. A cross-sectional study with 267 forest workers in rural properties in the Brazilian Central region was used. The following evaluations were performed for each of the activities (felling, delimbing, tracing, manual extraction and manual loading): physical workload evaluation; biomechanical evaluation; risk of repetitive strain injuries/work-related musculoskeletal disorders; environmental noise and vibration factors, where relevant, and thermal overload through the Wetbulb Globe Temperature index. The results showed that in general the physical workload was very high, exceeding the cardiovascular load limits and adding to the need for work reorganization. All activities exposed workers to serious and imminent risks of developing injuries to the spine and lower limbs. Likewise, in general the risk of the appearance of RSI/WMSDs was very high for all activities evaluated. Such results are due to the combination of organizational work factors and factors of the work environment such as exposure to bad weather, uneven terrain, lifting and handling loads above tolerable limits, excessive noise and thermal overload. All of this allows to conclude that ergonomic risks and workers’ health hazards in forest harvesting in rural properties are latent and very worrying, and that these workers are exposed to a form of labor exploitation that invariably leads to physical and emotional exhaustion and therefore to their decreased labor capacity and useful working life.
+ER  - 
+
+TY  - JOUR
+T1  - Analysis of upper-limb muscle fatigue in the process of rotary handling
+AU  - Yu, Na
+AU  - Hong, Lian
+AU  - Guo, Jing
+JO  - International Journal of Industrial Ergonomics
+VL  - 83
+SP  - 103109
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 0169-8141
+DO  - https://doi.org/10.1016/j.ergon.2021.103109
+UR  - https://www.sciencedirect.com/science/article/pii/S0169814121000275
+KW  - Rotary handling
+KW  - Upper limb
+KW  - Muscle fatigue
+AB  - Workers engaged in repetitive manual material handling (MMH) generally suffer from work-related musculoskeletal disorders (WMSDs), particularly in the arms, shoulders, neck, and waist; this significantly limits the individual's strength and ability to work. Currently, research on upper-limb injuries affecting manufacturing workers focusses on the effect of different working conditions on specific muscle fatigue. However, research on the fatigue transformation relationship among various muscles in the process of working is lacking. Therefore, the purpose of this study was to investigate the fatigue changes between the upper-limb muscles during rotary handing. In this study, 13 male subjects were studied to simulate rotating handling during the manual handling process using surface electromyography (sEMG). Handling angles of 90°, 45°, and 0° were arranged as single variables to conduct the single-factor experiment. The sEMG of the brachioradialis, biceps brachii, trapezius, and multifidus muscle was measured during the operation. The results of this study indicate that the characteristics of muscle fatigue are different at different rotation angles: the multifidus muscle and trapezius were fatigued when the rotation was 90°. Under the condition of a 45° rotation, the activities of the four muscles fluctuated significantly. The slope of the median frequency of the muscles was positive, the load of the four muscles was evenly distributed, and no local fatigue was observed. Under the condition of a 0° rotation, the sEMG indicated that the brachioradialis muscle was fatigued, while the other three muscles had lower loads.
+ER  - 
+
+TY  - JOUR
+T1  - How Resilient are Lucid Motivators? Endeavoring Reforms for Effects of Psycho-social Factors on Workers Health Through Concurrent Engineering
+AU  - Yılmaz Kaya, Burcu
+AU  - Kılıç Delice, Elif
+JO  - Safety and Health at Work
+VL  - 15
+IS  - 3
+SP  - 327
+EP  - 337
+PY  - 2024
+DA  - 2024/09/01/
+SN  - 2093-7911
+DO  - https://doi.org/10.1016/j.shaw.2024.05.003
+UR  - https://www.sciencedirect.com/science/article/pii/S2093791124000350
+KW  - Concurrent engineering
+KW  - Health and safety services
+KW  - Human factors analysis
+KW  - Multi-criteria decision-making
+KW  - Occupational health and safety
+AB  - Background
+As the tremendous impact of extreme workloads, arduous working conditions, and disorganization disrupt humane job definitions in some industries, the need for workplace re-articulation was interfered to ameliorate psycho-social factors and suggest organizational intervention strategies. Especially for colossally wounded health-care (HC) systems, today it is now even more unrealizable to retain workforce resilience considering the immense impact of overwhelming working conditions.
+Methods
+This study introduces employment of concurrent engineering tools to re-design humane workplaces annihilating abatement over devoured resources. The study handles HC-workforce resilience in a pioneering motive to introduce transformation of well-known motivators and proposes solutions for retention and resilience issues grounding on HC workers’ own voice.
+Results
+The proposed adjustable approach introduces integral use of focus group studies, SWARA, and QFD methods, and was practiced on a real-world case regarding Turkish HC workforce. The paper also presents widespread effects of findings by tendering generalized psycho-social rehabilitation strategies. Results confirmed the modifications of the most potent incessant motivators.
+Conclusion
+“Burn out issues” and “Challenging work” were found as the most important motivator and satisfier, respectively, to be exigently fulfilled. Corrective interventions, required resolutions, and workplace articulation connotations were arbitrated in terms of entire outcomes on four dimensions in three different planning periods considering the current status, repercussions of pandemic, and contingency of similar catastrophes. Descriptive illustrations were additionally presented to support deducted interpretations.
+ER  - 
+
+TY  - JOUR
+T1  - Solving the integrated cell formation and worker assignment problem using particle swarm optimization and linear programming
+AU  - Feng, Hanxin
+AU  - Da, Wen
+AU  - Xi, Lifeng
+AU  - Pan, Ershun
+AU  - Xia, Tangbin
+JO  - Computers & Industrial Engineering
+VL  - 110
+SP  - 126
+EP  - 137
+PY  - 2017
+DA  - 2017/08/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2017.05.038
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835217302516
+KW  - Cell formation
+KW  - Worker assignment
+KW  - Labor utilization
+KW  - Particle swarm optimization
+KW  - Linear programming
+AB  - Both cell design and human issues are important factors for successful implementation of cellular manufacturing. To better implement cellular manufacturing, we investigate the integrated cell formation and worker assignment problem (ICFWAP). A comprehensive linear model is developed for the ICFWAP to determine the optimal allocation of machines, parts and workers. Specific characteristics of this model include the simultaneous consideration of production planning, coexistence of alternative process routings, lot splitting, workload balancing between cells and worker over-assignment to multiple cells. Motivated by the inefficiency of exact approaches, this paper proposes a hybrid approach combining combinatorial particle swarm optimization and linear programming (CPSO-LP) to efficiently solve real-sized problems. In CPSO-LP, decision variables corresponding to part routing selection and part operation assignment are fixed and other variables are allowed to be changed. CPLEX is then used to solve the reduced LP problem. Numerical experiments validate the proposed model. Results reveal that worker over-assignment can reduce the number of workers hired and improve labor utilization rate. The better efficiency and effectiveness of CPSO-LP are proved by comparisons with CPLEX, a genetic algorithm (GA), CPSO, and a hybrid approach combining GA and LP.
+ER  - 
+
+TY  - JOUR
+T1  - Deep learning-based smart task assistance in wearable augmented reality
+AU  - Park, Kyeong-Beom
+AU  - Kim, Minseok
+AU  - Choi, Sung Ho
+AU  - Lee, Jae Yeol
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 63
+SP  - 101887
+PY  - 2020
+DA  - 2020/06/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2019.101887
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584518306240
+KW  - Smart task assistance
+KW  - Wearable augmented reality
+KW  - Deep learning-based task assistance
+KW  - AR smart glasses
+AB  - Wearable augmented reality (AR) smart glasses have been utilized in various applications such as training, maintenance, and collaboration. However, most previous research on wearable AR technology did not effectively supported situation-aware task assistance because of AR marker-based static visualization and registration. In this study, a smart and user-centric task assistance method is proposed, which combines deep learning-based object detection and instance segmentation with wearable AR technology to provide more effective visual guidance with less cognitive load. In particular, instance segmentation using the Mask R-CNN and markerless AR are combined to overlay the 3D spatial mapping of an actual object onto its surrounding real environment. In addition, 3D spatial information with instance segmentation is used to provide 3D task guidance and navigation, which helps the user to more easily identify and understand physical objects while moving around in the physical environment. Furthermore, 2.5D or 3D replicas support the 3D annotation and collaboration between different workers without predefined 3D models. Therefore, the user can perform more realistic manufacturing tasks in dynamic environments. To verify the usability and usefulness of the proposed method, we performed quantitative and qualitative analyses by conducting two user studies: 1) matching a virtual object to a real object in a real environment, and 2) performing a realistic task, that is, the maintenance and inspection of a 3D printer. We also implemented several viable applications supporting task assistance using the proposed deep learning-based task assistance in wearable AR.
+ER  - 
+
+TY  - JOUR
+T1  - In-situ or side-by-side? A user study on augmented reality maintenance instructions in blind areas
+AU  - Laviola, Enricoandrea
+AU  - Gattullo, Michele
+AU  - Evangelista, Alessandro
+AU  - Fiorentino, Michele
+AU  - Uva, Antonio Emmanuele
+JO  - Computers in Industry
+VL  - 144
+SP  - 103795
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0166-3615
+DO  - https://doi.org/10.1016/j.compind.2022.103795
+UR  - https://www.sciencedirect.com/science/article/pii/S0166361522001919
+KW  - Augmented reality
+KW  - Maintenance
+KW  - Blind area
+KW  - Occlusion
+KW  - Work instructions
+KW  - Industrial operator support
+AB  - In recent years, Augmented Reality (AR) has been effectively proposed as a tool to support workers in manual procedural tasks in industry, such as assembly and maintenance. It is very common for workers to deal with complete equipment in maintenance. Then, instructions may refer to components located in blind areas, i.e., visually occluded by part of the equipment. Displaying in-situ AR instructions in such blind areas requires handling occlusions; otherwise, side-by-side instructions can be exploited. In the literature, it is still unclear which solution better leverage workers’ performance in maintenance tasks accomplished in blind areas. Thus, we designed three AR presentation modes to convey maintenance instructions in a real machine: 3D in-situ rendered with X-ray technique; 3D side-by-side on a CAD model replicating the blind area; 2D side-by-side on a virtual mirror. We conducted a user study comparing these three presentation modes with a 2D drawing extracted from the original maintenance documentation of the machine. The performance of 42 participants was evaluated in terms of completion time, accuracy, and cognitive load. The results revealed that both in-situ and 3D side-by-side presentation modes perform better than 2D drawing. Specifically, the in-situ presentation mode outperforms the 3D side-by-side mode in terms of completion time. The side-by-side virtual mirror does not improve performance with respect to 2D drawing, then it needs to be redesigned for effective use in AR maintenance interfaces.
+ER  - 
+
+TY  - JOUR
+T1  - A non-zero integer non-linear programming model for maintenance workforce sizing
+AU  - Ighravwe, D.E.
+AU  - Oke, S.A.
+JO  - International Journal of Production Economics
+VL  - 150
+SP  - 204
+EP  - 214
+PY  - 2014
+DA  - 2014/04/01/
+SN  - 0925-5273
+DO  - https://doi.org/10.1016/j.ijpe.2014.01.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0925527314000061
+KW  - Maintenance workforce
+KW  - Productivity
+KW  - Goal programming
+KW  - Use factor
+KW  - Priority factor
+KW  - Routine maintenance
+AB  - This paper formulates a non-linear integer programming model to solve a maintenance workforce sizing problem with a productivity improvement goal. This problem is modelled in a bi-objective framework that minimises the number of maintenance personnel while maximising their productivity levels. Inputs into the optimisation model include monthly and routine maintenance periods, volume of production, contingency maintenance time, use factor and priority factor among others. The model has been validated with real-life detergent factory data, demonstrating its potential usefulness. A principal novelty of the model is the inclusion of use factor, which captures how often maintenance technicians are busy on the job with respect to assigned tasks, including unanticipated high maintenance workload. The model has been solved using a branch and bound algorithm. The impact of workforce structure and workers’ salaries on model’s performance has been studied and sensitivity analysis carried out to investigate the changes to the optimal solution as a result of changes in the input data. The results show a reduction in the number of maintenance workforce personnel in comparing values with and without use factor in the model. The model’s ability to obtain global optimal result depends on the value of the minimum routine maintenance time within each maintenance section. Also, the model is shown to be sensitive to priority factor, which captures the appropriate ratio of full- and part-time workers under the same category. The model provides both an easy-to-use practical tool for maintenance managers and supervisors as well as a scientific tool for determining optimal maintenance workforce size for a manufacturing plant.
+ER  - 
+
+TY  - JOUR
+T1  - Physiological Workload of Hill Farm Women of Meghalaya, India Involved in Firewood Collection
+AU  - Borah, Swapnali
+JO  - Procedia Manufacturing
+VL  - 3
+SP  - 4984
+EP  - 4990
+PY  - 2015
+DA  - 2015/01/01/
+T2  - 6th International Conference on Applied Human Factors and Ergonomics (AHFE 2015) and the Affiliated Conferences, AHFE 2015
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2015.07.648
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978915006496
+KW  - Drudgery
+KW  - Physiological responses
+KW  - Musculoskeletal problem
+AB  - Women are not only carriers of human race but civilization and sustainable development rest on them. Their role is quietly appreciated without economic recognition, regard and accountability. The household activities farm women of Meghalaya do are labour intensive, time consuming, arduous, monotonous, repetitive, manual and within economic return resulting in fatigue and drudgery. This study was conducted to determine the perceived physiological exertion, physiological responses and musculoskeletal problem while doing the activity of firewood collection. The subject included forty tribal women of West Garo Hill of Meghalaya within the age group of 20 to 50 years having the average BMI of 21.74, Lean body mass 31.99kg., fat weight 12.59kg., VO2 max. 25.59ml/kg/min and grip strength of 28.59kg. While doing the activity average heart rate, energy expenditure, total cardiac cost of work and physiological cost of work were 129.67 bpm, 11.90 kj/min, 8529.59 beats and 47.92ppm, respectively. The cardiovascular stress index was quite high (47.25) in comparison to many workers involved in factory activities. Perceived physical exertion was rated by farm women as “heavy to very heavy”. Incidences of musculoskeletal problem were also very high as farm women reported that they had severe to very severe pain in upper and lower back, neck, head, arm, wrist and fingers.
+ER  - 
+
+TY  - JOUR
+T1  - Fatigue differences between Asian and Western populations in prolonged mentally demanding work-tasks
+AU  - Ahmed, Shaheen
+AU  - Babski-Reeves, Kari
+AU  - DuBien, Janice
+AU  - Webb, Heather
+AU  - Strawderman, Lesley
+JO  - International Journal of Industrial Ergonomics
+VL  - 54
+SP  - 103
+EP  - 112
+PY  - 2016
+DA  - 2016/07/01/
+SN  - 0169-8141
+DO  - https://doi.org/10.1016/j.ergon.2016.05.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0169814116300403
+KW  - Fatigue
+KW  - Ethnicity
+KW  - Asian
+KW  - Western
+KW  - Mental
+KW  - Work-task
+AB  - Introduction
+With an increase in the number of mentally demanding jobs, as well as the increase in work performed while sedentary, there is a growing imbalance in the use of body resources. This often results in an increase in fatigue in the working population. The diversity of the workforce is also increasing, whereas physiological differences based on culture are important to consider. The objective of this study was to identify the differences in the levels of fatigue in the workplace experienced by Asian and Western workers in mentally demanding jobs.
+Method
+Eight Asian and eight Western participants completed an observation-based study. Each participant was observed for four hours in their workplace while they were working on highly mentally demanding work-tasks either computer programming or mathematical simulations. To balance the effect of time, half of the participants from each ethnic group were observed in the morning session and the other half in the afternoon session. Perceived fatigue was measured every 30 min using the single dimensional Borg and multidimensional SOFI scales. Workload was measured using NASA-TLX, and as a change in resting heart rate.
+Result
+Ethnicity and time interacted to significantly affect the perceived fatigue measured by Borg (F (9,126) = 2.03, p = 0.0412) and SOFI (F(9,126) = 3.28, p = 0.0013) scales. Asian participants reported significantly higher workload measured by NASA-TLX scores (F(1, 14) = 3.68, p = 0.0024) and change in resting heart rate (F(1, 14) = 7.77, p = 0.0145) was measured higher compared to Western participants. Unlike fatigue, no significant interactions were observed between time and ethnicity to affect either NASA-TLX scores or change in resting heart rate. Post-hoc analyses show that the rate of fatigue was higher for Asian participants. Correlations between the dependent variables were significant (p < 0.0001), with a stronger correlation identified for Asian participants.
+Conclusion
+As compared to the Western participants, Asian participants reported higher values in all dependent measures, including fatigue in both scales, NASA-TLX scores, and change in resting heart rate.
+Relevance to industry
+The significant growth in white-collar as well as mentally demanding jobs requires more cognitive resources, while reducing physical activities. The consequences of the imbalances in the use of body resources have yet to be studied. This study has been designed to investigate the issues of imbalance in the workplace.
+ER  - 
+
+TY  - JOUR
+T1  - The Occupational Heat Exposure-related Symptoms Prevalence and Associated Factors Among Hospitality Industry Kitchen Workers in Ethiopia: Wet Bulb Globe Temperature
+AU  - Melaku, Christian
+AU  - Abere, Giziew
+AU  - Zele, Yifokire T.
+AU  - Mamaye, Yimer
+AU  - Abebaw, Tadiwos
+AU  - Bezie, Anmut E.
+AU  - Tesfaye, Amensisa H.
+AU  - Worede, Eshetu A.
+JO  - Safety and Health at Work
+PY  - 2024
+DA  - 2024/09/07/
+SN  - 2093-7911
+DO  - https://doi.org/10.1016/j.shaw.2024.08.002
+UR  - https://www.sciencedirect.com/science/article/pii/S2093791124000568
+KW  - Ethiopia
+KW  - Heat-stress related symptoms
+KW  - Kitchen workers
+KW  - Wet bulb globe temperature
+KW  - Occupational heat - exposure
+AB  - Background
+Occupational heat stress caused by excessive environmental heat gain disrupts thermoregulatory mechanisms and harm workers' health and productivity. Kitchens are known for their thermal risks; however, research on heat stress in kitchen is limited. This study aimed to bridge this knowledge gap by assessing, the prevalence of heat-stress-related symptoms, and associated factors among kitchen workers in Gondar City, Ethiopia.
+Methods
+This institutional-based cross-sectional study (April to June 2023) evaluated heat stress among hospitality kitchen workers in Ethiopia. Heat exposure was measured using hygrometers. A simple random sample of 605 participants completed a survey and data was exported to Statistical Package for Social Science version 26. To assess strength and direction an adjusted odds ratio with 95% confidence interval (CI) was employed. A p-value of less than 0.05 was utilized to identify significant associations.
+Results
+Over the last 6 months 67.1% (95% CI: 63.0, 71.1), of the participants reported heat-stress symptoms. Multivariable analysis revealed that age ≥40 years [AOR: 2.28; 95% CI (1.08, 4.82)], high workload [AOR: 1.89; 95% CI (1.04, 3.49)], poor heat mitigation practice [AOR: 2.39; 95% CI (1.58, 3.59), wood fuel [AOR: 2.60; 95% CI (1.54, 4.40)], improper ventilation [AOR: 3.28; 95% CI (1.56, 6.87)], and higher heat index value [AOR: 2.15; 95% CI (1.35, 3.42)] were factors significatly associated with heat stress related symptoms.
+Conclusion
+This study identified a high prevalence of heat–stress-related symptoms among kitchen workers. Mitigation strategies include improved ventilation, cooling, advanced building designs, and heat reduction technologies. Future research should utilize standard heat-stress assessment tools.
+ER  - 
+
+TY  - JOUR
+T1  - Development of a comprehensive model and BFO algorithm for a dynamic cellular manufacturing system
+AU  - Nouri, Hossein
+JO  - Applied Mathematical Modelling
+VL  - 40
+IS  - 2
+SP  - 1514
+EP  - 1531
+PY  - 2016
+DA  - 2016/01/15/
+SN  - 0307-904X
+DO  - https://doi.org/10.1016/j.apm.2015.09.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0307904X15004825
+KW  - Dynamic cellular manufacturing systems
+KW  - Cell formation
+KW  - Outsourcing
+KW  - Workload balancing
+KW  - Bacteria foraging optimization algorithm
+KW  - MOMBATCH
+AB  - A comprehensive multiobjective model of the cellular manufacturing system (CMS) operating in a dynamic environment is developed. The proposed algorithm takes into consideration various important cell design issues, such as machine assignment, intercell/intracell material handling, worker assignment, outsourcing and workload balancing based on operational time and operation sequence of the parts. Workload balancing among cells tends to increase CMS processing costs, and hence the use of multiobjective optimization methods is required for CMS solutions that are optimal and feasible. A multiobjective matrix-based bacteria foraging optimization algorithm with traced constraint handling (MOMBATCH) is developed for this purpose. The performance of the proposed algorithm is compared with that of the non-dominated sorting genetic algorithm II method that is frequently reported in the literature and the off-the-shelf program CPLEX. The results show that MOMBATCH solves problems more efficiently in terms of finding optimal solutions while maintaining the Pareto frontier diversity.
+ER  - 
+
+TY  - JOUR
+T1  - Change detection support for supervisory controllers of highly automated systems: Effects on performance, mental workload, and recovery of situation awareness following interruptions
+AU  - van der Kleij, Rick
+AU  - Hueting, Tom
+AU  - Schraagen, Jan Maarten
+JO  - International Journal of Industrial Ergonomics
+VL  - 66
+SP  - 75
+EP  - 84
+PY  - 2018
+DA  - 2018/07/01/
+SN  - 0169-8141
+DO  - https://doi.org/10.1016/j.ergon.2018.02.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0169814117300136
+KW  - Situation Awareness Recovery (SAR)
+KW  - Dynamic positioning
+KW  - Management-by-exception
+KW  - Out-of-the-loop (OOTL) performance problem
+KW  - Human-automation collaboration
+AB  - Dynamic Positioning (DP) is a computer-controlled process to automatically keep a floating vessel at a specific position or to follow a pre-defined path (tracking) by using its own propellers and thrusters. The human supervisory controller has no direct need to constantly know what the status is of all parts of the automation and the system it is controlling, because the highly automated DPS is controlling all components itself. Only after a failure arises, the operator needs to take over manual control and take appropriate action(s) to prevent the failure from harming the operation. As the supervisory controller may be out of the loop, swiftly taking over control may be problematic when failures arise. The purpose of the current study was to investigate whether automation of change detection enables human operators with low awareness of the automation and the system it is controlling to quickly recover awareness in emergency take-over situations. A 2 by 2 within subjects experiment was conducted using a DP simulation (n = 22). Within-subjects factors were support (Yes, No) and interruption (Yes, No). Results showed that change detection support helps in the process of recovering situation awareness after it has been reduced, due to an interruption of the primary task of overseeing the automation. Interestingly, support was not beneficial to the participants in all conditions. In non-interrupted conditions the support unexpectedly resulted in higher workload, raising questions whether supervisory controllers should be supported continuously or only when it is required. Relevance to industry: The results show that change detection support has potential value in operational maritime environments, especially in situations where the DP operator has low situation awareness. Future research should investigate whether adaptive aiding could alleviate some of the negative effects of non-adaptive operator support in maritime environments.
+ER  - 
+
+TY  - JOUR
+T1  - Mutualistic and Adaptive Human-Machine Collaboration Based on Machine Learning in an Injection Moulding Manufacturing Line
+AU  - Bettoni, Andrea
+AU  - Montini, Elias
+AU  - Righi, Massimiliano
+AU  - Villani, Valeria
+AU  - Tsvetanov, Radostin
+AU  - Borgia, Stefano
+AU  - Secchi, Cristian
+AU  - Carpanzano, Emanuele
+JO  - Procedia CIRP
+VL  - 93
+SP  - 395
+EP  - 400
+PY  - 2020
+DA  - 2020/01/01/
+T2  - 53rd CIRP Conference on Manufacturing Systems 2020
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2020.04.119
+UR  - https://www.sciencedirect.com/science/article/pii/S221282712030754X
+KW  - human-machine collaboration
+KW  - adaptive automation
+KW  - machine learning
+AB  - This paper proposes an adaptive human-machine collaboration paradigm based on machine learning. Human-machine collaboration requires more than letting humans and machines interact according to fixed rules. A decision-maker is needed to assess production status and to activate adaptations that improve productivity and workers’ well-being. The proposed solution has been tested in an injection moulding manufacturing line. By introducing a physiological monitoring system and a smart decision-maker, relief from fatigue and mental stress is pursued by adjusting the level of support offered through a cobot. Results reported a reduction of operators’ physical and mental workload as well as productivity increase.
+ER  - 
+
+TY  - JOUR
+T1  - Awareness of the real-world environment when using augmented reality head-mounted display
+AU  - Aromaa, Susanna
+AU  - Väätänen, Antti
+AU  - Aaltonen, Iina
+AU  - Goriachev, Vladimir
+AU  - Helin, Kaj
+AU  - Karjalainen, Jaakko
+JO  - Applied Ergonomics
+VL  - 88
+SP  - 103145
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0003-6870
+DO  - https://doi.org/10.1016/j.apergo.2020.103145
+UR  - https://www.sciencedirect.com/science/article/pii/S0003687020301022
+KW  - Augmented reality
+KW  - Awareness
+KW  - Workload
+AB  - Augmented reality (AR) systems are becoming common tools in industrial workplaces. However, factory workers are still concerned about whether head-mounted display (HMD)-based AR systems distract their awareness of the environment and therefore pose safety risks. The purpose of this study was to assess users' experience of real-world awareness when using an AR system. 19 study participants played a wooden block logic game in a laboratory with three different setups: real, AR and virtual reality (VR). Based on this study, it can be concluded that HMD-based AR systems do not decrease users’ awareness of their surroundings if the virtual content is minimal and the task is done while seated. However, it was seen that more research in this area with more interactive virtual content is required. This study is an important step in understanding how AR may affect future work in industrial and safety-critical environments.
+ER  - 
+
+TY  - JOUR
+T1  - The warehouse-inventory-transportation problem for supply chains
+AU  - Sainathuni, Bhanuteja
+AU  - Parikh, Pratik J.
+AU  - Zhang, Xinhui
+AU  - Kong, Nan
+JO  - European Journal of Operational Research
+VL  - 237
+IS  - 2
+SP  - 690
+EP  - 700
+PY  - 2014
+DA  - 2014/09/01/
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2014.02.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0377221714001222
+KW  - Warehousing
+KW  - Picker blocking
+KW  - Logistics
+KW  - Workload variance
+AB  - Warehouses play a vital role in mitigating variations in supply and demand, and in providing value-added services in a supply chain. However, our observation of supply chain practice reveals that warehousing decisions are not included when developing a distribution plan for the supply chain. This lack of integration has resulted in a substantial variation in workload (42–220%) at our industry partner’s warehouse costing them millions of dollars. To address this real-world challenge, we introduce the warehouse-inventory-transportation problem (WITP) of determining an optimal distribution plan from vendors to customers via one or more warehouses in order to minimize the total distribution cost. We present a nonlinear integer programming model for the WITP considering supply chains with multiple vendors, stores, products, and time-periods, and one warehouse. The model also considers worker congestion at the warehouse that could affect worker productivity. A heuristic based on iterative local search is developed to solve industry-sized problems with up to 500 stores and 1000 products. Our experiments indicate that the distribution plans obtained via the WITP, as compared to a sequential approach, result in a substantial reduction in workload variance at the warehouse, while considerably reducing the total distribution cost. These plans, however, are sensitive to aisle configuration and technology at the warehouse, and the level and productivity of temporary workers.
+ER  - 
+
+TY  - JOUR
+T1  - Forearm muscle hemodynamic responses in healthy men during a seven-hour exposure to repetitive ulnar deviation task – A psychophysiological study
+AU  - Maikala, Rammohan V.
+AU  - Ciriello, Vincent M.
+AU  - O'Brien, Niall V.
+AU  - Banks, Jacob J.
+AU  - Rivard, Amanda J.
+JO  - International Journal of Industrial Ergonomics
+VL  - 44
+IS  - 2
+SP  - 214
+EP  - 224
+PY  - 2014
+DA  - 2014/03/01/
+T2  - Honoring Dr. Vincent Matthew Ciriello
+SN  - 0169-8141
+DO  - https://doi.org/10.1016/j.ergon.2014.01.006
+UR  - https://www.sciencedirect.com/science/article/pii/S016981411400033X
+KW  - Half-time recovery
+KW  - Muscle vascularity
+KW  - Near-infrared spectroscopy
+KW  - Psychophysiology
+KW  - Tissue Hemoglobin Index
+KW  - Tissue Oxygenation Index
+AB  - The purpose was to evaluate vascular hemodynamics in the forearm of fourteen healthy men over a seven-hour workday of repetitive work at and above their acceptable workload. Participants performed an ulnar deviation task at a frequency of 15 repetitions per minute for seven hours: at their psychophysically chosen acceptable torque (day 1), and at 25% above the acceptable torque (day 2). Hemodynamic responses (Tissue oxygenation index [TOI] and Tissue Hemoglobin Index [THI]) from the carpi ulnaris flexor and extensor muscle regions of the right hand were collected for the last 5 min of every hour of task performance. Participants selected their acceptable torque as 3.97 ± 2.5 N.m. (minimum: 1.0 and maximum: 9.8 N.m.). During task performance from 1 to 7 h, both tissue hemodynamic responses were not influenced by increasing the workload to above their acceptable level (P > 0.05). Therefore, increasing the acceptable load by 25% will not diminish the adequate supply and delivery of oxygen to the muscle regions recruited. When blood flow to the forearm was occluded (for 1 min) immediately after the final repetition of the seven-hour task, the half-time recovery, a noninvasive indicator of muscle oxidative capacity, was not significantly different between workloads (average TOI: 10.2 s at the acceptable workload versus 10.8 s at 25% above the acceptable workload, P > 0.05; and average THI: 10.1 s at the acceptable workload versus 10.0 s at 25% above the acceptable workload, P > 0.05). This is a remarkable finding as we hypothesized that recovery in each muscle might be longer for a workload that is greater than the acceptable level for an individual. The fact that hemodynamic responses were also similar during recovery from the task performance across both workloads imply the protectiveness of the psychophysical approach in assessing the physical ability of workers without anoxia or tissue hypoxia, thereby posing no injury to the muscles recruited.
+Relevance to industry
+Scientific discipline of “Psychophysics” has been instrumental in developing safe levels of workload to workers exposed to variety of occupational activities without risking injury or adverse health effects. The present optical spectroscopy-related study is an excellent example of integrating two scientific disciplines: Psychophysics and Work physiology in examining the influence of a seven-hour repetitive work exposure on muscle hemodynamics of the upper extremity.
+ER  - 
+
+TY  - JOUR
+T1  - Contributors to Fatigue of Mine Workers in the South African Gold and Platinum Sector
+AU  - Pelders, Jodi
+AU  - Nelson, Gill
+JO  - Safety and Health at Work
+VL  - 10
+IS  - 2
+SP  - 188
+EP  - 195
+PY  - 2019
+DA  - 2019/06/01/
+SN  - 2093-7911
+DO  - https://doi.org/10.1016/j.shaw.2018.12.002
+UR  - https://www.sciencedirect.com/science/article/pii/S2093791118302956
+KW  - Environment and public health
+KW  - Fatigue
+KW  - Mining
+KW  - Occupational stress
+KW  - Risk evaluation and mitigation
+AB  - Background
+Mine workers in South Africa face challenges relating to poor health and safety, including fatigue risks, and poor socioeconomic and living conditions. Fatigue results in impaired mental and physical performance. The aim of this study was to assess contributors to fatigue of mine workers in South Africa.
+Methods
+Data collection took place at four gold mines and one platinum mine in South Africa. A total of 21 focus groups were held with individuals in management, union representatives, and mine workers, and 564 questionnaires were completed by mine workers to gather information about fatigue and potential contributors to fatigue at these mines.
+Results
+Qualitatively (through focus groups), fatigue was attributed to extended working hours, harsh working conditions, high workloads, production pressure, and resource constraints, along with aspects relating to demographic and socioeconomic factors, living conditions, lifestyle, health, and wellness. Greater fatigue was significantly associated with younger age, indebtedness, a lack of exercise, poor nutrition, less sleep, increased alcohol use, poor self-reported health, more sick leave, higher stress, and lower job satisfaction.
+Conclusion
+The aim of the study was achieved; numerous work-, sociodemographic-, lifestyle-, and wellness-related factors were linked to fatigue in the participating mine workers. Contributors to fatigue should be addressed to improve health, safety, and sustainability in the industry.
+ER  - 
+
+TY  - JOUR
+T1  - Experimental study of the physical impact of a passive exoskeleton on manual sanding operations
+AU  - Moyon, Aurélie
+AU  - Poirson, Emilie
+AU  - Petiot, Jean-François
+JO  - Procedia CIRP
+VL  - 70
+SP  - 284
+EP  - 289
+PY  - 2018
+DA  - 2018/01/01/
+T2  - 28th CIRP Design Conference 2018, 23-25 May 2018, Nantes, France
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2018.04.028
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827118305444
+KW  - Ergonomics
+KW  - Design method
+KW  - Strain
+KW  - Physical Assistive Device (PAD)
+AB  - Every year, companies spend millions of euros for Work related musculoskeletal disorders (WMSDs). In order to reduce this cost and pain at work, they started to integrate Physical Assistance Device (PAD) such as exoskeletons. These new products aim to provide physical assistance to the operator but their integration is facing many barriers such as morphological adaptability, bad usability and a negative perception among workers. Exoskeletons are bringing a new type of interaction with human that is crucial to understand. This paper addresses the emerging issue of the impact of PAD on the hardness of manufacturing working tasks and on the usability satisfaction of workers. The use case focuses on a sanding operation on a catamaran hull, with an upper body passive exoskeleton provided by our partner Skel-ex. Experimental measurements such as cardiac cost, posture analysis and usability tests are carried out on a set of participants during finishing tasks. In order to better understand how exoskeletons support able-bodied people at work and reduce fatigue, we present results that show a positive impact of the assistance on physical workload.
+ER  - 
+
+TY  - JOUR
+T1  - Occupational Heat Stress Impacts on Health and Productivity in a Steel Industry in Southern India
+AU  - Krishnamurthy, Manikandan
+AU  - Ramalingam, Paramesh
+AU  - Perumal, Kumaravel
+AU  - Kamalakannan, Latha Perumal
+AU  - Chinnadurai, Jeremiah
+AU  - Shanmugam, Rekha
+AU  - Srinivasan, Krishnan
+AU  - Venugopal, Vidhya
+JO  - Safety and Health at Work
+VL  - 8
+IS  - 1
+SP  - 99
+EP  - 104
+PY  - 2017
+DA  - 2017/03/01/
+SN  - 2093-7911
+DO  - https://doi.org/10.1016/j.shaw.2016.08.005
+UR  - https://www.sciencedirect.com/science/article/pii/S2093791116302220
+KW  - climate change
+KW  - health risks
+KW  - occupational heat stress
+KW  - productivity loss
+KW  - steel industry
+AB  - Background
+Workers laboring in steel industries in tropical settings with high ambient temperatures are subjected to thermally stressful environments that can create well-known risks of heat-related illnesses and limit workers’ productivity.
+Methods
+A cross-sectional study undertaken in a steel industry in a city nicknamed “Steel City” in Southern India assessed thermal stress by wet bulb globe temperature (WBGT) and level of dehydration from urine color and urine specific gravity. A structured questionnaire captured self-reported heat-related health symptoms of workers.
+Results
+Some 90% WBGT measurements were higher than recommended threshold limit values (27.2–41.7°C) for heavy and moderate workloads and radiational heat from processes were very high in blooming-mill/coke-oven (67.6°C globe temperature). Widespread heat-related health concerns were prevalent among workers, including excessive sweating, fatigue, and tiredness reported by 50% workers. Productivity loss was significantly reported high in workers with direct heat exposures compared to those with indirect heat exposures (χ2 = 26.1258, degrees of freedom = 1, p<0.001). Change in urine color was 7.4 times higher among workers exposed to WBGTs above threshold limit values (TLVs).
+Conclusion
+Preliminary evidence shows that high heat exposures and heavy workload adversely affect the workers’ health and reduce their work capacities. Health and productivity risks in developing tropical country work settings can be further aggravated by the predicted temperature rise due to climate change, without appropriate interventions. Apart from industries enhancing welfare facilities and designing control interventions, further physiological studies with a seasonal approach and interventional studies are needed to strengthen evidence for developing comprehensive policies to protect workers employed in high heat industries.
+ER  - 
+
+TY  - JOUR
+T1  - User experience and interaction performance in 2D/3D telecollaboration
+AU  - Anton, David
+AU  - Kurillo, Gregorij
+AU  - Bajcsy, Ruzena
+JO  - Future Generation Computer Systems
+VL  - 82
+SP  - 77
+EP  - 88
+PY  - 2018
+DA  - 2018/05/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2017.12.055
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X17323385
+KW  - Telecollaboration
+KW  - Remote interaction
+KW  - 3D interaction
+KW  - Augmented reality
+KW  - Virtual reality
+KW  - Telepresence
+AB  - Affordable 3D cameras, mixed reality headsets, and 3D displays have recently pushed the Augmented Reality (AR) and Virtual Reality (VR) technologies into the consumer market. While these technologies have been adopted in video-game and entertainment industry, the adoption for professional use, such as in industrial and business environment, health-care, and education is still lagging behind. In light of recent advances in mobile communications, AR/VR could pave the way for novel interaction and collaboration of geographically distributed users. Despite the technology being available, majority of communication is still accomplished using traditional video conferencing technology which lacks interactivity, depth perception, and ability to convey non-verbal cues in communication. 3D systems for communication have been proposed to overcome these limitations; however, very few studies looked into the performance and interaction with such technologies. In this paper, we report on a study that examined telecollaboration scenario with three different modalities: 2D video-conferencing, 3D stereoscopic interface, and 3D stereoscopic interface with augmented visual feedback. Twenty participants worked in pairs, assuming the roles of instructor and worker, to remotely interact and perform a set of assembly tasks.
+ER  - 
+
+TY  - JOUR
+T1  - Consolidated and inconclusive effects of additive manufacturing adoption: A systematic literature review
+AU  - Franco, Denise
+AU  - Miller Devós Ganga, Gilberto
+AU  - de Santa-Eulalia, Luis Antonio
+AU  - Godinho Filho, Moacir
+JO  - Computers & Industrial Engineering
+VL  - 148
+SP  - 106713
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2020.106713
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835220304393
+AB  - Additive manufacturing (AM) is considered an emerging Industry 4.0 technology with the potential to significantly change operations and supply chain management. In this context, this study aims to explore the effects of AM adoption on how companies conduct business. To achieve this goal, a systematic literature review including 136 papers was conducted. As a result, a framework including all of the effects (consolidated and inconclusive) found of AM adoption on a company's business was developed. While various effects (e.g., the feasibility of a complex product, the freedom of product design, mass customization capability, and product variety) have frequently been studied in the literature and are consolidated, some are still considered consolidated effects but presenting only conceptual studies (e.g., enterprise reliability, equipment reliability/availability for maintenance, information flow, and production democratization) then needed practical research. In addition, there are still contradictions regarding the effects of AM on competitiveness, cost, dependence on the supplier, environmental impact, health and safety, product quality, production efficiency, responsiveness, supply chain complexity and flexibility, worker qualifications, number of workers and workload (inconclusive effects). In the end, this paper identifies management and technical/technological aspects to be considered when adopting AM, which have positive or negative effects on the AM adoption process. The most important aspects include technology, production strategy, technical requirements and supply chain distribution, influencing AM adoption positively or negatively. Then, we also highlight some inconclusive research results from the literature, presenting opportunities for future research. This work may support managers and policy makers in better understanding the AM adoption process and their potential business impacts.
+ER  - 
+
+TY  - JOUR
+T1  - Heart rate modeling and prediction of construction workers based on physical activity using deep learning
+AU  - Ghafoori, Mahdi
+AU  - Clevenger, Caroline
+AU  - Abdallah, Moatassem
+AU  - Rens, Kevin
+JO  - Automation in Construction
+VL  - 155
+SP  - 105077
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2023.105077
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580523003370
+KW  - Heart rate modeling
+KW  - Wearable sensing
+KW  - Construction safety
+KW  - Physiological monitoring
+KW  - Deep learning
+AB  - Construction projects require long working hours where workers are subjected to intensive tasks such as hard manual labor, heavy weightlifting, and compulsive working postures. Among the physiological metrics, Heart Rate (HR) is reported to be a good indicator of physical stress and workload. HR forecasting models have been used in various areas including cardiopathy research, heart attack warning indicator, and early physical fatigue detection. However, there are no reported studies on HR modeling and forecasting in the construction field. Modeling and forecasting the HR of construction workers using construction field data is of paramount importance due to the direct relationship between activity level and HR. The objective of this study is to (1) analyze the effect of physiological factors including breathing rate, acceleration of torso movements, torso posture, and impulse load on the HR of construction workers, and (2) model and forecast one-minute ahead HR for construction workers based on their physical activity using deep learning algorithms. To this end, physiological metrics of five bridge maintenance workers performing several construction activities were collected. According to the Pearson correlation and entropy based mutual information analysis, time-lagged variables including acceleration of torso movements, torso posture, and impulse load have significant effect on the HR data. The results of deep learning models indicate that Long Short-Term Memory Network (LSTM), Bidirectional LSTM (BiLSTM), Gated Recurrent Unit (GRU), and Bidirectional GRU (BiGRU) have similar predictive performance. However, LSTM had the best overall performance in HR prediction with Mean Absolute Error (MAE), Root Mean Square Error (RMSE), and Mean Absolute Percentage Error (MAPE) of 5.4, 7.34, and 5.77%, respectively. These models have the potential to facilitate the mitigation of cardiovascular strain and enable proactive prevention of accidents in the construction industry.
+ER  - 
+
+TY  - JOUR
+T1  - Simultaneous monitoring of physical and mental stress for construction tasks using physiological measures
+AU  - Umer, Waleed
+JO  - Journal of Building Engineering
+VL  - 46
+SP  - 103777
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 2352-7102
+DO  - https://doi.org/10.1016/j.jobe.2021.103777
+UR  - https://www.sciencedirect.com/science/article/pii/S2352710221016351
+KW  - Construction safety
+KW  - Physical stress
+KW  - Mental stress
+KW  - Safety monitoring
+KW  - Machine learning
+AB  - Construction workers are prone to physical and mental stress because of the characteristics of the construction industry. Researchers and practitioners agree that physical and mental stress should be proactively managed to mitigate their ill-effects which range from making errors to causing accidents and short term to long term illnesses. Accordingly, numerous research endeavors have pursued automated solutions for their monitoring to replace manual and subjective physical and mental stress monitoring. While these studies have been successful, they attempted to monitor either physical stress or mental stress at a time. Studies have shown that many times, construction workers are simultaneously exposed to both, physical and mental stress, necessitating automated simultaneous monitoring of physical and mental stress for more comprehensive workload evaluation. Therefore, the aim of the current study is to assess the possibility of accurately monitoring physical and mental stress simultaneously using physiological measures and machine learning algorithms. For the purpose, experiments were conducted that comprised of physical and mental stress scenarios. The results showed that using 56 features derived from heart rate, skin temperature, breathing rate and skin conductance, an accuracy of 94.7% was achieved for simultaneous physical and mental stress monitoring. Additionally, the study further investigated the impact of varying the features and physiological measures and discussed the potential future work in this direction. Overall, this study for the first time, demonstrated that it is possible to simultaneously monitor physical and mental stress with high accuracy. Moreover, it has laid the foundation for future studies to enable simultaneous physical and mental stress monitoring on actual job sites.
+ER  - 
+
+TY  - JOUR
+T1  - An automatic procedure based on virtual ergonomic analysis to promote human-centric manufacturing
+AU  - Fabio, Grandi
+AU  - Margherita, Peruzzini
+AU  - Luca, Zanni
+AU  - Marcello, Pellicciari
+JO  - Procedia Manufacturing
+VL  - 38
+SP  - 488
+EP  - 496
+PY  - 2019
+DA  - 2019/01/01/
+T2  - 29th International Conference on Flexible Automation and Intelligent Manufacturing ( FAIM 2019), June 24-28, 2019, Limerick, Ireland, Beyond Industry 4.0: Industrial Advances, Engineering Education and Intelligent Manufacturing
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2020.01.062
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978920300639
+KW  - Manufacturing Ergonomics
+KW  - Digital Manufacturing
+KW  - Human Factors
+KW  - Human-Centered Design (HCD)
+KW  - Virtual Engineering
+AB  - Today manufacturing enterprises aim not only to deliver high-value, cost-effectively products in a sustainable way, but also to consider the quality of the working environments. The analysis of human factors, which strongly affect time and quality of manufacturing processes, are crucial for satisfying people involved in the manufacturing process and making them safe, preventing diseases, errors and excessive workload. The paper presents a structured procedure to automatically extract data from virtual analysis made by digital manufacturing tools and measure a set of indicators to validly assess manufacturing ergonomics. The research considers the state of the art in manufacturing ergonomics and defines a set of indicators suitable for manufacturing manual operations, focusing on assembly tasks. Furthermore, it defines a methodology to automatically extract data valorising the selected indicators and an application, based on Visual Basic, to generate the specific task list and related assessment. The result is a rapid and objective assessment, independent from the experience of the user, which can be executed during process design. The procedure has been applied to an industrial case study, where the manual assembly of cabin supports on the tractor chassis has been analysed in order to correct the most uncomfortable steps and obtain a more ergonomic process. A decrease of the EAWS score, calculated with the proposed method, allowed to validate the proposed solution, suggesting a redesign of the assembly cycle to improve the working conditions. Such a procedure anticipates the analysis of the workers’ wellbeing during the design stage to support the definition of human-centric manufacturing processes, simplifying and accelerating the assessment activities.
+ER  - 

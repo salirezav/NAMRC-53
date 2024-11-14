@@ -1,0 +1,2336 @@
+TY  - JOUR
+T1  - Bee algorithms for parallel two-sided assembly line balancing problem with walking times
+AU  - Tapkan, Pınar
+AU  - Özbakır, Lale
+AU  - Baykasoğlu, Adil
+JO  - Applied Soft Computing
+VL  - 39
+SP  - 275
+EP  - 291
+PY  - 2016
+DA  - 2016/02/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2015.11.017
+UR  - https://www.sciencedirect.com/science/article/pii/S1568494615007358
+KW  - Parallel two-sided assembly line balancing problem
+KW  - Walking times
+KW  - Bees algorithm
+KW  - Artificial bee colony algorithm
+KW  - Mathematical programming model
+AB  - Production lines, designed in a serial manner, have attracted the attention of researchers for many years. Line efficiency, throughput time and workload balancing are the main concerns regarding assembly lines, due to the high volume production. Recently, specific assembly line configurations, such as two-sided and parallel lines, have been addressed by researchers within the operational levels of production. Parallel two-sided assembly lines, rather a new research area, allocate more flexible workers and reduce throughput time by incorporating the advantages of two-sided and parallel assembly lines. Since parallel two-sided assembly lines are utilized to produce large-scale products, such as automobiles, trucks, and buses in industry; they also require a significant worker movement between parallel lines because of the unavoidable walking distances between lines. In this respect, different from the existing literature, walking distances have been included in parallel two-sided assembly line balancing problem. The main purpose of this paper is to introduce parallel two-sided assembly line balancing problem with walking times and to propose the implementation of Bees Algorithm and Artificial Bee Colony algorithm due to the NP-hardness of the problem. An extensive computational study is also carried out and the comparative results are presented.
+ER  - 
+
+TY  - JOUR
+T1  - A framework for human–robot collaboration enhanced by preference learning and ergonomics
+AU  - Meregalli Falerni, Matteo
+AU  - Pomponi, Vincenzo
+AU  - Karimi, Hamid Reza
+AU  - Lavit Nicora, Matteo
+AU  - Dao, Le Anh
+AU  - Malosio, Matteo
+AU  - Roveda, Loris
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 89
+SP  - 102781
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2024.102781
+UR  - https://www.sciencedirect.com/science/article/pii/S073658452400067X
+KW  - HRC
+KW  - HRI
+KW  - Machine learning
+KW  - Active preference learning
+KW  - Ergonomics
+AB  - Industry 5.0 aims to prioritize human operators, focusing on their well-being and capabilities, while promoting collaboration between humans and robots to enhance efficiency and productivity. The integration of collaborative robots must ensure the health and well-being of human operators. Indeed, this paper addresses the need for a human-centered framework proposing a preference-based optimization algorithm in a human–robot collaboration (HRC) scenario with an ergonomics assessment to improve working conditions. The HRC application consists of optimizing a collaborative robot end-effector pose during an object-handling task. The following approach (AmPL-RULA) utilizes an Active multi-Preference Learning (AmPL) algorithm, a preference-based optimization method, where the user is requested to iteratively provide qualitative feedback by expressing pairwise preferences between a couple of candidates. To address physical well-being, an ergonomic performance index, Rapid Upper Limb Assessment (RULA), is combined with the user’s pairwise preferences, so that the optimal setting can be computed. Experimental tests have been conducted to validate the method, involving collaborative assembly during the object handling performed by the robot. Results illustrate that the proposed method can improve the physical workload of the operator while easing the collaborative task.
+ER  - 
+
+TY  - JOUR
+T1  - How does the application of augmented reality affect the mental workload of human workers? A collection of preliminary results
+AU  - Maretto, Leonardo
+AU  - Battini, Daria
+AU  - Faccio, Maurizio
+AU  - Granata, Irene
+AU  - Jaber, Mohamad Y.
+JO  - IFAC-PapersOnLine
+VL  - 58
+IS  - 19
+SP  - 760
+EP  - 765
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 18th IFAC Symposium on Information Control Problems in Manufacturing INCOM 2024
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2024.09.210
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896324016331
+KW  - augmented reality
+KW  - Industry 5.0
+KW  - mental workload
+KW  - digitalisation
+KW  - eye tracking
+AB  - Digitalisation and the introduction of smart manufacturing technologies are changing the shape of industrial shop floors. For manufacturing companies, it becomes imperative to assess the operational and economic advantages derived from these technologies. Simultaneously, in alignment with the Industry 5.0 paradigm, understanding the influence of digital technologies on human workers, especially those directly interacting with these technologies, is equally critical. This study focuses on augmented reality (AR) as a specific technology, conducting an experimental campaign to explore its effects on learning curves and cognitive workload. Voluntary participants engaged in learning manual tasks of varying durations and required dexterity. This study evaluates the impact of AR on the mental workload of operators, utilising two main eye-related measures: fixation duration and pupil diameter. Preliminary results indicate that augmented reality increases the cognitive workload of workers undergoing training.
+ER  - 
+
+TY  - JOUR
+T1  - Using gesture and speech communication modalities for safe human-drone interaction in construction
+AU  - Zhu, Zixian
+AU  - Cheng, Jiun-Yao
+AU  - Jeelani, Idris
+AU  - Gheisari, Masoud
+JO  - Advanced Engineering Informatics
+VL  - 62
+SP  - 102827
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2024.102827
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034624004750
+KW  - Human-Drone Interaction
+KW  - Gesture
+KW  - Speech
+KW  - Virtual Reality (VR)
+KW  - Safety
+KW  - Drone
+KW  - Construction
+AB  - Drones are increasingly being used in the construction industry for numerous applications. However, their presence poses safety risks to construction workers who work around them but have limited control and information about these drones. To ensure safety, general construction workers who are not part of the pilot teams should also be able to communicate their concerns with drones effectively and naturally. Despite its importance, research on human-drone communication within construction for non-operator workers is scarce. This study developed and evaluated communication protocols using gesture and speech modalities to ensure safe human-drone interactions for non-operator workers in construction environments. An immersive VR environment replicating construction site dynamics was developed, enabling workers to utilize gesture or speech communication protocols while working with drones. A total of 100 participants were recruited for the user-centered study analysis on an immersive VR construction site, and the safety implications and cognitive loads of both protocols were assessed both quantitatively and qualitatively. The findings suggest that gesture-based communication is more effective than speech-based communication in mitigating risks and alleviating the negative impacts of drones without imposing additional cognitive strain on users on construction sites.
+ER  - 
+
+TY  - JOUR
+T1  - Survey on Human-Robot Interaction for Robot Programming in Industrial Applications
+AU  - Villani, Valeria
+AU  - Pini, Fabio
+AU  - Leali, Francesco
+AU  - Secchi, Cristian
+AU  - Fantuzzi, Cesare
+JO  - IFAC-PapersOnLine
+VL  - 51
+IS  - 11
+SP  - 66
+EP  - 71
+PY  - 2018
+DA  - 2018/01/01/
+T2  - 16th IFAC Symposium on Information Control Problems in Manufacturing INCOM 2018
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2018.08.236
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896318313600
+KW  - Intelligent interfaces
+KW  - Robotics technology
+KW  - Human operator support
+KW  - Multi-modal interaction
+KW  - Design methodology for HMS
+AB  - The recent trends in modern industry highlight an increasing use of robots for a wide range of applications, which span from established manufacturing operations to novel tasks characterized by a close collaboration with the operators. Although human-robot collaboration allows to relieve operators of exhausting works, an effective collaboration requires a straightforward interaction to foster the use of robot assistants. This paper provides a comprehensive survey on human-robot interaction approaches and related interfaces addressed to robot programming. An overview of on-line and off-line robot programming techniques is first presented. Then, novel intuitive interaction means, such as those based on multi-modal interaction, virtual and augmented reality, are considered. The paper aims at pointing out that collaborative robotics can effectively reduce operator’s physical workload if easy to use interfaces for robot programming are provided.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating visual encoding quality of a mixed reality user interface for human–machine co-assembly in complex operational terrain
+AU  - Wang, Zhuo
+AU  - Zhang, Xiangyu
+AU  - Li, Liang
+AU  - Zhou, Yiliang
+AU  - Lu, Zexin
+AU  - Dai, Yuwei
+AU  - Liu, Chaoqian
+AU  - Su, Zekun
+AU  - Bai, Xiaoliang
+AU  - Billinghurst, Mark
+JO  - Advanced Engineering Informatics
+VL  - 58
+SP  - 102171
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2023.102171
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034623002999
+KW  - Visual encoding
+KW  - Mixed reality
+KW  - User interface
+KW  - Co-assembly
+KW  - Complex operational terrain
+AB  - During human–machine collaboration in manufacturing activities, it is important to provide real-time annotations in the three-dimensional workspace for local workers who may lack relevant experience and knowledge. For example, in MR assembly, workers need to be alerted to avoid entering hazardous areas when manually replacing components. Recently, many researchers have explored various visual cues for expressing physical task progress information in the MR interface of intelligent systems. However, the relationship between the implantation of visual cues and the balance of interface cognition has not been well revealed, especially in tasks that require annotating hazardous areas in complex operational terrains. In this study, we developed a novel MR interface for an intelligent assembly system that supports local scene sharing based on dynamic 3D reconstruction, remote expert behavior intention recognition based on deep learning, and local personnel operational behavior visual feedback based on external bounding box. We compared the encoding results of the proposed MR interface with 3D annotations combined with 3D sketch cues (3DS), which combines 3D spatial cues (3DSC) and 3DS combined with adaptive cues (AVC), through a case study. We found that for physical tasks that require specific area annotations, 3D annotations with context (3DAC) can better improve the quality of manual work and regulate the cognitive load distribution of the MR interface more reasonably.
+ER  - 
+
+TY  - JOUR
+T1  - A multi-objective complex product assembly scheduling problem considering transport time and worker competencies
+AU  - Li, Huiting
+AU  - Liu, Jianhua
+AU  - Wang, Yue
+AU  - Zhuang, Cunbo
+JO  - Advanced Engineering Informatics
+VL  - 58
+SP  - 102233
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2023.102233
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034623003610
+KW  - Complex products
+KW  - Assembly scheduling
+KW  - Genetic algorithm
+KW  - Multi-objective
+KW  - Hybrid flow shop
+AB  - The hybrid flow shop scheduling problem (HFSP) is a research hotspot in the shop scheduling problem. However, few studies have investigated HFSP involving parallel machine scheduling and worker competencies. Therefore, this study investigates a complex product assembly line scheduling problem considering parallel team scheduling, worker competencies, and transport time. The makespan, transport time, imbalance degree of team workload, and imbalance degree of cycle time are taken as optimization objectives. First, a mathematical model considering transport time and worker competencies is developed, and then a mixed encoding and decoding method is proposed. Second, an algorithm that hybridizes the genetic algorithm and simulated annealing algorithm is proposed, involving an improved Nawaz-Enscore-Ham heuristic method and a strengthened elite retention strategy to improve the quality of the solution. Finally, based on nine examples generated from real production statuses, the proposed algorithm is compared with the other four algorithms. The results show that the proposed algorithm is superior in terms of the quality and efficiency of solutions.
+ER  - 
+
+TY  - JOUR
+T1  - Modelling Workforce Aging in Job Rotation Problems
+AU  - Boenzi, F.
+AU  - Digiesi, S.
+AU  - Mossa, G.
+AU  - Mummolo, G.
+AU  - Romano, V.A.
+JO  - IFAC-PapersOnLine
+VL  - 48
+IS  - 3
+SP  - 604
+EP  - 609
+PY  - 2015
+DA  - 2015/01/01/
+T2  - 15th IFAC Symposium onInformation Control Problems inManufacturing
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2015.06.148
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896315003870
+KW  - Aging Workforce Management
+KW  - Ergonomics
+KW  - Job Rotation Scheduling, Mathematical Programming
+AB  - Human factor is considered as a cost effective alternative to expensive automated solutions, as well as an easily interchangeable high flexible resource. However, for many years the influence of human behavior on production system performance has been underestimated and a lot of unrealistic assumptions have been used to simplify the human component modeling. Nowadays, population aging is acknowledged as a global trend. Among individual factors impacting on workers’ performance, high attention is being paid to the age from scientific community, policy-makers and business leaders. In this paper, demographic aspects and their implications on workforce composition are illustrated; successively, main findings on age-related performance characteristics are summarized. The authors propose an age- related model which aims to find optimal job rotation schedules in work environments characterized by low load manual tasks with a high frequency of repetition (e.g. assembly lines). The model is an integer programming model allowing for the maximization of the overall system performance jointly reducing and balancing human workloads and ergonomic risk within acceptable limits. A numerical example is proposed.
+ER  - 
+
+TY  - JOUR
+T1  - Models for assembly line balancing by temporal, spatial and ergonomic risk attributes
+AU  - Bautista, Joaquín
+AU  - Batalla-García, Cristina
+AU  - Alfaro-Pozo, Rocío
+JO  - European Journal of Operational Research
+VL  - 251
+IS  - 3
+SP  - 814
+EP  - 829
+PY  - 2016
+DA  - 2016/06/16/
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2015.12.042
+UR  - https://www.sciencedirect.com/science/article/pii/S0377221715011819
+KW  - Manufacturing
+KW  - Ergonomic risks
+KW  - Flexible manufacturing systems
+KW  - Assembly line balancing
+KW  - Linear programming
+AB  - Assembly lines with mixed products present ergonomic risks that can affect productivity of workers and lines. Because of that, the line balancing must consider the risk of injury in regard with the set of tasks necessary to process a product unit, in addition to other managerial and technological attributes such as the workload or the space. Therefore, in this paper we propose a new approach to solve the assembly line balancing problem considering temporal, spatial and ergonomic attributes at once. We formulate several mathematical models and we analyze the behavior of one of these models through case study linked to Nissan. Furthermore, we study the effect of the demand plan variations and ergonomic risk on the line balancing result.
+ER  - 
+
+TY  - JOUR
+T1  - Remarks from an experimental study on human-robot collaborative assembly
+AU  - Panagou, Sotirios
+AU  - Neumann, W. Patrick
+AU  - Greig, Michael A.
+AU  - Fruggiero, Fabio
+JO  - Procedia Computer Science
+VL  - 232
+SP  - 1242
+EP  - 1247
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 5th International Conference on Industry 4.0 and Smart Manufacturing (ISM 2023)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.01.122
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050924001224
+KW  - human-robot
+KW  - sociotechnical system
+KW  - collaborative assembly
+KW  - experimental study
+KW  - design
+AB  - Human robot collaboration is becoming the norm in the workplace, due to the benefits robots can bring to efficiency and production. However, this creates highly complex and dynamic workplaces that human operators need to adapt to. Industry 5.0 promotes the use of robotics and smart technologies in a more human-centric way. However, research on how operators are affected by those changes is needed to better understand how to move towards human-centricity. As such, an experimental study was designed and performed on human robot collaborative assembly. The main aim was to investigate the correlation between cognitive load and quality due to collaboration. Here, the preliminary results of the experimental study are presented in order to remark relevant states influencing work allocation. The results showcased the need for better training and more knowledge for the operators, as well as involving operators in process and workplace design. This study helps contribute knowledge on robot implementation and process design for human robot collaboration for both researchers and operations management, as it showcases the need to involve operators in those steps due to the feedback they can provide due to their experience.
+ER  - 
+
+TY  - JOUR
+T1  - An exact method to incorporate ergonomic risks in Assembly Line Balancing Problems
+AU  - Possan Junior, Moacyr Carlos
+AU  - Michels, Adalberto Sato
+AU  - Magatão, Leandro
+JO  - Computers & Industrial Engineering
+VL  - 183
+SP  - 109414
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2023.109414
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835223004382
+KW  - Assembly line balancing
+KW  - Mixed-integer linear programming
+KW  - Ergonomic risks
+KW  - OCRA
+AB  - Since ergonomic risks related to the tasks performed by each worker are generally neglected when solving the Simple Assembly Line Balancing Problem (SALBP) or partially treated in post-processing, this paper aims to incorporate ergonomic issues natively in the decision process (ErgoSALBP). For such a problem, we present a novel Mixed-Integer Linear Programming (MILP) model that linearizes and incorporates into the SALBP the Occupational Repetitive Action (OCRA). This well-known method gives ergonomic risk indicators for musculoskeletal disorders. A lexicographical approach to address the problem is proposed, where the minimum number of stations is obtained for SALBP and used as a starting point to solve a type-F ErgoSALBP (feasibility problem) focused on satisfying the maximum ergonomic risk workload. Once the exact solution is found, we establish an objective function to smooth the ergonomic risk distribution among stations. We tested a total of 2160 instances with up to 297 tasks. Our method was able to solve 94% of all instances optimally. The share of solutions found with only green stations (the ideal ergonomic condition) was 87%, surpassing the state of the art. For the instances where the model did not converge to a solution within the time limit, we present a procedure to assess the optimality gap. Furthermore, the model can be embedded as a building block for other assembly line configurations. Finally, the results provide trade-off insights for managers: the average OCRA for the line improves as the cycle time increases, which may positively impact workers’ satisfaction and product quality in the long run.
+ER  - 
+
+TY  - JOUR
+T1  - Parameters of effects in decision making of automotive assembly line using the Analytical Hierarchy Process method
+AU  - Nelfiyanti, 
+AU  - Mohamed, Nik
+AU  - Rashid, MFFA
+AU  - Ramadhan, Anwar Ilmar
+JO  - CIRP Journal of Manufacturing Science and Technology
+VL  - 37
+SP  - 370
+EP  - 377
+PY  - 2022
+DA  - 2022/05/01/
+SN  - 1755-5817
+DO  - https://doi.org/10.1016/j.cirpj.2022.02.018
+UR  - https://www.sciencedirect.com/science/article/pii/S1755581722000438
+KW  - Analytical Hierarchical Process (AHP)
+KW  - Automotive
+KW  - Decision Making
+KW  - Musculoskeletal Disorder (MSD)
+AB  - The automotive industry contributes high income to most of the countries. The assembly line is an essential part of the automotive industry because it combines all the components into a complete body unit. Assembly lines often experience delays in meeting production targets, requiring overtime to complete. Musculoskeletal Disorder (MSD) complaints among assembly workers predominantly lie in trimming, chassis, and finishing processes. Improvements are needed to reduce complaints according to the priority process. This study aims to prioritize the process on the assembly line with the parameters of work position, workload, work layout and equipment. This study implements the Analytical Hierarchy Process (AHP) method to achieve the objectives of the decision-making process. Preliminary weighting priorities for chassis, finishing and trimming are 0.6153, 0.2313 and 0.1533; respectively highest weight is in the chassis process and will be a priority for this study in optimizing solutions.
+ER  - 
+
+TY  - JOUR
+T1  - Software framework concept with visual programming and digital twin for intuitive process creation with multiple robotic systems
+AU  - Niermann, Dario
+AU  - Doernbach, Tobias
+AU  - Petzoldt, Christoph
+AU  - Isken, Melvin
+AU  - Freitag, Michael
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 82
+SP  - 102536
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2023.102536
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584523000121
+KW  - Smart Manufacturing
+KW  - Programming
+KW  - Industry 4.0
+KW  - Operator 4.0
+KW  - Human Robot Interaction
+KW  - Process Planning
+KW  - User Centric Design
+KW  - Human-machine interaction
+KW  - Software architecture
+KW  - Visual programming
+KW  - Digital twin
+AB  - With the progressive digitalization in industrial manufacturing, the usage of complex robotic systems in both intralogistics and production is expected to increase. This proposes a challenge for planners and shop floor workers, as programming and interacting with these various systems leads to a high cognitive load. Especially the broad range of different manufacturer specific software leads to a number of problems, e.g. the program-synchronization between different systems and the often necessary workshops for workers. These problems can lead to inefficient programming and planning operations, bad worker satisfaction and human errors. In this paper, we present a modular, system agnostic and human centered software framework that unifies the programming of different systems, to enable centralized and intuitive system programming for non-expert operators. Our software framework utilizes visual programming concepts together with an integrated digital twin of the factory and a novel graph-based programming interface. We explain our concept in detail and describe our validation through integration into a realistic industrial setup with three different systems. In addition, we provide an evaluation of our concept's usability with an experimental user study and discuss the results of the study and the software implementation. Our study results show that even non-technical users are able to use our software after a brief introduction to create complex processes that involve multiple machines working in parallel. All users reported high usability and expert users reported that the visual process editor has enough features to create processes for industrial applications. Finally, we conclude this paper by providing an outlook on future work and use-cases of our software.
+ER  - 
+
+TY  - JOUR
+T1  - Assessing mental workload with wearable devices – Reliability and applicability of heart rate and motion measurements
+AU  - Mach, Sebastian
+AU  - Storozynski, Pamela
+AU  - Halama, Josephine
+AU  - Krems, Josef F.
+JO  - Applied Ergonomics
+VL  - 105
+SP  - 103855
+PY  - 2022
+DA  - 2022/11/01/
+SN  - 0003-6870
+DO  - https://doi.org/10.1016/j.apergo.2022.103855
+UR  - https://www.sciencedirect.com/science/article/pii/S0003687022001788
+KW  - 
+KW  - 
+KW  - 
+AB  - Wearable devices are increasingly used for assessing physiological data. Industry 4.0 aims to achieve the real-time assessment of the workers’ condition to adapt processes including the current mental workload. Mental workload can be assessed via physiological data. This paper researches the potential of wearable devices for mental workload assessment by utilizing heart rate and motion data collected with a smartwatch. A laboratory study was conducted with four levels of mental workload, ranging from none to high and during sitting and stepping activities. When sitting, a difference in the heart rate and motion data from the smartwatch was only found between no mental workload and any mental workload task. For the stepping condition, differences were found for the movement data. Based on these results, wearable devices could be useful in the future for detecting whether a mental demanding task is currently performed during low levels of physical activity.
+ER  - 
+
+TY  - JOUR
+T1  - Work Sequence Analysis and Computer Simulations of Value Flow and Workers’ Relocations: A Case Study
+AU  - Stadnicka, Dorota
+AU  - Antonelli, Dario
+AU  - Bruno, Giulia
+JO  - Procedia CIRP
+VL  - 62
+SP  - 159
+EP  - 164
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 10th CIRP Conference on Intelligent Computation in Manufacturing Engineering - CIRP ICME '16. [Edited by: Roberto Teti, Manager Editor: Doriana M. D'Addona]
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2016.06.037
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827116306552
+KW  - Workload balancing
+KW  - computer simulations
+KW  - assembly
+KW  - value flow improvement
+KW  - simulated experiment
+AB  - Several solutions have been proposed for the workload balancing in manual assembly lines with workers’ task assignment. Facing the case study of a sheet metal assembly line of transport pallets, the paper addresses the problem of the dynamic task assignment. The walking path minimization is considered in the problem, together with task sequence constraints. A real-time simulation allows to test the solution variations before their implementation.
+ER  - 
+
+TY  - JOUR
+T1  - A fusion-based spiking neural network approach for predicting collaboration request in human-robot collaboration
+AU  - Zhang, Rong
+AU  - Li, Jie
+AU  - Zheng, Pai
+AU  - Lu, Yuqian
+AU  - Bao, Jinsong
+AU  - Sun, Xuemin
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 78
+SP  - 102383
+PY  - 2022
+DA  - 2022/12/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2022.102383
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584522000709
+KW  - Human-robot collaboration
+KW  - Spiking neural networks
+KW  - Collaboration prediction
+AB  - In human-robot collaborative (HRC) manufacturing systems, how the collaborative robots engage in the collaborative tasks and complete the corresponding work in a timely manner according to the actual state has been a critical factor that hinders the efficiency of HRC. Inappropriate collaborative behaviors will result in a poor perceptual experience for human operators (e.g., robots starting action too early or too late). To address this issue, a fusion-based spiking neural networks (FSNNs) approach for collaboration request prediction is proposed, aiming to find the right collaboration timing for robots in HRC assembly system and to minimize human aversion without affecting human operation behaviors. By encoding human behavior, product state and robot pose into spiking signals that can be processed by FSNNs, the spatio-temporal coupling relationship between those three aspects can be comprehensively analyzed, and to solve the appropriate timing of robot participation in collaboration. Finally, demonstrative experiments are carried out on the HRC assembly of generator end caps in the lab environment. Compared with the baseline methods, the decision accuracy of the proposed one is improved by nearly 30%, which further proves its effectiveness.
+ER  - 
+
+TY  - JOUR
+T1  - Adherence to standard operating procedures for improving data quality: An empirical analysis in the postal service industry
+AU  - Eskandarzadeh, Saman
+AU  - Fahimnia, Behnam
+AU  - Hoberg, Kai
+JO  - Transportation Research Part E: Logistics and Transportation Review
+VL  - 176
+SP  - 103178
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 1366-5545
+DO  - https://doi.org/10.1016/j.tre.2023.103178
+UR  - https://www.sciencedirect.com/science/article/pii/S1366554523001667
+KW  - Data quality
+KW  - Compliance
+KW  - Standard operating procedures
+KW  - SOP
+KW  - Management reinforcement
+KW  - Empirical
+AB  - Complete and accurate data is an important enabler of effective supply chain decision making. Despite the increasing efforts to fully automate data collection processes using advanced sensors and scanners, human operators are still in charge of data entry tasks in most industries. Unfortunately, operators do not often comply with the standard operating procedures (SOPs) and do not always exhibit the consistency and commitment required to collect high-quality data. In fact, data collection is often perceived as a non-value-adding activity that increases workloads and lowers productivity. We aim to empirically study the extent to which compliance with SOPs for data collection is affected by some of the key factors. Using a large dataset obtained from a leading postal service provider in Australia, we find that an operator’s workload, fatigue, and related work experience directly impact the compliance levels. We also find that a company’s compliance reinforcement intervention to improve compliance behavior can moderate these impacts.
+ER  - 
+
+TY  - JOUR
+T1  - Balancing high operator's workload through a new job rotation approach: Application to an automotive assembly line
+AU  - Moussavi, S.E.
+AU  - Zare, M.
+AU  - Mahdjoub, M.
+AU  - Grunder, O.
+JO  - International Journal of Industrial Ergonomics
+VL  - 71
+SP  - 136
+EP  - 144
+PY  - 2019
+DA  - 2019/05/01/
+SN  - 0169-8141
+DO  - https://doi.org/10.1016/j.ergon.2019.03.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0169814118301264
+KW  - Job rotation scheduling
+KW  - Workload balancing
+KW  - Ergonomic risk assessment
+KW  - Mixed integer programming
+AB  - Reducing musculoskeletal disorder (MSD) risk factors and work monotony are the main reasons that persuade a manufacturing industry to apply job rotation in the workforce planning. This research aims to smooth the daily workload by designing an optimal sequence of job rotation using a mathematical model. The study consists of two main steps. The first is an ergonomic analysis of the workstations to evaluate the physical workload of different jobs. An in-house risk assessment method was used to identify physical workloads of each job. In the second step, a mathematical model was developed to schedule job rotation and optimize/balance the cumulative workload. Mixed integer programming is proposed to implement a platform for the ergonomic job rotation. The objective of the job rotation programming in this research was to determine the optimal sequence of jobs for each worker such that the global daily workload of the workers would be balanced. The proposed job rotation strategy reduced the dispersion and the deviation of the daily cumulative workload among the workers considering that the rotation only occurred inside the specific groups and not between the groups.
+ER  - 
+
+TY  - JOUR
+T1  - Exact and heuristic methods for a workload allocation problem with chain precedence constraints
+AU  - Pereira, Jordi
+AU  - Ritt, Marcus
+JO  - European Journal of Operational Research
+VL  - 309
+IS  - 1
+SP  - 387
+EP  - 398
+PY  - 2023
+DA  - 2023/08/16/
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2022.12.035
+UR  - https://www.sciencedirect.com/science/article/pii/S0377221722010037
+KW  - Manufacturing
+KW  - Assembly line balancing
+KW  - Worker allocation
+KW  - Dynamic programming
+KW  - Branch and bound
+AB  - Industrial manufacturing is often organized in assembly lines where a product is assembled on a sequence of stations, each of which executes some of the assembly tasks. A line is balanced if the maximum total execution time of any station is minimal. Commonly, the task execution order is constrained by precedences, and task execution times are independent of the station performing the task. Here, we consider a recent variation, called the “(Calzedonia) Workload Allocation Problem” (WAP), where the precedences form a chain, and the execution time of a task depends on the worker executing it. This problem was recently proposed by Battarra et al. (2020) and it is a special case of the Assembly Line Worker Assignment and Balancing Problem Miralles et al. (2007) where precedence relations are arbitrary. In this paper we consider the computational complexity of the problem and prove its NP-hardness. To solve the problem, we provide different lower bounds and exact and heuristic procedures. The performance of the proposed methods is tested on previously proposed instances and on new, larger instances with the same characteristics. The results show that the proposed methods can solve instances with up to about 4000 tasks and 29 workers, doubling the size of the instances that previously could be solved to optimality.
+ER  - 
+
+TY  - JOUR
+T1  - Analysis of the Relationships between Noise Exposure and Stress/Arousal Mood at Different Levels of Workload
+AU  - Madvari, Rohollah Fallah
+AU  - Bidel, Hamideh
+AU  - Mehri, Ahmad
+AU  - Babaee, Fatema
+AU  - Laal, Fereydoon
+JO  - Sound and Vibration
+VL  - 58
+SP  - 119
+EP  - 131
+PY  - 2024
+DA  - 2024/03/19/
+SN  - 1541-0161
+DO  - https://doi.org/10.32604/sv.2024.048861
+UR  - https://www.sciencedirect.com/science/article/pii/S1541016124000084
+KW  - Noise stress
+KW  - workload
+KW  - noise sensitivity
+KW  - mood
+KW  - NASA-TLX
+KW  - stress-arousal checklist (SACL)
+AB  - Noise is one of the environmental factors with mental and physical effects. The workload is also the multiple mental and physical demands of the task. Therefore, his study investigated the relationship between noise exposure and mood states at different levels of workload. The study recruited 50 workers from the manufacturing sector (blue-collar workers) as the exposed group and 50 workers from the office sector (white-collar workers) as the control group. Their occupational noise exposure was measured by dosimetry. The Stress-Arousal Checklist (SACL) and the NASA Task Load Index (NASA-TLX) were used to measure mood and workload, respectively. The equivalent noise exposure level of the exposed group at high and very high workload levels was 85 and 87 dBA, respectively. The mean mood score of the exposed group was 76 at very high workload. The correlation coefficient between noise exposure level and mood state based on workload levels ranged from 0.3 at medium workload to 0.57 at very high workload. Noise exposure at high workload levels can increase its adverse effects, so controlling and optimizing the multiple demands of the task in the workplace can be used as a privative measure to reduce the adverse effects of noise.
+ER  - 
+
+TY  - JOUR
+T1  - Occupational ergonomics research and applied contextual design implementation for an industrial shop-floor workstation
+AU  - Sanjog, J.
+AU  - Patel, Thaneswer
+AU  - Karmakar, Sougata
+JO  - International Journal of Industrial Ergonomics
+VL  - 72
+SP  - 188
+EP  - 198
+PY  - 2019
+DA  - 2019/07/01/
+SN  - 0169-8141
+DO  - https://doi.org/10.1016/j.ergon.2019.05.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0169814118300611
+KW  - Human modelling
+KW  - Manufacturing
+KW  - Posture
+KW  - Psychosocial work environment
+KW  - Work study
+KW  - Workload
+AB  - The aim of this original research article is to identify the occurrence of work-related ergonomics risk factors, in order to implement context specific human centered design interventions in the injection molding shop-floor workstations of plastic furniture manufacturing factories within the framework of industrially developing countries. Questionnaire study, postural assessment tools, computer aided design, digital human modeling and simulation, and basic work study techniques were used. Plastic processing industry is highly fragmented, consisting of small, medium scale enterprises with tremendous growth potential. Occupational design ergonomics research in the injection molding plastic furniture manufacturing shop-floor workstations is very scarce in industrially developing countries. Shop-floor workers are affected by prevalent awkward working postures and consequent body part discomforts. Useful and easily implementable accessories/fixtures with convenient design features were conceptualized. Virtual ergonomics evaluation of the workstation with proposed accessories/fixtures showed significant reduction of awkward working postures. Physical prototypes of the proposed fixtures were constructed and real human trials were performed in the factories. Time study indicated reduction in operator cycle time when compared with time taken before design modifications. Research methodology, results and design solutions described from an ergonomics perspective would definitely serve as a helpful guide for existing as well as upcoming factories in the injection molded plastic furniture manufacturing industry of industrially developing countries and further similar research endeavors.
+ER  - 
+
+TY  - JOUR
+T1  - A population-based algorithm for the bi-objective assembly line worker assignment and balancing problem
+AU  - Zacharia, P. Th.
+AU  - Nearchou, Andreas C.
+JO  - Engineering Applications of Artificial Intelligence
+VL  - 49
+SP  - 1
+EP  - 9
+PY  - 2016
+DA  - 2016/03/01/
+SN  - 0952-1976
+DO  - https://doi.org/10.1016/j.engappai.2015.11.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0952197615002626
+KW  - Assembly line worker assignment and balancing
+KW  - Genetic algorithms
+KW  - Multi-objective optimization
+KW  - Smoothness index
+KW  - Pareto solutions
+AB  - A multi-objective evolutionary algorithm (MOEA) is presented for the solution of the bi-criteria assembly line worker assignment and balancing problem (ALWABP). This problem consists of determining the best assignment of the assembly tasks to workers as well as the workers to workstations in accordance with some desired objectives. Task times differ depending on worker skills. Two optimization criteria are considered to be minimized, the cycle time and the smoothness index of the workload of the line. The efficiency of the proposed MOEA is evaluated over a set of benchmarks test problems taken from the open literature. A suitable performance analysis is deployed concerning the quality of the Pareto solutions. The results demonstrate a very satisfactory performance in terms of solution quality.
+ER  - 
+
+TY  - JOUR
+T1  - Suzhal – An Alternative Layout to Improve Productivity and Worker Well-being in Labor Demanded Lean Environment
+AU  - Gnanavel, S.S.
+AU  - Balasubramanian, Venkatesh
+AU  - Narendran, T.T.
+JO  - Procedia Manufacturing
+VL  - 3
+SP  - 574
+EP  - 580
+PY  - 2015
+DA  - 2015/01/01/
+T2  - 6th International Conference on Applied Human Factors and Ergonomics (AHFE 2015) and the Affiliated Conferences, AHFE 2015
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2015.07.268
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978915002693
+KW  - Cellular manufacturing
+KW  - Cycle time
+KW  - Layout
+KW  - Productivity
+KW  - RULA
+KW  - Simulation
+AB  - Ergonomics continues to be relevant in work-places in which a significant amount of manual labor exists, such as in some of the Cellular manufacturing Systems (CMS). In order to distribute the workload evenly over all the workers in the line, some of the industries resorted to the practice of rotating all the workers through all workstations in the cell (Nagare cell) that prevents monotony and boredom. The presence of automated equipment in the cell will hamper this strategy for job rotation. This study aims to demonstrate the application of ergonomically designed looping layout in the assembly cell in the labor demanded lean manufacturing environment. The study was conducted in a process line in an automobile ancillary unit. The current process line which was conventional U-shaped line was simulated and the productivity has been verified and validated with the real life environment. Process map showed that the operators walked long distances, felt stress in certain workstations and that inventory piled up at the bottleneck workstation. We identify sub-cells within the cell. With the same manpower, we develop a new layout (Suzhal) and make workers rotate within each sub-cell. The proposed layout was simulated and results have been compared with the current layout. The analysis shows a reduction in the total operating cycle time, higher alertness among operators, better distribution of workloads in the group and hence higher productivity.
+ER  - 
+
+TY  - JOUR
+T1  - Participatory ergonomics intervention for improving human and production outcomes of a Brazilian furniture company
+AU  - Guimarães, Lia Buarque de Macedo
+AU  - Anzanello, Michel Jose
+AU  - Ribeiro, Jose Luis Duarte
+AU  - Saurin, Tarcisio Abreu
+JO  - International Journal of Industrial Ergonomics
+VL  - 49
+SP  - 97
+EP  - 107
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0169-8141
+DO  - https://doi.org/10.1016/j.ergon.2015.02.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0169814115000256
+KW  - Participatory ergonomics
+KW  - Furniture manufacturer
+KW  - Functional work design
+KW  - Cellular work design
+AB  - This article presents a participatory intervention in a furniture manufacturing company in Southern Brazil aiming to improve both ergonomic and production outcomes. The existing Tayloristic model was replaced by a cellular teamwork model. Work enlargement and enrichment, and the improvements in workstation design and process flow increased worker satisfaction and reduced postural risk, fatigue, body pain and production waste. Workload was reduced by 42% and productivity increased by 46% (25% being attributable to unnecessary load handling, waiting and transportation, and 21% attributable directly to manufacturing times). Workers' participation in the stages of problems identification, design and evaluation of solutions played a major role in these outcomes.
+Relevance to industry
+This study indicates that it is possible to balance ergonomics and production demands, and that it is necessary to make it clear to management. The integration of macroergonomics and production management principles increases both worker well-being and productivity levels, thus leading to a more sustainable system.
+ER  - 
+
+TY  - JOUR
+T1  - Digital Twin and Human Factors in Manufacturing and Logistics Systems: State of the Art and Future Research Directions
+AU  - Berti, Nicola
+AU  - Finco, Serena
+JO  - IFAC-PapersOnLine
+VL  - 55
+IS  - 10
+SP  - 1893
+EP  - 1898
+PY  - 2022
+DA  - 2022/01/01/
+T2  - 10th IFAC Conference on Manufacturing Modelling, Management and Control MIM 2022
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2022.09.675
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896322019930
+KW  - Digital Twin
+KW  - Human Factors
+KW  - ergonomic risk assessment
+KW  - feedback
+KW  - manufacturing systems
+KW  - logistics systems
+KW  - literature review
+AB  - Nowadays, Digital Twin (DT) represents an emerging topic in Manufacturing and Logistics (M&L) systems due to its role as an enabler of digital transformation in the so-called Smart Factories. Since 2017 it has been widely integrated into maintenance, production planning and control or layout planning decisions. Several frameworks and surveys have been proposed to provide guidelines, managerial insights, limitations and future research perspectives on this emerging topic. However, just a few works focus the attention on DT and its role in quantifying, evaluating and providing ergonomics, mental or physical workload, posture feedback or warnings to workers, aiming to improve their safety conditions. For this reason, this study investigates the current state of the art about the DT and its application as a tool to evaluate and integrate ergonomic aspects, or additional human factors, in M&L systems. Moreover, future research directions are provided.
+ER  - 
+
+TY  - JOUR
+T1  - Minimising workers’ workload in partially automated assembly lines with human-robot collaboration
+AU  - Dimény, Imre
+AU  - Koltai, Tamás
+JO  - IFAC-PapersOnLine
+VL  - 55
+IS  - 10
+SP  - 1734
+EP  - 1739
+PY  - 2022
+DA  - 2022/01/01/
+T2  - 10th IFAC Conference on Manufacturing Modelling, Management and Control MIM 2022
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2022.09.648
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896322019656
+KW  - assembly line balancing
+KW  - operations management
+KW  - human-robot collaboration
+KW  - automation
+KW  - mathematical programming
+AB  - The benefits of automation in human-operated assembly lines are well known. Despite the rapid progress made in the field, complete automation is not always possible. Often robots cannot replace workers’ flexibility, and sometimes there is no economically viable option for automation. A combined production system with both manual and automated parts could be the best configuration in such circumstances. Even with partial automation the number of workers in the line could be decreased, and workers’ safety and health conditions could be dramatically improved. In this paper, MILP models are suggested to compare the total workload of workers when different numbers of robots are applied in an assembly line with partial automation and the minimum possible number of workers. The proposed MILP model is implemented in the AIMMS modelling environment and solved using CPLEX. The presented models can help evaluate the impact of adding robots to the line on total workers’ workload and may assist decision makers in finding the best possible line configuration.
+ER  - 
+
+TY  - JOUR
+T1  - A comparative study on computer-integrated set-ups to design human-centred manufacturing systems
+AU  - Peruzzini, Margherita
+AU  - Pellicciari, Marcello
+AU  - Gadaleta, Michele
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 55
+SP  - 265
+EP  - 278
+PY  - 2019
+DA  - 2019/02/01/
+T2  - Extended Papers Selected from FAIM2016
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2018.03.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584517301552
+KW  - Manufacturing ergonomics
+KW  - Human factors
+KW  - Digital human models
+KW  - Human-centred design
+KW  - Mixed reality
+AB  - Manufacturing ergonomics refers to the application of ergonomic principles and human factors analysis to the design of manufacturing tasks with the final aim to optimize the workers’ wellbeing and guarantee the expected process performance. Traditional design approaches are based on the observation of individual workers performing their jobs, the detection of unnatural postures (e.g., bending, twisting, overextending, rotating), and the definition of late corrective actions according to ergonomic guidelines. Recently, computer-integrated simulations based on virtual prototypes and digital human models (DHMs) can be used to assess manufacturing ergonomics on virtual manikins operating in digital workplaces. Such simulations allow validating different design alternatives and optimizing the workstation design before the creation, and pave the way to a new approach to manufacturing system design. The present paper aims at comparing different computer-integrated set-ups to support the design of human-centred manufacturing workstations. It defines a protocol analysis to support workstation design by analysing both physical and cognitive aspects, and applies the protocol within different digital set-ups. In particular, the study investigates a 2D desktop set-up using standardized DHMs and a 3D immersive mixed reality set-up based on motion capture of real workers’ acting into a mixed environment, comparing them with the traditional approach. An industrial case study focusing on design optimization of a manufacturing workstation in the energy industry is used to test the effectiveness of the two digital set-ups for the definition of re-design actions.
+ER  - 
+
+TY  - JOUR
+T1  - The DPhacto cohort: An overview of technically measured physical activity at work and leisure in blue-collar sectors for practitioners and researchers
+AU  - Jørgensen, Marie Birk
+AU  - Gupta, Nidhi
+AU  - Korshøj, Mette
+AU  - Lagersted-Olsen, Julie
+AU  - Villumsen, Morten
+AU  - Mortensen, Ole Steen
+AU  - Skotte, Jørgen
+AU  - Søgaard, Karen
+AU  - Madeleine, Pascal
+AU  - Samani, Afshin
+AU  - Ørberg, Anders
+AU  - Rasmussen, Charlotte Lund
+AU  - Holtermann, Andreas
+JO  - Applied Ergonomics
+VL  - 77
+SP  - 29
+EP  - 39
+PY  - 2019
+DA  - 2019/05/01/
+SN  - 0003-6870
+DO  - https://doi.org/10.1016/j.apergo.2019.01.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0003687019300146
+KW  - Musculoskeletal pain
+KW  - Work environment
+KW  - Occupational health
+KW  - Physical workload
+KW  - Physical work demand
+KW  - Heart rate
+KW  - Heart rate reserve
+KW  - Electrocardiography
+KW  - Body posture
+KW  - Actiheart
+KW  - Actigraph
+AB  - For improved prevention of health issues among blue-collar workers, there is a need for an overview of the physical activity at work and leisure using technical long-term measurements in blue-collar sectors investigation of differences between the sectors. Thus, the objective of this paper was to provide an overview and investigate differences in physical activities and body postures at work and leisure among blue-collar sectors. The Dphacto cohort consists of 1087 workers from manufacturing, transportation and cleaning sectors (901 blue-collar and 186 white-collar workers) in Denmark. Eligible workers provided physical activity and heart rate measurements over several days with follow-up on health-related outcomes by self-report and registers. Considerable differences in sitting, standing, time on feet (walking, shuffling and standing combined) and forward bending of the back were found between work and leisure, and between the sectors. This overview of physical activity at work and leisure can be useful for better prevention of work-related health issues among blue-collar workers.
+ER  - 
+
+TY  - JOUR
+T1  - Productivity and ergonomic risk in human based production systems: A job-rotation scheduling model
+AU  - Mossa, G.
+AU  - Boenzi, F.
+AU  - Digiesi, S.
+AU  - Mummolo, G.
+AU  - Romano, V.A.
+JO  - International Journal of Production Economics
+VL  - 171
+SP  - 471
+EP  - 477
+PY  - 2016
+DA  - 2016/01/01/
+T2  - Challenges for Sustainable Operations – Selected papers of ICPR 2013
+SN  - 0925-5273
+DO  - https://doi.org/10.1016/j.ijpe.2015.06.017
+UR  - https://www.sciencedirect.com/science/article/pii/S092552731500225X
+KW  - Job rotation
+KW  - Human workload balancing
+KW  - UL-WMSDs
+KW  - OCRA
+KW  - Mathematical programming
+KW  - Automotive
+AB  - The competitiveness of modern manufacturing systems is based on a high production rate and a high level of flexibility. Despite the high level of automation achieved in production systems, flexibility is often provided by human dexterity and the cognitive capabilities of the workforce, as in assembly lines. In the case of repetitive manual tasks, workers are exposed to the risk of musculoskeletal disorders (MSDs). In these contexts, a high production rate leads to high physical workload, and job rotation is adopted in order to reduce the ergonomic risk. Traditionally, ergonomics and human performance issues have been investigated separately. However, in the design and scheduling of human-based manufacturing systems, a reliable description of human components is required in order to jointly evaluate production system performance and assess workers׳ risk of MSDs In this paper, the authors propose a model which aims to find optimal job rotation schedules in work environments characterized by low load manual tasks with a high frequency of repetition (e.g. assembly lines). The model is a mixed integer programming model allowing for the maximization of production rate jointly reducing and balancing human workloads and ergonomic risk within acceptable limits. Risk and its acceptability are evaluated using the OCRA (OCcupational Repetitive Actions) method (ISO 11228-3:2007), widely recognized as an effective tool for the risk assessment of Upper Limb Work related MSDs (UL-WMSDs). Moreover, the different workers׳ performance due to their respective training levels and skills is considered in the problem formulation. The model is applied to an industrial case study. Results show the model׳s capacity to identify optimal job rotation schedules jointly achieving productivity and ergonomic risk goals. Performances of the solutions obtained improve as workforce flexibility increases.
+ER  - 
+
+TY  - JOUR
+T1  - Human-Robot Collaboration: an analysis of worker’s performance
+AU  - Simone, Valentina De
+AU  - Pasquale, Valentina Di
+AU  - Giubileo, Valeria
+AU  - Miranda, Salvatore
+JO  - Procedia Computer Science
+VL  - 200
+SP  - 1540
+EP  - 1549
+PY  - 2022
+DA  - 2022/01/01/
+T2  - 3rd International Conference on Industry 4.0 and Smart Manufacturing
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2022.01.355
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050922003647
+KW  - Human-Robot Collaboration
+KW  - Operator 4.0
+KW  - Human factors
+KW  - Human performance
+AB  - Collaborative robots are an important enabling technology of Industry 4.0. The interaction between humans and robots, called Human-Robot Collaboration (HRC), aims to improve system performance. However, it is necessary to investigate in depth the effects of this close interaction on workers identifying individual factors involved and discerning which of them affect the introduction of HRC in a manufacturing system. The purpose of this paper is to analyze the collaboration between humans and robots, identifying how the operator’s work is affected by HRC. A scoping review was conducted to identify the main impacts of HRC on worker’s performance. Based on the results, a preliminary taxonomy of key factors influencing the performance of collaborative operators was identified. The results highlighted the importance of trust, usability, and acceptance as key requirements for the successful introduction of HRC, whereas factors as stress and workload of workers are both positively and negatively affected by HRC.
+ER  - 
+
+TY  - JOUR
+T1  - On the development of a method for cognitive load assessment in manufacturing
+AU  - Thorvald, Peter
+AU  - Lindblom, Jessica
+AU  - Andreasson, Rebecca
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 59
+SP  - 252
+EP  - 266
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2019.04.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584518301546
+KW  - Cognitive load
+KW  - Manufacturing
+KW  - Assembly
+KW  - Method development
+KW  - CLAM method
+AB  - The increasing complexity and demands of assembly operations in manufacturing has been shown to lead to increased cognitive load in assembly workers. Previous work has outlined the complexity of an assembly worker's situation both in terms of difficulty and speed of work and there have been a few attempts at creating frameworks and methods for understanding the key aspects of what creates increased cognitive load. This paper presents the development of an analytic method, denoted CLAM (Cognitive Load Assessment for Manufacturing), and a tool for assessing cognitive load in manufacturing, primarily assembly. It outlines the journey of the development as well as discusses and problematizes relevant meta-methodological issues paired with method development. The intended contribution of the work is to make a difference in reducing the cognitive load of assembly workers on the shop floor, thus focusing the development on applicability and usability of the tool in practice. With this purpose in mind, focus of the method development has been on the practitioners, i.e. the method should not require any expert knowledge to be applied. The CLAM method and accompanying documentation such as a handbook containing instructions towards using the method and interpreting the results, is available in an online tool.
+ER  - 
+
+TY  - JOUR
+T1  - The problem of assigning rest times to reduce physical ergonomic risk at assembly lines
+AU  - Tiacci, Lorenzo
+JO  - IFAC-PapersOnLine
+VL  - 51
+IS  - 11
+SP  - 692
+EP  - 697
+PY  - 2018
+DA  - 2018/01/01/
+T2  - 16th IFAC Symposium on Information Control Problems in Manufacturing INCOM 2018
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2018.08.399
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896318315258
+KW  - Ergonomic Aspects of Industrial Technologies
+KW  - Discrete-event Simulation
+KW  - Line Design
+KW  - Balancing
+AB  - Line balancing and job rotation have been recently found to be effective methods to reduce workers’ ergonomic risks since the design/planning phase of assembly lines, and at the same time to limit performances deterioration and/or costs increments. As far as we know, there are no papers in the literature that deals with the problem of assigning rest times to workers in assembly lines with the aim to reduce their ergonomic workload. In the paper the problem of assigning rest times to workers in assembly lines is considered (Rest Time Assignment Problem). We show how rest times assignment affects ergonomic risk of workers in mixed-model assembly lines when this is evaluated through the Occupational Repetitive Action index (OCRA), and suggest and approach to simultaneously find solutions for the Assembly Line Balancing Problem and the Rest Time Assignment Problem.
+ER  - 
+
+TY  - JOUR
+T1  - Impact of environmental pollutants on work performance using virtual reality
+AU  - Hong, Juwon
+AU  - Song, Sangkil
+AU  - Ahn, Chiwan
+AU  - Koo, Choongwan
+AU  - Lee, Dong-Eun
+AU  - Park, Hyo Seon
+AU  - Hong, Taehoon
+JO  - Automation in Construction
+VL  - 168
+SP  - 105833
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2024.105833
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580524005697
+KW  - Environmental pollutant
+KW  - Work performance
+KW  - Mental workload
+KW  - Virtual reality
+KW  - Construction work
+KW  - Statistical analysis
+AB  - Virtual reality-based experiments were conducted to assess the impacts of environmental pollutants (i.e., noise, vibration, and dust) on work performance. In these experiments, concrete chipping work was performed in eight different exposure environments based on exposure to three environmental pollutants to measure data related to work performance: (i) work performance metrics, including work duration and accuracy; and (ii) mental workload. The relationships between data related to work performance and environmental pollutants were then analyzed using statistical techniques as follows: First, work duration was statistically significantly affected by dust, while work accuracy was significantly affected by vibration. Second, mental workload was statistically significantly affected by all three environmental pollutants, increasing with the number of environmental pollutants the workers exposed to. Third, all data related to work performance were found to be correlated with each other. These findings provide insights into improving work performance by managing environmental pollutants in the construction industry.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-Objective Multi-Resource Task Allocation For Collaborative Robots Systems
+AU  - Granata, Irene
+AU  - Faccio, Maurizio
+AU  - Cohen, Yuval
+JO  - IFAC-PapersOnLine
+VL  - 56
+IS  - 2
+SP  - 5643
+EP  - 5648
+PY  - 2023
+DA  - 2023/01/01/
+T2  - 22nd IFAC World Congress
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2023.10.483
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896323008509
+KW  - Human-centric manufacturing
+KW  - Intelligent manufacturing systems
+KW  - Human-automation integration
+KW  - Industry 4.0
+KW  - Industry 5.0
+AB  - The shift from Industry 4.0 to Industry 5.0 has led to a greater focus on workers’ needs in the workplace. Collaborative robots have been introduced to promote a fair division of tasks and reduce physical and mental strain on workers. However, there is a lack of research on how to implement human-centered task allocation. This study proposes a model for multi-objective task allocation, including minimizing makespan, energy expenditure, and mental workload. The study also suggests a method for evaluating mental workload. Results show that the strictness of task sequence affects makespan and energy expenditure, and a new constraint related to idle times is proposed. The optimal level of worker saturation is one that minimizes makespan while minimizing increases in energy expenditure and mental workload.
+ER  - 
+
+TY  - JOUR
+T1  - Decoding the silent language: A framework for advanced visual emotion recognition to enhance worker well-being on IIoT-enabled manufacturing
+AU  - Rezaei, Niloofar
+AU  - Vaezi, Seyed Alireza
+AU  - Camelio, Jaime A.
+JO  - Manufacturing Letters
+VL  - 41
+SP  - 1357
+EP  - 1365
+PY  - 2024
+DA  - 2024/10/01/
+T2  - 52nd SME North American Manufacturing Research Conference (NAMRC 52)
+SN  - 2213-8463
+DO  - https://doi.org/10.1016/j.mfglet.2024.09.162
+UR  - https://www.sciencedirect.com/science/article/pii/S2213846324002463
+KW  - Emotion recognition
+KW  - IIoT
+KW  - Assembly line
+KW  - Facial expression
+KW  - Posture
+KW  - Employee well-being
+AB  - The Industrial Internet of Things (IIoT), pivotal in the Industry 4.0 revolution, has transformed manufacturing, particularly assembly lines, by enabling real-time process monitoring and data analysis to enhance productivity. Yet, its potential impact on worker well-being has been less explored. As the National Association of Manufacturers anticipates an opening of 2.1 million unfilled jobs by 2030, the necessity for frameworks that not only understand but also improve employee well-being becomes apparent. We introduce a novel, non-intrusive visual emotion recognition framework that incorporates facial emotion recognition (FER) and emotional body posture recognition (EBPR) to assess workers’ psychological states. This initiative aims to mitigate human errors and accidents linked to stress or high cognitive load, thereby enhancing the manufacturing environment. Strategies such as optimized break time planning, line balancing, procedure modifications, and improved training are proposed to ensure both employee well-being and stakeholder benefits. This framework indirectly supports the industry’s efforts to address the looming challenge of unfilled jobs by fostering a supportive work environment that enhances job satisfaction, potentially making positions more appealing and retaining valuable talent. By bridging the gap between technological advancements and human-centric considerations, our approach underscores the significance of integrating IIoT solutions with employee welfare initiatives to address both productivity and workforce sustainability challenges.
+ER  - 
+
+TY  - JOUR
+T1  - A Dynamic System to Predict an Assembly Line Worker’s Comfortable Work-Duration Time by Using the Machine Learning Technique
+AU  - Rao Pabolu, Venkata Krishna
+AU  - Shrivastava, Divya
+AU  - Kulkarni, Makarand S.
+JO  - Procedia CIRP
+VL  - 106
+SP  - 270
+EP  - 275
+PY  - 2022
+DA  - 2022/01/01/
+T2  - 9th CIRP Conference on Assembly Technology and Systems
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2022.02.190
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827122001913
+KW  - Diagnostics
+KW  - prognostics of an assembly-line worker
+KW  - Worker’ comfortable work duration
+KW  - Machine learning
+AB  - Worker’ work-rotation between the workstations of an assembly line is a common task to an assembly line manager, to manage the workload between the assembly line workers. Usually, worker work rotation makes an interruption to a continuous production system. It is a desire of an assembly line manager to avoid the worker’s work-rotation, at least between the work breaks. This work aims to protect the manager’s interest by predicting the comfortable work-duration time of an assembly line worker for a given work, based on the working condition and the instantaneous physical & mental status of the worker. The comfortable work-duration time can be used during the worker’s work assignment to reduce interruptions. Factors, which influence the longevity of workers’ comfortable work duration time are identified. IIoT based sensors are proposed here to monitor the relevant factors for diagnostics. Machine Learning techniques are used as a part of prognostics to predict the comfortable work-duration time of a worker, based on his/her physical & mental status. Implementation methodology is explained along with a simulated experiment.
+ER  - 
+
+TY  - JOUR
+T1  - Effect of time pressure and target uncertainty on human operator performance and workload for autonomous unmanned aerial system
+AU  - Liu, Dahai
+AU  - Peterson, Trevor
+AU  - Vincenzi, Dennis
+AU  - Doherty, Shawn
+JO  - International Journal of Industrial Ergonomics
+VL  - 51
+SP  - 52
+EP  - 58
+PY  - 2016
+DA  - 2016/02/01/
+T2  - Human Factors in Digital Industrial Systems
+SN  - 0169-8141
+DO  - https://doi.org/10.1016/j.ergon.2015.01.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0169814115000190
+KW  - Unmanned aerial vehicles
+KW  - Time pressure
+KW  - Uncertainty
+AB  - Autonomous unmanned aircraft systems (UAS) are being utilized at an increasing rate for a number of military applications. The role of a human operator differs from that of a pilot in a manned aircraft, and this new role creates a need for a shift in interface and task design in order to take advantage of the full potential of these systems. This study examined the effects of time pressure and target uncertainty on autonomous unmanned aerial vehicle operator task performance and workload. A 2 × 2 within subjects experiment design was conducted using Multi-Modal Immersive Intelligent Interface for Remote Operation (MIIIRO) software. The primary task was image identification, and secondary tasks consisted of responding to events encountered in typical UAS operations. Time pressure was found to produce a significant difference in subjective workload ratings as well as secondary task performance scores, while target uncertainty was found to produce a significant difference in the primary task performance scores. Interaction effects were also found for primary tasks and two of the secondary tasks. This study has contributed to the knowledge of UAS operation, and the factors which may influence performance and workload within the UAS operator. Performance and workload effects were shown to be elicited by time pressure. Relevance to industry: The research findings from this study will help the UAS community in designing human computer interface and enable appropriate business decisions for staffing and training, to improve system performance and reduce the workload.
+ER  - 
+
+TY  - JOUR
+T1  - Does augmented reality help in industrial training? A comprehensive evaluation based on natural human behavior and knowledge retention
+AU  - Yang, Xiaonan
+AU  - Mao, Wanting
+AU  - Hu, Yaoguang
+AU  - Wang, Jingfei
+AU  - Wan, Xuanzhu
+AU  - Fang, Haonan
+JO  - International Journal of Industrial Ergonomics
+VL  - 98
+SP  - 103516
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0169-8141
+DO  - https://doi.org/10.1016/j.ergon.2023.103516
+UR  - https://www.sciencedirect.com/science/article/pii/S0169814123001087
+KW  - Augmented reality
+KW  - Assembly training
+KW  - Knowledge retention
+KW  - Workload
+KW  - Natural human behavior
+AB  - The complexity and diversity of products significantly increases the difficulty of training workers in modern industries. AR training, as a combination of industrial digital development and new interactive means, has attracted increasingly more attention. However, in human factor and education, research regarding AR based training is still in its infancy. To understand how AR could help industrial training from a human perspective, we evaluate a HoloLens-based AR training method for an assembly task on natural human behavior and the training effectiveness. Forty-four participants were equally divided into AR and ordinary training groups with the equivalent instructional materials, which included text information and 3D models. Results show that although AR did not significantly affect the overall workload and system usability assessment (SUS) recorded, several experimental values increased significantly compared with the ordinary training method, including task completion time, time required to interpret text-based information, amount of attention switching, and training effectiveness. Consequently, the use of AR did not result in a completion time and workload reduction; however, we found that training with the AR system was more effective than ordinary training in increasing the knowledge retention of participants without increasing their overall workload, especially for the month-term memory. Nonetheless, a longer time was required by the users to familiarize themselves with the AR environment and read the text information. The findings of this work could contribute to the design of future AR training systems in industry considering natural human behavior and enhance training effectiveness.
+ER  - 
+
+TY  - JOUR
+T1  - A multi-objective software tool for manual assembly line balancing using a genetic algorithm
+AU  - Dalle Mura, M.
+AU  - Dini, G.
+JO  - CIRP Journal of Manufacturing Science and Technology
+VL  - 19
+SP  - 72
+EP  - 83
+PY  - 2017
+DA  - 2017/11/01/
+SN  - 1755-5817
+DO  - https://doi.org/10.1016/j.cirpj.2017.06.002
+UR  - https://www.sciencedirect.com/science/article/pii/S1755581717300263
+KW  - Assembly line balancing
+KW  - Genetic algorithm
+KW  - Multi-objective optimization
+AB  - This paper proposes a new genetic algorithm approach for solving a multi-objective assembly line balancing problem. The objectives concern the minimization of the number of workstations and the workload variance, typically faced by most systems presented in literature, but also the minimization of three further aspects, not simultaneously treated in literature and very important in manual assembly lines: the number of skilled workers among workstations, the number of assembly equipment (e.g.: automatic screwdrivers, pressing machines, etc.) and the number of assembly direction changes along the sequence. To demonstrate the effectiveness of the proposed method in finding optimized assembly sequences, a classical case study taken from the literature is finally discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Balancing time and physical effort in two-sided assembly lines
+AU  - Zamzam, Nessren
+AU  - El-Kharbotly, Amin K.
+AU  - Sadek, Yomna
+JO  - Ain Shams Engineering Journal
+VL  - 12
+IS  - 3
+SP  - 2921
+EP  - 2933
+PY  - 2021
+DA  - 2021/09/01/
+SN  - 2090-4479
+DO  - https://doi.org/10.1016/j.asej.2021.02.009
+UR  - https://www.sciencedirect.com/science/article/pii/S2090447921000964
+KW  - Assembly line
+KW  - Two-sided
+KW  - Genetic algorithm
+KW  - Physical effort
+KW  - Smooth workload
+KW  - Ergonomics
+AB  - In assembly line balancing problems, time is balanced among workers. This does not necessarily balance their physical effort. The effort exerted by workers varies depending on the type of the job, and the size and weight of the component. In the two-sided assembly lines, commonly used for heavy industries, the variation in physical effort among workers is more emphasized. The unbalanced effort leads to fatigue, and may lower productivity and quality. This work aims at balancing the physical effort among workers in the two-sided assembly lines, while considering other conventional objectives. A genetic algorithm and a new decoding scheme are proposed. An effort smoothness index (ESI) is introduced to measure the variation in effort among workers. Results prove that balancing the physical effort is influential and can be achieved at no extra cost for most cases. Effort balancing is harder to achieve in difficult problems; of high order of strength.
+ER  - 
+
+TY  - JOUR
+T1  - Optimizing ergonomics in assembly lines: A multi objective genetic algorithm
+AU  - Dalle Mura, Michela
+AU  - Dini, Gino
+JO  - CIRP Journal of Manufacturing Science and Technology
+VL  - 27
+SP  - 31
+EP  - 45
+PY  - 2019
+DA  - 2019/11/01/
+SN  - 1755-5817
+DO  - https://doi.org/10.1016/j.cirpj.2019.08.004
+UR  - https://www.sciencedirect.com/science/article/pii/S1755581719300367
+KW  - Assembly line balancing
+KW  - Ergonomics
+KW  - Modeling and simulation
+KW  - Genetic algorithm
+KW  - Multi-objective optimization
+AB  - Ergonomics is an essential aspect to deal with while solving problems related to manual assembly, for the effects it may have on both productivity and human factor related issues. The frequent execution of repetitive movements and the handling of heavy components are among the main factors that characterize the assembly process, potentially resulting in worker’s overload. An appropriate distribution of assembly operations and, therefore of relative workloads, on a production line can improve ergonomic aspects, according to the worker's anthropometric and physiological characteristics. In this paper, a multi-objective genetic algorithm for solving the assembly line balancing problem taking into account ergonomics based on energy expenditure is proposed. The novelty of the contribution relies in the assignment of assembly tasks to workstations considering a set of human operators actually available in a company. The assignment of workers is based on their physical capabilities and limits, evaluated according to their anthropometric and physiological characteristics. The objectives of the problem, besides the minimization of the number of workstations, are related to the human factor; in particular, the distribution of assembly tasks to workstations according to worker technical skills and to worker physical capabilities are optimized. A practical case study taken from the industrial reality is finally tested and discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Towards Human Digital Twins to enhance workers' safety and production system resilience
+AU  - Berti, Nicola
+AU  - Finco, Serena
+AU  - Guidolin, Mattia
+AU  - Battini, Daria
+JO  - IFAC-PapersOnLine
+VL  - 56
+IS  - 2
+SP  - 11062
+EP  - 11067
+PY  - 2023
+DA  - 2023/01/01/
+T2  - 22nd IFAC World Congress
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2023.10.809
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896323011862
+KW  - Human Digital Twin
+KW  - Operator 4.0
+KW  - Smart manufacturing
+KW  - Real-time monitoring and control
+AB  - Industry 5.0 complements Industry 4.0 aiming to create a sustainable, human-centered, and resilient industry. In this context, enabling technologies, such as artificial intelligence, internet of everything, and digital twins, can be used to monitor and enhance the workforce to improve the efficiency and resilience of the entire manufacturing system. By developing socio-technical digital twin architectures, companies will be able in the short future to monitor machines, products, and workers' real-time states as a whole ecosystem. In this study, the authors focus their attention on human digital twin solutions for manufacturing systems, enabling dynamic scheduling of jobs by minimizing the makespan and considering a set of workers’ parameters that are continuously monitored through an ergonomic digital platform. This paper proposes the architecture of a real-time monitoring system and how it can help detect awkward postural behavior or unbalanced workload among workers, according to their individual features. At the same time, the system interacts with the human digital twin system which proposes a rescheduling of the jobs whenever it is necessary. Finally, a discussion on the practical limitations of human digital twin implementations in industrial environments is provided.
+ER  - 
+
+TY  - JOUR
+T1  - Integrated lean and ergonomic assessment for the planning of human-centered factories
+AU  - Bittencourt, V.
+AU  - Buchbinder, M.
+AU  - Saakes, D.
+AU  - Thiede, S.
+JO  - Procedia CIRP
+VL  - 120
+SP  - 344
+EP  - 349
+PY  - 2023
+DA  - 2023/01/01/
+T2  - 56th CIRP International Conference on Manufacturing Systems 2023
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2023.08.061
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827123007321
+KW  - human-centered factory
+KW  - smart manufacturing
+KW  - lean manufacturing
+KW  - ergonomics
+KW  - value stream mapping
+AB  - This research proposes an approach for evaluating human-centered work processes by combining Value Stream Mapping and ergonomic assessment of physical workload. Value Stream Mapping is a method used to create a visual representation of the flow of materials and information required to deliver a product, and aids in identifying potential bottlenecks and other constraints. However, it does not consider the effect of physical ergonomics on process execution and planning. To bridge this gap, the Ergonomic Assessment Worksheet screening tool is used to gain insight into unfavourable physical workload situations. The proposed approach follows five main steps: (i) scope definition, (ii) Value Stream Map, (iii) time study, (iv) ergonomic assessment, (v) combined analysis. A case study is conducted at a bicycle manufacturer to demonstrate the effectiveness of the approach in quantifying the impact of physical ergonomics on process performance. The method enables a systematic analysis of process chains to identify critical steps from both lean and ergonomic perspectives, emphasizing the importance of worker's physical well-being and the ability of ergonomic assessment methods to enhance Value Stream Maps.
+ER  - 
+
+TY  - JOUR
+T1  - Workforce scheduling incorporating worker skills and ergonomic constraints
+AU  - Rinaldi, Marta
+AU  - Fera, Marcello
+AU  - Bottani, Eleonora
+AU  - Grosse, Eric H.
+JO  - Computers & Industrial Engineering
+VL  - 168
+SP  - 108107
+PY  - 2022
+DA  - 2022/06/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2022.108107
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835222001772
+KW  - Ergonomics
+KW  - Human skill
+KW  - Human performance
+KW  - Workforce assignment
+KW  - Empirical study
+AB  - In the last few decades, studies have demonstrated the correlation between worker well-being and the performance of production systems. This paper addresses the problem of assigning workers to tasks in a workshop system. In this context, recent researches have focused on the ergonomics assessment, often neglecting the evaluation of the workers’ performance. This study aims to formulate a mixed integer linear programming model to solve the workforce scheduling problem and improve the performance of the system integrating ergonomics and human skills. To overcome the complexity of the combinatorial problem, a constructive heuristic procedure is developed. Moreover, a novel approach is proposed to determine the workers’ skills. Human performance is modelled in terms of the time required to perform consecutive tasks, considering different sequences of tasks. In addition, the model was applied to a real case study to verify its feasibility. Different scenarios are tested, considering different levels of exposure to different risk factors. The results indicate that a limited increase in the makespan enables decreasing the risk level and the achievement of an excellent workload balance among workers in terms of time spent in performing tasks. Moreover, the heuristic procedure has demonstrated to perform well on instances of realistic size, and it could be adapted to many manufacturing systems to solve the problem in real industrial contexts.
+ER  - 
+
+TY  - JOUR
+T1  - Controlling and Optimization of On-time Delivery for Assemble-to-order Production System
+AU  - Pabolu, Venkata Krishna Rao
+AU  - Shrivastava, Divya
+AU  - Kulkarni, Makarand S.
+JO  - IFAC-PapersOnLine
+VL  - 57
+SP  - 161
+EP  - 166
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 8th Conference on Advances in Control and Optimization of Dynamical Systems ACODS 2024
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2024.05.028
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896324000284
+KW  - Assemble-to-order
+KW  - On-time Delivery
+KW  - Multi-model assembly line
+KW  - Statistical learning
+KW  - Shipment Time Prediction
+KW  - Set-up time prediction
+AB  - Meeting the delivery commitments is important for the success of any business. On the other hand, balancing other resources is also essential for business sustainability. This work provides a conceptual framework to make an optimization model to optimize the on-time delivery (OTD) for an Assemble-to-order (ATO) Production System. OTD optimization model is given by considering the delivery penalty, overtime working, manpower cost, and production item set-up time. The proposed model is helpful while making the daily production plan and work schedule of a multi-model assembly line. Furthermore, the optimization model is a integration of prediction and assembly line optimization models. Learning-based techniques are adopted to make the prediction model. Assembly line worker assignment and workload balancing algorithms are adopted to optimize the workforce or manpower cost. A use case illustration is given to understand the research scope better.
+ER  - 
+
+TY  - JOUR
+T1  - Benchmarking human-robot collaborative assembly tasks
+AU  - Duarte, Laura
+AU  - Neves, Miguel
+AU  - Neto, Pedro
+JO  - Results in Engineering
+VL  - 22
+SP  - 102042
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 2590-1230
+DO  - https://doi.org/10.1016/j.rineng.2024.102042
+UR  - https://www.sciencedirect.com/science/article/pii/S2590123024002950
+KW  - Assembly
+KW  - Manufacturing
+KW  - Collaborative robotics
+KW  - Human-robot interaction
+AB  - Manufacturing assembly tasks can vary in complexity and level of automation. Yet, achieving full automation can be challenging and inefficient, particularly due to the complexity of certain assembly operations. Human-robot collaborative work, leveraging the strengths of human labor alongside the capabilities of robots, can be a solution for enhancing efficiency. This paper introduces the CT benchmark, a benchmark and model set designed to facilitate the testing and evaluation of human-robot collaborative assembly scenarios. It was designed to compare manual and automatic processes using metrics such as the assembly time and human workload. The components of the model set can be assembled through the most common assembly tasks, each with varying levels of difficulty. The CT benchmark was designed with a focus on its applicability in human-robot collaborative environments, with the aim of ensuring the reproducibility and replicability of experiments. Experiments were carried out to assess assembly performance in three different setups (manual, automatic and collaborative), measuring metrics related to the assembly time and the workload on human operators. The results suggest that the collaborative approach takes longer than the fully manual assembly, with an increase of 70.8%. However, users reported a lower overall workload, as well as reduced mental demand, physical demand, and effort according to the NASA-TLX questionnaire.
+ER  - 
+
+TY  - JOUR
+T1  - The fuzzy human-robot collaboration assembly line balancing problem
+AU  - Th. Zacharia, Paraskevi
+AU  - Xidias, Elias K.
+AU  - Nearchou, Andreas C.
+JO  - Computers & Industrial Engineering
+VL  - 187
+SP  - 109774
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2023.109774
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835223007982
+KW  - Assembly line balancing
+KW  - Human-robot collaboration
+KW  - Fuzzy times
+KW  - Bi-objective optimization
+AB  - Consideration is given to the assembly line balancing problem (ALBP) in production lines employed collaborative robots. Human–robot collaboration promises high advantages in manufacturing regarding automation, productivity, accuracy as well as flexibility in production. This technology is really challenging but requires redesigning of assembly lines to effectively involve the available human- and robot-resources. As robots can collaborate with humans sharing the assembly tasks in the same workstation, production managers experience an increasingly complex ALBP setting. Moreover, a crucial issue raised within this context is the variance and uncertainty in processing times for manual (human) work. Processing times for human work are subject to the nature and skills of the human worker. We explore the heuristic solution of this NP-hard problem using a problem-specific metaheuristic. Our aim is to investigate the effects of utilizing collaborate robots in manual assembly lines with respect to both production rate and workload smoothing. Simulation experiments on a real-life case study borrowed from the literature show how to tackle the problem under uncertainty (fuzziness) in task processing times.
+ER  - 
+
+TY  - JOUR
+T1  - Seru system balancing: Definition, formulation, and exact solution
+AU  - Yu, Yang
+AU  - Wang, Junwei
+AU  - Ma, Ke
+AU  - Sun, Wei
+JO  - Computers & Industrial Engineering
+VL  - 122
+SP  - 318
+EP  - 325
+PY  - 2018
+DA  - 2018/08/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2018.05.048
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835218302572
+KW  - Manufacturing
+KW  -  production
+KW  - Workload
+KW  - Balancing
+AB  - Seru production can reduce makespan, labor hours and manpower by improving workers’ workload balance based on the reconfiguration of workers. Therefore, this study focuses on the fundamental principles of seru system balancing. For a seru, we define and formulate seru balance (SB) to describe workloads balance of the workers in the seru. For a seru system containing more serus, the seru system balance (SSB) needs to be evaluated from workloads balance of all workers and workloads balance among all serus. Consequently, we define and formulate intra-seru system balancing (Intra-SSB) and inter-seru system balancing (Inter-SSB) to evaluate the two perspectives respectively. We theoretically develop the lower and upper bounds of Intra-SSB and Inter-SSB respectively. In addition, we define and formulate the seru system balancing problem (SSBP) as a bi-objective model with maximizing Intra-SSB and Inter-SSB simultaneously. The property of solution space for SSBP is analyzed. Finally, we develop an improved algorithm based on ε-constraint for SSBP. The algorithm saves computation time by cutting non-Pareto-optimal solutions before performing ε-constraint.
+ER  - 
+
+TY  - JOUR
+T1  - Analytic model to predict productivity in divisional Seru production environment
+AU  - Bortolini, Marco
+JO  - Computers & Industrial Engineering
+VL  - 177
+SP  - 109058
+PY  - 2023
+DA  - 2023/03/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2023.109058
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835223000827
+KW  - Divisional Seru
+KW  - Productivity model
+KW  - Advanced production environment
+KW  - Production cell
+KW  - Production systems’ engineering
+AB  - Advanced production environments emerged as the good solution to address the modern market challenges asking for a wide product mix and low time to market. Within cellular systems, made of independent, modular and flexible working areas, tailored on families of similar products, Serus are of increasing adoption for both manufacturing and assembly tasks. Among them, the so-called divisional Serus are the first step to move from the traditional production lines to a production environment made of a set of identical working areas, parallelising activities and enabling potential productivity increase. Despite their adoption in industry, starting from the electronic sector and moving forward, reference analytic models to predict divisional Seru productivity are rare in the literature, while their formulation and application is a gap to fill. This paper addresses this gap in theory, supporting the transition toward Seru production environment by proposing and proofing the analytic closed-form expressions getting the expected productivity of a divisional Seru made of a generic number of workers and a) one (base case), b) two (extension) and c) a generic number (general case) of product types to produce. Together with the steps to get the productivity expressions for these three cases of immediate practical applicability and not yet proposed by the literature, a case study and sensitivity analysis on the divisional Seru dimension showcase the proposed model industrial use and impact on the expected productivity. Key results highlight a stationary behaviour of the working time for all workers making the Seru productivity dependent on the sum of the workers speed and the product type workloads.
+ER  - 
+
+TY  - JOUR
+T1  - Traveling worker assembly line (re)balancing problem: Model, reduction techniques, and real case studies
+AU  - Sikora, Celso Gustavo Stall
+AU  - Lopes, Thiago Cantos
+AU  - Magatão, Leandro
+JO  - European Journal of Operational Research
+VL  - 259
+IS  - 3
+SP  - 949
+EP  - 971
+PY  - 2017
+DA  - 2017/06/16/
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2016.11.027
+UR  - https://www.sciencedirect.com/science/article/pii/S0377221716309523
+KW  - Combinatorial optimization
+KW  - Assembly line rebalancing
+KW  - Real-world application
+KW  - Traveling salesman problem
+KW  - Mixed integer linear programming
+AB  - The assembly line balancing problem arises from equally dividing the workload among all workstations. Several solution methods explore different variants of the problem, but no model includes all characteristics real assembly lines might contain. This paper presents a mixed integer linear programming model that solves the Traveling Worker Assembly Line Balancing Problem (TWALBP). In this problem, the tasks’ balancing along with the assignment of workers to one or more workstations is determined for a given layout. The assignment flexibility is solved with a traveling salesman problem formulation integrated in the balancing model. Adapted standard datasets and three real case scenarios are used as benchmark sets. These scenarios present particularities such as human and robotic workers, assignment restrictions, zoning constraints, automatic and common tasks. The model successfully determines the tasks’ assignments and the routing of every worker for a layout aware optimization of assembly lines. Better quality balancing solutions were achieved allowing workers to perform tasks at multiple stations, showing a trade-off between assignment flexibility and movement time.
+ER  - 
+
+TY  - JOUR
+T1  - Enhancing manual inspection in semiconductor manufacturing with integrated augmented reality solutions
+AU  - Chu, Chih-Hsing
+AU  - Weng, Chen-Yu
+AU  - Chen, Yu-Tzu
+JO  - Journal of Manufacturing Systems
+VL  - 77
+SP  - 933
+EP  - 945
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 0278-6125
+DO  - https://doi.org/10.1016/j.jmsy.2024.10.028
+UR  - https://www.sciencedirect.com/science/article/pii/S0278612524002541
+KW  - Augmented reality
+KW  - Semiconductor manufacturing
+KW  - Manual inspection
+KW  - Human Error
+KW  - Machine maintenance
+AB  - On-site routine inspection often remains a manual operation in the semiconductor manufacturing industry because implementing automated solutions can be costly and technically challenging in such a highly controlled and complex environment. The manual inspection is prone to errors due to the impact of demanding physical and mental workloads. This paper presents an integrated Augmented Reality (AR) solution developed to assist manual inspection tasks in the supporting areas of semiconductor manufacturing, referred to as the sub-fab. The solution is accessible to a human worker wearing an AR headset during the inspection process at the location. We propose a system framework to deploy computational intelligences of varying granularity provided by the solution across cloud, edge, and device levels, accommodating constraints within the sub-fab. A machine maintenance module helps estimate and monitor the health condition of running scrubbers. Incorrect intentions performed by the worker on the scrubber control panel are detected through hand gesture recognition. This instantly prompts warning messages in the AR headset to prevent subsequent wrong actions. The solution can also identify abnormal device states through 6D pose estimation of objects enabled by machine learning models. A test scenario demonstrates how these functional features enhance the inspection efficiency and quality by reducing human workloads. This work demonstrates that semiconductor manufacturing may require AR-assisted functions different from those needed or common in other industrial sectors. It also highlights the potential of AR technology for reducing operational human errors in manual tasks.
+ER  - 
+
+TY  - JOUR
+T1  - Assembly complexity and physiological response in human-robot collaboration: Insights from a preliminary experimental analysis
+AU  - Capponi, Matteo
+AU  - Gervasi, Riccardo
+AU  - Mastrogiacomo, Luca
+AU  - Franceschini, Fiorenzo
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 89
+SP  - 102789
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2024.102789
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584524000760
+KW  - Assembly complexity
+KW  - Human-robot collaboration
+KW  - Physiological signals
+KW  - Humans’ well-being
+KW  - Industry 5.0
+AB  - Industry 5.0 paradigm has renewed interest in the human sphere, emphasizing the importance of workers’ well-being in manufacturing activities. In such context, collaborative robotics originated as a technology to support humans in tiring and repetitive tasks. This study investigates the effects of assembly complexity in Human-Robot collaboration using physiological indicators of cognitive effort. In a series of experiments, participants performed assembly processes of different products with varying complexity, in two modalities: manually and with cobot assistance. Physiological measures, including skin conductance, heart rate variability and eye-tracking metrics were collected. The analysis of physiological signals showed trends suggesting the impact of assembly complexity and cobot support. One key finding of the study is that a single physiological signal usually may not provide a complete understanding of cognitive load. Therefore, a holistic approach should be followed. This approach highlighted the importance of considering multiple measures simultaneously to accurately assess workers’ well-being in industrial environments.
+ER  - 
+
+TY  - JOUR
+T1  - Mixed-model parallel two-sided assembly line balancing problem: A flexible agent-based ant colony optimization approach
+AU  - Kucukkoc, Ibrahim
+AU  - Zhang, David Z.
+JO  - Computers & Industrial Engineering
+VL  - 97
+SP  - 58
+EP  - 72
+PY  - 2016
+DA  - 2016/07/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2016.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835216301012
+KW  - Assembly line balancing
+KW  - Mixed-model lines
+KW  - Parallel lines
+KW  - Two-sided lines
+KW  - Agent-based system
+KW  - Ant colony optimization
+AB  - Assembly lines are frequently used as a production method to assemble complex products. Two-sided assembly lines are utilized to assemble large-sized products (e.g., cars, buses, trucks). Locating two lines in parallel helps improve line efficiency by enabling collaboration between the line workers. This paper proposes a mixed-model parallel two-sided assembly line system that can be utilized to produce large-sized items in an inter-mixed sequence. The mixed-model parallel two-sided line balancing problem is defined and the advantages of utilizing multi-line stations across the lines are discussed. A flexible agent-based ant colony optimization algorithm is developed to solve the problem and a numerical example is given to explain the method systematically. The proposed algorithm builds flexible balancing solutions suitable for any model sequence launched. The dynamically changing workloads of workstations (based on specific product models during the production process) are also explored. A comprehensive experimental study is conducted and the results are statistically analyzed using the well-known paired sample t-test. The test results indicate that the mixed-model parallel two-sided assembly line system reduces the workforce need in comparison with separately balanced mixed-model two-sided lines. It is also shown that the proposed algorithm outperforms the tabu search algorithm and six heuristics often used in the assembly line balancing domain.
+ER  - 
+
+TY  - JOUR
+T1  - A human-cyber-physical system approach to lean automation using an industrie 4.0 reference architecture
+AU  - Pantano, Matteo
+AU  - Regulin, Daniel
+AU  - Lutz, Benjamin
+AU  - Lee, Dongheui
+JO  - Procedia Manufacturing
+VL  - 51
+SP  - 1082
+EP  - 1090
+PY  - 2020
+DA  - 2020/01/01/
+T2  - 30th International Conference on Flexible Automation and Intelligent Manufacturing (FAIM2021)
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2020.10.152
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978920320096
+KW  - Human-cyber-physical system
+KW  - lean automation
+KW  - human-centred design
+KW  - Industrie 4.0
+KW  - RAMI 4.0
+AB  - The factory of the future requires flexibility and adaptability to satisfy market demands. However, these properties are difficult to ensure when collaborative manipulators are considered. Thus, approaches for integrating these devices, fostering the adoption of new engineering methodologies for augmenting manipulators are studied. In this work we address how integration of human operators with robotic manipulators might accommodate flexibility requirements using a concept of lean automation. To answer this question, we compare the current research in the field, and we propose a design structure which addresses safety, interfaces and design methods. Our results show safety hardware posing considerable constraints on flexibility. The human interface influences the workload perceived by an operator and, Industrie 4.0 reference architectures do not foresee the human and reconfigurable production cells yet. From a design prospective, this study emphasizes the need to take into consideration human and engineering aspects while planning for the factory of the future.
+ER  - 
+
+TY  - JOUR
+T1  - Workforce Scheduling Considering Physical and Mental Workload: A Case Study of Domestic Freight Forwarding
+AU  - Dewi, Dyah Santhi
+AU  - Septiana, Tyasiliah
+JO  - Procedia Manufacturing
+VL  - 4
+SP  - 445
+EP  - 453
+PY  - 2015
+DA  - 2015/01/01/
+T2  - Industrial Engineering and Service Science 2015, IESS 2015
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2015.11.061
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978915011774
+KW  - Physical workload
+KW  - mental Workload
+KW  - NASA_TLX
+KW  - workforce scheduling
+KW  - domestic freight forwarding
+AB  - Manufacturing industry depend heavily on logistic service provider to distribute their product. Logistic company ussualy work based on order from manufacturer. Depending on the circumtances, orders received by logistic service provider in most cases are uncertain. Fluctuations or uncertainty of order becomes a problem to many logistic companies because it affects the way they have to schedule their workers. Workforce scheduling is hence necessary for allocating appropriate worker in the right place and in the right time. Inappropriate workforce scheduling could imbalance workloads within workers which leads to worker dissatisfaction. This study therefore aims to design a workforce scheduling that consider worker workload of Domestics Freight Forwarding particularly in Company X. The research will first measure the workload, both physical and mental workload. The method used for physical workload measurement is based on calorie consumptions based on Indonesia National Standard (SNI). Whereas NASA-TLX subjective approach method is used to measure mental workload. Then, by using the result of the workload measurements, a workforce scheduling model is designed to balance the workload. Goal programing is used to model the workforce scheduling. The result of workload measurement shows that workers have low productivity but high level of mental workload, while for the physical workload there is no significant difference in each warehouse and shipping. In order to increase the utility of the workers, instead of 3 shifts it is suggested that company apply 2 shifts work systems for Checker. Also, minimizing factors that reduce the productivity such the mobility of outstation (dinas luar).
+ER  - 
+
+TY  - JOUR
+T1  - Distracted worker: Using pupil size and blink rate to detect cognitive load during manufacturing tasks
+AU  - Biondi, Francesco N.
+AU  - Saberi, Babak
+AU  - Graf, Frida
+AU  - Cort, Joel
+AU  - Pillai, Prarthana
+AU  - Balasingam, Balakumar
+JO  - Applied Ergonomics
+VL  - 106
+SP  - 103867
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0003-6870
+DO  - https://doi.org/10.1016/j.apergo.2022.103867
+UR  - https://www.sciencedirect.com/science/article/pii/S0003687022001909
+KW  - Cognitive load
+KW  - Blink rate
+KW  - Pupil size
+KW  - Manufacturing
+AB  - This study sets out to extend the use of blink rate and pupil size to the assessment of cognitive load of completing common automotive manufacturing tasks. Nonoptimal cognitive load is detrimental to safety. Existing occupational ergonomics approaches come short of measuring dynamic changes in cognitive load during complex assembling tasks. Cognitive demand was manipulated by having participants complete two versions of the n-back task (easy, hard). Two durations of the physical task were also considered (short, long). Pupil size and blink rate increased under greater cognitive task demand. High cognitive load also resulted in longer task completion times, and higher ratings of mental and temporal demand, and effort. This exploratory study offers relevant insights on the use of ocular metrics for cognitive load assessment in occupational ergonomics. While the existing eye-tracking technology may yet limit their adoption in the field, they offer advantages over the more popular expert-based and self-reported techniques in measuring changes in cognitive load during dynamic tasks.
+ER  - 
+
+TY  - JOUR
+T1  - An Augmented Reality inspection tool to support workers in Industry 4.0 environments
+AU  - Marino, Emanuele
+AU  - Barbieri, Loris
+AU  - Colacino, Biagio
+AU  - Fleri, Anna Kum
+AU  - Bruno, Fabio
+JO  - Computers in Industry
+VL  - 127
+SP  - 103412
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 0166-3615
+DO  - https://doi.org/10.1016/j.compind.2021.103412
+UR  - https://www.sciencedirect.com/science/article/pii/S0166361521000191
+KW  - Augmented Reality
+KW  - Industry 4.0
+KW  - Operator 4.0
+KW  - Google ARCore
+KW  - Marker-based tracking
+KW  - Usability studies
+AB  - Among the key technologies of Industry 4.0, Augmented Reality (AR) is one of the most promising and enabling technologies for supporting factory workers and engineers at the workplace. To this end, the paper proposes a novel AR tool to assist operators during the inspection activities for the detection of production and assembly errors. In fact, thanks to the superimposition of the 3D models, as designed by the technical office, a worker can easily detect the presence of design discrepancies on the final physical assembled product and report them by adding 3D annotations directly on virtual models. This AR tool has been developed by using ARCore™ libraries to ensure, in the first place, its compatibility with commonly used devices for which workers are already trained and, secondly, to take advantage of the hybrid-tracking techniques that combine vision- and sensor-based methods to improve the reliability of the AR visualization. Nevertheless, the proposed AR tool adopts multiple markers to minimize tracking errors and therefore to provide greater freedom of movement to the user, who can use the tool also for the assessment of large-size products. Field experimentations have been carried out on a real case study with end-users in order to assess its usability and perceived mental workload through the SUS (System Usability Scale) and NASA-TLX (Task Load Index) standard questionnaires, respectively. The usability study was performed taking into account also objective metrics, i.e., by analysing user performance in target acquisition tasks while interacting with the AR tool. Statistical analysis proved that the adoption of this AR tool requires low mental demand, and its usability has reached a high level of satisfaction both by the factory workers and engineers involved in the user study.
+ER  - 
+
+TY  - JOUR
+T1  - Towards Multimodal Information Systems for Assisting Humans in Production and Logistics Processes
+AU  - Börold, Axel
+AU  - Schweers, Dirk
+AU  - Freitag, Michael
+JO  - Procedia CIRP
+VL  - 120
+SP  - 1089
+EP  - 1094
+PY  - 2023
+DA  - 2023/01/01/
+T2  - 56th CIRP International Conference on Manufacturing Systems 2023
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2023.09.130
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827123008624
+KW  - Keywords
+KW  - Industry 5.0
+KW  - Information Systems
+KW  - Cognitive Assistance
+KW  - Human Computer Interface
+AB  - Information support systems for coping with and mastering increasing process complexity are becoming a success factor for many companies. The information systems available today are predominantly implemented as mobile applications and, as the range of functions grows, place increasingly high demands on the user interface. To reduce the cognitive load, these are tailored to the user and are limited in functionality or require special training, which is costly and impractical for some user groups. Current voice interaction interfaces offer advantages in this context, but the communication of data to the user can be done more meaningfully and clearly in graphical or multimodal form. Furthermore, both interaction modes neglect essential sources of information in industrial and logistics use cases, such as available information about documents and physical properties of objects. Methodologically, this contribution proceeds as follows: First, a literature review was conducted on Cognitive Load Theory, Human-Computer Interaction, Social Response Theory, and the cooperative principle of conversation with a focus on human-machine interaction. Subsequently, expert interviews on relevant application areas in the field of production and logistics were conducted in order to identify use cases and derive system requirements. Based on the findings, a concept for an stationary adaptive multimodal information system was developed, which, to our knowledge, does not exist yet due to the combination of a 2D/3D scanner and conversational intelligence and can be used to improve human-machine interaction in the context of Industry 5.0.
+ER  - 
+
+TY  - JOUR
+T1  - On the Selection of Ergonomics Evaluation Methods for Human Centric Manufacturing Tasks
+AU  - Arkouli, Zoi
+AU  - Michalos, George
+AU  - Makris, Sotiris
+JO  - Procedia CIRP
+VL  - 107
+SP  - 89
+EP  - 94
+PY  - 2022
+DA  - 2022/01/01/
+T2  - Leading manufacturing systems transformation – Proceedings of the 55th CIRP Conference on Manufacturing Systems 2022
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2022.04.015
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827122002311
+KW  - human centric design
+KW  - ergonomics assessment
+KW  - physical workload evaluation
+KW  - cognitive workload evaluation
+AB  - The last years several methods and sensors have emerged for the assessment of the physical and cognitive loads that human workers experience during the execution of manufacturing tasks. Questionnaires, videos, simulation data, IMU sensors, etc. are some of the data collection methods that can provide important data for the physical (skeleton joint angles, perceived fatigue, covered distance, and so forth), as well as for the cognitive (e.g., perceived user experience, eye movement, latency of movement) workload evaluation. However, there is no commonly accepted method to guide the practitioners in selecting the appropriate method and means to evaluate their task of interest. This paper goes a step further from the existing formal guidelines by considering aspects such as the stage of development of the manufacturing tasks and weighting the cognitive and physical aspects as per the task’s nature. The proposed multi-criteria decision making method will map the custom requirements of each case in terms of cost, time, expertise, and available technology to the ones that each data collection method can meet in order to suggest an appropriate method. The proposed approach is applied in a case study coming from the bus and coach sector, where a mixed task (cognitive and physical effort) is assessed using video recordings and interviews.
+ER  - 
+
+TY  - JOUR
+T1  - Motion priority optimization framework towards automated and teleoperated robot cooperation in industrial recovery scenarios
+AU  - Itadera, Shunki
+AU  - Domae, Yukiyasu
+JO  - Robotics and Autonomous Systems
+SP  - 104833
+PY  - 2024
+DA  - 2024/10/23/
+SN  - 0921-8890
+DO  - https://doi.org/10.1016/j.robot.2024.104833
+UR  - https://www.sciencedirect.com/science/article/pii/S0921889024002173
+KW  - Manufacturing recovery
+KW  - Robot teleoperation
+KW  - Motion priority optimization
+KW  - Human–robot cooperation
+AB  - In this study, we introduce an optimization framework to enhance the efficiency of motion priority design in scenarios involving automated and teleoperated robots within an industrial recovery context. The increasing utilization of industrial robots at manufacturing sites has been instrumental in reducing human workload. Nevertheless, achieving effective human–robot collaboration/cooperation (HRC) remains a challenge, especially when human workers and robots share a workspace for collaborative tasks. For instance, when an industrial robot encounters a failure, such as dropping an assembling part, it triggers the suspension of the corresponding factory cell for safe recovery. Given the limited capacity of pre-programmed robots to rectify such failures, human intervention becomes imperative, requiring entry into the robot workspace to address the dropped object while the robot system is halted. This discontinuous manufacturing process results in productivity loss. Robotic teleoperation has emerged as a promising technology enabling human workers to undertake high-risk tasks remotely and safely. Our study advocates for the incorporation of robotic teleoperation in the recovery process during manufacturing failure scenarios, which is referred to as “Cooperative Tele-Recovery”. Our proposed approach involves formulating priority rules designed to facilitate collision avoidance between manufacturing and recovery robots. This, in turn, ensures a continuous manufacturing process with minimal production loss within a configurable risk limitation. We present a comprehensive motion priority optimization framework composed of an HRC simulator and a cooperative multi-robot controller to identify optimal parameters for the priority function. The framework dynamically adjusts the allocation of motion priorities for manufacturing and recovery robots while adhering to predefined risk limitations. Through quantitative and qualitative assessments, we validate the novelty of our concept and demonstrate its feasibility.
+ER  - 
+
+TY  - JOUR
+T1  - Fundamental Knowledge Acquisition by Using Wearable Sensor for “KEIROKA” of Construction Industry
+AU  - TSUCHIYA, Yoshio
+AU  - TANAKA, Yoshifumi
+AU  - TANAKA, Takayuki
+JO  - IFAC-PapersOnLine
+VL  - 56
+IS  - 2
+SP  - 9709
+EP  - 9714
+PY  - 2023
+DA  - 2023/01/01/
+T2  - 22nd IFAC World Congress
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2023.10.282
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896323006341
+KW  - KEIROKA
+KW  - Lumbar load
+KW  - Wearable Sensor
+KW  - Robotics technology
+KW  - Human-centered systems engineering
+AB  - “KEIROKA” is a new concept of work assistance that aims to simultaneously reduce physical burden and maintain physical capacity with the goal of extending healthy working life. Two important findings are necessary for the appropriate introduction of KEIROKA assistive technologies, such as power-assistive suits and work support robots, into the field. One is to know the physical abilities and skills of each worker. The other is to quantify the work content and physical burden of each worker. We have tested the physical performance of construction workers, conducted questionnaires on back pain, and also measured their physical workload using wearable sensors. The workload did not change with the presence or absence of LBP and age but tended to change with physical ability.
+ER  - 
+
+TY  - JOUR
+T1  - A CoBot Reinforcement Framework To Facilitate Assembly line Workers
+AU  - Pabolu, Venkata Krishna Rao
+JO  - Procedia CIRP
+VL  - 118
+SP  - 241
+EP  - 246
+PY  - 2023
+DA  - 2023/01/01/
+T2  - 16th CIRP Conference on Intelligent Computation in Manufacturing Engineering
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2023.06.042
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827123002652
+KW  - Collaborative assembly system
+KW  - Assembly worker facilitation
+KW  - Cobots
+AB  - This work provides a methodological framework to introduce the CoBots into an assembly line to facilitate an assembly line worker. The CoBots are to facilitate an assembly line worker working long or providing assistance during a work-fatigue condition by sharing their workload. A conceptual framework is given to split an assembly task into seven sub-tasks then collaboration possibilities are proposed to provide sub-task level assistance. An appropriate framework is provided for utilising the collaboration possibilities to increase an assembly line worker's comfortable work duration time and reduce the worker work rotations between work breaks or model changeovers.
+ER  - 
+
+TY  - JOUR
+T1  - Improving ergonomics in mixed-model assembly lines balancing noise exposure and energy expenditure
+AU  - Mura, Michela Dalle
+AU  - Dini, Gino
+JO  - CIRP Journal of Manufacturing Science and Technology
+VL  - 40
+SP  - 44
+EP  - 52
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 1755-5817
+DO  - https://doi.org/10.1016/j.cirpj.2022.11.005
+UR  - https://www.sciencedirect.com/science/article/pii/S1755581722001730
+KW  - Mixed-model assembly line balancing
+KW  - Ergonomics
+KW  - Noise exposure
+KW  - Energy expenditure
+KW  - Job rotation
+KW  - Genetic algorithm
+AB  - In the manufacturing industry, assembly processes involve most of the workforce to deal with the many manual operations. Thus, the design of workplaces must take into account ergonomics to promote workers well-being and safeguard their health and safety, also enhancing productivity. The occupational ergonomic risk not only depends on the physical workload of a task, but also on environmental characteristics of the workplace, including noise, the assessment of which may contribute to prevent workers from possible health issues associated to hearing injuries. In this regard, the present study proposes a software tool based on a genetic algorithm for solving the mixed-model assembly line balancing problem with job rotation and collaborative robots to improve workers’ ergonomics, for the evaluation of which noise exposure is also considered. In particular, the objectives of the problem concern economic aspects, which are taken into account through the optimization of the cost of the line, and ergonomics, which is pursued by reducing and smoothing both workers’ energy expenditure and noise exposure for performing operations on the line. To test the effectiveness of the proposed approach, an industrial case study is finally discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-objective complex product assembly scheduling problem considering parallel team and worker skills
+AU  - Liu, Ziwen
+AU  - Liu, Jianhua
+AU  - Zhuang, Cunbo
+AU  - Wan, Feng
+JO  - Journal of Manufacturing Systems
+VL  - 63
+SP  - 454
+EP  - 470
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 0278-6125
+DO  - https://doi.org/10.1016/j.jmsy.2022.05.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0278612522000735
+KW  - Flow shop scheduling problem
+KW  - Assembly line of complex products
+KW  - Multiple objective evolutionary algorithm
+KW  - Multi-skilled and multilevel worker
+AB  - The flow shop scheduling problem (FSP) is a classic shop scheduling problem with a strong engineering background. As an extension of FSP, the hybrid flow shop scheduling problem (HFSP) involves parallel machine scheduling, and the worker assignment problem on assembly lines (WAPAL) involves worker allocation. Parallel machine scheduling and multi-skilled and multilevel worker allocation are both involved in the actual assembly lines of complex products, but few studies have investigated them simultaneously. This work studies a complex product assembly line scheduling problem considering multi-skilled worker assignment and parallel team scheduling and takes the maximum completion time and the imbalance degree of team workload as the optimization objective. An integer programming model is proposed, and a hybrid coding method considers the worker assignment and task order. Three improved strategies based on a multiple objective evolutionary algorithm (MOEA) are proposed in the local search. Finally, 20 test instances are generated based on actual enterprise labor data, and the results based on the three strategies are compared with six MOEAs. The results show that the three strategies are superior in terms of the quality and distribution of solutions. The inverted generational distance (IGD) index value is increased by 49.97%, 47.89%, 47.08% respectively and the hypervolume (HV) index value is increased by 39.76%, 38.19%, 38.15% respectively.
+ER  - 
+
+TY  - JOUR
+T1  - May I Have Your Attention?! Exploring Multitasking in Human-Robot Collaboration
+AU  - Eesee, Abdulrahman K.
+AU  - Kostolani, David
+AU  - Kang, Taeho
+AU  - Schlund, Sebastian
+AU  - Medvegy, Tibor
+AU  - Abonyi, János
+AU  - Ruppert, Tamás
+JO  - IFAC-PapersOnLine
+VL  - 58
+IS  - 19
+SP  - 241
+EP  - 246
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 18th IFAC Symposium on Information Control Problems in Manufacturing INCOM 2024
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2024.09.179
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896324015945
+KW  - Attention
+KW  - Human-Robot Interaction
+KW  - Multitasking
+KW  - Collaborative Assembly
+AB  - Human-robot collaboration promises to free the human to multitask and engage in cognitive work while the robots assists with physical tasks, therefore increasing productivity. However, this collaborative paradigm requires continuous attention from human operators, which could potentially strain their cognitive resources. Excessive attention demands can lead to safety hazards, increased errors, and reduced efficiency. Despite its critical importance, there is limited empirical research on attentional factors in industrial human-robot collaboration. In this study, we explore attentional multitasking in collaborative human-robot assembly settings. Our experimental setup involves participants performing a wire harnessing task with a collaborative robot while simultaneously completing a Go/No-Go test as a secondary task. To observe the effect of multitasking, we varied the difficulty of the secondary task across two levels and analysed its impacts on work performance and workload. Our results confirm threaded cognition theory, suggesting that human-robot collaboration could reduce cognitive capacity by depleting attentional resources, leading to higher errors and cycle times during multitasking. This underscores the importance of a detailed understanding of attentional factors in human-robot collaboration. We discuss our findings and their implications, and provide insights into the adjustment and design of human-robot collaboration tasks in the industry.
+ER  - 
+
+TY  - JOUR
+T1  - Graduation-inspired manufacturing system and synchronization mechanism for hybrid assembly cell lines
+AU  - Zhao, Zhiheng
+AU  - Xie, Xinyue
+AU  - Chen, Qiqi
+AU  - Lin, Peng
+AU  - Wu, Wei
+AU  - Zhang, Mengdi
+AU  - Huang, George Q
+JO  - Computers & Industrial Engineering
+VL  - 198
+SP  - 110648
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2024.110648
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835224007708
+KW  - Assembly cell line
+KW  - Synchronization
+KW  - Internet-of-Things, Card-based control system
+AB  - This paper presents an innovative flexible assembly system – hybrid assembly cell lines (HACL) to adapt to small batch, high product variety and dynamic demands. HACL provides specially designed trolleys for assembly operations, materials and tools to form the workstations flexibly and quickly at low reconfiguration cost. To conduct accurate and effective control for this complex assembly system, this paper presents a modified Graduation-inspired Manufacturing System (GMS), a recently proposed new card-based control system. GMS for HACL designs three kinds of tickets and the ticketing mechanism to absorb the uncertainties of HACL. Job tickets are for workload control and synchronization of part deliveries; setup tickets are for cell line formation and synchronization of resources of tools and machines; operation tickets are for production execution and synchronization of workers and operations in cell lines. GMS for HACL develops Internet of Things-enabled (IoT-enabled) architecture for managing the smart tickets to achieve automatic and intelligent interoperability between GMS and the physical workstations of HACL. This work designs synchronization mechanism based on specific model and genetic algorithm to synchronize manufacturing resources under GMS for HACL.
+ER  - 
+
+TY  - JOUR
+T1  - Digital twin for adaptation of robots’ behavior in flexible robotic assembly lines
+AU  - Kousi, Niki
+AU  - Gkournelos, Christos
+AU  - Aivaliotis, Sotiris
+AU  - Giannoulis, Christos
+AU  - Michalos, George
+AU  - Makris, Sotiris
+JO  - Procedia Manufacturing
+VL  - 28
+SP  - 121
+EP  - 126
+PY  - 2019
+DA  - 2019/01/01/
+T2  - 7th International conference on Changeable, Agile, Reconfigurable and Virtual Production (CARV2018)
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2018.12.020
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978918313623
+KW  - digital twin
+KW  - reconfiguration
+KW  - mobile robot
+KW  - human robot collaboration
+AB  - Product personalization is the global trend driving the development of modern production systems. This in turn creates the need to deploy flexible and reconfigurable assembly systems. New type of factories exploiting the capabilities of multiple resources such as human operators and mobile and / or stationary robot assistants are emerging. This paper investigates the use of digital world modelling techniques in such hybrid production systems for enabling system reconfiguration through shared environment and process perception. The suggested digital world model infrastructure involves three main functionalities: a) Virtual representation of the shopfloor, combining multiple sensor data and CAD models. The digital shopfloor is rendered in the 3D environment exploiting the capabilities provided by Robot Operating System (ROS) framework, b) Semantic representation of the world through the implementation of a unified data model for representing the geometrical as well as the workload state, and c) Dynamic update of the digital twin based on real time sensor and resource data coming from the actual shopfloor. The communication and integration layer among the physical and the virtual agents is realized on top of the ROS framework. The developed infrastructure is applied to an industrial case study from the automotive industry focusing on a car’s front axle assembly. Nevertheless, it is designed to be generic enough to be able to address multiple cases.
+ER  - 
+
+TY  - JOUR
+T1  - UX assessment strategy to identify potential stressful conditions for workers
+AU  - Khamaisi, Riccardo Karim
+AU  - Brunzini, Agnese
+AU  - Grandi, Fabio
+AU  - Peruzzini, Margherita
+AU  - Pellicciari, Marcello
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 78
+SP  - 102403
+PY  - 2022
+DA  - 2022/12/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2022.102403
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584522000904
+KW  - User experience
+KW  - Human-centred design
+KW  - Industry 5.0
+KW  - Virtual reality
+KW  - Cognitive ergonomics
+AB  - The European Commission defined the new concept of Industry 5.0 meaning a more human-centric, resilient, and sustainable approach for the design of industrial systems and operations. A deep understanding of the work environment and organization is important to start analysing the working conditions and the resulting User eXperience (UX) of the operators. Also, the knowledge about users’ needs and ergonomics is fundamental to optimize the workers’ wellbeing, working conditions, and industrial results. In this context, the paper presents a strategy to effectively assess the UX of workers to promote human-centric vision of manufacturing sites, enhancing the overall sustainability of the modern factories. A set of non-invasive wearable devices is used to monitor human activities and collect physiological parameters, as well as questionnaires to gather subjective self-assessment. This set-up was applied to virtual reality (VR) simulation, replicating heavy duty work sequence tasks that took place in an oil and gas pipes manufacturing site. This approach allowed the identification of possible stressful conditions for the operator, from physical and mental perspectives, which may compromise the performance. This research was funded by the European Community's HORIZON 2020 programme under grant agreement No. 958303 (PENELOPE).
+ER  - 
+
+TY  - JOUR
+T1  - How to provide work instructions to reduce the workers’ physical and mental workload
+AU  - Papetti, Alessandra
+AU  - Ciccarelli, Marianna
+AU  - Palpacelli, Matteo Claudio
+AU  - Germani, Michele
+JO  - Procedia CIRP
+VL  - 120
+SP  - 1167
+EP  - 1172
+PY  - 2023
+DA  - 2023/01/01/
+T2  - 56th CIRP International Conference on Manufacturing Systems 2023
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2023.09.143
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827123008752
+KW  - human-centered manufacturing
+KW  - work instructions
+KW  - ergonomics
+KW  - mixed reality
+KW  - industry 5.0
+AB  - The transition to Industry 5.0 emphasizes the human-centric perspective and pushes for ergonomic risks prevention and mitigation. The diffusion of the production paradigms of mass customization and mass personalization also increases the need for methods and tools to support workers in manufacturing activities. The growing number of product variants requires a higher cognitive load and increases the likelihood of human errors. Work instructions become fundamental, as well as their digitalization. The technologies enabling industry 4.0 have opened up new scenarios for the use of this information, from extended reality to digital assistance systems. This work deals with the human-centered redesign of a workstation for the wire harness assembly with the aim of mitigating the ergonomic risks for operators, both physical and cognitive. Four different scenarios for using the work instructions were implemented and tested: paper-based instructions, workstation display, mixed reality application usable with a head-mounted display, and augmented reality application that only requires a projection system. The experimentation involved user experience evaluation, performance assessment, and objective postural analysis through inertial sensors.
+ER  - 
+
+TY  - JOUR
+T1  - Assessment of Isometric Pulls Strength of Industrial Cart Pullers -An Electromyography Study from an Apparel Manufacturing Industry
+AU  - Rashid, Zahid
+AU  - Shafiq, Muhammad
+AU  - Aslam, Muhammad Awais
+AU  - Menanno, Marialuisa
+AU  - Iqbal, Neelum
+AU  - Khan, Haji Bahader
+AU  - Ragno, Pasquale
+JO  - Procedia Manufacturing
+VL  - 39
+SP  - 1438
+EP  - 1446
+PY  - 2019
+DA  - 2019/01/01/
+T2  - 25th International Conference on Production Research Manufacturing Innovation: Cyber Physical Manufacturing August 9-14, 2019 | Chicago, Illinois (USA)
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2020.01.307
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978920303747
+KW  - Isometric pull strength
+KW  - Electromyography (EMG)
+KW  - Cart pullers
+KW  - Maximum Voluntary Isometric Contraction (MVIC)
+KW  - Apparel Manufacturing
+AB  - Manual material handling and occupational tasks demanding physical push-pull activities are very common in various industrial settings regardless of automation. These activities may become the cause of fatigue, accidents and/or different occupational hazards if not properly focused to balance workload as per physical strength and stamina of the worker. This cross-sectional study was conducted to assess the isometric pull strength of apparel cart/trolley pullers and muscular activity of upper limbs. Jackson strength evaluation system was used to measure isometric pull strengths while IXTA Data Acquisition System to measure and analyze the muscle activity. The experiments were conducted with twenty work-in-process (WIP) manual material handlers of an apparel manufacturing industry. Electromyographical (EMG) data of muscle activity was collected by placing electrodes on pronator teres, brachial biceps, pectoralis major and lower trapezius muscles during the pull tasks. The results show that torso pull in seated posture has the maximum isometric average value of 62.20 ± 5.91 kg while arm lift has the minimum strength value of 37.10 ± 4.61 kg. Assessment of muscle fatigue caused by pulling force is important in determining job severity of workers and mitigating occupational injuries which help in balancing workloads for effective management.
+ER  - 
+
+TY  - JOUR
+T1  - Augmented reality aided object mapping for worker assistance/training in an industrial assembly context: Exploration of affordance with existing guidance techniques
+AU  - Eswaran, M.
+AU  - Raju Bahubalendruni, M.V.A.
+JO  - Computers & Industrial Engineering
+VL  - 185
+SP  - 109663
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2023.109663
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835223006873
+KW  - Augmented reality
+KW  - Virtual reality
+KW  - Assembly
+KW  - Disassembly
+KW  - Object mapping
+AB  - In recent years, the affordances of immersive technologies in the industrial context have enabled the onsite worker to have increased potential towards handling the complex procedural and cognitive tasks involved in the strategy of manufacturing an appropriate product. This article describes the potential of Augmented Reality (AR) in terms of upgraded workplace understanding, training, and assisting semi-skilled/new workers in an industrial production environment. The different modes of instruction visualization techniques are investigated for the execution of assembly tasks and explored their impact in accordance to the efficiency of task execution, completion time, error rate perception, cognitive load, and independence. Progress outcomes of 24 participants are explored for real-time execution of a Reverse osmosis (RO) booster pump assembly in terms of different modes of visualization, such as the conventional document method, virtual /desktop mode, and object mapping-based AR. Additionally, the user studies on different visualization devices involving hand-held visualization devices (HHVD) and Head-mounted visualization devices (HMVD) are investigated and validated in terms of adaptability, acceptability, and usability. Furthermore, the effectiveness of the AR-aided object mapping technology versus other methods is explored through the feedback received from both experts and academia participants, which increases the insight of the technology and provides an intelligent mechanism for semi-skilled/new workers to handle complex or challenging operations in the production environment. The studies indicate that object mapping-based AR visualization facilitates increased assembly task efficiency and the minimum number of errors compared to the other guidance modes. Notably, the HMVD affords an increased realism experience, minimized errors, and less completion time compared to the HHVD.
+ER  - 
+
+TY  - JOUR
+T1  - Job rotations based on physical and psychological workloads: A proposal for the footwear industry
+AU  - Leite, Wilza Karla dos Santos
+AU  - Araújo, Anísio José da Silva
+AU  - Silva, Luiz Bueno da
+AU  - Costa, Luciano Carlos Azevedo da
+AU  - Silva, Jonhatan Magno Norte da
+AU  - Vieira, Elamara Marama de Araujo
+AU  - Souza, Erivaldo Lopes de
+AU  - Kramer, Hugo Harry Frederico Ribeiro
+AU  - Oliveira, Romero Cardoso
+JO  - Computers & Industrial Engineering
+VL  - 188
+SP  - 109887
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2024.109887
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835224000081
+KW  - Variety of job tasks
+KW  - Shoe manufacturing
+KW  - Upper limb musculoskeletal disorders
+KW  - Occupational stress
+KW  - Ergonomic risk
+AB  - Introduction
+The aim of this study is to propose a model of job rotations in shoes (sandals and tennis shoes) production cells, aiming at reducing the risk exposure to work-related musculoskeletal disorders considering physical and psychological workloads.
+Methods
+The physical load was assessed by the Occupational Repetitive Actions method, and the psychological load by the Job Stress Scale. A total of 259 workers in the footwear industry participated in this study. These loads were incorporated into a multi-objective mathematical programming model, where the objective functions aimed to minimize the maximum work-related musculoskeletal disorders and the maximum total work demand, and to maximize the minimum work control and social support to which a worker might be exposed during a daily journey. To the best of our knowledge, this is the first time in the literature that physical and psychological aspects are considered when solving job rotation problems. To tackle the problem, we propose a matheuristic based on an epsilon-constraint framework. This method allows us to generate different solutions with respect to the specific objective functions. To assess the effectiveness of the solutions, we calculated the variance of the scores of the physical and psychological loads in the conditions without and with rotations.
+Results
+Five rotation solutions were reached for the sandal production cells and twelve for the tennis shoe production cells. There was a reduction in the variation of physical and psychological loads in all solutions for both cells when compared to the no rotation condition. However, for the sandal production cells, the reduction in variation between the physical loads of the conditions with and without rotations was not significant due to the similarity of the exposure indices.
+Conclusions
+The model reduces the risk of work-related musculoskeletal disorders, promoting variability in muscle recruitment and enrichment of work content, being applicable in other segments.
+ER  - 
+
+TY  - JOUR
+T1  - Exploring augmented reality for worker assistance versus training
+AU  - Moghaddam, Mohsen
+AU  - Wilson, Nicholas C.
+AU  - Modestino, Alicia Sasser
+AU  - Jona, Kemi
+AU  - Marsella, Stacy C.
+JO  - Advanced Engineering Informatics
+VL  - 50
+SP  - 101410
+PY  - 2021
+DA  - 2021/10/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2021.101410
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034621001622
+KW  - Augmented reality
+KW  - Electro-mechanical assembly
+KW  - Workforce training
+KW  - Workplace-based learning
+AB  - This paper aims at advancing the fundamental understanding of the affordances of Augmented Reality (AR) as a workplace-based learning and training technology in supporting manual or semi-automated manufacturing tasks that involve both complex manipulation and reasoning. Between-subject laboratory experiments involving 20 participants are conducted on a real-life electro-mechanical assembly task to investigate the impacts of various modes of information delivery through AR compared to traditional training methods on task efficiency, number of errors, learning, independence, and cognitive load. The AR application is developed in Unity and deployed on HoloLens 2 headsets. Interviews with experts from industry and academia are also conducted to create new insights into the affordances of AR as a training versus assistive tool for manufacturing workers, as well as the need for intelligent mechanisms that enable adaptive and personalized interactions between workers and AR. The findings indicate that despite comparable performance between the AR and control groups in terms of task completion time, learning curve, and independence from instructions, AR dramatically decreases the number of errors compared to traditional instruction, which is sustained after the AR support is removed. Several insights drawn from the experiments and expert interviews are discussed to inform the design of future AR technologies for both training and assisting incumbent and future manufacturing workers on complex manipulation and reasoning tasks.
+ER  - 
+
+TY  - JOUR
+T1  - Inclusive manufacturing: A contribution to assembly processes with human-machine reciprocal learning
+AU  - Simeone, Alessandro
+AU  - Fan, Yuchen
+AU  - Antonelli, Dario
+AU  - Catalano, Angioletta R.
+AU  - Priarone, Paolo C.
+AU  - Settineri, Luca
+JO  - CIRP Annals
+VL  - 73
+IS  - 1
+SP  - 5
+EP  - 8
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0007-8506
+DO  - https://doi.org/10.1016/j.cirp.2024.03.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0007850624000040
+KW  - Assembly
+KW  - Human aspect
+KW  - Reciprocal learning
+AB  - This study explores the potential synergy between neurodiversity and advanced technology within Industry 5.0, focusing on the integration of neurodiverse individuals in the workforce through Human-Machine Collaboration and Reciprocal Learning (RL). A cognitive load (CL) assessment procedure is developed using fuzzy logic inference across the dimensions of attention, memory, language, math, logic, and reading. A case study evaluates the effectiveness of RL in assisting assembly tasks. Different error-handling scenarios are compared. Experimental results show how RL can reduce the CL while improving assembly tasks efficiency, underscoring the value of intelligent systems in inclusive manufacturing, enhancing productivity and facilitating the integration of neurodiverse workers.
+ER  - 
+
+TY  - JOUR
+T1  - A multi-objective programming approach to develop an ergonomic job rotation in a manufacturing system
+AU  - Moussavi, S.E.
+AU  - Mahdjoub, M.
+AU  - Grunder, O.
+JO  - IFAC-PapersOnLine
+VL  - 51
+IS  - 11
+SP  - 850
+EP  - 855
+PY  - 2018
+DA  - 2018/01/01/
+T2  - 16th IFAC Symposium on Information Control Problems in Manufacturing INCOM 2018
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2018.08.445
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896318315726
+AB  - A worker assignment job rotation problem with the heterogeneous workers and the jobs with different workload level is presented in this paper. Both productivity and ergonomic criteria are considered in the problem and a multi-objective mixed-integer mathematical model is proposed to implement an ergonomic job rotation in a production system. The main objective of the model is to balance the daily workload that the workers are exposed together with reducing the production cycle time in the studied system. The proposed mathematical model is applied to a part of a truck assembly line. The model is programmed by GMPL mathematical modeling language and is solved by employing Gurobi solver. The computational results show the capability of the proposed model to optimize both objectives of the job rotation.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic assessment of control room operator's cognitive workload using Electroencephalography (EEG)
+AU  - Iqbal, Mohd Umair
+AU  - Srinivasan, Babji
+AU  - Srinivasan, Rajagopalan
+JO  - Computers & Chemical Engineering
+VL  - 141
+SP  - 106726
+PY  - 2020
+DA  - 2020/10/04/
+SN  - 0098-1354
+DO  - https://doi.org/10.1016/j.compchemeng.2020.106726
+UR  - https://www.sciencedirect.com/science/article/pii/S0098135419312268
+KW  - Process safety
+KW  - Human error
+KW  - Cognitive workload
+KW  - EEG
+KW  - Theta power spectral density
+AB  - In modern plants with high levels of automation, acquiring an adequate mental model of the process has become a challenge for operators. Studies indicate that sub-optimal decisions occur when there is a mismatch between the demands of the process and the human's capability. This mismatch leads to high cognitive workload in human operators, often a precursor for poor performance. Recently, researchers in various safety critical domains (aviation, driving, marine, NPP, etc.) have started to explore the use of physiological measurements from humans to understand their cognitive workload and its effect. In this work, we evaluate the potential of EEG to measure cognitive workload of human operators in chemical process control room. We propose a single dry electrode EEG based methodology for identifying the similarities and mismatch between the operators’ mental model of the process and the actual process behaviour during abnormal situations. Our results reveal that SƟ(ω), the power spectral density of theta (ɵ) waves (frequency range 4–7 Hz) in the EEG signal has the potential to identify such mismatches. Results indicate that SƟ(ω) is positively correlated with workload and hence can be used for assessing the cognitive workload of operators in process industries.
+ER  - 
+
+TY  - JOUR
+T1  - Human Robot Interaction – learning how to integrate collaborative robots into manual assembly lines
+AU  - Oberc, Henning
+AU  - Prinz, Christopher
+AU  - Glogowski, Paul
+AU  - Lemmerz, Kai
+AU  - Kuhlenkötter, Bernd
+JO  - Procedia Manufacturing
+VL  - 31
+SP  - 26
+EP  - 31
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Research. Experience. Education. 9th Conference on Learning Factories 2019 (CLF 2019), Braunschweig, Germany
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2019.03.005
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978919303683
+KW  - Industrie 4.0
+KW  - human machine collaboration
+KW  - learning factory
+KW  - HRC
+AB  - Human-Robot Collaboration (HRC) is one of the main challenges for companies today. Despite the trend on collaborative robots, use cases within manufacturing systems seem to be still rare. Although collaborative robots are promised to be one of the crucial innovations for ergonomically assistance for blue collar workers, the integration process into the production process and the preoccupation of workers against robot assistance alike, can be assumed as biggest challenges for companies. One of the reason might be the missing methodology and simulation tools for quick analysis of workplaces, in order to detect possible workloads for robots. The given article presents a developed learning factory seminar for students as well as industrial participants on how to integrate collaborative robots into manual assembly lines. This approach focuses on the problem based learning structure of the seminar and on the essential methods and developed concepts which are necessary to analyze workplaces, simulate robot integration with the possibility of analyzing the distributed workload between the worker and the robot. Tools as a “quick check” analysis for HRC and the simulation software Editor of manual work activities (ema) will be integrated during this concept. Besides the technological implementation and the different organization of work by implementing HRC in a production process, the participants will also discuss the affects and changes for the employees. This will cover the T-O-P (technology-organization-employee) approach [1] and will help to design an implementation project for HRC.
+ER  - 
+
+TY  - JOUR
+T1  - Combining Simulation and Augmented Reality Methods for Enhanced Worker Assistance in Manual Assembly
+AU  - Lampen, Eva
+AU  - Teuber, Jonas
+AU  - Gaisbauer, Felix
+AU  - Bär, Thomas
+AU  - Pfeiffer, Thies
+AU  - Wachsmuth, Sven
+JO  - Procedia CIRP
+VL  - 81
+SP  - 588
+EP  - 593
+PY  - 2019
+DA  - 2019/01/01/
+T2  - 52nd CIRP Conference on Manufacturing Systems (CMS), Ljubljana, Slovenia, June 12-14, 2019
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2019.03.160
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827119304652
+KW  - augmented reality
+KW  - assistance methods
+KW  - assembly
+KW  - human simulation
+KW  - dynamic instructions
+AB  - Due to mass customization product variety increased steeply in the automotive industry, entailing the increment of worker’s cognitive load during manual assembly tasks. Although worker assistance methods for cognitive automation already exist, they proof insufficient in terms of usability and achieved time saving. Given the rising importance of simulation towards autonomous production planning, a novel approach is proposed using human simulation data in context of worker assistance methods to alleviate cognitive load during manual assembly tasks. Within this paper, a new concept for augmented reality-based worker assistance is presented. Additionally, a comparative user study (N=24) was conducted with conventional worker assistance methods to evaluate a prototypical implementation of the concept. The results illustrate the enhancing opportunity of the novel approach to save cognitive abilities and to induce performance improvements. The implementation provided stable information presentation during the entire experiment. However, with regard to the recentness, there has to be carried out further developments and research, concerning performance adaptions and investigations of the effectiveness.
+ER  - 
+
+TY  - JOUR
+T1  - Characteristic analysis of elderly workers in human-centric production systems using real observations and simulated constraints
+AU  - Kondoh, Shinsuke
+AU  - Hayakawa, Kenta
+JO  - CIRP Annals
+VL  - 72
+IS  - 1
+SP  - 9
+EP  - 12
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0007-8506
+DO  - https://doi.org/10.1016/j.cirp.2023.04.028
+UR  - https://www.sciencedirect.com/science/article/pii/S0007850623000586
+KW  - Human aspect
+KW  - Ergonomics
+KW  - Elderly workers
+AB  - Owing to the growing number of elderly workers in developed countries, the age-friendly design of production systems is crucial for the success of human-centric manufacturing. To obtain knowledge for designing age-friendly production systems, this study conducted the first characteristic analysis of elderly workers, focusing on the set parts supply process. By combining motion analysis with the subjective mental workload survey, this study clarified the differences in how tasks are performed by elderly and young workers and how such differences affect the mental workload of elderly workers. The findings enable evidence-based design and implementation of age-friendly production systems.
+ER  - 
+
+TY  - JOUR
+T1  - An Online Framework for Cognitive Load Assessment in Industrial Tasks
+AU  - Lagomarsino, Marta
+AU  - Lorenzini, Marta
+AU  - De Momi, Elena
+AU  - Ajoudani, Arash
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 78
+SP  - 102380
+PY  - 2022
+DA  - 2022/12/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2022.102380
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584522000679
+KW  - Cognitive ergonomics
+KW  - Cognitive manufacturing
+KW  - Assembly
+KW  - Attention estimation
+KW  - Stress detection
+AB  - The ongoing trend toward Industry 4.0 has revolutionised ordinary workplaces, profoundly changing the role played by humans in the production chain. Research on ergonomics in industrial settings mainly focuses on reducing the operator’s physical fatigue and discomfort to improve throughput and avoid safety hazards. However, as the production complexity increases, the cognitive resources demand and mental workload could compromise the operator’s performance and the efficiency of the shop floor workplace. State-of-the-art methods in cognitive science work offline and/or involve bulky equipment hardly deployable in industrial settings. This paper presents a novel method for online assessment of cognitive load in manufacturing, primarily assembly, by detecting patterns in human motion directly from the input images of a stereo camera. Head pose estimation and skeleton tracking are exploited to investigate the workers’ attention and assess hyperactivity and unforeseen movements. Pilot experiments suggest that our factor assessment tool provides significant insights into workers’ mental workload, even confirmed by correlations with physiological and performance measurements. According to data gathered in this study, a vision-based cognitive load assessment has the potential to be integrated into the development of mechatronic systems for improving cognitive ergonomics in manufacturing.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-assistance systems in manufacturing - a user study evaluating multi-criteria impact in a high-mix low-volume assembly setting
+AU  - Zigart, Tanja
+AU  - Zafari, Setareh
+AU  - Stürzl, Felix
+AU  - Kiesewetter, Robert
+AU  - Kasparick, Hans-Peter
+AU  - Schlund, Sebastian
+JO  - Computers & Industrial Engineering
+VL  - 186
+SP  - 109674
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2023.109674
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835223006988
+KW  - User study
+KW  - Multi-criteria evaluation
+KW  - Assistance systems
+KW  - Manufacturing
+KW  - Human factors
+AB  - Understanding how skilled workers interact with assistance systems in manufacturing and how they experience the factory environment is fundamental to modeling human interaction and optimizing the processes correctly. This paper investigates humans’ behaviors and perceived experiences while interacting with cognitive and physical assistance systems. To enable decisions about the combined use of more than one assistance system within a manufacturing process, comprehensive and comparable knowledge about the impact of applications on productivity and human factors is needed. A multidimensional evaluation model with a mixed-methods approach was developed and applied in a user study. In 300 run-throughs in six different scenarios with skilled workers and students, a questionnaire on human factors was completed after finishing the task. Furthermore, productivity and quality were measured during the study. A comparison between skilled workers and students demonstrated that the usability score of all assistance systems was rated higher among the students. The students rated the ergonomics aspects better for five out of six scenarios. Results show higher compatibility with values and experiences in all investigated combinations for skilled workers than for students. Considering the collected data among the skilled workers, the overall compatibility with experience and values of multi-assistance system scenarios was more positive than in the single-assistance system scenarios. Our results show no significant differences in ergonomics, mental, physical, and temporal workload between single and multi-assistance system settings. With 150 run-throughs of industrial professionals and campus recruits each, the survey joins only two studies with more than 100 participants. To the authors' knowledge, it is the first systematic multi-criteria evaluation for the combined use of several (cognitive and physical) industrial assistance systems. The results help to ease practitioners’ evaluation of technical support systems in manufacturing with an emphasis on multi-criteria evaluation and the consideration of interconnected (cognitive and physical) assistance systems. Furthermore, the results contribute to further research in human–machine interaction and its impact on productivity and human factors as they show potentials and prospective challenges of the implementation and application of multiple assistance systems.
+ER  - 
+
+TY  - JOUR
+T1  - Towards industry 5.0: A multi-objective job rotation model for an inclusive workforce
+AU  - Battini, Daria
+AU  - Berti, Nicola
+AU  - Finco, Serena
+AU  - Zennaro, Ilenia
+AU  - Das, Ajay
+JO  - International Journal of Production Economics
+VL  - 250
+SP  - 108619
+PY  - 2022
+DA  - 2022/08/01/
+T2  - Special Issue celebrating Volume 250 of the International Journal of Production Economics
+SN  - 0925-5273
+DO  - https://doi.org/10.1016/j.ijpe.2022.108619
+UR  - https://www.sciencedirect.com/science/article/pii/S092552732200202X
+KW  - Industry 5.0
+KW  - Industry 4.0
+KW  - Job rotation
+KW  - Multi-objective optimization
+KW  - Ergonomics
+KW  - Human-centric design
+KW  - Inclusive workforce
+AB  - The new Industry 5.0 paradigm complements the well-known Industry 4.0 approach by specifically driving research and innovation to facilitate the transition to sustainable, human-centric and resilient industry. In the manufacturing context, workers' diversity in terms of experience, productivity and physical capacity represents a significant challenge for companies, especially those characterized by high staff turnover and manual processes with high workload and poor ergonomics. In seeking to address such challenges, this research adopts a human-centric perspective to define new flexible job arrangements by developing a new multi-objective job rotation scheduling model. The proposed model is unique in that it aims to achieve multiple job assignment objectives by simultaneously considering different socio-technical factors: workers' experience, physical capacity and limitations, postural ergonomic risks, noise and vibration exposure, and workers' boredom. The model's implementation in real environments can be supported by new sensor-based technologies that collect data on workers' efficiency, ergonomic scores and task performance and enable workers to participate in measuring perceived fatigue and boredom. The primary goal of our model is to find the most appropriate assignment of job and individual-flexible rest-break plan for each worker. The authors test the model application in an industrial setting. Useful managerial insights emerge and prescriptive recommendations are provided.
+ER  - 
+
+TY  - JOUR
+T1  - Workload categorization for hazardous industries: The semantic modelling of multi-modal physiological data
+AU  - König, Jemma L.
+AU  - Hinze, Annika
+AU  - Bowen, Judy
+JO  - Future Generation Computer Systems
+VL  - 141
+SP  - 369
+EP  - 381
+PY  - 2023
+DA  - 2023/04/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2022.11.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X22003806
+KW  - Semantic modelling
+KW  - Complex event processing
+KW  - Parallel processing
+KW  - Rule-based modelling
+KW  - Multi-modal data
+KW  - Physiological data
+AB  - The forestry industry is one of the most hazardous industries in New Zealand, and the physical and cognitive fatigue of forestry workers has been shown to contribute to this. Physical and cognitive fatigue can be exacerbated by prolonged physical and cognitive workload. As such, we propose that the identification and mitigation of fatigue factors could reduce the risk of incident and injury in hazardous work environments. This paper introduces a semantic model for workload categorization. The model takes as input, a set of multi-modal physiological measurements, and uses parallel processing, complex event processing, and rule-based modelling to categorize a series of workloads (resting, cognitive workload, and physical workload). The model has undergone a set of evaluations, including categorization accuracy, and performance. The model has been tested under three scenarios: when a participant is resting and refraining from any physically or mentally demanding tasks; when a participant is undertaking a cognitively intensive task; and when a participant is walking, jogging, and running. The study has been conducted with participants between the ages of 22 and 39 and has shown an average accuracy of 89% for resting workload, 76% for cognitive workload, and 97% for physical workload. Finally, in this paper we discuss the application and extension of this model to predict fatigue in hazardous industries. The work described in this paper contributes to a larger research project centered on investigating technology uses in hazardous work environments.
+ER  - 
+
+TY  - JOUR
+T1  - Cognitive Human Modeling in Collaborative Robotics
+AU  - Fruggiero, Fabio
+AU  - Lambiase, Alfredo
+AU  - Panagou, Sotirios
+AU  - Sabattini, Lorenzo
+JO  - Procedia Manufacturing
+VL  - 51
+SP  - 584
+EP  - 591
+PY  - 2020
+DA  - 2020/01/01/
+T2  - 30th International Conference on Flexible Automation and Intelligent Manufacturing (FAIM2021)
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2020.10.082
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978920319399
+KW  - Cognitive models
+KW  - Cobots
+KW  - Human Factor
+KW  - Smart Operator
+AB  - In today’s INDUSTRY 4.0 context, the growing need to improve performances and sustainability of working environment is looking forward to developing interoperable and service-oriented systems with real time capabilities. This is boosting the installation of decentralized and reliable robotics cells with flexible cooperative capabilities. They enroll smart operators’flexibility and robot productivity in collaborative robotics (properly cobots) applications. This paper consists of a state-of-the-art review on cognitive load in manufacturing with characterization of human-robot collaboration. A simulated analysis of a collaborative working cell is performed. An Agent Based (AB) model is presented with application in the automotive sector. The cell consists of logistics AGVs equipped with a manipulator. They interact with working robots and human operator. Robots collaborate in cell and they cooperate with operator on assisted task using Human Machine Interfaces (HMI). The load of human in the collaborative work-cell– set on state of art - is measured according with Functional states over different Behavioral Structures (FBS). We quantified the load of cognitive factors while reporting interaction analysis. Some factors as age and interface complexity and recovery strategy are investigated while reporting their effect on a dynamic variable, i.e., physical stress properly fatigue. This acts on productivity and operational outcomes.
+ER  - 
+
+TY  - JOUR
+T1  - AR/VR assisted integrated framework of autonomous disassembly system for industrial products
+AU  - M., Eswaran
+AU  - Bahubalendruni, M.V.A. Raju
+JO  - Computers & Industrial Engineering
+VL  - 196
+SP  - 110522
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2024.110522
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835224006430
+KW  - Augmented reality
+KW  - AR object mapping
+KW  - Disassembly sequence
+KW  - Virtual reality
+KW  - Automated AR scene extraction
+AB  - An immersive Augmented Reality (AR) technology enhances productivity and flexibility in manufacturing by providing real-time instructions within workers’ field of view, aiding in complex tasks. According to cognitive load and attention-based theories, AR guidance can reduce cognitive strain, enhancing task performance. The affordance of AR in industrial processes like assembly or disassembly for repair/maintenance has been exploited broadly. However, the prevailing studies on automated user interfaces for AR instruction development, specifically virtual scene creation and target generation for object mapping rendering, still need to be explored. Notably, production industries currently rely on outsourcing skilled professionals to create AR overlaying instructions using manufacturer input. However, the exactness of the disassembly repository is substantial to avoid defects in AR guidance particulars. This underscores the significance of generalized automated AR instruction development and emphasizes the demands for further research. In this work, the autonomous AR-integrated framework is developed for the disassembly context, empowering manufacturers to acquire desired outcomes across various modules. These modules include the validation of the manual user disassembly sequence repository during the prefatory phase of AR instruction creation and the provision of Disassembly Sequence Planning (DSP) input. Additionally, the framework supports the simulation/rendering of disassembly efforts in a virtual platform and the generation of rendering virtual display scenes for appropriate AR-guided object mapping. Furthermore, it enables the generation of essential model targets for registering the AR scenes. Subsequently, the extracted repositories (virtual scenes and model targets) are input into the Unity AR tool to create AR mapping guidance for disassembly operations. The performance of the autonomous disassembly module is evaluated through three case studies with different AR visualizations. Furthermore, the potential of the proposed framework is exploited by extracting feedback from experts regarding flexibility, compatibility, completion time, and cognitive level.
+ER  - 
+
+TY  - JOUR
+T1  - Mobile pupillometry in manual assembly: A pilot study exploring the wearability and external validity of a renowned mental workload lab measure
+AU  - Van Acker, Bram B.
+AU  - Bombeke, Klaas
+AU  - Durnez, Wouter
+AU  - Parmentier, Davy D.
+AU  - Mateus, João Costa
+AU  - Biondi, Alessandro
+AU  - Saldien, Jelle
+AU  - Vlerick, Peter
+JO  - International Journal of Industrial Ergonomics
+VL  - 75
+SP  - 102891
+PY  - 2020
+DA  - 2020/01/01/
+SN  - 0169-8141
+DO  - https://doi.org/10.1016/j.ergon.2019.102891
+UR  - https://www.sciencedirect.com/science/article/pii/S0169814119300514
+KW  - Mental workload
+KW  - Pupillometry
+KW  - Assembly
+KW  - External validity
+KW  - Wearability
+KW  - Eye tracking glasses
+AB  - Human operators in the upcoming Industry 4.0 workplace will face accelerating job demands such as elevated cognitive complexity. Unobtrusive objective measures of mental workload (MWL) are therefore in high demand as indicated by both theory and practice. This pilot study explored the wearability and external validity of pupillometry, a MWL measure robustly validated in laboratory settings and now deployable in work settings demanding operator mobility. In an ecologically valid work environment, 21 participants performed two manual assemblies - one of low and one of high complexity - while wearing eye-tracking glasses for pupil size measurement. Results revealed that the device was perceived as fairly wearable in terms of physical and mental comfort. In terms of validity, no significant differences in mean pupil size were found between the assemblies even though subjective mental workload differed significantly. Exploratory analyses on the pupil size when attending to the assembly instructions only, were inconclusive. The present work suggests that current lab-based procedures might not be adequate yet for in-the-field mobile pupillometry. From a broader perspective, these findings also invite a more nuanced view on the current validity of lab-validated physiological MWL-measures when applied in real-life settings. We therefore conclude with some key insights for future development of mobile pupillometry.
+ER  - 
+
+TY  - JOUR
+T1  - A model for developing job rotation schedules that eliminate sequential high workloads and minimize between-worker variability in cumulative daily workloads: Application to automotive assembly lines
+AU  - Yoon, Sang-Young
+AU  - Ko, Jeonghan
+AU  - Jung, Myung-Chul
+JO  - Applied Ergonomics
+VL  - 55
+SP  - 8
+EP  - 15
+PY  - 2016
+DA  - 2016/07/01/
+SN  - 0003-6870
+DO  - https://doi.org/10.1016/j.apergo.2016.01.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0003687016300114
+KW  - Job rotation
+KW  - Musculoskeletal disorder
+KW  - Cumulative workload
+KW  - REBA
+KW  - Assembly line
+AB  - The aim of study is to suggest a job rotation schedule by developing a mathematical model in order to reduce cumulative workload from the successive use of the same body region. Workload assessment using rapid entire body assessment (REBA) was performed for the model in three automotive assembly lines of chassis, trim, and finishing to identify which body part exposed to relatively high workloads at workstations. The workloads were incorporated to the model to develop a job rotation schedule. The proposed schedules prevent the exposure to high workloads successively on the same body region and minimized between-worker variance in cumulative daily workload. Whereas some of workers were successively assigned to high workload workstation under no job rotation and serial job rotation. This model would help to reduce the potential for work-related musculoskeletal disorders (WMSDs) without additional cost for engineering work, although it may need more computational time and relative complex job rotation sequences.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation of mental stress in human-robot interaction: an explorative study
+AU  - Rinaldi, Marta
+AU  - Natale, Ciro
+AU  - Fera, Marcello
+AU  - Macchiaroli, Roberto
+AU  - Monaco, Maria Grazia Lourdes
+AU  - Grosse, Eric H.
+JO  - Procedia Computer Science
+VL  - 232
+SP  - 726
+EP  - 735
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 5th International Conference on Industry 4.0 and Smart Manufacturing (ISM 2023)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.01.072
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050924000723
+KW  - human centricity
+KW  - human-robot coexistence
+KW  - experimental study
+KW  - mental stress
+KW  - heart rare variability
+KW  - workload
+KW  - performance
+AB  - The emerging concept of Industry 5.0 has led industries to design industrial environments integrating robots to support human work. The impact of implementing human-robot interaction (HRI) on humans and the work-related stress linked to it is still an open issue. In this context, measuring mental stress is crucial for designing effective HRI environments. This study aims to experimentally test the influence of the robot's presence on mental stress by measuring humans' performance, physiological data, and workload perception. Sixty participants were asked to perform an assembly task while coexisting with a robot. Three scenarios were tested, changing the kind of task performed by the robot and the distance from the participants' working area. Statistical analyses were performed to capture the differences between scenarios. Results show that the robot's presence does not significantly affect the participants' stress levels. However, when the distance to the robot decreases, human performance is affected, concluding that the robot's proximity could cause more distraction to human workers.
+ER  - 
+
+TY  - JOUR
+T1  - The moderating role of end-tidal CO2 on upper trapezius muscle activity in response to sustained attention
+AU  - Wixted, Fiona
+AU  - O’ Sullivan, Leonard
+JO  - International Journal of Industrial Ergonomics
+VL  - 61
+SP  - 1
+EP  - 12
+PY  - 2017
+DA  - 2017/09/01/
+SN  - 0169-8141
+DO  - https://doi.org/10.1016/j.ergon.2017.04.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0169814117301907
+KW  - Sustained attention
+KW  - Mental workload
+KW  - Muscle activity
+KW  - Work related musculoskeletal disorders
+AB  - With higher levels of automation in modern manufacturing, there is increased monitoring of the process by the human operator. Prolonged monitoring or sustained attention has been found to be stressful for human operators. Plant and process operators have also been found to have one of the highest level of work demands (work speed, pace) in a recent European survey (Eurofound, 2015). Along with this, the incidence of Work Related Musculoskeletal Disorders (WRMSDs) remains at a high level in the manufacturing sector. This research endeavoured to determine if end-tidal CO2 levels decreased and upper trapezius muscle activity increased concurrently with increased levels of attention. We then developed a model to investigate if end-tidal CO2 moderated the relationship between mental workload due to sustained attention and upper trapezius muscle activity. The resulting interactional model found that end-tidal CO2 moderated the relationship (p = 0.004) when end-tidal CO2 reached the hypocapnic range (>35 mm Hg). This model indicates the possibility that a high level of sustained attention is a risk factor in the development of WRMSDs and should therefore be included in workplace risk assessments.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-manned assembly line synchronization with compatible mounting positions, equipment sharing and workers cooperation
+AU  - Ferrari, Emilio
+AU  - Faccio, Maurizio
+AU  - Gamberi, Mauro
+AU  - Margelli, Silvia
+AU  - Pilati, Francesco
+JO  - IFAC-PapersOnLine
+VL  - 52
+IS  - 13
+SP  - 1502
+EP  - 1507
+PY  - 2019
+DA  - 2019/01/01/
+T2  - 9th IFAC Conference on Manufacturing Modelling, Management and Control MIM 2019
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2019.11.412
+UR  - https://www.sciencedirect.com/science/article/pii/S240589631931393X
+KW  - Multi-manned assembly line
+KW  - Synchronization
+KW  - Equipment sharing
+KW  - Mounting position
+KW  - Automotive
+KW  - Balancing
+AB  - The assembly of large and complex products as cars typically involves a huge amount of production resources as workers, pieces of equipment and layout areas. Multi-manned workstations commonly characterize these assembly lines along with some additional features such as compatibility/incompatibility between the different mounting positions, equipment sharing and worker cooperation. The simultaneous management of all such aspects significantly increases the balancing problem complexity. This paper proposes a new mixed integer programming model for such multi-manned assembly line synchronization problem to simultaneously optimize the line efficiency, the line length and the workload smoothness. A customized procedure based on a simulated annealing algorithm is developed to effectively solve this problem. The aforementioned procedure is validated through an industrial case study of an Italian sports car manufacturer distinguished by 665 tasks and numerous synchronization constraints typical of real assembly lines.
+ER  - 
+
+TY  - JOUR
+T1  - Antecedents of turnover intentions and organizational commitment of workers in the apparel industry: The moderating effect of creative behavior and instrumental readiness
+AU  - Senayah, William Kwesi
+AU  - Biney-Aidoo, Vivian
+JO  - Social Sciences & Humanities Open
+VL  - 10
+SP  - 101119
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 2590-2911
+DO  - https://doi.org/10.1016/j.ssaho.2024.101119
+UR  - https://www.sciencedirect.com/science/article/pii/S2590291124003164
+KW  - Turnover
+KW  - Organizational commitment
+KW  - Fairness and reward
+KW  - Skills obsolescence
+KW  - Work overload
+KW  - Entrepreneurship intentions
+KW  - Creative behavior
+KW  - Instrumental readiness
+AB  - The study aimed to investigate the antecedents of organizational commitment and turnover intentions among apparel manufacturing workers, specifically focusing on the moderating effects of creative behavior and instrumental readiness. Employing the Expectancy– Confirmation Theory, this study conveniently sampled 393 apparel workers from four free zone exporting firms to gather data. The collected data was analyzed using regression in STATA 14. The study revealed that, although workers were not overburdened with workload, factors such as skills obsolescence, entrepreneurship intention, fairness and rewards had predictive effects on their organizational commitment and turnover intentions. Additionally, the study found that creative behavior and instrumental readiness moderated the relationship between entrepreneurship intention and turnover intention. Given the recent adverse impact of inflation on the economic value of workers' wages and the uncertainty stemming from operational changes regarding skills obsolescence, the study provides valuable insights into how these factors may influence workers’ organizational commitment and turnover intentions. The study contributes important insights into contextualizing and examining turnover and organizational commitment within the apparel manufacturing industry using the hypothesized model developed in the context of the Expectancy-Confirmation Theory.
+ER  - 
+
+TY  - JOUR
+T1  - Collaborative human-centered design of manufacturing tasks: a multi-user immersive VR experience
+AU  - Arkouli, Zoi
+AU  - Tompoulidis, Ilias
+AU  - Kontos, Miltiadis
+AU  - Michalos, George
+AU  - Makris, Sotiris
+JO  - Procedia CIRP
+VL  - 128
+SP  - 597
+EP  - 602
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 34th CIRP Design Conference
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2024.07.056
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827124007467
+KW  - Human-centric design
+KW  - VR-assisted ergonomics evaluation
+KW  - Participatory design
+KW  - Operator 4.0
+KW  - Physical workload evaluation
+KW  - human in the loop
+AB  - Work-related musculoskeletal disorders are among the top factors impacting the individual’s performance and the overall company’s productivity. Virtual Reality (VR) has enabled proactive consideration of human factors. However, there are still barriers impeding the broader adoption of human-in-the-loop approaches, including the number and roles of people involved in simulation stages and the complexity of modelling lengthy task sequences. This paper presents a multi-user immersive VR simulation framework for collaborative human-centered task evaluation involving engineers and operators. The software architecture enabling multi-user VR sessions is discussed, together with a hierarchical approach for modelling complex manufacturing tasks in VR applications and collecting structured data from the simulations. Metrics such as heatmap and Rapid Upper Limb Assessment are integrated for informed decision-making about task redesign. The proposed approach was tested in a case study inspired by large parts manufacturing, where operators need to work in teams. The server-client network enabled the engineer to comprehensively assess the design of the task having two operators executing virtual actions in parallel as they would in the actual workstation. The collection of data from the team of operators and their intuitive visualization enhanced the effectiveness in identifying aspects introducing discomfort and assessing the overall suitability of the design for human operators.
+ER  - 
+
+TY  - JOUR
+T1  - Neurobehavioral assessment of force feedback simulation in industrial robotic teleoperation
+AU  - Zhu, Qi
+AU  - Du, Jing
+AU  - Shi, Yangming
+AU  - Wei, Paul
+JO  - Automation in Construction
+VL  - 126
+SP  - 103674
+PY  - 2021
+DA  - 2021/06/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2021.103674
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580521001254
+KW  - Human-robot collaboration
+KW  - Teleoperation
+KW  - Force feedback
+KW  - Virtual reality
+KW  - fNIRS
+KW  - Neurophysiological analysis
+AB  - Telerobotic operation, i.e., a human operator to manipulate remote robotic systems at a distance, has started to gain its popularity in the construction industry. It is expected to help tackle operational challenges in dynamic construction workplaces. The success of telerobotic operation builds on the effective design of the human-robot interface to provide human operators with necessary senses about the remote workplaces, involving multimodal sensory cues, such as visual, audio and haptic feedback. Especially the force feedback design in telerobotic control interface is of central interest and is becoming the main feature of the bilateral control system for teleoperation, as it helps provide feedback about heavy physical interactions and processes in typical construction operations. Nonetheless, how force feedback simulation solutions affect the human operator's perceptional and behavioral reactions is less understood. This paper investigates the neurobehavioral performance of operators with a bilateral control system in a typical industrial valve operation experiment (n = 21). The experiment tested two force feedback conditions: Realistic (the system replicates the exact same feeling of the torque in valve manipulation operations) and Mediated (the simulation reduces the force on the human operator end by 50% to enable more flexible controls). The performance of the participants was evaluated via various metrics, including task performance, human performance and operational velocity uniformity. Data was collected with eye-tracking, neuroimaging (functional near-infrared spectroscopy, fNIRS), motion analysis, and NASA TLX surveys. The results indicated that the mediated force feedback in bilateral telerobotic operation helped more accurate operation, increased dual tasking, reduced cognitive load and more efficient neural functions; yet it encouraged participants to engage in more irregular actions, showing as dramatic changes in valve rotating speeds. The findings suggest that the force feedback design of telerobotic systems should be more carefully thought through to balance the advantages and disadvantages.
+ER  - 
+
+TY  - JOUR
+T1  - A Decision Support System tailored to the Maintenance Activities of Industry 5.0 Operators
+AU  - Oliveri, L.M.
+AU  - Lo Iacono, N.
+AU  - Chiacchio, F.
+AU  - Facchini, F.
+AU  - Mossa, G.
+JO  - IFAC-PapersOnLine
+VL  - 58
+IS  - 8
+SP  - 186
+EP  - 191
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 6th IFAC Workshop on Advanced Maintenance Engineering, Services and Technology AMEST 2024
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2024.08.118
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896324008401
+KW  - Industry 5.0
+KW  - Operator 5.0
+KW  - Maintenance tasks
+KW  - Human well-being
+KW  - Cognitive workload
+KW  - Mental workload
+AB  - Industry 5.0 addresses the human challenges of Industry 4.0 as a human-centric solution, placing the worker’s well-being at the centre of the production process. If, on the one hand, the last technologies support operator 5.0 to embrace the collaborative potential of human-machine cooperation, on the other hand, the complexity, as well as the rapid evolution of new technologies, could have the potential to produce immediate stress reaction leading to reduce the workers’ well-being. Recent studies have proved that the maintenance area is experiencing many innovations in terms of approaches and technologies. In this field, the rapid progress of technological equipment is leading to an increase in the human operators’ mental workload. This paper presents preliminary concepts and objectives of a Decision Support System (DSS) for the Diagnosis and Evaluation of Maintenance Operations. The DSS intends to assist industrial professionals and stakeholders in maintenance tasks characterised by significant cognitive demands. Considering variables such as task complexity and the mental and physical condition of operators involved in a maintenance task, the DSS will provide real-time recommendations for selecting the most suitable operators by promoting a gradual technology introduction, increasing industrial performance, and ensuring the well-being of the workers.
+ER  - 
+
+TY  - JOUR
+T1  - Augmented reality for industrial quality inspection: An experiment assessing task performance and human factors
+AU  - Seeliger, Arne
+AU  - Cheng, Long
+AU  - Netland, Torbjørn
+JO  - Computers in Industry
+VL  - 151
+SP  - 103985
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 0166-3615
+DO  - https://doi.org/10.1016/j.compind.2023.103985
+UR  - https://www.sciencedirect.com/science/article/pii/S0166361523001355
+KW  - Augmented reality
+KW  - Quality inspection
+KW  - Manufacturing
+KW  - Experiment
+KW  - Head-mounted display
+KW  - Cognitive load
+AB  - Augmented reality (AR) technologies promise to increase the flexibility and productivity of the workforce by providing real-time information to workers right where it is needed. Following Cognitive Load Theory and Attention Theory, AR assistance can reduce the burden on workers’ mental capacity while performing a task, thereby improving task performance. The benefits of AR on industrial activities like assembly or maintenance have been investigated extensively, but the literature on AR-assisted quality control, specifically, quality inspection, is scarce. This stands in contrast to the importance of industrial quality inspection and highlights the need for research on the topic. In this work, we develop an AR-based system for head-mounted displays (HMDs) that visualizes product defects directly on physical products. We investigate its effect on task performance and human factors through an experiment. Participants performed multiple quality inspections using real manufacturing products and equipment with the help of an AR HMD, a screen, or no additional help. We find increased task performance using the AR HMD system. In comparison to screen-based assistance, a moderating effect of task difficulty was observed. Specifically, AR was more beneficial to task completion times given a difficult task. Furthermore, the AR HMD system reduced mental workload and received a positive rating regarding user experience. Our work contributes to the research in industrial AR usage through a novel AR HMD system for quality inspection and provides so far missing empirical and theoretically grounded evidence on its benefits with regard to task performance and human factors.
+ER  - 
+
+TY  - JOUR
+T1  - Considering physical workload and workforce diversity in a Collaborative Assembly Line Balancing (C-ALB) optimization model.
+AU  - Keshvarparast, Ali
+AU  - Battaia, Olga
+AU  - Pirayesh, Amir
+AU  - Battini, Daria
+JO  - IFAC-PapersOnLine
+VL  - 55
+IS  - 10
+SP  - 157
+EP  - 162
+PY  - 2022
+DA  - 2022/01/01/
+T2  - 10th IFAC Conference on Manufacturing Modelling, Management and Control MIM 2022
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2022.09.383
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896322016561
+KW  - collaborative assembly line
+KW  - ergonomic
+KW  - workers diversity
+KW  - industry 4.0
+AB  - In comparison to the traditional usage of robots, Cobotization (Human-Robot collaboration) can be considered as an effective way to increase the productivity of assembly lines while ensuring job security and flexibility. However, successful implementation of human-robot collaboration scenarios requires adapted decision support tools. Workforce diversity can be mentioned as one of the factors that should be included to study its impact on both the performance of the production system and on ergonomics. Accordingly, in this research, a new bi-objective optimization model for the collaborative assembly line with Cobots is proposed to simultaneously minimize the cycle time and the physical workload of human operators. The workforce diversity of human operators is modeled through experience level and physical ability. To analyze the benefits of the developed model, a comparison between the different solutions from the Pareto front is conducted. The results show that the utilization of Cobots can reduce both cycle time and physical workload in the assembly line.
+ER  - 
+
+TY  - JOUR
+T1  - Robust production planning and capacity control for flexible assembly lines
+AU  - Gyulai, Dávid
+AU  - Kádár, Botond
+AU  - Monosotori, László
+JO  - IFAC-PapersOnLine
+VL  - 48
+IS  - 3
+SP  - 2312
+EP  - 2317
+PY  - 2015
+DA  - 2015/01/01/
+T2  - 15th IFAC Symposium onInformation Control Problems inManufacturing
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2015.06.432
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896315006710
+KW  - assembly
+KW  - planning
+KW  - production control
+KW  - mathematical programming
+KW  - simulation
+AB  - The frequently changing order stream and high product variety require robust planning and control approaches, as well as a flexible system structure in order to fulfill the highest possible customer service level and to keep the production costs on a reasonable level. In the paper, a combined production planning and capacity control method for assembly lines is proposed aiming at balancing the workload of the human operators and decreasing the overall production costs on a given time horizon. Instead of using the idealistic cycle times and simple manufacturing control rules, the proposed planning and control methodology is based on adaptive calculations taken from continuously updated historical production data. The manufacturing execution-level data is applied for building regression models predicting the capacity requirements of the future production scenarios. Besides, the historical data is also used as direct input of discrete-event simulations, to determine the proper control policies of human operator allocations for the different scenarios mentioned above. In order to calculate reliable and feasible production plans, the regression models and control policies are integrated in a mathematical programming model that minimizes a cost function representing the total production costs.
+ER  - 
+
+TY  - JOUR
+T1  - Game theory-oriented approach for disassembly line worker assignment and balancing problem with multi-manned workstations
+AU  - Kose, Yildiz
+AU  - Cevikcan, Emre
+AU  - Ertemel, Sinan
+AU  - Murat, Mirac
+JO  - Computers & Industrial Engineering
+VL  - 181
+SP  - 109294
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2023.109294
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835223003182
+KW  - Disassembly line balancing
+KW  - Multi-manned workstations
+KW  - Optimization
+KW  - Game theory
+KW  - Worker satisfaction
+KW  - WEEE
+AB  - Multi-manned workstations, where a worker team synchronously executes different operations on the same product, have the potential to increase disassembly line performance. Despite focusing on main objectives such as workload imbalance and worker performance, existing disassembly line balancing studies have not addressed worker satisfaction. This study addresses the disassembly line worker assignment and balancing problem by considering not only multi-manned workstations with heterogeneous workers, but also workers' preference and performance. A novel multi-objective mixed integer linear programming model is formulated with the following objectives: minimizing the number of workers, the number of workstations, workload imbalance, maximizing worker satisfaction, and worker performance. Moreover, this study is proposing heuristics to utilize game theory-oriented approaches in the context of the addressed problem. Some comparative studies were carried out to compare the performance of the proposed heuristics. The effects of the factors were revealed by the statistical analysis conducted on the solutions for newly generated test problems. After the superiority of the proposed heuristics was indicated through comparative studies, they were applied to a washing machine disassembly system in the waste electrical and electronic equipment (WEEE) industry. The application indicated the performance improvement for the disassembly lead time (65%) and the space requirement (64%) compared to a classical disassembly system design.
+ER  - 
+
+TY  - JOUR
+T1  - Optimal workforce assignment to operations of a paced assembly line
+AU  - Dolgui, Alexandre
+AU  - Kovalev, Sergey
+AU  - Kovalyov, Mikhail Y.
+AU  - Malyutin, Sergey
+AU  - Soukhal, Ameur
+JO  - European Journal of Operational Research
+VL  - 264
+IS  - 1
+SP  - 200
+EP  - 211
+PY  - 2018
+DA  - 2018/01/01/
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2017.06.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0377221717305350
+KW  - Workforce assignment
+KW  - Scheduling
+KW  - Complexity analysis
+KW  - Mixed integer linear programming
+KW  - Heuristics
+AB  - We study a paced assembly line intended for manufacturing different products. Workers with identical skills perform non-preemptable operations whose assignment to stations is known. Operations assigned to the same station are executed sequentially, and they should follow the given precedence relations. Operations assigned to different stations can be performed in parallel. The operation’s processing time depends on the number of workers performing this operation. The problem consists in assigning workers to operations such that the maximal number of workers employed simultaneously in the assembly line is minimized, the line cycle time is not exceeded and the box constraints specifying the possible number of workers for each operation are not violated. We show that the general problem is NP-hard in the strong sense, develop conventional and randomized heuristics, propose a reduction to a series of feasibility problems, present a MILP model for the feasibility problem, show relation of the feasibility problem to multi-mode project scheduling and multiprocessor scheduling, establish computational complexity of several special cases based on this relation and provide computer experiments with real and simulated data.
+ER  - 
+
+TY  - JOUR
+T1  - Classification of mental workload in Human-robot collaboration using machine learning based on physiological feedback
+AU  - Lin, Chiuhsiang Joe
+AU  - Lukodono, Rio Prasetyo
+JO  - Journal of Manufacturing Systems
+VL  - 65
+SP  - 673
+EP  - 685
+PY  - 2022
+DA  - 2022/10/01/
+SN  - 0278-6125
+DO  - https://doi.org/10.1016/j.jmsy.2022.10.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0278612522001881
+KW  - Industry 5.0
+KW  - Mental workload
+KW  - Physiological parameter
+KW  - Human–robot collaboration
+KW  - Machine learning
+KW  - Human-centric approach
+AB  - The development of the industry phase from 4.0 into 5.0 is shifting the focus from technology-driven to value-driven to empower and engage humans in the work environment with greater influence and responsibility. This means that it is necessary to know how humans perceive collaborative work, which resulted from a shift from traditional work. Capturing the physiological conditions of humans in support of device development has shown promise in terms of the flexibility and broader scope of data in the wearable device system. In this study, the human mental workload is evaluated via physiological feedback using wearable sensors in a quantitative approach to recognize the human workload perception in the Human–robot collaboration (HRC). The physiological feedback is used to evaluate the mental workload with a classification approach utilizing supervised machine learning algorithms. The results show that, by using a random forest algorithm which selects features according to information gain, the accuracy of classifying the mental workload can be as high as 94% in the testing phase. Thus, the mental workload perceived by the operator can be estimated from physiological parameters. This finding can support Industry 5.0 applications in human–robot collaboration with a human-centric approach.
+ER  - 
