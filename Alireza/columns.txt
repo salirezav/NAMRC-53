@@ -1,0 +1,51 @@
+Index(['UT (Unique WOS ID)', 'Article Title', 'Authors', 'Volume',
+       'Author Full Names', 'Source Title', 'Publication Year',
+       'Publication Date', 'Pubmed Id', 'ISSN', 'DOI'],
+      dtype='object')
+
+
+Index(['Publication Type', 'Article Title', 'Authors', 'Source Title',
+       'Volume', 'Start Page', 'End Page', 'Publication Year',
+       'Publication Date', 'Conference Title', 'ISSN', 'DOI', 'DOI Link',
+       'Author Keywords', 'Abstract', 'Issue'],
+      dtype='object')
+
+
+Index(['Publication Type', 'Authors', 'Book Authors', 'Book Editors',
+       'Book Group Authors', 'Author Full Names', 'Book Author Full Names',
+       'Group Authors', 'Article Title', 'Source Title', 'Book Series Title',
+       'Book Series Subtitle', 'Language', 'Document Type', 'Conference Title',
+       'Conference Date', 'Conference Location', 'Conference Sponsor',
+       'Conference Host', 'Author Keywords', 'Keywords Plus', 'Abstract',
+       'Addresses', 'Affiliations', 'Reprint Addresses', 'Email Addresses',
+       'Researcher Ids', 'ORCIDs', 'Funding Orgs', 'Funding Name Preferred',
+       'Funding Text', 'Cited References', 'Cited Reference Count',
+       'Times Cited, WoS Core', 'Times Cited, All Databases',
+       '180 Day Usage Count', 'Since 2013 Usage Count', 'Publisher',
+       'Publisher City', 'Publisher Address', 'ISSN', 'eISSN', 'ISBN',
+       'Journal Abbreviation', 'Journal ISO Abbreviation', 'Publication Date',
+       'Publication Year', 'Volume', 'Issue', 'Part Number', 'Supplement',
+       'Special Issue', 'Meeting Abstract', 'Start Page', 'End Page',
+       'Article Number', 'DOI', 'DOI Link', 'Book DOI', 'Early Access Date',
+       'Number of Pages', 'WoS Categories', 'Web of Science Index',
+       'Research Areas', 'IDS Number', 'Pubmed Id', 'Open Access Designations',
+       'Highly Cited Status', 'Hot Paper Status', 'Date of Export',
+       'UT (Unique WOS ID)', 'Web of Science Record'],
+      dtype='object')
+
+
+Index(['Authors', 'Author full names', 'Author(s) ID', 'Title', 'Year',
+       'Source title', 'Volume', 'Issue', 'Art. No.', 'Page start', 'Page end',
+       'Page count', 'Cited by', 'DOI', 'Link', 'Affiliations',
+       'Authors with affiliations', 'Abstract', 'Author Keywords',
+       'Index Keywords', 'Molecular Sequence Numbers', 'Chemicals/CAS',
+       'Tradenames', 'Manufacturers', 'Funding Details', 'Funding Texts',
+       'References', 'Correspondence Address', 'Editors', 'Publisher',
+       'Sponsors', 'Conference name', 'Conference date', 'Conference location',
+       'Conference code', 'ISSN', 'ISBN', 'CODEN', 'PubMed ID',
+       'Language of Original Document', 'Abbreviated Source Title',
+       'Document Type', 'Publication Stage', 'Open Access', 'Source', 'EID'],
+      dtype='object')
+
+
+['Article Title', 'Authors', 'Volume', 'Source Title', 'Publication Year', 'Publication Date', 'ISSN', 'DOI']
