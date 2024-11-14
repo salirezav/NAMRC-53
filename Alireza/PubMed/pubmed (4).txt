@@ -1,0 +1,2363 @@
+PMID- 29577838
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181025
+LR  - 20211204
+IS  - 2165-0969 (Electronic)
+IS  - 2165-0799 (Linking)
+VI  - 66
+IP  - 11
+DP  - 2018 Nov
+TI  - Effort-Reward Imbalance and Work Productivity Among Hotel Housekeeping Employees: 
+      A Pilot Study.
+PG  - 516-521
+LID - 10.1177/2165079918755803 [doi]
+AB  - This study explored the relationship between effort-reward imbalance (ERI) at 
+      work and work productivity among hotel housekeepers. A community-based approach 
+      was used to recruit 23 hotel housekeepers who completed the ERI and Work 
+      Performance Questionnaires. Work productivity was determined by combining 
+      self-report absenteeism and presenteeism. More than 40% of the participants 
+      reported high ERI (ERI >1). Also, 59.1% reported low work productivity. 
+      Interestingly, despite the individualized high reports of ERI and low work 
+      productivity, correlation analysis showed that high ERI was correlated with high 
+      presenteeism and work productivity as a whole. This is the first study to explore 
+      work productivity among this worker group. Despite the small sample size and the 
+      cross-sectional nature of the study, this study points to the need for 
+      organization-based interventions to not only improve employee health but also 
+      their work productivity.
+FAU - Rosemberg, Marie-Anne S
+AU  - Rosemberg MS
+AD  - 1 University of Michigan.
+FAU - Li, Yang
+AU  - Li Y
+AD  - 1 University of Michigan.
+LA  - eng
+PT  - Journal Article
+DEP - 20180326
+PL  - United States
+TA  - Workplace Health Saf
+JT  - Workplace health & safety
+JID - 101575677
+MH  - Absenteeism
+MH  - Adult
+MH  - Cross-Sectional Studies
+MH  - *Efficiency
+MH  - *Household Work
+MH  - Humans
+MH  - Middle Aged
+MH  - Occupational Health
+MH  - Pilot Projects
+MH  - Presenteeism/statistics & numerical data
+MH  - *Reward
+MH  - Surveys and Questionnaires
+MH  - *Workload
+OTO - NOTNLM
+OT  - absenteeism
+OT  - effort-reward imbalance
+OT  - hotel industry
+OT  - housekeepers
+OT  - immigrant workers
+OT  - low-wage workers
+OT  - maids
+OT  - presenteeism
+OT  - travel accommodation
+OT  - work productivity
+EDAT- 2018/03/27 06:00
+MHDA- 2018/10/26 06:00
+CRDT- 2018/03/27 06:00
+PHST- 2018/03/27 06:00 [pubmed]
+PHST- 2018/10/26 06:00 [medline]
+PHST- 2018/03/27 06:00 [entrez]
+AID - 10.1177/2165079918755803 [doi]
+PST - ppublish
+SO  - Workplace Health Saf. 2018 Nov;66(11):516-521. doi: 10.1177/2165079918755803. 
+      Epub 2018 Mar 26.
+
+PMID- 38489212
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240913
+LR  - 20240913
+IS  - 1875-9270 (Electronic)
+IS  - 1051-9815 (Linking)
+VI  - 79
+IP  - 1
+DP  - 2024
+TI  - Evaluation of absenteeism and presenteeism status of factory employees.
+PG  - 449-457
+LID - 10.3233/WOR-230642 [doi]
+AB  - BACKGROUND: While absenteeism refers to not attending work, presenteeism is 
+      defined as not being present at work. These two conditions, which negatively 
+      affect employee health, can be indicators of work efficiency, work peace, work 
+      safety and work engagement. OBJECTIVE: Several factors were evaluated in this 
+      study concerning absenteeism and presenteeism among factory workers. METHODS: 
+      This cross-sectional study was conducted among workers in a factory operating in 
+      a heavy industry in southern Turkey in 2021. A survey consisting of 57 questions 
+      was applied to 152 factory workers by face-to-face interview method. The 
+      participants' behaviour over the last month was evaluated regarding absenteeism 
+      and presenteeism. RESULTS: It was reported that 24 (15.8%) of all employees were 
+      absent from work in the last month (absenteeism), excluding holidays and sick 
+      leave, and that 20 (13.2%) employees engaged in presenteeism, working when they 
+      should not have been at the workplace. There was a high absenteeism rate among 
+      employees who had an acute illness and were dissatisfied with their jobs. Several 
+      factors have been associated with presenteeism, including poor economic 
+      conditions, family health problems, previous unemployment, working overtime, job 
+      dissatisfaction, poor relationships with colleagues and difficulty finding a 
+      replacement, acute illness, sleep problems and fatigue. CONCLUSIONS: To increase 
+      the productivity and commitment of employees, it may be useful to identify the 
+      reasons for absenteeism and present behaviours, to facilitate effective 
+      interpersonal communication skills by examining the organisational climate of 
+      employees, and to regulate workload based on a comprehensive assessment of the 
+      health status of employees.
+FAU - Oral, Belgin
+AU  - Oral B
+AD  - Kayseri City Hospital, Occupational Diseases Clinic, Kayseri, Turkey.
+FAU - Solak, Yavuzalp
+AU  - Solak Y
+AD  - Şereflikoçhisar District Health Directorate, Ankara, Turkey.
+FAU - Durmuş, Hasan
+AU  - Durmuş H
+AD  - Public Health Department, Faculty of Medicine, Erciyes University, Kayseri, 
+      Turkey.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Work
+JT  - Work (Reading, Mass.)
+JID - 9204382
+SB  - IM
+MH  - Humans
+MH  - *Presenteeism/statistics & numerical data
+MH  - *Absenteeism
+MH  - Cross-Sectional Studies
+MH  - Male
+MH  - Adult
+MH  - Female
+MH  - Turkey
+MH  - Middle Aged
+MH  - Surveys and Questionnaires
+MH  - Job Satisfaction
+MH  - Workplace/psychology/standards
+OTO - NOTNLM
+OT  - Presenteeism
+OT  - absenteeism
+OT  - employee health
+OT  - industry health
+OT  - occupational health
+OT  - total worker health
+EDAT- 2024/03/15 18:42
+MHDA- 2024/09/13 18:44
+CRDT- 2024/03/15 12:43
+PHST- 2024/09/13 18:44 [medline]
+PHST- 2024/03/15 18:42 [pubmed]
+PHST- 2024/03/15 12:43 [entrez]
+AID - WOR230642 [pii]
+AID - 10.3233/WOR-230642 [doi]
+PST - ppublish
+SO  - Work. 2024;79(1):449-457. doi: 10.3233/WOR-230642.
+
+PMID- 32310214
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201221
+LR  - 20201221
+IS  - 1875-9270 (Electronic)
+IS  - 1051-9815 (Linking)
+VI  - 65
+IP  - 4
+DP  - 2020
+TI  - Urinary symptoms and infections among female garment factory workers in 
+      Bangladesh.
+PG  - 847-856
+LID - 10.3233/WOR-203136 [doi]
+AB  - BACKGROUND: The prevalence of urinary symptoms and infections among female 
+      garment factory workers in Bangladesh - a large developing country - is largely 
+      unknown. Garment sector is this country's main economic growth engine. 
+      OBJECTIVES: This paper focuses on garment industry workers and compares the 
+      findings with another group of low socioeconomic status working women. METHODS: 
+      Urinary tract symptoms (UTS) were determined by self-reported survey including 
+      International Consultation on Incontinence Modular Questionnaire-Female Lower 
+      Urinary Tract Symptoms (ICIQ-FLUTS) and urinary tract infection (UTI) was 
+      determined among a subset population by urine dipstick tests. RESULTS: Data were 
+      collected from 310 garment workers and 297 comparison workers. About one third of 
+      garment workers (31.94%) and comparison workers (29.97%) could take up to 3 
+      toilet breaks in a day. Garment workers reported to be more sexually active and 
+      menstruation was more common among them compared to comparison workers. They 
+      reported a significantly higher prevalence of malodorous urine and vaginal 
+      discharge. Garment workers were found to have a significantly higher ICIQ-FLUTS 
+      score of voiding than comparison workers (0.44 vs. 0.27; p-value = 0.0167).Among 
+      the study respondents, 148 garment workers and 134 other workers provided urine 
+      samples and 21 (7.45%) were found to have UTI. After considering all the risk 
+      factors in multivariate model, garment work had a significant impact on the 
+      probability of having UTI with Odds Ratio of 5.46 (p-value = 0.0374; 95% 
+      CI = 1.10, 26.97) compared to other workers. CONCLUSIONS: This study highlights 
+      the prevalence and burden of urinary symptoms and infections among female worker 
+      populations in Bangladesh.
+FAU - Moran, Jacxelyn
+AU  - Moran J
+AD  - Massachusetts General Hospital, Boston, MA, USA.
+FAU - Fitch, Taylor Jennelle
+AU  - Fitch TJ
+AD  - School of Medicine, Emory University, Atlanta, GA, USA.
+FAU - Villanueva, Gabriela
+AU  - Villanueva G
+AD  - Texas Tech University Health Sciences Center, El Paso, TX, USA.
+FAU - Quadir, Mohammad Morshedul
+AU  - Quadir MM
+AD  - Center for the Rehabilitation of the Paralyzed (CRP), Dhaka, Bangladesh.
+FAU - Chien, Lung-Chang
+AU  - Chien LC
+AD  - Department of Environmental and Occupational Health, Epidemiology and 
+      Biostatistics Program, University of Nevada, Las Vegas, NV, USA.
+FAU - Alamgir, Hasnat
+AU  - Alamgir H
+AD  - Department of Pharmacy, East West University, Dhaka, Bangladesh.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Work
+JT  - Work (Reading, Mass.)
+JID - 9204382
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Bangladesh/epidemiology
+MH  - *Clothing
+MH  - Cross-Sectional Studies
+MH  - Female
+MH  - Humans
+MH  - Manufacturing and Industrial Facilities/*standards/statistics & numerical data
+MH  - Middle Aged
+MH  - Risk Factors
+MH  - Surveys and Questionnaires
+MH  - Urinary Tract Infections/epidemiology/*etiology
+MH  - Workload/psychology/standards
+OTO - NOTNLM
+OT  - Developing countries
+OT  - garment workers of Bangladesh
+OT  - low socioeconomic status
+OT  - working women
+EDAT- 2020/04/21 06:00
+MHDA- 2020/12/22 06:00
+CRDT- 2020/04/21 06:00
+PHST- 2020/04/21 06:00 [pubmed]
+PHST- 2020/12/22 06:00 [medline]
+PHST- 2020/04/21 06:00 [entrez]
+AID - WOR203136 [pii]
+AID - 10.3233/WOR-203136 [doi]
+PST - ppublish
+SO  - Work. 2020;65(4):847-856. doi: 10.3233/WOR-203136.
+
+PMID- 31658088
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200427
+LR  - 20200427
+IS  - 1875-9270 (Electronic)
+IS  - 1051-9815 (Linking)
+VI  - 64
+IP  - 3
+DP  - 2019
+TI  - Connotations of psychological and physiological health in the psychosocial work 
+      environment: An industrial context.
+PG  - 551-561
+LID - 10.3233/WOR-193016 [doi]
+AB  - BACKGROUND: Psychological conditions are experiences of the conscious and 
+      unconscious elements of the work context, which revolve around workers' 
+      perceptions of feeling either engaged or disengaged with the assigned tasks. In 
+      the psychosocial work environment of hazardous industries like petrochemicals 
+      where production lasts twenty-four hours a day and continues seven-days-a-week, a 
+      psychologically available worker is extremely important. Psychological 
+      availability refers to when workers who are physically, emotionally and 
+      psychologically engaged at the moment of performing tasks. OBJECTIVE: The broad 
+      objective of this study was to investigate the direct and indirect effects of 
+      behavioral factors on the psychological and physiological health of workers. 
+      METHODS: The latest, second generation technique, which is structural equation 
+      modeling, is used to identify the relationships between behavioral antecedents 
+      and health outcomes. A total of 277 technical workers participated, aged between 
+      20 and 49 and were healthy in all aspects. RESULTS: The study results showed 
+      quantitative demands, emotional demands, work-family conflict, and job insecurity 
+      were significantly associated with both psychological (stress) and physiological 
+      (Body Mass Index) factors. The social support of colleagues produced mixed 
+      findings with direct and indirect paths. Stress also significantly mediates the 
+      psychosocial factors and burnout of the workers. CONCLUSION: The study concluded 
+      that workers were physically available, but they experienced distractions as 
+      members of social systems, affecting their physiological and psychological 
+      health.
+FAU - Javaid, Muhammad Umair
+AU  - Javaid MU
+AD  - Department of Management Sciences, Lahore Garrison University, Pakistan.
+FAU - Bano, Sobia
+AU  - Bano S
+AD  - Department of Management Sciences, GIFT Business School, GIFT University, 
+      Pakistan.
+FAU - Mirza, Muhammad Zeeshan
+AU  - Mirza MZ
+AD  - Department of Engineering Management, National University of Science and 
+      Technology, Pakistan.
+FAU - Isha, Ahmad Shahrul Nizam
+AU  - Isha ASN
+AD  - Department of Management & Humanities, Universiti Teknologi PETRONAS, Malaysia.
+FAU - Nadeem, Shahid
+AU  - Nadeem S
+AD  - Department of Management Sciences, Lahore Garrison University, Pakistan.
+FAU - Jawaid, Arif
+AU  - Jawaid A
+AD  - Department of Management Sciences, Lahore Garrison University, Pakistan.
+FAU - Ghazali, Zulkipli
+AU  - Ghazali Z
+AD  - Department of Management & Humanities, Universiti Teknologi PETRONAS, Malaysia.
+FAU - Nübling, Matthias
+AU  - Nübling M
+AD  - FFAW: Freiburg Research Centre for Occupational Sciences, Freiburg, Germany.
+FAU - Imtiaz, Nazish
+AU  - Imtiaz N
+AD  - Department of Management Sciences, National Textile University, Pakistan.
+FAU - Kaur, Parveen
+AU  - Kaur P
+AD  - Department of Anthropology and Sociology, Universiti Malaysia Sarawak, Malaysia.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Work
+JT  - Work (Reading, Mass.)
+JID - 9204382
+SB  - IM
+MH  - Adult
+MH  - Body Mass Index
+MH  - Burnout, Professional/psychology
+MH  - *Chemical Industry
+MH  - Emotions
+MH  - Family Conflict
+MH  - Humans
+MH  - *Job Satisfaction
+MH  - Middle Aged
+MH  - Social Support
+MH  - Stress, Psychological
+MH  - Work-Life Balance
+MH  - Workload/psychology
+MH  - Workplace/*psychology
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Health
+OT  - multistage sampling
+OT  - physiological
+OT  - psychosocial
+OT  - work
+EDAT- 2019/10/29 06:00
+MHDA- 2020/04/28 06:00
+CRDT- 2019/10/29 06:00
+PHST- 2019/10/29 06:00 [pubmed]
+PHST- 2020/04/28 06:00 [medline]
+PHST- 2019/10/29 06:00 [entrez]
+AID - WOR193016 [pii]
+AID - 10.3233/WOR-193016 [doi]
+PST - ppublish
+SO  - Work. 2019;64(3):551-561. doi: 10.3233/WOR-193016.
+
+PMID- 25659369
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161213
+LR  - 20171116
+IS  - 1875-9270 (Electronic)
+IS  - 1051-9815 (Linking)
+VI  - 50
+IP  - 3
+DP  - 2015
+TI  - Ergonomic risk factor identification for sewing machine operators through 
+      supervised occupational therapy fieldwork in Bangladesh: A case study.
+PG  - 357-62
+LID - 10.3233/WOR-151991 [doi]
+AB  - BACKGROUND: Many sewing machine operators are working with high risk factors for 
+      musculoskeletal health in the garments industries in Bangladesh. OBJECTIVE: To 
+      identify the physical risk factors among sewing machine operators in a 
+      Bangladeshi garments factory. PARTICIPANTS: Sewing machine operators (327, 83% 
+      female), were evaluated. The mean age of the participants was 25.25 years. 
+      METHODS AND MATERIALS: Six ergonomic risk factors were determined using the 
+      Musculoskeletal Disorders risk assessment. Data collection included measurements 
+      of sewing machine table and chair heights; this data was combined with 
+      information from informal interviews. RESULTS AND DISCUSSION: Significant 
+      ergonomic risk factors found included the combination of awkward postures of the 
+      neck and back, repetitive hand and arm movements, poor ergonomic workstations and 
+      prolonged working hours without adequate breaks; these risk factors resulted in 
+      musculoskeletal complaints, sick leave, and switching jobs. CONCLUSIONS: One 
+      aspect of improving worker health in garment factories includes addressing 
+      musculoskeletal risk factors through ergonomic interventions.
+FAU - Habib, Md Monjurul
+AU  - Habib MM
+AD  - Department of Occupational Therapy, Bangladesh Health Professions Institute 
+      (BHPI), Centre for the Rehabilitation of the Paralysed (CRP), P.O: CRP-Chapain, 
+      Savar, Dhaka-1343, Bangladesh. Tel.: +880 2 7745464 5, Ex 232; Cell: +880 
+      1716709253; E-mail: monjurulshagar@yahoo.com.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Work
+JT  - Work (Reading, Mass.)
+JID - 9204382
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Bangladesh
+MH  - Cumulative Trauma Disorders/*prevention & control
+MH  - Ergonomics
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Musculoskeletal Diseases/*prevention & control
+MH  - Occupational Diseases/*prevention & control
+MH  - *Occupational Therapy
+MH  - Posture
+MH  - Risk Factors
+MH  - *Textile Industry
+MH  - Time Factors
+MH  - Workload
+MH  - Workplace/organization & administration
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Bangladesh
+OT  - Ergonomic risk factors
+OT  - ergonomic intervention
+OT  - garments industries
+OT  - musculoskeletal complaints
+EDAT- 2015/02/11 06:00
+MHDA- 2016/12/15 06:00
+CRDT- 2015/02/10 06:00
+PHST- 2015/02/10 06:00 [entrez]
+PHST- 2015/02/11 06:00 [pubmed]
+PHST- 2016/12/15 06:00 [medline]
+AID - U778702825K27R6R [pii]
+AID - 10.3233/WOR-151991 [doi]
+PST - ppublish
+SO  - Work. 2015;50(3):357-62. doi: 10.3233/WOR-151991.
+
+PMID- 23803439
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160826
+LR  - 20140917
+IS  - 1875-9270 (Electronic)
+IS  - 1051-9815 (Linking)
+VI  - 49
+IP  - 1
+DP  - 2014
+TI  - Change in job stress and job satisfaction over a two-year interval using the 
+      Brief Job Stress Questionnaire.
+PG  - 107-11
+LID - 10.3233/WOR-131658 [doi]
+AB  - BACKGROUND: The relationship between job stress and job satisfaction by the 
+      follow-up study should be more evaluated for workers' health support. OBJECTIVE: 
+      Job stress is strongly affected by the content of the job and the personality of 
+      a worker. This study was focused on determining the changes of the job stress and 
+      job satisfaction levels over a two-year interval, using the Brief Job Stress 
+      Questionnaire (BJSQ). METHODS: This self-administered questionnaire was 
+      distributed to the same 310 employees of a Japanese industrial company in 2009 
+      and 2011. Sixty-one employees were lost from 371 responders in 2009. Data of 16 
+      items from 57 items graded on a four-point Likert-type scale to measure the job 
+      stressors, psycho-physical complaints and support for workers, job overload (six 
+      items), job control (three items), support (six items) and job satisfaction score 
+      (one item) were selected for the analysis. RESULTS: The age-adjusted partial 
+      correlation coefficients for job overload, job control and support were 0.684 (p< 
+      0.001), 0.474 (p< 0.001) and 0.612 (p< 0.001), respectively. The concordance 
+      correlation coefficient (and 95% confidence interval indicated within 
+      parentheses) for job overload, job control and support were 0.681 (0.616-0.736), 
+      0.473 (0.382-0.555), and 0.623 (0.549-0.687), respectively. There were no 
+      significant differences in the mean score for job overload, job control or 
+      support, although significant decline in the job satisfaction level was apparent 
+      at the end of the two-year period (p< 0.05). There was also a significant decline 
+      in the job satisfaction in 2009 and in 2011 for subjects with keeping low job 
+      strain. CONCLUSIONS: No significant changes in the scores on the three elements 
+      of job stress were observed over the two-year study period, and the job 
+      satisfaction level deteriorated significantly during this period. There was a 
+      decline in the job satisfaction in the two-year period, although subjects did not 
+      suffer from job stress at the same period.
+FAU - Kawada, Tomoyuki
+AU  - Kawada T
+AD  - Department of Hygiene and Public Health, Nippon Medical School, Tokyo, Japan.
+FAU - Otsuka, Toshiaki
+AU  - Otsuka T
+AD  - Department of Hygiene and Public Health, Nippon Medical School, Tokyo, Japan.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Work
+JT  - Work (Reading, Mass.)
+JID - 9204382
+SB  - IM
+MH  - Adult
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Industry
+MH  - Japan/epidemiology
+MH  - *Job Satisfaction
+MH  - Male
+MH  - Occupational Diseases/epidemiology/*psychology
+MH  - Prevalence
+MH  - Psychometrics
+MH  - Social Support
+MH  - Stress, Psychological/epidemiology/*psychology
+MH  - Surveys and Questionnaires
+MH  - Workload
+OTO - NOTNLM
+OT  - Occupational survey
+OT  - agreement
+OT  - demand-control-support model
+OT  - follow-up study
+OT  - questionnaire
+EDAT- 2013/06/28 06:00
+MHDA- 2016/08/27 06:00
+CRDT- 2013/06/28 06:00
+PHST- 2013/06/28 06:00 [entrez]
+PHST- 2013/06/28 06:00 [pubmed]
+PHST- 2016/08/27 06:00 [medline]
+AID - K71278X7Q5137X12 [pii]
+AID - 10.3233/WOR-131658 [doi]
+PST - ppublish
+SO  - Work. 2014;49(1):107-11. doi: 10.3233/WOR-131658.
+
+PMID- 30609231
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190618
+LR  - 20190618
+IS  - 1532-2998 (Electronic)
+IS  - 1532-3005 (Linking)
+VI  - 35
+IP  - 2
+DP  - 2019 Apr
+TI  - Perceived stress in human-machine interaction in modern manufacturing 
+      environments-Results of a qualitative interview study.
+PG  - 187-199
+LID - 10.1002/smi.2853 [doi]
+AB  - Rapid advances in digitization technologies are changing modern working 
+      conditions especially in industrial settings. Consequently, employees are 
+      confronted with new forms of human-machine interaction. Whether changes in 
+      working conditions in general, and the increasing relevance of human-machine 
+      interaction in particular, affect psychosocial working conditions, and employee's 
+      health is currently matter of debate, but empirical data are lacking. Therefore, 
+      we conducted semistructured interviews with 36 employees working in five 
+      different companies. The interviews were aimed at identifying potential stressors 
+      associated with the introduction and use of modern technologies in the 
+      manufacturing industry. The results show that stressors linked to human-machine 
+      interaction are technical problems, poor usability, low situation awareness, and 
+      increased requirements on employees' qualification. For example, technical 
+      problems such as breakdowns or slowdowns were described as a main stressor when 
+      employees were not qualified to handle these problems on their own, thus 
+      decelerating work flows and causing additional time pressure. Overall, the 
+      results show that problems in human-machine interaction, which have been observed 
+      in laboratory and nonindustrial settings, also apply to industrial work places 
+      with highly automated working conditions and are a potential source of stress. 
+      These factors should be considered in psychosocial risk assessment of 
+      work-related stressors.
+CI  - © 2019 John Wiley & Sons, Ltd.
+FAU - Körner, Ulrike
+AU  - Körner U
+AUID- ORCID: 0000-0002-4295-764X
+AD  - Institute of Occupational, Social and Environmental Medicine, Centre for Health 
+      and Society, Faculty of Medicine, University of Düsseldorf, Düsseldorf, Germany.
+FAU - Müller-Thur, Kathrin
+AU  - Müller-Thur K
+AD  - Institute of Medical Sociology, Centre for Health and Society, Medical Faculty, 
+      University of Düsseldorf, Düsseldorf, Germany.
+FAU - Lunau, Thorsten
+AU  - Lunau T
+AD  - Institute of Medical Sociology, Centre for Health and Society, Medical Faculty, 
+      University of Düsseldorf, Düsseldorf, Germany.
+FAU - Dragano, Nico
+AU  - Dragano N
+AD  - Institute of Medical Sociology, Centre for Health and Society, Medical Faculty, 
+      University of Düsseldorf, Düsseldorf, Germany.
+FAU - Angerer, Peter
+AU  - Angerer P
+AD  - Institute of Occupational, Social and Environmental Medicine, Centre for Health 
+      and Society, Faculty of Medicine, University of Düsseldorf, Düsseldorf, Germany.
+FAU - Buchner, Axel
+AU  - Buchner A
+AD  - Department of Experimental Psychology, University Düsseldorf, Düsseldorf, 
+      Germany.
+LA  - eng
+GR  - FKZ 02L14A170/German Federal Ministry of Education and Research (BMBF)/
+PT  - Journal Article
+DEP - 20190130
+PL  - England
+TA  - Stress Health
+JT  - Stress and health : journal of the International Society for the Investigation of 
+      Stress
+JID - 101089166
+SB  - IM
+MH  - Adult
+MH  - Female
+MH  - Humans
+MH  - Interviews as Topic
+MH  - Male
+MH  - *Man-Machine Systems
+MH  - Middle Aged
+MH  - *Occupational Health
+MH  - Occupational Stress/*etiology/*psychology
+MH  - Perception
+MH  - Qualitative Research
+MH  - Risk Factors
+MH  - Social Support
+MH  - Workload
+MH  - Young Adult
+OTO - NOTNLM
+OT  - automation
+OT  - digitization
+OT  - human-machine interaction
+OT  - interviews
+OT  - occupational stress
+OT  - psychosocial working condition
+EDAT- 2019/01/05 06:00
+MHDA- 2019/06/19 06:00
+CRDT- 2019/01/05 06:00
+PHST- 2018/07/17 00:00 [received]
+PHST- 2018/12/14 00:00 [revised]
+PHST- 2018/12/27 00:00 [accepted]
+PHST- 2019/01/05 06:00 [pubmed]
+PHST- 2019/06/19 06:00 [medline]
+PHST- 2019/01/05 06:00 [entrez]
+AID - 10.1002/smi.2853 [doi]
+PST - ppublish
+SO  - Stress Health. 2019 Apr;35(2):187-199. doi: 10.1002/smi.2853. Epub 2019 Jan 30.
+
+PMID- 32640611
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210301
+LR  - 20210301
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 20
+IP  - 13
+DP  - 2020 Jul 6
+TI  - Practical Judgment of Workload Based on Physical Activity, Work Conditions, and 
+      Worker's Age in Construction Site.
+LID - 10.3390/s20133786 [doi]
+LID - 3786
+AB  - It is important for construction companies to sustain a productive workforce 
+      without sacrificing its health and safety. This study aims to develop a practical 
+      judgement method to estimate the workload risk of individual construction 
+      workers. Based on studies, we developed a workload model comprising a 
+      hygrothermal environment, behavioral information, and the physical 
+      characteristics of workers). The construction workers' heart rate and physical 
+      activity were measured using the data collected from a wearable device equipped 
+      with a biosensor and an acceleration sensor. This study is the first report to 
+      use worker physical activity, age, and the wet bulb globe temperature (WBGT) to 
+      determine a worker's physical workload. The accuracy of this health risk judgment 
+      result was 89.2%, indicating that it is possible to easily judge the health risk 
+      of workers even in an environment where it is difficult to measure the subject in 
+      advance. The proposed model and its findings can aid in monitoring the health 
+      impacts of working conditions during construction activities, and thereby 
+      contribute toward determining workers' health damage. However, the sampled 
+      construction workers are 12 workers, further studies in other working conditions 
+      are required to accumulate more evidence and assure the accuracy of the models.
+FAU - Hashiguchi, Nobuki
+AU  - Hashiguchi N
+AUID- ORCID: 0000-0001-5650-7968
+AD  - Graduate School of Technology Management, Ritsumeikan University, Osaka 567-8570, 
+      Japan.
+FAU - Kodama, Kota
+AU  - Kodama K
+AD  - Graduate School of Technology Management, Ritsumeikan University, Osaka 567-8570, 
+      Japan.
+AD  - Center for Research and Education on Drug Discovery, Faculty of Pharmaceutical 
+      Sciences Hokkaido University, Sapporo 060-0817, Japan.
+FAU - Lim, Yeongjoo
+AU  - Lim Y
+AUID- ORCID: 0000-0003-2740-5537
+AD  - Faculty of Business Administration, Ritsumeikan University, Osaka 567-8570, 
+      Japan.
+FAU - Che, Chang
+AU  - Che C
+AD  - Kumagai Gumi Co., Ltd., Tokyo 162-0856, Japan.
+FAU - Kuroishi, Shinichi
+AU  - Kuroishi S
+AD  - Kumagai Gumi Co., Ltd., Tokyo 162-0856, Japan.
+FAU - Miyazaki, Yasuhiro
+AU  - Miyazaki Y
+AD  - Kumagai Gumi Co., Ltd., Tokyo 162-0856, Japan.
+FAU - Kobayashi, Taizo
+AU  - Kobayashi T
+AD  - Department of Environmental Systems, College of Science and Engineering, 
+      Ritsumeikan University, Shiga 525-8577, Japan.
+FAU - Kitahara, Shigeo
+AU  - Kitahara S
+AD  - Kumagai Gumi Co., Ltd., Tokyo 162-0856, Japan.
+FAU - Tateyama, Kazuyoshi
+AU  - Tateyama K
+AD  - Department of Civil Engineering, College of Science and Engineering, Ritsumeikan 
+      University, Shiga 525-8577, Japan.
+LA  - eng
+GR  - FY2017-FY2018 research and development for construction technology subsidy 
+      program policy issue solving type/Ministry of Land, Infrastructure, Transport and 
+      Tourism in Japan/
+PT  - Journal Article
+DEP - 20200706
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+MH  - Adult
+MH  - *Construction Industry
+MH  - Exercise
+MH  - Humans
+MH  - *Judgment
+MH  - *Occupational Health
+MH  - *Wearable Electronic Devices
+MH  - *Workload
+PMC - PMC7374462
+OTO - NOTNLM
+OT  - construction hazards
+OT  - heart rate reserve
+OT  - wet bulb globe temperature
+OT  - worker safety
+OT  - workload estimation
+COIS- The authors declare no conflicts of interest.
+EDAT- 2020/07/10 06:00
+MHDA- 2021/03/02 06:00
+PMCR- 2020/07/01
+CRDT- 2020/07/10 06:00
+PHST- 2020/05/12 00:00 [received]
+PHST- 2020/06/22 00:00 [revised]
+PHST- 2020/06/27 00:00 [accepted]
+PHST- 2020/07/10 06:00 [entrez]
+PHST- 2020/07/10 06:00 [pubmed]
+PHST- 2021/03/02 06:00 [medline]
+PHST- 2020/07/01 00:00 [pmc-release]
+AID - s20133786 [pii]
+AID - sensors-20-03786 [pii]
+AID - 10.3390/s20133786 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2020 Jul 6;20(13):3786. doi: 10.3390/s20133786.
+
+PMID- 25798891
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160113
+LR  - 20181202
+IS  - 1445-6354 (Electronic)
+IS  - 1445-6354 (Linking)
+VI  - 15
+IP  - 1
+DP  - 2015 Jan-Mar
+TI  - Employment experiences of immigrant workers in aged care in regional South 
+      Australia.
+PG  - 2693
+AB  - PURPOSE: The contributions of immigrant workers to the aged care workforce cannot 
+      be overemphasised. The report of the National Institute of Labour Studies records 
+      a significant number of immigrants in the aged care industry in Australia. The 
+      number of overseas-born workers in the residential aged care sector had risen 
+      steadily, according to recent workforce statistics. However, the employment 
+      positions these immigrant workers fill have perennially been labelled as 
+      low-paying and low-status, warranting more research into the plight of immigrant 
+      workers, especially those in regional areas. This study investigates the current 
+      employment experience of immigrant workers working in aged care in regional South 
+      Australia. METHODS: This qualitative study is based on a focus group consisting 
+      of seven immigrant workers (five personal carers, one home support worker and one 
+      allied health assistant), who shared their individual perceptions of their 
+      employment experience. The workers were employed by three aged care facilities 
+      run by a community-based not-for-profit organisation governed by one incorporated 
+      body. Thematic analysis was used to analyse the focus group data. This article 
+      reports on part of the findings of a larger research study where the authors have 
+      included the perceptions of co-workers and managers about working with immigrant 
+      workers. RESULTS: This study reveals mixed experiences of immigrant workers with 
+      employment in aged care. Satisfaction came from positive and encouraging client 
+      feedback, enriching work experience, flexible hours and simply having a job. 
+      Dissatisfaction came from constraints with time, workload, staffing, poor peer 
+      relations, discriminatory practices and the nature of the job itself. Immigrant 
+      workers do not experience a strong support infrastructure. Limitations of the 
+      study include the small sample size used and the focus on one regional city. 
+      CONCLUSIONS: This study suggests that aged care facility managers and executive 
+      officers can enhance positive work experience of immigrant workers by making some 
+      workplace reforms.
+FAU - Goel, Kalpana
+AU  - Goel K
+AD  - Centre for Regional Engagement, University of South Australia, Whyalla, South 
+      Australia, Australia. kalpana.goel@unisa.edu.au.
+FAU - Penman, Joy
+AU  - Penman J
+AD  - Centre for Regional Engagement, University of South Australia, Whyalla, South 
+      Australia, Australia. joy.penman@unisa.edu.au.
+LA  - eng
+PT  - Journal Article
+DEP - 20150323
+PL  - Australia
+TA  - Rural Remote Health
+JT  - Rural and remote health
+JID - 101174860
+SB  - IM
+MH  - Adult
+MH  - Emigrants and Immigrants/*psychology
+MH  - Employment/*psychology
+MH  - Female
+MH  - Focus Groups
+MH  - Health Personnel/*psychology
+MH  - Health Services for the Aged
+MH  - Humans
+MH  - *Job Satisfaction
+MH  - Middle Aged
+MH  - *Rural Health Services
+MH  - Salaries and Fringe Benefits
+MH  - South Australia
+MH  - Time Factors
+MH  - Workforce
+MH  - Workload/psychology
+MH  - Workplace/psychology
+OTO - NOTNLM
+OT  - Aged Care
+OT  - Australia/Pacific
+OT  - Nursing
+EDAT- 2015/03/24 06:00
+MHDA- 2016/01/14 06:00
+CRDT- 2015/03/24 06:00
+PHST- 2015/03/24 06:00 [entrez]
+PHST- 2015/03/24 06:00 [pubmed]
+PHST- 2016/01/14 06:00 [medline]
+AID - 2693 [pii]
+PST - ppublish
+SO  - Rural Remote Health. 2015 Jan-Mar;15(1):2693. Epub 2015 Mar 23.
+
+PMID- 36269699
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221025
+LR  - 20221025
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 17
+IP  - 10
+DP  - 2022
+TI  - A capability perspective on sustainable employability: A Dutch focus group study 
+      on organizational, work and personal conversion factors.
+PG  - e0274000
+LID - 10.1371/journal.pone.0274000 [doi]
+LID - e0274000
+AB  - OBJECTIVE: In the field of work, there is a shift towards more value-based 
+      approaches to study the sustainable employability of the present-day worker. The 
+      capability approach offers a value based and innovative conceptualisation and 
+      framework of sustainable employability characterized by contextuality, 
+      normativity and diversity. The capabilities of Dutch employees have been 
+      established and validated, yet it is not known which conversion factors on a 
+      personal, work and organizational level enable employees to achieve value in work 
+      in different Dutch occupational sectors. METHODS: Our qualitative approach 
+      included seven focus groups in different occupational sectors including elderly 
+      care, higher education, insurance work, facility management and the oil-, car- 
+      and chemical industry. Each focus group included 5-11 participants and took 
+      approximately one and a half hour. A qualitative content analysis was used to 
+      analyse the data, by combining deductive and inductive coding respectively. 
+      Deductive coding involved assigning themes to the conversion of resources into 
+      capabilities at the organizational, work and personal level. RESULTS: On the 
+      organizational conversion level, important themes were cultural aspects, power 
+      relations, shortage of personnel and policies for self-management. On the work 
+      conversion level, social contacts, communication and workload, tasks and 
+      schedules were identified. Social contacts were described as a work value in 
+      itself, but also conditional for achieving other work values. On the personal 
+      conversion level, experienced work stress, motivation and the ability to achieve 
+      values informally within the company. CONCLUSION: From our findings it follows 
+      that focus groups are sensitive to identify conversion factors on all three 
+      levels of conversion. In addition, companies and their employees might 
+      effectively increase work capabilities by being sensitive to all three conversion 
+      levels simultaneously. Further research is necessary to study the effect of a 
+      capability-based intervention at the work floor.
+FAU - Meerman, Jan
+AU  - Meerman J
+AUID- ORCID: 0000-0002-0040-8458
+AD  - Tilburg School of Social and Behavioural Sciences, Tranzo, Tilburg, Netherlands.
+AD  - Dimencegroep, Zwolle, Netherlands.
+FAU - van Casteren, Patricia A J
+AU  - van Casteren PAJ
+AD  - Tilburg School of Social and Behavioural Sciences, Tranzo, Tilburg, Netherlands.
+AD  - Ascender, Utrecht, Netherlands.
+FAU - Brouwers, Evelien P M
+AU  - Brouwers EPM
+AD  - Tilburg School of Social and Behavioural Sciences, Tranzo, Tilburg, Netherlands.
+FAU - van Dam, Arno
+AU  - van Dam A
+AD  - Tilburg School of Social and Behavioural Sciences, Tranzo, Tilburg, Netherlands.
+AD  - GGZ Westelijk Noord-Brabant, Halsteren, Netherlands.
+FAU - van der Klink, Jac J L
+AU  - van der Klink JJL
+AD  - Tilburg School of Social and Behavioural Sciences, Tranzo, Tilburg, Netherlands.
+AD  - North West University, Optentia, Vanderbijlpark, South Africa.
+LA  - eng
+PT  - Journal Article
+DEP - 20221021
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+SB  - IM
+MH  - Humans
+MH  - Aged
+MH  - *Employment
+MH  - Focus Groups
+MH  - *Occupations
+MH  - Workload
+MH  - Organizations
+PMC - PMC9586339
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2022/10/22 06:00
+MHDA- 2022/10/26 06:00
+PMCR- 2022/10/21
+CRDT- 2022/10/21 13:33
+PHST- 2021/10/30 00:00 [received]
+PHST- 2022/08/20 00:00 [accepted]
+PHST- 2022/10/21 13:33 [entrez]
+PHST- 2022/10/22 06:00 [pubmed]
+PHST- 2022/10/26 06:00 [medline]
+PHST- 2022/10/21 00:00 [pmc-release]
+AID - PONE-D-21-34683 [pii]
+AID - 10.1371/journal.pone.0274000 [doi]
+PST - epublish
+SO  - PLoS One. 2022 Oct 21;17(10):e0274000. doi: 10.1371/journal.pone.0274000. 
+      eCollection 2022.
+
+PMID- 25018827
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150416
+LR  - 20211021
+IS  - 1937-8688 (Electronic)
+VI  - 17
+DP  - 2014
+TI  - Impact of heavy load activity on cardiovascular system: echocardiographic 
+      assessment of informal construction workers heart in Cameroon.
+PG  - 79
+LID - 10.11604/pamj.2014.17.79.3674 [doi]
+LID - 79
+AB  - INTRODUCTION: Physiological cardiac hypertrophy and dilation are common findings 
+      in heavy physical load activity. We carried out this study to investigate the 
+      relationship between construction work and cardiac parameters adaptations, by 
+      comparing healthy masons to office workers on heart ultrasound. METHODS: The 
+      study was carried out on, 50 construction workers and 50 office workers matched 
+      for their weight, height and age. Systolic and Diastolic blood pressures, Left 
+      Ventricular diameter and thickness, Septum wall thickness and Left ventricular 
+      mass index were measured and calculated. RESULTS: Heart rate, systolic and 
+      diastolic blood pressures were lower in construction workers, as compared to 
+      office workers: respectively 63±7 bpm vs. 75±6 bpm (p = 0.000); 120.1±7 mmHg vs. 
+      130.5±9 mmHg (p = 0.000) and 68.5±7 mmHg vs. 77.0 ±9 mmHg (p = 0.000). 
+      Construction workers had a thicker septum and posterior wall: respectively 10.3 ± 
+      1.1 mm vs. 8.9 ± 0.9 mm (p = 0.000); and 9.0 ± 1.2 mm vs. 8.1 ± 0.8 mm (p = 
+      0.000). CONCLUSION: Conclusion We deducted that heavy load work has an impact on 
+      the heart mensuration. The past occupational history has to be taken into 
+      consideration during initial medical assessing of a worker in for a new job so as 
+      to avoid erroneous conclusions.
+FAU - Nde, Francis
+AU  - Nde F
+AD  - Centre de Recherche Santé environnementale & Santé au travail, École de Santé 
+      Publique, Université libre de Bruxelles, Bruxelles, Belgique.
+FAU - Nebo, Jules
+AU  - Nebo J
+AD  - Polyclinique de Bonaberi, Douala, Cameroun.
+FAU - Ngatchou, William
+AU  - Ngatchou W
+AD  - Université libre de Bruxelles 808, Hôpital Saint Pierre, Bruxelles, Belgique.
+FAU - Tchatchoua, Carine
+AU  - Tchatchoua C
+AD  - Faculté de Médecine et des Sciences Pharmaceutiques de l'Université de Douala, 
+      Cameroun.
+FAU - Sone, Albert Mouelle
+AU  - Sone AM
+AD  - Faculté de Médecine et des Sciences Pharmaceutiques de l'Université de Douala, 
+      Cameroun.
+FAU - De Brouwer, Christophe
+AU  - De Brouwer C
+AD  - Centre de Recherche Santé environnementale & Santé au travail, École de Santé 
+      Publique, Université libre de Bruxelles, Bruxelles, Belgique.
+LA  - eng
+PT  - Journal Article
+DEP - 20140131
+PL  - Uganda
+TA  - Pan Afr Med J
+JT  - The Pan African medical journal
+JID - 101517926
+SB  - IM
+MH  - Adult
+MH  - Cameroon
+MH  - *Cardiovascular Physiological Phenomena
+MH  - Cardiovascular System/*diagnostic imaging
+MH  - Case-Control Studies
+MH  - *Construction Industry
+MH  - Echocardiography
+MH  - Heart/physiology
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Motor Activity
+MH  - Office Management
+MH  - *Weight Lifting
+MH  - Workforce
+MH  - *Workload
+PMC - PMC4085944
+OTO - NOTNLM
+OT  - Cardiac change
+OT  - Work load
+OT  - impact of physical activity
+OT  - left ventricle
+OT  - posterior wall thickness
+OT  - septum
+OT  - workers heart
+EDAT- 2014/07/16 06:00
+MHDA- 2015/04/17 06:00
+PMCR- 2014/01/31
+CRDT- 2014/07/15 06:00
+PHST- 2013/12/03 00:00 [received]
+PHST- 2013/12/26 00:00 [accepted]
+PHST- 2014/07/15 06:00 [entrez]
+PHST- 2014/07/16 06:00 [pubmed]
+PHST- 2015/04/17 06:00 [medline]
+PHST- 2014/01/31 00:00 [pmc-release]
+AID - PAMJ-17-79 [pii]
+AID - 10.11604/pamj.2014.17.79.3674 [doi]
+PST - epublish
+SO  - Pan Afr Med J. 2014 Jan 31;17:79. doi: 10.11604/pamj.2014.17.79.3674. eCollection 
+      2014.
+
+PMID- 24643785
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151203
+LR  - 20231111
+IS  - 1573-3688 (Electronic)
+IS  - 1053-0487 (Print)
+IS  - 1053-0487 (Linking)
+VI  - 24
+IP  - 4
+DP  - 2014 Dec
+TI  - The Job Accommodation Scale (JAS): psychometric evaluation of a new measure of 
+      employer support for temporary job modifications.
+PG  - 755-65
+LID - 10.1007/s10926-014-9508-7 [doi]
+AB  - INTRODUCTION: An employer offer of temporary job modification is a key strategy 
+      for facilitating return-to-work for musculoskeletal conditions, but there are no 
+      validated scales to assess the level of support for temporary job modifications 
+      across a range of job types and organizations. OBJECTIVE: To pilot test a new 
+      21-item self-report measure [the Job Accommodation Scale (JAS)] to assess its 
+      applicability, internal consistency, factor structure, and relation to physical 
+      job demands. METHODS: Supervisors (N = 804, 72.8 % male, mean age = 46) were 
+      recruited from 19 employment settings in the USA and Canada and completed a 
+      30-min online survey regarding job modification practices. As part of the survey, 
+      supervisors nominated and described a job position they supervised and completed 
+      the JAS for a hypothetical worker (in that position) with an episode of low back 
+      pain. Job characteristics were derived from the occupational informational 
+      network job classification database. RESULTS: The full response range (1-4) was 
+      utilized on all 21 items, with no ceiling or floor effects. Avoiding awkward 
+      postures was the most feasible accommodation and moving the employee to a 
+      different site or location was the least feasible. An exploratory factor analysis 
+      suggested five underlying factors (Modify physical workload; Modify work 
+      environment; Modify work schedule; Find alternate work; and Arrange for 
+      assistance), and there was an acceptable goodness-of-fit for the five parceled 
+      sub-factor scores as a single latent construct in a measurement model (structural 
+      equation model). Job accommodations were less feasible for more physical jobs and 
+      for heavier industries. CONCLUSIONS: The pilot administration of the JAS with 
+      respect to a hypothetical worker with low back pain showed initial support for 
+      its applicability, reliability, and validity when administered to supervisors. 
+      Future studies should assess its validity for use in actual disability cases, for 
+      a range of health conditions, and to assess different stakeholder opinions about 
+      the feasibility of job accommodation strategies.
+FAU - Shaw, William S
+AU  - Shaw WS
+AD  - Liberty Mutual Research Institute for Safety, 71 Frankland Road, Hopkinton, MA, 
+      01748, USA, william.shaw@libertymutual.com.
+FAU - Kristman, Vicki L
+AU  - Kristman VL
+FAU - Williams-Whitt, Kelly
+AU  - Williams-Whitt K
+FAU - Soklaridis, Sophie
+AU  - Soklaridis S
+FAU - Huang, Yueng-Hsiang
+AU  - Huang YH
+FAU - Côté, Pierre
+AU  - Côté P
+FAU - Loisel, Patrick
+AU  - Loisel P
+LA  - eng
+GR  - 102571-1/Canadian Institutes of Health Research/Canada
+PT  - Journal Article
+PL  - Netherlands
+TA  - J Occup Rehabil
+JT  - Journal of occupational rehabilitation
+JID - 9202814
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Female
+MH  - Humans
+MH  - Industry
+MH  - *Low Back Pain/prevention & control/rehabilitation
+MH  - Male
+MH  - Middle Aged
+MH  - *Occupational Health
+MH  - Personnel Staffing and Scheduling
+MH  - Pilot Projects
+MH  - Posture
+MH  - Psychometrics
+MH  - *Return to Work
+MH  - Social Support
+MH  - *Surveys and Questionnaires
+MH  - Workload
+MH  - Workplace
+MH  - Young Adult
+PMC - PMC4465389
+MID - CAMS4724
+OID - NLM: CAMS4724
+EDAT- 2014/03/20 06:00
+MHDA- 2015/12/15 06:00
+PMCR- 2015/12/01
+CRDT- 2014/03/20 06:00
+PHST- 2014/03/20 06:00 [entrez]
+PHST- 2014/03/20 06:00 [pubmed]
+PHST- 2015/12/15 06:00 [medline]
+PHST- 2015/12/01 00:00 [pmc-release]
+AID - 10.1007/s10926-014-9508-7 [doi]
+PST - ppublish
+SO  - J Occup Rehabil. 2014 Dec;24(4):755-65. doi: 10.1007/s10926-014-9508-7.
+
+PMID- 39377393
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241029
+LR  - 20241031
+IS  - 1348-9585 (Electronic)
+IS  - 1341-9145 (Print)
+IS  - 1341-9145 (Linking)
+VI  - 66
+IP  - 1
+DP  - 2024 Jan 4
+TI  - The impact of mental health disorders and job demands on the individual job 
+      performance of construction workers.
+LID - 10.1093/joccuh/uiae060 [doi]
+LID - uiae060
+AB  - OBJECTIVES: Understanding the impact of job demands and mental health disorders 
+      on individual job performance is crucial to achieving a more productive workforce 
+      and should be empirically investigated. Therefore, the main purpose of this study 
+      was to assess the impact of job demands and mental health disorders on individual 
+      job performance among construction workers. In addition, we examined the 
+      interaction effect between job demands and some demographic characteristics 
+      (income, marital status, experience, and area of residence) on the job 
+      performance of construction workers in 2 dimensions. METHODS: For this purpose, a 
+      new conceptual model and 3 different hypotheses were introduced. A survey was 
+      designed and administered to 513 construction workers. Whereas the measurement 
+      items regarding demographic characteristics, job demands, and mental health 
+      disorders were addressed to construction workers, the last part related to job 
+      performance of construction workers was conducted with site managers of the 
+      workers to obtain more objective results. A structural equation modeling approach 
+      was adopted to assess the validity of the model and to test the hypotheses. 
+      RESULTS: The results of this study show that whereas job demands have a 
+      significant and high impact on individual job performance, the effect of mental 
+      health disorders on job performance is significant at a moderate level. In 
+      addition, the demographic characteristics of marital status and area of residence 
+      have a significant interaction effect on job performance when combined with job 
+      demands. CONCLUSION: Providing individualized support systems, resources, and 
+      opportunities for construction workers can help mitigate the negative effects of 
+      excessive demands and mental disorders on labor productivity.
+CI  - © The Author(s) [2024]. Published by Oxford University Press on behalf of Journal 
+      of Occupational Health.
+FAU - Kazar, Gokhan
+AU  - Kazar G
+AUID- ORCID: 0000-0002-8616-799X
+AD  - Department of Civil Engineering, Istanbul Medeniyet University, 34700, Istanbul, 
+      Turkey.
+AD  - Department of Civil Engineering, Istanbul Gelisim University, 34310, Istanbul, 
+      Turkey.
+FAU - Rahmanzadeh, Pourya
+AU  - Rahmanzadeh P
+AUID- ORCID: 0009-0008-1778-7133
+AD  - Department of Civil Engineering, Yildiz Technical University, Istanbul, Turkey.
+AD  - Graduate Student, Department of Civil Engineering, Istanbul Gelisim University, 
+      Istanbul 34310, Turkey.
+LA  - eng
+PT  - Journal Article
+PL  - Australia
+TA  - J Occup Health
+JT  - Journal of occupational health
+JID - 9616320
+SB  - IM
+MH  - Humans
+MH  - Adult
+MH  - Male
+MH  - *Mental Disorders/psychology
+MH  - *Work Performance
+MH  - *Construction Industry
+MH  - Middle Aged
+MH  - Surveys and Questionnaires
+MH  - *Workload/psychology
+MH  - Female
+MH  - Occupational Stress/psychology
+MH  - Young Adult
+PMC - PMC11520402
+OTO - NOTNLM
+OT  - demographic characteristics
+OT  - interaction effect
+OT  - job demands
+OT  - mental health disorders
+OT  - structural equation modeling
+OT  - worker productivity
+EDAT- 2024/10/08 12:23
+MHDA- 2024/10/29 18:22
+PMCR- 2024/10/08
+CRDT- 2024/10/08 07:13
+PHST- 2024/05/20 00:00 [received]
+PHST- 2024/09/23 00:00 [revised]
+PHST- 2024/09/28 00:00 [accepted]
+PHST- 2024/10/29 18:22 [medline]
+PHST- 2024/10/08 12:23 [pubmed]
+PHST- 2024/10/08 07:13 [entrez]
+PHST- 2024/10/08 00:00 [pmc-release]
+AID - 7815656 [pii]
+AID - uiae060 [pii]
+AID - 10.1093/joccuh/uiae060 [doi]
+PST - ppublish
+SO  - J Occup Health. 2024 Jan 4;66(1):uiae060. doi: 10.1093/joccuh/uiae060.
+
+PMID- 28952885
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190219
+LR  - 20190320
+IS  - 1545-0813 (Electronic)
+IS  - 1059-924X (Linking)
+VI  - 23
+IP  - 1
+DP  - 2018
+TI  - Predictors of Attitudes Toward Non-Technical Skills in Farming.
+PG  - 60-69
+LID - 10.1080/1059924X.2017.1384775 [doi]
+AB  - OBJECTIVES: Farming is a high-risk sector with up to 170,000 worldwide fatalities 
+      reported per year; it is therefore vital to identify methods of mitigating the 
+      dangers of this industry. Research within high-risk industries, such as aviation, 
+      shipping, and agriculture, has identified the importance of non-technical skills 
+      (NTS) in maintaining effective, safe performance and reducing error and injury. 
+      However, there is a lack of research evaluating factors that may contribute to 
+      NTS attitudes and behaviors. As a first step to address this literature gap, the 
+      current study evaluated a range of individual and environmental factors as 
+      potential predictors of attitudes toward NTS in agriculture. METHOD: A sample of 
+      170 farmers from within the United Kingdom and Ireland were surveyed using an 
+      online questionnaire. The questionnaire included measures of personality, stress, 
+      attitudes toward safety (safety climate, motivation, and risk), environmental 
+      stressors (workload, work-life imbalance), and non-technical skills (team and 
+      lone worker). RESULTS: Attitudes toward safety climate, compliance, and 
+      motivation showed a significant association with both team-based and lone worker 
+      NTS. Conscientiousness correlated positively with the majority of the NTS 
+      elements. Multiple regression analysis indicated neuroticism and 
+      conscientiousness demonstrated capacity to predict NTS attitudes. Concerns about 
+      costs and equipment, attitudes toward safety climate, and safety motivation were 
+      also found to be significant predictors of NTS attitudes. CONCLUSION: The results 
+      indicate the utility of individual characteristics and environmental factors when 
+      predicting farming NTS attitudes. As a result, these elements could be important 
+      when evaluating engagement with NTS and developing NTS training initiatives in 
+      agriculture.
+FAU - Irwin, Amy
+AU  - Irwin A
+AD  - a Industrial Psychology Research Centre, School of Psychology , University of 
+      Aberdeen , Aberdeen, Scotland , UK.
+FAU - Poots, Jill
+AU  - Poots J
+AD  - a Industrial Psychology Research Centre, School of Psychology , University of 
+      Aberdeen , Aberdeen, Scotland , UK.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - J Agromedicine
+JT  - Journal of agromedicine
+JID - 9421530
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Agriculture
+MH  - *Attitude
+MH  - Female
+MH  - Humans
+MH  - Ireland
+MH  - Male
+MH  - Middle Aged
+MH  - Motivation
+MH  - *Occupational Health
+MH  - *Personality
+MH  - Safety Management
+MH  - Surveys and Questionnaires
+MH  - United Kingdom
+MH  - Workload
+OTO - NOTNLM
+OT  - Attitudes
+OT  - farming
+OT  - non-technical skills
+OT  - personality
+OT  - safety
+EDAT- 2017/09/28 06:00
+MHDA- 2019/03/21 06:00
+CRDT- 2017/09/28 06:00
+PHST- 2017/09/28 06:00 [pubmed]
+PHST- 2019/03/21 06:00 [medline]
+PHST- 2017/09/28 06:00 [entrez]
+AID - 10.1080/1059924X.2017.1384775 [doi]
+PST - ppublish
+SO  - J Agromedicine. 2018;23(1):60-69. doi: 10.1080/1059924X.2017.1384775.
+
+PMID- 25189749
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20141121
+LR  - 20140905
+IS  - 1080-3548 (Print)
+IS  - 1080-3548 (Linking)
+VI  - 20
+IP  - 3
+DP  - 2014
+TI  - Associations between worker characteristics, workplace factors, and work-related 
+      musculoskeletal disorders: a cross-sectional study of male construction workers 
+      in Nigeria.
+PG  - 447-62
+AB  - OBJECTIVE: This study assessed the association between worker characteristics, 
+      workplace factors, and work-related musculoskeletal disorders (WMSDs) in 
+      Nigeria's construction industry. METHODS: A cross-sectional site-by-site survey 
+      was conducted in 5 existing construction companies in Uyo, Nigeria. The subjects 
+      (n = 1200 males), aged 18-55 years, filled in the semistructured Nordic 
+      musculoskeletal questionnaire and the job content questionnaire on demographics, 
+      work and lifestyle characteristics, and workplace risk factors for WMSDs. 
+      RESULTS: The overall prevalence of WMSDs was 39.25%. Differences in age, race, 
+      weight, body mass index (BMI), education status, and employment status were 
+      significantly associated with the prevalence of WMSDs. Prevalence according to 
+      trade was as follows: ironworkers highest at 49% and administrative staff lowest 
+      at 31%. Ironworkers (55.7%), administrative staff (53.3%), and security staff 
+      (38.7%) scored higher on physical, psychosocial, and individual risk factors, 
+      respectively. Workplace factors with increased odds for WMSDs were psychological 
+      demands and mental workload, age, BMI, low work experience, low education status, 
+      awkward movement of head and arms, working against force or vibration, fast work 
+      pace, and race. CONCLUSION: The recorded high prevalence was multifactorial in 
+      etiology; hence, multi-intervention strategies are required.
+FAU - Ekpenyong, Christopher Edet
+AU  - Ekpenyong CE
+AD  - College of Health Sciences, University of Uyo, Akwa Ibom State, Nigeria. 
+      chrisvon200@yahoo.com.
+FAU - Inyang, Udoinyang Clement
+AU  - Inyang UC
+AD  - Department of Orthopedics and Traumatology, University of Uyo, Akwa Ibom State, 
+      Nigeria.
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Int J Occup Saf Ergon
+JT  - International journal of occupational safety and ergonomics : JOSE
+JID - 9507598
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Age Factors
+MH  - Body Mass Index
+MH  - Construction Industry/*statistics & numerical data
+MH  - Cross-Sectional Studies
+MH  - Humans
+MH  - Life Style
+MH  - Male
+MH  - Middle Aged
+MH  - Musculoskeletal Diseases/*epidemiology
+MH  - Nigeria/epidemiology
+MH  - Occupational Diseases/*epidemiology
+MH  - Occupational Health
+MH  - Occupations/statistics & numerical data
+MH  - Prevalence
+MH  - Risk Factors
+MH  - Socioeconomic Factors
+MH  - Stress, Psychological/epidemiology
+MH  - Workplace/psychology/*statistics & numerical data
+MH  - Young Adult
+EDAT- 2014/09/06 06:00
+MHDA- 2014/12/15 06:00
+CRDT- 2014/09/06 06:00
+PHST- 2014/09/06 06:00 [entrez]
+PHST- 2014/09/06 06:00 [pubmed]
+PHST- 2014/12/15 06:00 [medline]
+AID - 10.1080/10803548.2014.11077057 [doi]
+PST - ppublish
+SO  - Int J Occup Saf Ergon. 2014;20(3):447-62. doi: 10.1080/10803548.2014.11077057.
+
+PMID- 30781731
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190626
+LR  - 20240715
+IS  - 1660-4601 (Electronic)
+IS  - 1661-7827 (Print)
+IS  - 1660-4601 (Linking)
+VI  - 16
+IP  - 4
+DP  - 2019 Feb 13
+TI  - Development of the Fatigue Risk Assessment and Management in High-Risk 
+      Environments (FRAME) Survey: A Participatory Approach.
+LID - 10.3390/ijerph16040522 [doi]
+LID - 522
+AB  - Existing risk assessment tools are not effective or sustainable in identifying 
+      Oil and Gas Extraction (OGE) workers at high risk of fatigue-related injuries or 
+      incidents. We developed a comprehensive Fatigue Risk Assessment and Management in 
+      high-risk Environments (FRAME) survey through an industry-academic participatory 
+      approach. The FRAME survey was developed through: (1) systematic gathering of 
+      existing fatigue scales; (2) refining the inventory using the Delphi Consensus 
+      technique; and (3) further refinement through employee/worker focus groups. The 
+      participatory approach resulted in a final FRAME survey across four fatigue 
+      dimensions-sleep, shiftwork, physical, and mental fatigue, and was composed of 26 
+      items. The FRAME survey was founded on occupational fatigue science and refined 
+      and tailored to the OGE industry, through rigorous industry stakeholder input, 
+      for safer, effective, practical, and sustainable fatigue assessment and 
+      management efforts.
+FAU - Shortz, Ashley E
+AU  - Shortz AE
+AD  - Department of Environmental and Occupational Health, Texas A&M University, 
+      College Station, TX 77843, USA. aeshortz@tamu.edu.
+FAU - Mehta, Ranjana K
+AU  - Mehta RK
+AUID- ORCID: 0000-0002-8254-8365
+AD  - Department of Industrial and Systems Engineering, Texas A&M University, College 
+      Station, TX 77843, USA. rmehta@tamu.edu.
+FAU - Peres, S Camille
+AU  - Peres SC
+AUID- ORCID: 0000-0002-3679-9171
+AD  - Department of Environmental and Occupational Health, Texas A&M University, 
+      College Station, TX 77843, USA. peres@tamu.edu.
+FAU - Benden, Mark E
+AU  - Benden ME
+AUID- ORCID: 0000-0002-5765-8386
+AD  - Department of Environmental and Occupational Health, Texas A&M University, 
+      College Station, TX 77843, USA. mbenden@sph.tamhsc.edu.
+FAU - Zheng, Qi
+AU  - Zheng Q
+AD  - Department of Epidemiology and Biostatistics, Texas A&M University, College 
+      Station, TX 77843, USA. qzheng@sph.tamhsc.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190213
+PL  - Switzerland
+TA  - Int J Environ Res Public Health
+JT  - International journal of environmental research and public health
+JID - 101238455
+SB  - IM
+MH  - Adult
+MH  - Community Participation
+MH  - Delphi Technique
+MH  - Fatigue/*diagnosis/pathology/psychology
+MH  - Female
+MH  - Focus Groups
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Occupational Diseases/*diagnosis/pathology
+MH  - *Oil and Gas Industry
+MH  - Risk Assessment/*methods
+MH  - Safety Management/*methods
+MH  - Surveys and Questionnaires
+PMC - PMC6406396
+OTO - NOTNLM
+OT  - oil and gas
+OT  - overexertion
+OT  - questionnaire
+OT  - shift
+OT  - sleep
+OT  - workload
+COIS- The authors declare no conflict of interest. The funders had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript, or in the decision to publish the results.
+EDAT- 2019/02/20 06:00
+MHDA- 2019/06/27 06:00
+PMCR- 2019/02/01
+CRDT- 2019/02/21 06:00
+PHST- 2018/12/20 00:00 [received]
+PHST- 2019/02/02 00:00 [revised]
+PHST- 2019/02/10 00:00 [accepted]
+PHST- 2019/02/21 06:00 [entrez]
+PHST- 2019/02/20 06:00 [pubmed]
+PHST- 2019/06/27 06:00 [medline]
+PHST- 2019/02/01 00:00 [pmc-release]
+AID - ijerph16040522 [pii]
+AID - ijerph-16-00522 [pii]
+AID - 10.3390/ijerph16040522 [doi]
+PST - epublish
+SO  - Int J Environ Res Public Health. 2019 Feb 13;16(4):522. doi: 
+      10.3390/ijerph16040522.
+
+PMID- 25016948
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151015
+LR  - 20220316
+IS  - 1880-8026 (Electronic)
+IS  - 0019-8366 (Print)
+IS  - 0019-8366 (Linking)
+VI  - 52
+IP  - 6
+DP  - 2014
+TI  - Job demands, job resources, and job performance in japanese workers: a 
+      cross-sectional study.
+PG  - 471-9
+AB  - This study investigated the cross-sectional association of job demands (i.e., 
+      psychological demands) and job resources (i.e., decision latitude, supervisor 
+      support, co-worker support, and extrinsic reward) with job performance. A total 
+      of 1,198 workers (458 males and 740 females) from a manufacturing company in 
+      Japan completed a self-administered questionnaire that included the Job Content 
+      Questionnaire, Effort-Reward Imbalance Questionnaire, World Health Organization 
+      Health and Work Performance Questionnaire, and demographic survey. Hierarchical 
+      multiple regression analyses were conducted. After adjusting for demographic 
+      characteristics, decision latitude (β=0.107, p=0.001) and extrinsic reward 
+      (β=0.158, p<0.001) were positively and significantly associated with job 
+      performance while supervisor support (β=-0.102, p=0.002) was negatively and 
+      significantly associated with job performance. On the other hand, psychological 
+      demands or co-worker support was not significantly associated with job 
+      performance. These findings suggest that higher decision latitude and extrinsic 
+      reward enhance job performance among Japanese employees.
+FAU - Nakagawa, Yuko
+AU  - Nakagawa Y
+AD  - Department of Health Policy and Management, Graduate School of Medical Science, 
+      University of Occupational and Environmental Health, Japan.
+FAU - Inoue, Akiomi
+AU  - Inoue A
+FAU - Kawakami, Norito
+AU  - Kawakami N
+FAU - Tsuno, Kanami
+AU  - Tsuno K
+FAU - Tomioka, Kimiko
+AU  - Tomioka K
+FAU - Nakanishi, Mayuko
+AU  - Nakanishi M
+FAU - Mafune, Kosuke
+AU  - Mafune K
+FAU - Hiro, Hisanori
+AU  - Hiro H
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140711
+PL  - Japan
+TA  - Ind Health
+JT  - Industrial health
+JID - 2985065R
+SB  - IM
+MH  - Adult
+MH  - Cross-Sectional Studies
+MH  - Efficiency
+MH  - Female
+MH  - Humans
+MH  - Internal-External Control
+MH  - Japan
+MH  - Male
+MH  - Middle Aged
+MH  - Professional Autonomy
+MH  - Reward
+MH  - Social Support
+MH  - Stress, Psychological/*psychology
+MH  - Surveys and Questionnaires
+MH  - *Task Performance and Analysis
+MH  - Workload/*psychology
+MH  - Workplace/organization & administration/psychology
+PMC - PMC4273015
+EDAT- 2014/07/16 06:00
+MHDA- 2015/10/16 06:00
+PMCR- 2014/11/01
+CRDT- 2014/07/15 06:00
+PHST- 2014/07/15 06:00 [entrez]
+PHST- 2014/07/16 06:00 [pubmed]
+PHST- 2015/10/16 06:00 [medline]
+PHST- 2014/11/01 00:00 [pmc-release]
+AID - DN/JST.JSTAGE/indhealth/2014-0036 [pii]
+AID - 2014-0036 [pii]
+AID - 10.2486/indhealth.2014-0036 [doi]
+PST - ppublish
+SO  - Ind Health. 2014;52(6):471-9. doi: 10.2486/indhealth.2014-0036. Epub 2014 Jul 11.
+
+PMID- 26947427
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170516
+LR  - 20181113
+IS  - 1475-6773 (Electronic)
+IS  - 0017-9124 (Print)
+IS  - 0017-9124 (Linking)
+VI  - 51
+IP  - 6
+DP  - 2016 Dec
+TI  - Profiling the U.S. Sick Leave Landscape: Presenteeism among Females.
+PG  - 2305-2317
+LID - 10.1111/1475-6773.12471 [doi]
+AB  - OBJECTIVE: To profile the sick leave landscape in the United States. DATA 
+      SOURCES: The 2011 Leave Supplement of the American Time Use Survey. STUDY DESIGN: 
+      Bivariate and multivariate analyses to identify (i) employees without sick pay 
+      coverage and (ii) employees who attend work sick. PRINCIPAL FINDINGS: Sixty-five 
+      percent of full-time employees have sick pay coverage. Coverage rates are below 
+      20 percent for employees with hourly wages below $10, part-time employees, and 
+      employees in the hospitality and leisure industry. CONCLUSION: Each week, up to 3 
+      million U.S. employees go to work sick. Females, low-income earners, and those 
+      aged 25 to 34 years have a significantly elevated risk of presenteeism behavior.
+CI  - © Health Research and Educational Trust.
+FAU - Susser, Philip
+AU  - Susser P
+AD  - Policy Analysis and Management (B.S.) (expected graduation in May 2016), Cornell 
+      University, New York, NY.
+FAU - Ziebarth, Nicolas R
+AU  - Ziebarth NR
+AD  - Policy Analysis and Management (PAM), Cornell University, Ithaca, NY.
+LA  - eng
+PT  - Journal Article
+DEP - 20160307
+PL  - United States
+TA  - Health Serv Res
+JT  - Health services research
+JID - 0053006
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Cross-Sectional Studies
+MH  - *Employment
+MH  - Female
+MH  - Humans
+MH  - Income
+MH  - Male
+MH  - Middle Aged
+MH  - Poverty
+MH  - Presenteeism/*statistics & numerical data
+MH  - Sick Leave/*statistics & numerical data
+MH  - Surveys and Questionnaires
+MH  - United States
+MH  - Workload
+PMC - PMC5134145
+OTO - NOTNLM
+OT  - Paid sick leave
+OT  - U.S. sick leave landscape
+OT  - low-income worker
+OT  - medical leave
+OT  - presenteeism
+OT  - sick pay
+EDAT- 2016/03/08 06:00
+MHDA- 2017/05/17 06:00
+PMCR- 2017/12/01
+CRDT- 2016/03/08 06:00
+PHST- 2016/03/08 06:00 [pubmed]
+PHST- 2017/05/17 06:00 [medline]
+PHST- 2016/03/08 06:00 [entrez]
+PHST- 2017/12/01 00:00 [pmc-release]
+AID - HESR12471 [pii]
+AID - 10.1111/1475-6773.12471 [doi]
+PST - ppublish
+SO  - Health Serv Res. 2016 Dec;51(6):2305-2317. doi: 10.1111/1475-6773.12471. Epub 
+      2016 Mar 7.
+
+PMID- 31334564
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190927
+LR  - 20220907
+IS  - 1469-493X (Electronic)
+IS  - 1361-6137 (Linking)
+VI  - 7
+IP  - 7
+DP  - 2019 Jul 23
+TI  - Work-break schedules for preventing musculoskeletal symptoms and disorders in 
+      healthy workers.
+PG  - CD012886
+LID - 10.1002/14651858.CD012886.pub2 [doi]
+LID - CD012886
+AB  - BACKGROUND: Work-related musculoskeletal disorders are a group of musculoskeletal 
+      disorders that comprise one of the most common disorders related to occupational 
+      sick leave worldwide. Musculoskeletal disorders accounted for 21% to 28% of work 
+      absenteeism days in 2017/2018 in the Netherlands, Germany and the UK. There are 
+      several interventions that may be effective in tackling the high prevalence of 
+      work-related musculoskeletal disorders among workers, such as physical, cognitive 
+      and organisational interventions. In this review, we will focus on work breaks as 
+      a measure of primary prevention, which are a type of organisational intervention. 
+      OBJECTIVES: To compare the effectiveness of different work-break schedules for 
+      preventing work-related musculoskeletal symptoms and disorders in healthy 
+      workers, when compared to conventional or alternate work-break schedules. SEARCH 
+      METHODS: We searched the Cochrane Central Register of Controlled Trials 
+      (CENTRAL), MEDLINE, Embase, CINAHL, PsycINFO, SCOPUS, Web of Science, 
+      ClinicalTrials.gov and the World Health Organization International Clinical 
+      Trials Registry Platform, to April/May 2019. In addition, we searched references 
+      of the included studies and of relevant literature reviews. SELECTION CRITERIA: 
+      We included randomised controlled trials (RCTs) of work-break interventions for 
+      preventing work-related musculoskeletal symptoms and disorders among workers. The 
+      studies were eligible for inclusion when intervening on work-break frequency, 
+      duration and/or type, compared to conventional or an alternate work-break 
+      intervention. We included only those studies in which the investigated population 
+      included healthy, adult workers, who were free of musculoskeletal complaints 
+      during study enrolment, without restrictions to sex or occupation. The primary 
+      outcomes were newly diagnosed musculoskeletal disorders, self-reported 
+      musculoskeletal pain, discomfort or fatigue, and productivity or work 
+      performance. We considered workload changes as secondary outcomes. DATA 
+      COLLECTION AND ANALYSIS: Two review authors independently screened titles, 
+      abstracts and full texts for study eligibility, extracted data and assessed risk 
+      of bias. We contacted authors for additional study data where required. We 
+      performed meta-analyses, where possible, and we assessed the overall quality of 
+      the evidence for each outcome of each comparison using the five GRADE 
+      considerations. MAIN RESULTS: We included six studies (373 workers), four 
+      parallel RCTs, one cross-over RCT, and one combined parallel plus cross-over RCT. 
+      At least 295 of the employees were female and at least 39 male; for the remaining 
+      39 employees, the sex was not specified in the study trial. The studies 
+      investigated different work-break frequencies (five studies) and different 
+      work-break types (two studies). None of the studies investigated different 
+      work-break durations. We judged all studies to have a high risk of bias. The 
+      quality of the evidence for the primary outcomes of self-reported musculoskeletal 
+      pain, discomfort and fatigue was low; the quality of the evidence for the primary 
+      outcomes of productivity and work performance was very low. The studies were 
+      executed in Europe or Northern America, with none from low- to middle-income 
+      countries. One study could not be included in the data analyses, because no 
+      detailed results have been reported.Changes in the frequency of work breaksThere 
+      is low-quality evidence that additional work breaks may not have a considerable 
+      effect on musculoskeletal pain, discomfort or fatigue, when compared with no 
+      additional work breaks (standardised mean difference (SMD) -0.08; 95% CI -0.35 to 
+      0.18; three studies; 225 participants). Additional breaks may not have a positive 
+      effect on productivity or work performance, when compared with no additional work 
+      breaks (SMD -0.07; 95% CI -0.33 to 0.19; three studies; 225 participants; very 
+      low-quality evidence).We found low-quality evidence that additional work breaks 
+      may not have a considerable effect on participant-reported musculoskeletal pain, 
+      discomfort or fatigue (MD 1.80 on a 100-mm VAS scale; 95% CI -41.07 to 64.37; one 
+      study; 15 participants), when compared to work breaks as needed (i.e. microbreaks 
+      taken at own discretion). There is very low-quality evidence that additional work 
+      breaks may have a positive effect on productivity or work performance, when 
+      compared to work breaks as needed (MD 542.5 number of words typed per 3-hour 
+      recording session; 95% CI 177.22 to 907.78; one study; 15 
+      participants).Additional higher frequency work breaks may not have a considerable 
+      effect on participant-reported musculoskeletal pain, discomfort or fatigue (MD 
+      11.65 on a 100-mm VAS scale; 95% CI -41.07 to 64.37; one study; 10 participants; 
+      low-quality evidence), when compared to additional lower frequency work breaks. 
+      We found very low-quality evidence that additional higher frequency work breaks 
+      may not have a considerable effect on productivity or work performance (MD -83.00 
+      number of words typed per 3-hour recording session; 95% CI -305.27 to 139.27; one 
+      study; 10 participants), when compared to additional lower frequency work 
+      breaks.Changes in the duration of work breaksNo trials were identified that 
+      assessed the effect of different durations of work breaks.Changes in the type of 
+      work breakWe found low-quality evidence that active breaks may not have a 
+      considerable positive effect on participant-reported musculoskeletal pain, 
+      discomfort and fatigue (MD -0.17 on a 1-7 NRS scale; 95% CI -0.71 to 0.37; one 
+      study; 153 participants), when compared to passive work breaks.Relaxation work 
+      breaks may not have a considerable effect on participant-reported musculoskeletal 
+      pain, discomfort or fatigue, when compared to physical work breaks (MD 0.20 on a 
+      1-7 NRS scale; 95% CI -0.43 to 0.82; one study; 97 participants; low-quality 
+      evidence). AUTHORS' CONCLUSIONS: We found low-quality evidence that different 
+      work-break frequencies may have no effect on participant-reported musculoskeletal 
+      pain, discomfort and fatigue. For productivity and work performance, evidence was 
+      of very low-quality that different work-break frequencies may have a positive 
+      effect. For different types of break, there may be no effect on 
+      participant-reported musculoskeletal pain, discomfort and fatigue according to 
+      low-quality evidence. Further high-quality studies are needed to determine the 
+      effectiveness of frequency, duration and type of work-break interventions among 
+      workers, if possible, with much higher sample sizes than the studies included in 
+      the current review. Furthermore, work-break interventions should be reconsidered, 
+      taking into account worker populations other than office workers, and taking into 
+      account the possibility of combining work-break intervention with other 
+      interventions such as ergonomic training or counselling, which may may possibly 
+      have an effect on musculoskeletal outcomes and work performance.
+FAU - Luger, Tessy
+AU  - Luger T
+AD  - Institute of Occupational and Social Medicine and Health Services Research, 
+      University of Tübingen, Wilhelmstrasse 27, Tübingen, Germany, 72074.
+FAU - Maher, Christopher G
+AU  - Maher CG
+FAU - Rieger, Monika A
+AU  - Rieger MA
+FAU - Steinhilber, Benjamin
+AU  - Steinhilber B
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Systematic Review
+DEP - 20190723
+PL  - England
+TA  - Cochrane Database Syst Rev
+JT  - The Cochrane database of systematic reviews
+JID - 100909747
+SB  - IM
+UOF - doi: 10.1002/14651858.CD012886
+MH  - Adult
+MH  - Ergonomics
+MH  - *Health Personnel
+MH  - Health Workforce
+MH  - Humans
+MH  - Musculoskeletal Diseases/*prevention & control
+MH  - Occupational Diseases/*prevention & control
+MH  - *Personnel Staffing and Scheduling
+MH  - Randomized Controlled Trials as Topic
+MH  - Workplace
+PMC - PMC6646952
+COIS- Tessy Luger: None known Christopher Maher: I have received competitive grants 
+      from government agencies and industry to support my research. As an invited 
+      speaker at conferences, I have had my expenses covered and also received small 
+      gifts such as a box of chocolates or a bottle of wine. I have received honoraria 
+      for marking theses, reviewing grants and preparing talks. Monika A. Rieger: Our 
+      Institute receives an unrestricted grant by Südwestmetall (employers' association 
+      of the metal and electric industry Baden‐Württemberg) which covered about half of 
+      the costs of the Institute for several years. The cooperation treaty between 
+      Südwestmetall, University of Tübingen, Medical Faculty of the University of 
+      Tübingen, University Hospital of Tübingen rules all aspects which are necessary 
+      to secure the 'unrestrictedness', and a board of independent trustees monitors 
+      this regulation. Benjamin Steinhilber: None known
+EDAT- 2019/07/25 06:00
+MHDA- 2019/09/29 06:00
+PMCR- 2020/07/23
+CRDT- 2019/07/24 06:00
+PHST- 2019/07/25 06:00 [pubmed]
+PHST- 2019/09/29 06:00 [medline]
+PHST- 2019/07/24 06:00 [entrez]
+PHST- 2020/07/23 00:00 [pmc-release]
+AID - CD012886.pub2 [pii]
+AID - 10.1002/14651858.CD012886.pub2 [doi]
+PST - epublish
+SO  - Cochrane Database Syst Rev. 2019 Jul 23;7(7):CD012886. doi: 
+      10.1002/14651858.CD012886.pub2.
+
+PMID- 31551379
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201015
+LR  - 20201015
+IS  - 2044-6055 (Electronic)
+IS  - 2044-6055 (Linking)
+VI  - 9
+IP  - 9
+DP  - 2019 Sep 24
+TI  - Associations between occupational relative aerobic workload and resting blood 
+      pressure among different age groups: a cross-sectional analysis in the DPhacto 
+      study.
+PG  - e029713
+LID - 10.1136/bmjopen-2019-029713 [doi]
+LID - e029713
+AB  - OBJECTIVE: High levels of occupational physical activity (OPA) increase heart 
+      rate, blood pressure (BP) and the risk of hypertension. Older workers may be more 
+      vulnerable to high levels of OPA due to age-related degeneration of the 
+      cardiovascular system and cardiorespiratory fitness. This study investigates the 
+      association of relative aerobic workload (RAW) with resting BP and examines if 
+      this relation is moderated by age. DESIGN: Cross-sectional epidemiological study. 
+      SETTING: Data were collected among employees of 15 Danish companies in the 
+      cleaning, manufacturing and transport sectors. PARTICIPANTS: 2107 employees were 
+      invited for participation, of these 1087 accepted and 562 (42% female and 4% 
+      non-Westerns) were included in the analysis based on the criteria of being 
+      non-pregnant, no allergy to bandages, sufficient amount of heart rate data 
+      corresponding to ≥4 work hours per workday or 75% of average work hours, and no 
+      missing outcome and confounder values. PRIMARY AND SECONDARY OUTCOME MEASURES: 
+      The primary outcome measure was BP. RESULTS: Heart rate reserve was estimated 
+      from ambulatory 24-hour heart rate measures covering 2.5 workdays per participant 
+      (SD 1.0 day). Age significantly moderated the association between RAW and BP. 
+      Mean intensity and duration of high RAW (≥30% heart rate reserve) showed positive 
+      associations with diastolic BP and negative associations with pulse pressure (PP) 
+      among participants ≥47 years old. Tendencies towards negative associations 
+      between RAW and BP were seen among participants <47 years old. CONCLUSIONS: Mean 
+      intensity and duration of RAW increased diastolic BP among participants ≥47 years 
+      old. Negative associations with PP may be due to healthy worker selection bias. 
+      Prevention of hypertension should consider reductions in RAW for ageing workers.
+CI  - © Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY-NC. No 
+      commercial re-use. See rights and permissions. Published by BMJ.
+FAU - Korshøj, Mette
+AU  - Korshøj M
+AUID- ORCID: 0000-0001-8422-9969
+AD  - Unit of Muscoloskeletal Disorders and Physical Workload, National Research Centre 
+      for the Working Environment, Copenhagen, Denmark mkl@nfa.dk.
+FAU - Clays, Els
+AU  - Clays E
+AD  - Department of Public Health, Universiteit Gent, Gent, Belgium.
+FAU - Krause, Niklas
+AU  - Krause N
+AD  - Environmental Health Sciences, University of California Los Angeles, Los Angeles, 
+      California, USA.
+FAU - Gupta, Nidhi
+AU  - Gupta N
+AD  - Unit of Muscoloskeletal Disorders and Physical Workload, National Research Centre 
+      for the Working Environment, Copenhagen, Denmark.
+FAU - Jørgensen, Marie Birk
+AU  - Jørgensen MB
+AD  - Department of Forensic Science, University of Copenhagen, Copenhagen, Denmark.
+FAU - Holtermann, Andreas
+AU  - Holtermann A
+AD  - Unit of Muscoloskeletal Disorders and Physical Workload, National Research Centre 
+      for the Working Environment, Copenhagen, Denmark.
+AD  - Department of Sports Science and Clinical Biomechanics, University of Southern 
+      Denmark, Odense, Denmark.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190924
+PL  - England
+TA  - BMJ Open
+JT  - BMJ open
+JID - 101552874
+SB  - IM
+MH  - Adult
+MH  - Blood Pressure Determination/methods
+MH  - Cardiorespiratory Fitness/*physiology
+MH  - Cross-Sectional Studies
+MH  - Denmark/epidemiology
+MH  - Exercise/*physiology
+MH  - Female
+MH  - Heart Rate/physiology
+MH  - Humans
+MH  - *Hypertension/epidemiology/physiopathology/prevention & control
+MH  - Male
+MH  - Middle Aged
+MH  - Monitoring, Ambulatory/methods/statistics & numerical data
+MH  - Occupational Health/*statistics & numerical data
+MH  - Rest/*physiology
+MH  - Risk Assessment/methods
+MH  - Workload/statistics & numerical data
+PMC - PMC6773343
+OTO - NOTNLM
+OT  - HR reserve
+OT  - cardiovascular risk factor
+OT  - hypertension
+OT  - occupational physical activity
+OT  - physical workload
+COIS- Competing interests: None declared.
+EDAT- 2019/09/26 06:00
+MHDA- 2020/10/21 06:00
+PMCR- 2019/09/24
+CRDT- 2019/09/26 06:00
+PHST- 2019/09/26 06:00 [entrez]
+PHST- 2019/09/26 06:00 [pubmed]
+PHST- 2020/10/21 06:00 [medline]
+PHST- 2019/09/24 00:00 [pmc-release]
+AID - bmjopen-2019-029713 [pii]
+AID - 10.1136/bmjopen-2019-029713 [doi]
+PST - epublish
+SO  - BMJ Open. 2019 Sep 24;9(9):e029713. doi: 10.1136/bmjopen-2019-029713.
+
+PMID- 24670102
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20141125
+LR  - 20211021
+IS  - 1756-0500 (Electronic)
+IS  - 1756-0500 (Linking)
+VI  - 7
+DP  - 2014 Mar 27
+TI  - Effects of personality on overtime work: a cross-sectional pilot study among 
+      Japanese white-collar workers.
+PG  - 180
+LID - 10.1186/1756-0500-7-180 [doi]
+AB  - BACKGROUND: As detailed associations between personality and long work hours are 
+      unclear, we assessed associations between personality dimensions and overtime 
+      work among Japanese white-collar workers. METHODS: From records of hours worked 
+      over 12 months by 267 office workers in an organization within the service 
+      industry, average overtime work hours per month and occurrence of excessive 
+      overtime was determined for each worker. Excessive overtime was defined as >  45 
+      overtime work hours per month for at least one month. Responses to a 
+      questionnaire assessing socio-demographic and workplace-related factors and the 
+      Big Five personality test were analyzed. Associations between personality factors 
+      and overtime work were assessed by multivariate logistic regression analysis. 
+      RESULTS: Low Extraversion was associated with excessive overtime work (OR 2.02, 
+      95%CI 1.02 - 4.02, P =  0.04). CONCLUSIONS: It is suggested that workers with low 
+      Extraversion can't share work when busy to avoid excessive overtime. Personality 
+      factors should be considered in studies evaluating work time. Moreover, 
+      strengthening communication among workers with low Extraversion may reduce 
+      excessive overtime work and associated health problems.
+FAU - Uchida, Mitsuo
+AU  - Uchida M
+AD  - Center for Health, Safety and Environmental Management, Shinshu University, 3-1-1 
+      Asahi, Matsumoto 390-8621, Japan. uchida01@shinshu-u.ac.jp.
+FAU - Kaneko, Minoru
+AU  - Kaneko M
+FAU - Kawa, Shigeyuki
+AU  - Kawa S
+LA  - eng
+PT  - Journal Article
+DEP - 20140327
+PL  - England
+TA  - BMC Res Notes
+JT  - BMC research notes
+JID - 101462768
+SB  - IM
+MH  - Adult
+MH  - Cross-Sectional Studies
+MH  - Female
+MH  - Humans
+MH  - Japan
+MH  - Male
+MH  - Middle Aged
+MH  - *Personality
+MH  - Pilot Projects
+MH  - Surveys and Questionnaires
+MH  - Workload/*psychology
+MH  - Workplace/organization & administration/*psychology
+PMC - PMC3986883
+EDAT- 2014/03/29 06:00
+MHDA- 2014/12/15 06:00
+PMCR- 2014/03/27
+CRDT- 2014/03/28 06:00
+PHST- 2013/04/30 00:00 [received]
+PHST- 2014/03/22 00:00 [accepted]
+PHST- 2014/03/28 06:00 [entrez]
+PHST- 2014/03/29 06:00 [pubmed]
+PHST- 2014/12/15 06:00 [medline]
+PHST- 2014/03/27 00:00 [pmc-release]
+AID - 1756-0500-7-180 [pii]
+AID - 10.1186/1756-0500-7-180 [doi]
+PST - epublish
+SO  - BMC Res Notes. 2014 Mar 27;7:180. doi: 10.1186/1756-0500-7-180.
+
+PMID- 23165489
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140515
+LR  - 20220318
+IS  - 1941-2479 (Electronic)
+IS  - 1010-5395 (Linking)
+VI  - 26
+IP  - 2
+DP  - 2014 Mar
+TI  - Musculoskeletal disorders among Thai women in construction-related work.
+PG  - 196-202
+LID - 10.1177/1010539512466429 [doi]
+AB  - A cross-sectional study was conducted to determine the prevalence of 
+      musculoskeletal disorder symptoms and its risk factors among women rebar workers. 
+      A simple random sampling method was used and data were collected by face-to-face 
+      interview and ergonomic assessment from February to March 2011. A total of 272 
+      women rebar workers with at least 6 months' job experience participated in this 
+      study. The findings revealed that 57.7% of workers reported musculoskeletal 
+      disorder symptoms with low back and shoulders as the most common body parts 
+      affected (46.0%). Multiple logistic regression analysis indicated 2 variables 
+      that are significantly associated with musculoskeletal disorders: prolonged 
+      working hours (adjusted odds ratio = 7.63; 95% confidence interval = 2.06-28.31) 
+      and awkward posture (adjusted odds ratio = 43.79; 95% confidence interval = 
+      17.09-112.20). The high prevalence of musculoskeletal disorders among women rebar 
+      workers suggests that an appropriate ergonomic workstation design and ergonomic 
+      training for women rebar workers are necessary.
+FAU - Hanklang, Suda
+AU  - Hanklang S
+AD  - 1Mahidol University, Bangkok, Thailand.
+FAU - Kaewboonchoo, Orawan
+AU  - Kaewboonchoo O
+FAU - Silpasuwan, Pimpan
+AU  - Silpasuwan P
+FAU - Mungarndee, Suriyaphun S
+AU  - Mungarndee SS
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20121118
+PL  - China
+TA  - Asia Pac J Public Health
+JT  - Asia-Pacific journal of public health
+JID - 8708538
+SB  - IM
+MH  - Adult
+MH  - *Construction Industry
+MH  - Cross-Sectional Studies
+MH  - Ergonomics
+MH  - Female
+MH  - Humans
+MH  - Logistic Models
+MH  - Middle Aged
+MH  - Musculoskeletal Diseases/*epidemiology
+MH  - Occupational Diseases/*epidemiology
+MH  - Posture/physiology
+MH  - Prevalence
+MH  - Qualitative Research
+MH  - Risk Factors
+MH  - Thailand/epidemiology
+MH  - Women, Working/*statistics & numerical data
+MH  - Workload/statistics & numerical data
+OTO - NOTNLM
+OT  - informal sector
+OT  - musculoskeletal disorders
+OT  - rebar
+OT  - women worker
+EDAT- 2012/11/21 06:00
+MHDA- 2014/05/16 06:00
+CRDT- 2012/11/21 06:00
+PHST- 2012/11/21 06:00 [entrez]
+PHST- 2012/11/21 06:00 [pubmed]
+PHST- 2014/05/16 06:00 [medline]
+AID - 1010539512466429 [pii]
+AID - 10.1177/1010539512466429 [doi]
+PST - ppublish
+SO  - Asia Pac J Public Health. 2014 Mar;26(2):196-202. doi: 10.1177/1010539512466429. 
+      Epub 2012 Nov 18.
+
+PMID- 29885729
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181102
+LR  - 20181102
+IS  - 1872-9126 (Electronic)
+IS  - 0003-6870 (Linking)
+VI  - 72
+DP  - 2018 Oct
+TI  - Risk factors associated with self-reported musculoskeletal pain among short and 
+      long distance industrial gas delivery truck drivers.
+PG  - 69-87
+LID - S0003-6870(18)30128-5 [pii]
+LID - 10.1016/j.apergo.2018.05.005 [doi]
+AB  - AIM: This study investigated and compared the associations between self-reported 
+      exposures to individual as well as work-related physical and psychosocial risk 
+      factors for musculoskeletal (MS) disorders and the prevalence of MS symptoms in 
+      different body areas among short- (P&D) and long-distance (Bulk delivery) truck 
+      drivers working for the same large gas delivery company in Canada. METHODS: 123 
+      truck drivers nationwide participated in this questionnaire-based cross-sectional 
+      study. Univariate and multivariate logistic regression analyses were performed. 
+      RESULTS: 43.1% of drivers reported MS pain in at least one body area over the 
+      past 12 months and 26.8% over the past 7 days. Bulk drivers had a significantly 
+      higher prevalence of MS pain than P&D drivers for both periods. When P&D and Bulk 
+      drivers were pooled together, belonging to the Bulk subgroup emerged as the 
+      strongest factor for low back pain (OR = 8.45, p = 0.002), for shoulder pain 
+      (OR = 3.70, p = 0.027) and for MS pain in any body area (OR = 4.05, p = 0.006). 
+      In Bulk drivers "High effort-reward imbalance" was strongly associated with MS 
+      pain in any body area (OR = 6.47, p = 0.01), with shoulder pain (OR = 4.95, 
+      p = 0.016), and with low back pain (OR = 4.51, p = 0.02). In P&D drivers MS pain 
+      in any body area was strongly associated with "Working with hands above 
+      shoulders" (OR = 6.58, p = 0.009) and "Whole-body vibration" (OR = 5.48, 
+      p = 0.018), while shoulder pain was strongly associated with "Hand-arm vibration" 
+      (OR = 7.27, p = 0.041). CONCLUSIONS: Prevalence of MS pain was higher among 
+      industrial gas delivery truck drivers than in the general Quebec male worker 
+      population, and higher for Bulk drivers compared to P&D drivers. MS pain in Bulk 
+      drivers was mainly associated with psychosocial risk factors and lifestyle; MS 
+      pain in P&D drivers was mainly associated with physical risk factors.
+CI  - Copyright © 2018 Elsevier Ltd. All rights reserved.
+FAU - Sekkay, Firdaous
+AU  - Sekkay F
+AD  - Department of Mathematics and Industrial Engineering, Polytechnique Montreal, 
+      Montreal, Canada. Electronic address: firdaous.sekkay@polymtl.ca.
+FAU - Imbeau, Daniel
+AU  - Imbeau D
+AD  - Department of Mathematics and Industrial Engineering, Polytechnique Montreal, 
+      Montreal, Canada.
+FAU - Chinniah, Yuvin
+AU  - Chinniah Y
+AD  - Department of Mathematics and Industrial Engineering, Polytechnique Montreal, 
+      Montreal, Canada.
+FAU - Dubé, Philippe-Antoine
+AU  - Dubé PA
+AD  - Department of Mathematics and Industrial Engineering, Polytechnique Montreal, 
+      Montreal, Canada.
+FAU - de Marcellis-Warin, Nathalie
+AU  - de Marcellis-Warin N
+AD  - Department of Mathematics and Industrial Engineering, Polytechnique Montreal, 
+      Montreal, Canada.
+FAU - Beauregard, Nancy
+AU  - Beauregard N
+AD  - School of Industrial Relations, University of Montreal, Montreal, Canada.
+FAU - Trépanier, Martin
+AU  - Trépanier M
+AD  - Department of Mathematics and Industrial Engineering, Polytechnique Montreal, 
+      Montreal, Canada.
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20180517
+PL  - England
+TA  - Appl Ergon
+JT  - Applied ergonomics
+JID - 0261412
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - *Automobile Driving
+MH  - Canada/epidemiology
+MH  - Cross-Sectional Studies
+MH  - Humans
+MH  - Life Style
+MH  - Low Back Pain/*epidemiology/psychology
+MH  - Male
+MH  - Middle Aged
+MH  - Motor Vehicles
+MH  - Musculoskeletal Pain/*epidemiology/psychology
+MH  - Neck Pain/epidemiology/psychology
+MH  - Occupational Diseases/*epidemiology/psychology
+MH  - *Oil and Gas Industry
+MH  - Prevalence
+MH  - Reward
+MH  - Risk Factors
+MH  - Self Report
+MH  - Shoulder Pain/*epidemiology/psychology
+MH  - Vibration
+MH  - Workload/psychology
+OTO - NOTNLM
+OT  - Musculoskeletal pain
+OT  - Musculoskeletal risk factors
+OT  - Professional truck drivers
+OT  - Self-reports
+EDAT- 2018/06/11 06:00
+MHDA- 2018/11/06 06:00
+CRDT- 2018/06/11 06:00
+PHST- 2017/09/25 00:00 [received]
+PHST- 2018/05/09 00:00 [revised]
+PHST- 2018/05/10 00:00 [accepted]
+PHST- 2018/06/11 06:00 [entrez]
+PHST- 2018/06/11 06:00 [pubmed]
+PHST- 2018/11/06 06:00 [medline]
+AID - S0003-6870(18)30128-5 [pii]
+AID - 10.1016/j.apergo.2018.05.005 [doi]
+PST - ppublish
+SO  - Appl Ergon. 2018 Oct;72:69-87. doi: 10.1016/j.apergo.2018.05.005. Epub 2018 May 
+      17.
+
+PMID- 28283140
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180503
+LR  - 20181202
+IS  - 2214-9996 (Electronic)
+IS  - 2214-9996 (Linking)
+VI  - 82
+IP  - 5
+DP  - 2016 Sep-Oct
+TI  - Pay Matters: The Piece Rate and Health in the Developing World.
+PG  - 858-865.e6
+LID - S2214-9996(16)30723-8 [pii]
+LID - 10.1016/j.aogh.2016.05.005 [doi]
+AB  - BACKGROUND: Piece rate pay remains a common form of compensation in 
+      developing-world industries. While the piece rate may boost productivity, it has 
+      been shown to have unintended consequences for occupational safety and health, 
+      including increased accident and injury risk. OBJECTIVES: This paper explores the 
+      relationship between worker pay and physical and emotional health, and questions 
+      the modern day business case for piece rate pay in the developing world. METHODS: 
+      The relationship between piece rate and self-reported measures of physical and 
+      emotional health is estimated using a large survey of garment workers in 109 
+      Vietnamese factories between 2010 and 2014. A random effects logit model controls 
+      for factory and year, predicting worker health as a function of pay type, 
+      demographics, and factory characteristics. FINDINGS: Workers paid by the piece 
+      report worse physical and emotional health than workers paid by the hour (OR = 
+      1.38-1.81). Wage incentives provide the most consistently significant evidence of 
+      all demographic and factory-level variables, including the factory's own 
+      performance on occupational safety and health compliance measures. CONCLUSIONS: 
+      These results highlight the importance of how workers are paid to understanding 
+      the variability in worker health outcomes. More research is needed to better 
+      understand the business case supporting the continued use of piece rate pay in 
+      the developing world.
+CI  - Copyright © 2016 The Author. Published by Elsevier Inc. All rights reserved.
+FAU - Davis, Mary E
+AU  - Davis ME
+AD  - Department of Urban and Environmental Policy and Planning, Tufts University, 
+      Medford, MA. Electronic address: Mary.Davis@tufts.edu.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Ann Glob Health
+JT  - Annals of global health
+JID - 101620864
+SB  - IM
+MH  - *Accidents, Occupational
+MH  - Adult
+MH  - Demography
+MH  - Employment/*classification
+MH  - Humans
+MH  - *Industry
+MH  - Occupational Exposure
+MH  - *Occupational Health
+MH  - *Salaries and Fringe Benefits
+MH  - Surveys and Questionnaires
+MH  - *Workload
+OTO - NOTNLM
+OT  - emotional health
+OT  - occupational health
+OT  - performance pay
+OT  - physical health
+OT  - piece rate
+OT  - wages
+EDAT- 2017/03/12 06:00
+MHDA- 2018/05/04 06:00
+CRDT- 2017/03/12 06:00
+PHST- 2017/03/12 06:00 [entrez]
+PHST- 2017/03/12 06:00 [pubmed]
+PHST- 2018/05/04 06:00 [medline]
+AID - S2214-9996(16)30723-8 [pii]
+AID - 10.1016/j.aogh.2016.05.005 [doi]
+PST - ppublish
+SO  - Ann Glob Health. 2016 Sep-Oct;82(5):858-865.e6. doi: 10.1016/j.aogh.2016.05.005.
+
+PMID- 27195478
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171121
+LR  - 20211204
+IS  - 1097-0274 (Electronic)
+IS  - 0271-3586 (Print)
+IS  - 0271-3586 (Linking)
+VI  - 59
+IP  - 10
+DP  - 2016 Oct
+TI  - Good job, bad job: Occupational perceptions among Latino poultry workers.
+PG  - 877-86
+LID - 10.1002/ajim.22599 [doi]
+AB  - OBJECTIVES: Immigrant workers frequently take jobs that are physically demanding, 
+      provide low wages, and result in injuries (e.g., poultry production and 
+      processing). Through a qualitative approach, this paper elicits poultry workers' 
+      evaluations of their jobs and set them in the larger context of their lives. 
+      METHODS: Semi-structured interviews were conducted with 65 poultry workers in 
+      western North Carolina. Workers were asked to discuss job characteristics, 
+      physical and psychological impacts of their employment, and perceived health 
+      risks. RESULTS: Immigrant workers valued the stability, benefits, upward 
+      mobility, and pay offered. They disliked the physical demands, the potential 
+      perceived effects of the job on their health, and the interactions with bosses 
+      and peers. CONCLUSIONS: Workers' willingness to endure dirty, dangerous, and 
+      demanding (3-D) conditions of poultry must be understood in the context of other 
+      employment options, structural violence, and their focus on immediate family 
+      needs that positive aspects of these jobs can fulfill. Am. J. Ind. Med. 
+      59:877-886, 2016. © 2016 Wiley Periodicals, Inc.
+CI  - © 2016 Wiley Periodicals, Inc.
+FAU - Mora, Dana C
+AU  - Mora DC
+AD  - Department of Family and Community Medicine, Wake Forest School of Medicine, 
+      Winston-Salem, North Carolina.
+FAU - Arcury, Thomas A
+AU  - Arcury TA
+AD  - Department of Family and Community Medicine, Wake Forest School of Medicine, 
+      Winston-Salem, North Carolina.
+AD  - Center for Worker Health, Wake Forest School of Medicine, Winston-Salem, North 
+      Carolina.
+FAU - Quandt, Sara A
+AU  - Quandt SA
+AD  - Center for Worker Health, Wake Forest School of Medicine, Winston-Salem, North 
+      Carolina. squandt@wakehealth.edu.
+AD  - Division of Public Health Sciences, Department of Epidemiology and Prevention, 
+      Wake Forest School of Medicine, Winston-Salem, North Carolina. 
+      squandt@wakehealth.edu.
+LA  - eng
+GR  - R01 OH009251/OH/NIOSH CDC HHS/United States
+GR  - R25 OH008335/OH/NIOSH CDC HHS/United States
+PT  - Journal Article
+DEP - 20160516
+PL  - United States
+TA  - Am J Ind Med
+JT  - American journal of industrial medicine
+JID - 8101110
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Animals
+MH  - *Attitude
+MH  - Emigrants and Immigrants
+MH  - Female
+MH  - Hispanic or Latino/*psychology
+MH  - Humans
+MH  - Interviews as Topic
+MH  - *Job Satisfaction
+MH  - Male
+MH  - Meat-Packing Industry
+MH  - Middle Aged
+MH  - North Carolina
+MH  - Perception
+MH  - Poultry
+MH  - Work/*psychology
+MH  - Workload/psychology
+MH  - Young Adult
+PMC - PMC5026549
+MID - NIHMS782587
+OID - NLM: HHSPA782587 [Available on 10/01/17]
+OTO - NOTNLM
+OT  - 3-D jobs
+OT  - job perceptions
+OT  - occupational health
+OT  - poultry workers
+OT  - structural violence
+COIS- None of the authors have conflicts of interest to disclose.
+EDAT- 2016/05/20 06:00
+MHDA- 2017/11/29 06:00
+PMCR- 2017/10/01
+CRDT- 2016/05/20 06:00
+PHST- 2016/04/13 00:00 [accepted]
+PHST- 2016/05/20 06:00 [entrez]
+PHST- 2016/05/20 06:00 [pubmed]
+PHST- 2017/11/29 06:00 [medline]
+PHST- 2017/10/01 00:00 [pmc-release]
+AID - 10.1002/ajim.22599 [doi]
+PST - ppublish
+SO  - Am J Ind Med. 2016 Oct;59(10):877-86. doi: 10.1002/ajim.22599. Epub 2016 May 16.
