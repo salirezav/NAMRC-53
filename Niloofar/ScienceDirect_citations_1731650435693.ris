@@ -1,0 +1,2334 @@
+TY  - JOUR
+T1  - A real-time interactive decision-making and control framework for complex cyber-physical-human systems
+AU  - Hu, Chen-Lian
+AU  - Wang, Lei
+AU  - Chen, Mei-Ling
+AU  - Pei, Cheng
+JO  - Annual Reviews in Control
+VL  - 57
+SP  - 100938
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 1367-5788
+DO  - https://doi.org/10.1016/j.arcontrol.2024.100938
+UR  - https://www.sciencedirect.com/science/article/pii/S1367578824000075
+KW  - Cyber-physical-human systems
+KW  - Human-in-the-loop
+KW  - Decision-making
+KW  - Real-time control
+KW  - Human-computer interaction
+AB  - Over the past decade, the advancement of digital technology has significantly enhanced operations management in complex cyber-physical systems (CPSs), especially in the production and manufacturing sectors. In such systems, the physical and cyber spaces are generally connected through sensors, networking, and control actions. With the surge in available real-time data, automation and intelligence have become increasingly prevalent. However, full automation and sophisticated intelligence often remain challenging to achieve in real-world CPSs. Currently, many practical tasks in CPSs are best tackled through the integration of human cognitive skills with autonomous systems, highlighting the indispensable role that humans play in these settings. In this study, we present a framework for real-time decision-making and control in complex cyber-physical-human systems. The framework consists of three main modules: intelligent data processing, intelligent decision-making and control, and human-computer interaction. It is designed to provide a practical and implementable framework for supporting real-time decision-making and control in cyber-physical-human system applications. To demonstrate the applicability of the framework, we build a comprehensive decision support tool to manage several important real-time decision-making and control tasks at a container terminal. The tool is seamlessly integrated into the main operating system of the container terminal and aids decision-makers in making optimal decisions and generating appropriate control actions. The effectiveness of the tool is confirmed by observed improvements in several key operational efficiency indicators at the container terminal.
+ER  - 
+
+TY  - JOUR
+T1  - A cognitive architecture for automatic gardening
+AU  - Agostini, Alejandro
+AU  - Alenyà, Guillem
+AU  - Fischbach, Andreas
+AU  - Scharr, Hanno
+AU  - Wörgötter, Florentin
+AU  - Torras, Carme
+JO  - Computers and Electronics in Agriculture
+VL  - 138
+SP  - 69
+EP  - 79
+PY  - 2017
+DA  - 2017/06/01/
+SN  - 0168-1699
+DO  - https://doi.org/10.1016/j.compag.2017.04.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169916304768
+KW  - Cognitive architecture
+KW  - Optimized plant treatments
+KW  - Automatic gardening
+KW  - Human-robot interaction
+KW  - Learning planning operators
+AB  - In large industrial greenhouses, plants are usually treated following well established protocols for watering, nutrients, and shading/light. While this is practical for the automation of the process, it does not tap the full potential for optimal plant treatment. To more efficiently grow plants, specific treatments according to the plant individual needs should be applied. Experienced human gardeners are very good at treating plants individually. Unfortunately, hiring a crew of gardeners to carry out this task in large greenhouses is not cost effective. In this work we present a cognitive system that integrates artificial intelligence (AI) techniques for decision-making with robotics techniques for sensing and acting to autonomously treat plants using a real-robot platform. Artificial intelligence techniques are used to decide the amount of water and nutrients each plant needs according to the history of the plant. Robotic techniques for sensing measure plant attributes (e.g. leaves) from visual information using 3D model representations. These attributes are used by the AI system to make decisions about the treatment to apply. Acting techniques execute robot movements to supply the plants with the specified amount of water and nutrients.
+ER  - 
+
+TY  - JOUR
+T1  - Advanced Adaptive Spatial Augmented Reality utilizing Dynamic in-situ Projection in Industrial Site Assembly
+AU  - RUPPRECHT, Patrick
+AU  - KUEFFNER-MCCAULEY, Hans
+AU  - TRIMMEL, Majesa
+AU  - HORNACEK, Michael
+AU  - SCHLUND, Sebastian
+JO  - Procedia CIRP
+VL  - 107
+SP  - 937
+EP  - 942
+PY  - 2022
+DA  - 2022/01/01/
+T2  - Leading manufacturing systems transformation – Proceedings of the 55th CIRP Conference on Manufacturing Systems 2022
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2022.05.088
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827122003729
+KW  - Adaptive Spatial Augmented Reality
+KW  - gesture interaction
+KW  - in-situ projection
+KW  - industrial site assembly
+AB  - An Adaptive Spatial Augmented Reality system with dynamic in-situ projection of work instructions and information guidance already shows benefits in the field of industrial site assembly of aircraft components. Furthermore, the user-adaptive gesture control offers advantages for a human-centered and natural interaction directly in the assembly process. This paper presents results of enhancing dynamic in-situ projection, information guidance and user-adaptive gesture interaction in an advanced assembly process of large-sized toy building bricks. For this purpose, the dynamic projection system displays the location of the bricks in the material provision area as well as the accurate mounting position and dynamically guides the operator through the assembly process. Furthermore, the optimized gesture interaction with YOLO and an optimized synthetic dataset creation process for site assembly, indicate strong intentions for user-adaptive interaction with the projection system. An evaluation in the TU Wien pilot factory demonstrates benefits in terms of time savings in locating parts, usability and cognitive workload.
+ER  - 
+
+TY  - JOUR
+T1  - Task Analysis and Ergonomic Evaluation in Camshaft Production Operations
+AU  - Serratos-Perez, J. Nieves
+AU  - Hernandez-Arellano, Juan Luis
+AU  - Negrete-Garcia, M. Carmen
+JO  - Procedia Manufacturing
+VL  - 3
+SP  - 4244
+EP  - 4251
+PY  - 2015
+DA  - 2015/01/01/
+T2  - 6th International Conference on Applied Human Factors and Ergonomics (AHFE 2015) and the Affiliated Conferences, AHFE 2015
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2015.07.407
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978915004084
+KW  - Task analyisis
+KW  - Ergonomic risk evaluation
+KW  - REBA Method
+KW  - AMT
+AB  - Here we report results of a study conducted at an industrial facility located in the central region of Mexico. It is devoted to the manufacturing of camshafts. We completed an ergonomic assessment on the working circumstances of a production line where workers interact with CNC lathes. Operating this machinery entails the performance of both physical and cognitive effort, circumstances that correspond to a process of Advanced Manufacturing Technology (AMT). The study consisted of a visual inspection of the work areas, video recording both of the site and of the workers in action, analysis of the recordings, and assessment with the REBA method. The tasks performed by the workers consist of a) handling (loading and unloading to/from the lathe) the camshaft components, b) visual inspection and test of compliance to the required parameters, c) adjusting the machinery as required, d) setting the finished pieces in containers. The recorded material allowed identifying 35 separate operations which were then analysed with the REBA Method. The results were as follows: 3 operations classified as a Very High Risk Level, 14 classified as High Risk level, 14 classified as Medium Risk Level and 4 operations classified as Low Risk Level. The body regions most at risk for WRMSD were the trunk, neck, arm and wrist. A series of changes in the workstation layout and in work procedures have been proposed, in order to ameliorate the ergonomic risk found.
+ER  - 
+
+TY  - JOUR
+T1  - A visual reasoning-based approach for mutual-cognitive human-robot collaboration
+AU  - Zheng, Pai
+AU  - Li, Shufei
+AU  - Xia, Liqiao
+AU  - Wang, Lihui
+AU  - Nassehi, Aydin
+JO  - CIRP Annals
+VL  - 71
+IS  - 1
+SP  - 377
+EP  - 380
+PY  - 2022
+DA  - 2022/01/01/
+SN  - 0007-8506
+DO  - https://doi.org/10.1016/j.cirp.2022.04.016
+UR  - https://www.sciencedirect.com/science/article/pii/S000785062200066X
+KW  - Human robot collaboration
+KW  - Manufacturing system
+KW  - Visual reasoning
+AB  - Human-robot collaboration (HRC) allows seamless communication and collaboration between humans and robots to fulfil flexible manufacturing tasks in a shared workspace. Nevertheless, existing HRC systems lack an efficient integration of robotic and human cognitions. Empowered by advanced cognitive computing, this paper proposes a visual reasoning-based approach for mutual-cognitive HRC. Firstly, a domain-specific HRC knowledge graph is established. Next, the holistic manufacturing scene is perceived by visual sensors as a temporal graph. Then, a collaborative mode with similar instructions can be inferred by graph embedding. Lastly, mutual-cognitive decisions are immersed into the Augmented Reality execution loop for intuitive HRC support.
+ER  - 
+
+TY  - JOUR
+T1  - Home is where the mind is: Family interference with work and safety performance in two high risk industries
+AU  - Johnson, Ryan C.
+AU  - Eatough, Erin M.
+AU  - Chang, Chu-Hsiang (Daisy)
+AU  - Hammer, Leslie B.
+AU  - Truxilllo, Donald
+JO  - Journal of Vocational Behavior
+VL  - 110
+SP  - 117
+EP  - 130
+PY  - 2019
+DA  - 2019/02/01/
+SN  - 0001-8791
+DO  - https://doi.org/10.1016/j.jvb.2018.10.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0001879118301210
+KW  - Safety
+KW  - Work-family conflict
+KW  - Cognitive failure
+KW  - Strain
+KW  - Commitment
+AB  - This study examines the process through which family interference with work (FIW) negatively relates to safety performance in two unique samples from high-risk industries. Using a sample from the construction industry, Study 1 finds that FIW is related to employees' workplace cognitive failures, which in turn, were a significant predictor of safety-related behaviors. Using a sample from a utility company, Study 2 replicates these results and demonstrates that psychological strain further explains the complex relationship between FIW and safety. Furthermore, in Study 2, the mediation pathways linking FIW with safety behaviors were moderated by employees' commitment to safety. The idea that family life can predict safety in the workplace through interference and distraction is important to the collective effort to protect worker health and critical to effective intervention design.
+ER  - 
+
+TY  - JOUR
+T1  - An ergonomic role allocation framework for dynamic human–robot collaborative tasks
+AU  - Merlo, Elena
+AU  - Lamon, Edoardo
+AU  - Fusaro, Fabio
+AU  - Lorenzini, Marta
+AU  - Carfì, Alessandro
+AU  - Mastrogiovanni, Fulvio
+AU  - Ajoudani, Arash
+JO  - Journal of Manufacturing Systems
+VL  - 67
+SP  - 111
+EP  - 121
+PY  - 2023
+DA  - 2023/04/01/
+SN  - 0278-6125
+DO  - https://doi.org/10.1016/j.jmsy.2022.12.011
+UR  - https://www.sciencedirect.com/science/article/pii/S027861252200231X
+KW  - Human–robot teaming
+KW  - Ergonomics
+KW  - Intelligent and flexible manufacturing
+KW  - Human factors and human-in-the-loop
+AB  - By incorporating ergonomics principles into the task allocation processes, human–robot collaboration (HRC) frameworks can favour the prevention of work-related musculoskeletal disorders (WMSDs). In this context, existing offline methodologies do not account for the variability of human actions and states; therefore, planning and dynamically assigning roles in human–robot teams remains an unaddressed challenge. This study aims to create an ergonomic role allocation framework that optimises the HRC, taking into account task features and human state measurements. The presented framework consists of two main modules: the first provides the HRC task model, exploiting AND/OR Graphs (AOG)s, which we adapted to solve the allocation problem; the second module describes the ergonomic risk assessment during task execution through a risk indicator and updates the AOG-related variables to influence future task allocation. The proposed framework can be combined with any time-varying ergonomic risk indicator that evaluates human cognitive and physical burden. In this work, we tested our framework in an assembly scenario, introducing a risk index named Kinematic Wear. The overall framework has been tested with a multi-subject experiment. The task allocation results and subjective evaluations, measured with questionnaires, show that high-risk actions are correctly recognised and not assigned to humans, reducing fatigue and frustration in collaborative tasks.
+ER  - 
+
+TY  - JOUR
+T1  - Unmanned and Autonomous Systems: Future of Automation in Process and Energy Industries
+AU  - Borghesan, Francesco
+AU  - Zagorowska, Marta
+AU  - Mercangöz, Mehmet
+JO  - IFAC-PapersOnLine
+VL  - 55
+IS  - 7
+SP  - 875
+EP  - 882
+PY  - 2022
+DA  - 2022/01/01/
+T2  - 13th IFAC Symposium on Dynamics and Control of Process Systems, including Biosystems DYCOPS 2022
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2022.07.555
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896322009612
+KW  - Autonomous systems
+KW  - process automation
+KW  - process control
+KW  - machine learning
+KW  - artificial intelligence
+KW  - unmanned operation
+KW  - fault detection
+KW  - supervisory control
+KW  - functional safety
+KW  - human-machine interface
+KW  - process monitoring
+KW  - performance optimization
+AB  - Process and energy industries have been recognised as adopters of high levels of automation compared to other sectors. Nonetheless, human cognitive input still plays a critical role in the operation of process plants and replication of these cognitive capabilities remains a key challenge for advancing automation levels. In this paper, we provide an analysis of process and energy industries based on a scenario of reduced availability of skilled labour and increased demands for safety, sustainability, and resilience. We consider the different mechanical, sensing, situational awareness, and decision-making tasks involved in the operation of plants and map them to possible realisations of unmanned and autonomous systems. We discuss the implications of current technology capabilities and future technology development perspectives, the factors influencing the complexity of operation in process plants, and the importance of human-machine collaboration. As part of autonomous system capabilities, we consider adaptation as a key capability and we make a connection to adaptation of model-based solutions. We argue that reaching higher and wider levels of autonomy requires a rethink of the design processes for both the physical plants as well as the way automation, control, and safety solutions are conceptualised.
+ER  - 
+
+TY  - JOUR
+T1  - Embodied AI for dexterity-capable construction Robots: DEXBOT framework
+AU  - You, Hengxu
+AU  - Zhou, Tianyu
+AU  - Zhu, Qi
+AU  - Ye, Yang
+AU  - Du, Eric Jing
+JO  - Advanced Engineering Informatics
+VL  - 62
+SP  - 102572
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2024.102572
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034624002209
+KW  - Construction robots
+KW  - Embodied AI
+KW  - Dexterity
+AB  - The construction industry is integrating robots into critical tasks at an accelerated pace, with the aim of enhancing efficiency, safety, and productivity. However, construction tasks requiring dexterity remain a challenge due to the need for precise movements, accurate perception, real-time decision-making, and a comprehensive understanding of the environment. To address these challenges, the introduction of embodied artificial intelligence (AI) represents a significant shift in robotic capabilities to enhance their alignment with the broader spectrum of construction settings. Rooted in cognitive science, embodied AI emphasizes the integration of an agent’s physical form into its computational intelligence processes. It resembles how humans develop motor skills by interacting with physical world. This paper introduces DEXBOT, an exploratory framework for designing construction robots capable of high dexterity using embodied AI principles that mimics human strategies in complex tasks. The framework outlines six key perspectives for solving high-dexterity tasks with embodied AI: scene understanding, localization and motion planning, position-based control, force-based control, sequence planning, and correction decision-making. By presenting preliminary test cases for each perspective, the paper emphasizes the role of embodied AI in advancing dexterity level of construction robots. The DEXBOT framework is expected to encourage interdisciplinary collaboration of designing capable construction robots in the future.
+ER  - 
+
+TY  - JOUR
+T1  - The Digital Age: Exploring the Intersection of AI/CI and Human Cognition and Social Interactions
+AU  - Usmani, Usman Ahmad
+AU  - Happonen, Ari
+AU  - Watada, Junzo
+JO  - Procedia Computer Science
+VL  - 239
+SP  - 1044
+EP  - 1052
+PY  - 2024
+DA  - 2024/01/01/
+T2  - CENTERIS – International Conference on ENTERprise Information Systems / ProjMAN - International Conference on Project MANagement / HCist - International Conference on Health and Social Care Information Systems and Technologies 2023
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.06.268
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050924015114
+KW  - Artificial intelligence
+KW  - Computational intelligence
+KW  - Digitalization
+KW  - Digital transformation
+KW  - Human cognition
+KW  - Social interaction
+KW  - Industry 4.0
+KW  - Digital capability
+KW  - Social transformation
+KW  - Human computer interaction
+AB  - Although solutions based on artificial and computational intelligence have made life easier, the fast development of technology also raises questions about near future and log term human cognition and social interaction. Through a survey of the literature and qualitative analysis, our work examined current research on how the AI/CI affects human cognitive functions and social interactions. We discuss how AI and CI are influencing e.g. how we humans gather information, build relationships, and communicate with others, with and without the new frontline technologies. Additionally, proposals for future advances are discussed along with the ethical and societal ramifications these technologies have, could and might bring into our lives. We think that by developing a deeper knowledge of how AI/CI affects human cognition and social interaction, new contributions are made to a positive conversation and encourage a responsible approach to incorporating new technologies into our daily lives.
+ER  - 
+
+TY  - JOUR
+T1  - Skill sets and wage premium: A network analysis based on Chinese agriculture online job offers
+AU  - Duan, Min
+AU  - Hou, Yali
+AU  - Zhang, Binzhe
+AU  - Chen, Chi
+AU  - Sun, Yufan
+AU  - Luo, Yingzi
+AU  - Tan, Tao
+JO  - Technological Forecasting and Social Change
+VL  - 201
+SP  - 123260
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0040-1625
+DO  - https://doi.org/10.1016/j.techfore.2024.123260
+UR  - https://www.sciencedirect.com/science/article/pii/S0040162524000568
+KW  - Skill sets
+KW  - Wage premium
+KW  - Network analysis
+KW  - Text mining
+KW  - Agriculture online job offers
+AB  - Technology and globalization have significantly impacted the labor market, leading to employment polarization and economic inequality. Yet, our comprehension of how workplace skills shape these processes remains limited, and empirical evidence that considers regional and industry disparities is scarce. Analyzing Chinese agricultural job vacancy data enables us to discern precise labor market characteristics, facilitating inferences about employment trends and future skill training needs. Employing text mining and network science, we create a skill network, classifying skills into categories based on their interconnections. Our analysis reveals a certain degree of skill polarization in China's agricultural labor force. Skill combinations elucidate diverse labor market dynamics, with digital and soft skills being highly sought after by agricultural employers due to their complementarity with cognitive skills, enhancing workers' competitiveness. Furthermore, we link two skill diversity metrics from the skill network to labor market outcomes, specifically wages, discovering that wage disparities are prominent in single-skill positions, while roles requiring a range of skills command higher wages compared to specialized positions. In summary, our research provides fresh insights into labor market trends, human capital complexity, and the economic inequalities stemming from agricultural digitization and automation, especially in rural areas.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating human cognition in cyber-physical systems: A multidimensional fuzzy pattern model with application to thermal spraying
+AU  - Bocklisch, Franziska
+AU  - Paczkowski, Gerd
+AU  - Zimmermann, Stephan
+AU  - Lampke, Thomas
+JO  - Journal of Manufacturing Systems
+VL  - 63
+SP  - 162
+EP  - 176
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 0278-6125
+DO  - https://doi.org/10.1016/j.jmsy.2022.03.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0278612522000425
+KW  - Human-cyber-physical systems
+KW  - Human-machine teaming
+KW  - Artificial intelligence
+KW  - Fuzzy pattern classification
+KW  - Thermal spraying
+AB  - The development of next-generation, intelligent manufacturing relies on the realization of human-cyber-physical systems. This key area of transdisciplinary research seeks to interrogate ways of supporting and integrating human cognition and expertise in complex cyber-physical systems, using modelling methods from artificial intelligence. This paper uses the exemplar of wear classification in thermal spraying to outline how relevant cognitive processes can be elicited and combined with technical variables in a singular, efficient and cognitively plausible modelling framework. To this end, eye tracking and high-resolution voltage measurements were performed in a pilot study, and a representative data set was generated for small data problems. Two multidimensional fuzzy pattern classification models were derived. Results show that both human and technical models are significant and complement one another. While the models still require optimizing, they clearly show that the integrative approach is practicable and fruitful. Our findings call for further transdisciplinary research of the development of cognitive assistance as well as predictive maintenance and quality assurance.
+ER  - 
+
+TY  - JOUR
+T1  - Enhancing the Dgree of Autonomy on a ‘Tier 1’ Unmanned Aerial Vehicle Using a Visual Landing Framework
+AU  - Tweedale, Jeffrey W.
+AU  - Gonano, Dion
+JO  - Procedia Computer Science
+VL  - 35
+SP  - 1033
+EP  - 1042
+PY  - 2014
+DA  - 2014/01/01/
+T2  - Knowledge-Based and Intelligent Information & Engineering Systems 18th Annual Conference, KES-2014 Gdynia, Poland, September 2014 Proceedings
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2014.08.190
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050914011557
+KW  - Agents
+KW  - Artificial Intelligence
+KW  - Automation
+KW  - Autonomy
+KW  - Autonomous Systems
+KW  - Computational Intelligence
+KW  - M2 M
+KW  - Machine Intelligence
+KW  - Machine Vision
+KW  - Multi-Agent Systems
+KW  - SIFT.
+AB  - Humans continue to use tools to manually transform raw resources into valued outputs. The type of tool, amount of effort and form of energy required vary depending on the output; however they now enable industry to manufacture goods (with excellent quality and extremely high volume). Industry continues to invest heavily in machines so that people can operate productively. Similarly, researchers continue to pursue automation to increase the Degree of Autonomy (DOA) using Advanced Information Processing (AIP) techniques. Artificial Intelligence (AI), Computational Intelligence (CI) and Machine Intelligence (MI) now facilitate automation for numerous achievements. The proposed Visual Landing Framework (VLF) design uses a Multi-Agent System (MAS) to facilitate the development of components, that interoperate, via embedded business logic, to deliver the coordination and cooperation techniques required to automate a higher-level cognitive processing problem. As technology incorporates this ever increasing Level of Automation (LOA), humans remain in charge and are retained to make higher-order decisions. Unlike humans, heuristic and declarative logic systems suffers under these conditions and to need to adapt or make human-like decision to succeed. This paper discusses one possible avenue of enhancing the DOA on a ‘Tier 1’ Unmanned Aerial Vehicle (UAV) by reducing the need for the human to concentrate on a difficult cognitive task. The Machine to Machine (M2M) autonomy component uses an on-board camera, the Open Source Computer Vision Library (OpenCV) and Scale-Invariant Feature Transform (SIFT) algorithms to translate a fixed ground reference into positional commands. With this increased LOA the platform should be able to generate greater independence and enable more autonomous behaviour within unmanned control systems.
+ER  - 
+
+TY  - JOUR
+T1  - A human-in-the-loop manufacturing control architecture for the next generation of production systems
+AU  - Cimini, Chiara
+AU  - Pirola, Fabiana
+AU  - Pinto, Roberto
+AU  - Cavalieri, Sergio
+JO  - Journal of Manufacturing Systems
+VL  - 54
+SP  - 258
+EP  - 271
+PY  - 2020
+DA  - 2020/01/01/
+SN  - 0278-6125
+DO  - https://doi.org/10.1016/j.jmsy.2020.01.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0278612520300029
+KW  - Industry 4.0
+KW  - Human-in-the-loop
+KW  - Cyber-physical production systems
+KW  - Manufacturing control architecture
+AB  - In recent years, the introduction of Industry 4.0 technologies in the manufacturing landscape promoted the development of smart factories characterised by relevant socio-technical interactions between humans and machines. In this context, understanding and modelling the role of humans turns out to be crucial to develop efficient manufacturing systems of the future. Grounding on previous researches in the field of Human-in-the-Loop and Human Cyber-Physical Systems, the paper aims at contributing to a deep reflection about human-machine interaction in the wider perspective of Social Human-in-the-Loop Cyber-Physical Production Systems, in which more agents collaborate and are socially connected. After presenting an evolution of manufacturing control organisations, an architecture to depict social interactions in smart factories is proposed. The proposed architecture contributes to the representation of different human roles in the smart factory and the exploration of both hierarchical and heterarchical data-driven decision-making processes in manufacturing.
+ER  - 
+
+TY  - JOUR
+T1  - Understanding the meaning of human perception and cognitive biases for production planning and control
+AU  - Bendul, Julia
+JO  - IFAC-PapersOnLine
+VL  - 52
+IS  - 13
+SP  - 2201
+EP  - 2206
+PY  - 2019
+DA  - 2019/01/01/
+T2  - 9th IFAC Conference on Manufacturing Modelling, Management and Control MIM 2019
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2019.11.532
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896319315162
+KW  - production planning
+KW  - control
+KW  - behavioral research
+KW  - cognitive biases
+KW  - human factor
+KW  - decision making
+AB  - The unawareness of production planners about the interaction of key performance indicators (KPIs) in manufacturing systems and misinterpretations of system states often leads to problems when they try to improve them. Exemplary, the lead time syndrome (LTS) represents one of these counterproductive actions. While planners aim to improve due date reliability by planned lead time adjustments, the result is often an aggravation of due date reliability. The underlying reason is that human perception and decision-making process can be biased. Despite its potential to improve the logistic performance, the meaning and the effects of cognitive biases on the decision-making processes in production planning and control were out of scope of recent investigations in the field of production logistics. The aim of this research is to create a starting point to close this research gap by the development of a heuristic framework identifying relevant decision making situations, the potentially active cognitive biases and the potential impact on logistics performance; for this, we combine the research streams of production planning and control (PPC), behavioral supply chain management and psychology.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-class classification of construction hazards via cognitive states assessment using wearable EEG
+AU  - Jeon, JungHo
+AU  - Cai, Hubo
+JO  - Advanced Engineering Informatics
+VL  - 53
+SP  - 101646
+PY  - 2022
+DA  - 2022/08/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2022.101646
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034622001100
+KW  - Construction safety
+KW  - Hazard classification
+KW  - Electroencephalogram (EEG)
+KW  - Wearable EEG
+KW  - Virtual reality (VR)
+KW  - EEG classifier
+AB  - Improving workers’ safety and health is one of the most critical issues in the construction industry. Research attempts have been made to better identify construction hazards on a jobsite by analyzing workers’ physical responses (e.g., stride and balance) or physiological responses (e.g., brain waves and heart rate) collected from the wearable devices. Among them, electroencephalogram (EEG) holds unique potential since it reveals abnormal patterns immediately when a hazard is perceived and recognized. Unfortunately, the unproven capacity of EEG signals for multi-hazard classification is a primary barrier towards ubiquitous hazard identification in real-time on jobsites. This study correlates EEG signal patterns with construction hazard types and develops an EEG classifier based on the experiments conducted in an immersive virtual reality (VR) environment. Hazards of different types (e.g., fall and slip/trip) were simulated in a VR environment. EEG signals were collected from subjects who wore both wearable EEG and VR devices during the experimentation. Two types of EEG features (time-domain/frequency-domain features and cognitive features) were extracted for training and testing. A total of eighteen advanced machine learning algorithms were used to develop the EEG classifier. The initial results showed that the LightGBM classifier achieved 70.1% accuracy based on the cognitive feature set for the 7-class classification. To improve the performance, the input data was relabeled, and three strategies were designed and tested. As a result, the combined approach (two-step ensemble classification) achieved 82.3% accuracy. As such, this study not only demonstrates the feasibility of coupling wearable EEG, VR, and machine learning to differentiate jobsite hazards but also provides strategies to improve multi-class classification performance. The research results support ubiquitous hazard identification and thereby contribute to the safety of the construction workplace.
+ER  - 
+
+TY  - JOUR
+T1  - Neurodiversity of the workforce and digital transformation: The case of inclusion of autistic workers at the workplace
+AU  - Walkowiak, Emmanuelle
+JO  - Technological Forecasting and Social Change
+VL  - 168
+SP  - 120739
+PY  - 2021
+DA  - 2021/07/01/
+SN  - 0040-1625
+DO  - https://doi.org/10.1016/j.techfore.2021.120739
+UR  - https://www.sciencedirect.com/science/article/pii/S0040162521001712
+KW  - Neurodiversity
+KW  - Inclusion
+KW  - Digital transformation
+KW  - Work organisation
+KW  - Skills
+KW  - Technological change
+KW  - Autism
+AB  - This paper analyses the productive complementarities between the digital transformation, the skills of autistic workers and neurodiversity management. Based on a qualitative approach and interviews with leaders or experts of neurodiversity initiatives, we provide a theoretical framework to analyse the links between the neurodiversity of the workforce and digital transformation at the individual, organisational and industry levels. We identify several ways by which the digital transformation may provide a context favourable to autistic workers. This includes creating new opportunities, valuing their performative abilities, cognitive differences and creativity, removing stereotypes and biases during the recruitment and improving the management of psycho-social risks. Neurodiversity management also contributes to the digital transformation by closing the digital skills shortage, shaping algorithms of artificial intelligence and providing a competitive advantage for innovation. Most importantly, neurodiversity management provides an effective model of inclusion that can mitigate the development of inequalities associated with the digital transformation.
+ER  - 
+
+TY  - JOUR
+T1  - System of Robot Learning from Multi-Modal Demonstration and Natural Language Instruction
+AU  - Lu, Shuang
+AU  - Berger, Julia
+AU  - Schilp, Johannes
+JO  - Procedia CIRP
+VL  - 107
+SP  - 914
+EP  - 919
+PY  - 2022
+DA  - 2022/01/01/
+T2  - Leading manufacturing systems transformation – Proceedings of the 55th CIRP Conference on Manufacturing Systems 2022
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2022.05.084
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827122003687
+KW  - Human robot collaboration
+KW  - Cognitive robotics
+KW  - Sensor
+AB  - Collaborative robots are set to play an important role in the future of the manufacturing industry. They need to be able to work outside of the fencing and perform new tasks to individual customer specifications. The necessity of frequent robot re-programming is a great challenge for small and medium sized companies alike. Learning from demonstration is a promising approach that aims to enable robots to acquire from their end users new task knowledge consisting of a sequence of actions, the associated skills, and the context in which the task is executed. Current systems have limited support for integrating semantics and environmental changes. This paper introduces a system combining several modalities as demonstration interfaces, including natural language instruction, visual observation and hand-guiding, which enables the robot to learn a task comprising a goal concept, a plan and basic actions, with consideration for the current environment state. The task thus learned can then be generalized to similar tasks involving different initial and goal states.
+ER  - 
+
+TY  - JOUR
+T1  - Trends in the knowledge area of organizations in Industry 5.0: perspectives and theoretical references
+AU  - Molina, Reynier Israel Ramírez
+AU  - Amaris, Ricardo Romario Antequera
+AU  - Raby, Nelson David Lay
+AU  - Severino-González, Pedro
+JO  - Procedia Computer Science
+VL  - 231
+SP  - 571
+EP  - 576
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 14th International Conference on Emerging Ubiquitous Systems and Pervasive Networks / 13th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare (EUSPN/ICTH 2023)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2023.12.252
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050923022640
+KW  - organizations knowledge area trends
+KW  - organizations trends
+KW  - organizations knowledge area
+KW  - organizations perspective
+KW  - Industry 5.0
+AB  - The field of organizational studies has undergone significant transformations in the 21st century, initially focused on business structure and management to maximize effectiveness and performance. Currently there is talk of Industry 5.0, which seeks to integrate technologies such as the collective network of connected devices, cognitive computing, nanotechnology, robotization, artificial intelligence and digitization of human processes. This research seeks to analyze the trends in knowledge of organizations, through a post-positivist approach based on empirical observation and experimentation to assess the study variable, select contemporary scientific literature, and review legal foundations, using databases of high impact and scientific rigor. The results are oriented by the strategic management of knowledge and intellectual assets, innovation and creativity, technology, and information. It is concluded that these are influenced by the requirements of the environment with a sustainable and sustainable approach, it is imperative to adapt to these trends to maintain a holistic perspective to ensure the permanence in time of organizations in the face of dynamic market changes.
+ER  - 
+
+TY  - JOUR
+T1  - Empirical Analysis of Software Success Rate Forecasting During Requirement Engineering Processes
+AU  - Hasnain, Muhammad
+AU  - Ghani, Imran
+AU  - Jeong, Seung Ryul
+AU  - Pasha, Muhammad Fermi
+AU  - Usman, Sardar
+AU  - Abbas, Anjum
+JO  - Computers, Materials and Continua
+VL  - 74
+IS  - 1
+SP  - 783
+EP  - 799
+PY  - 2022
+DA  - 2022/08/16/
+SN  - 1546-2218
+DO  - https://doi.org/10.32604/cmc.2023.030162
+UR  - https://www.sciencedirect.com/science/article/pii/S1546221822001382
+KW  - Cognitive bias
+KW  - misinterpretation of requirements
+KW  - miscommunication
+KW  - software success and failure prediction
+KW  - decision making
+AB  - Forecasting on success or failure of software has become an interesting and, in fact, an essential task in the software development industry. In order to explore the latest data on successes and failures, this research focused on certain questions such as is early phase of the software development life cycle better than later phases in predicting software success and avoiding high rework? What human factors contribute to success or failure of a software? What software practices are used by the industry practitioners to achieve high quality of software in their day-to-day work? In order to conduct this empirical analysis a total of 104 practitioners were recruited to determine how human factors, misinterpretation, and miscommunication of requirements and decision-making processes play their roles in software success forecasting. We discussed a potential relationship between forecasting of software success or failure and the development processes. We noticed that experienced participants had more confidence in their practices and responded to the questionnaire in this empirical study, and they were more likely to rate software success forecasting linking to the development processes. Our analysis also shows that cognitive bias is the central human factor that negatively affects forecasting of software success rate. The results of this empirical study also validated that requirements’ misinterpretation and miscommunication were the main causes behind software systems’ failure. It has been seen that reliable, relevant, and trustworthy sources of information help in decision-making to predict software systems’ success in the software industry. This empirical study highlights a need for other software practitioners to avoid such bias while working on software projects. Future investigation can be performed to identify the other human factors that may impact software systems’ success.
+ER  - 
+
+TY  - JOUR
+T1  - Cognitive work analysis to comprehend operations and organizations in the mining industry
+AU  - Demir, Serenay
+AU  - Abou-Jaoude, Elie
+AU  - Kumral, Mustafa
+JO  - International Journal of Mining Science and Technology
+VL  - 27
+IS  - 4
+SP  - 605
+EP  - 609
+PY  - 2017
+DA  - 2017/07/01/
+T2  - Special Issue on Advances in Mine Safety Science and Engineering
+SN  - 2095-2686
+DO  - https://doi.org/10.1016/j.ijmst.2017.05.008
+UR  - https://www.sciencedirect.com/science/article/pii/S2095268617303464
+KW  - Cognitive work analysis
+KW  - Mining operations
+KW  - Cognitive awareness
+KW  - Work domain
+KW  - Human behavior
+KW  - Safety
+AB  - Complex industrial systems, including mining, have a prominent challenge in understanding the interrelationship among the cognitive processes, working environment and available equipment. The concept of cognitive work analysis (CWA) transcends the traditional analytic methods of evaluating human tasks solely based on perceptual and physical traits, and rather implements the notions of behavioral and cognitive awareness indispensable for the intricacy of modern technology. In the last few decades, academic and industrial settings employ this type of analysis to set a suitable standard for a system’s safety feasibility, and as a result reduce human-based errors. This research paper analyzes current CWA methods and proposes a five-level quantification model portraying the overall cognitive quality of a mining operation.
+ER  - 
+
+TY  - JOUR
+T1  - Human-centricity in the design of production planning and control systems: A first approach towards Industry 5.0
+AU  - Rannertshauser, Patrick
+AU  - Kessler, Melanie
+AU  - Arlinghaus, Julia C.
+JO  - IFAC-PapersOnLine
+VL  - 55
+IS  - 10
+SP  - 2641
+EP  - 2646
+PY  - 2022
+DA  - 2022/01/01/
+T2  - 10th IFAC Conference on Manufacturing Modelling, Management and Control MIM 2022
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2022.10.108
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896322021176
+KW  - human-centric
+KW  - user-centric
+KW  - industry 5.0
+KW  - evaluation
+KW  - user experience
+KW  - Cognitive Biases
+KW  - PPC
+AB  - Planners are supported in the fulfilment of their tasks by so-called PPC systems. Among other things, planners are dissatisfied with the way PPC systems present information and results. As a result, there is a risk that the number of errors due to misinterpretations will increase. These are primarily caused by Cognitive Biases. Even increasing automation will not change this, since according to experts, humans will remain central, especially in decision-making. The European Union points out that Industry 4.0 focuses more on technical feasibility and implementation and less on human needs. In response, it proposes the human-centered approach of Industry 5.0. Here, the human being should move to the center of the process. In this regard, there is still little research activity in the field of PPC and in the context of Cognitive Biases. Therefore, we want to take a first step towards the human-centered approach with this work. To this end, we conduct a systematic literature review and develop a questionnaire to determine the human-centered maturity level. The results will then be compared with already researched Cognitive Biases.
+ER  - 
+
+TY  - JOUR
+T1  - Bringing Humans at the Epicenter of Artificial Intelligence: A Confluence of AI, HCI and Human Centered Computing
+AU  - Vishwarupe, Varad
+AU  - Maheshwari, Shrey
+AU  - Deshmukh, Aseem
+AU  - Mhaisalkar, Shweta
+AU  - Joshi, Prachi M.
+AU  - Mathias, Nicole
+JO  - Procedia Computer Science
+VL  - 204
+SP  - 914
+EP  - 921
+PY  - 2022
+DA  - 2022/01/01/
+T2  - International Conference on Industry Sciences and Computer Science Innovation
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2022.08.111
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050922008493
+KW  - Human Centered Computing
+KW  - Human Inspired AI
+KW  - Human Computer Interaction
+KW  - Machine Learning
+KW  - Artificial Intelligecne
+KW  - I4.0
+KW  - HCI
+AB  - Artificial Intelligence (AI) and Human Computer Interaction (HCI) often intersect under the purview of different technologies in a plethora of application areas, wherein it becomes pivotal to identify and interpret the exact roles of both the disciplines. Stakeholders involved in the fusion of AI and HCI range from engineers, scientists, philosophers and technologists to psychologists, cognitive scientists, graphic designers and researchers across a wide spectrum of realms. While it is important to develop intelligent interactive systems owing to the ubiquitous and pervasive nature of data ushering in the next era of AI, it is all the more important to develop these systems in-tandem with the aforementioned stakeholders, and in a way that users exercise appropriate control over the AI that is been developed. Human-in-the-loop systems and operator assistive technologies, especially in the context of Industry 4.0 are examples of a fabulous fusion of AI-HCI, wherein the technology that is being used works by keeping the humans in the loop, thereby paving the way for a robust, transparent, ethical, intelligent and interactive mechanism for the co-existence of AI and HCI systems. In this paper, we aim to bank upon the state-of-the-art literature that has been written previously in this regard and derive though provoking research questions. We also put forth challenges, case studies, application areas and come up with solutions, along with few recommendations that can be viably used in developing frameworks and mechanisms for the synergic co-existence of these two challenging, yet interesting fields of AI and HCI.
+ER  - 
+
+TY  - JOUR
+T1  - A proposal of an assembly workstation for car panel fitting aided by an augmented reality device
+AU  - Mura, Michela Dalle
+AU  - Dini, Gino
+JO  - Procedia CIRP
+VL  - 103
+SP  - 225
+EP  - 230
+PY  - 2021
+DA  - 2021/01/01/
+T2  - 9th CIRP Global Web Conference – Sustainable, resilient, and agile manufacturing and service operations : Lessons from COVID-19
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2021.10.036
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827121008775
+KW  - Assembly
+KW  - Augmented Reality
+KW  - Car Body Fitting
+KW  - Collaborative robots
+KW  - Automotive sector
+AB  - In the automotive sector, panel fitting operations represent a delicate phase of the assembly process, during which car bodywork components are manually aligned attempting to comply with spacing tolerances. Digital technologies currently promoted by the Industry 4.0 approach, such as collaborative robots and augmented reality (AR), could assist workers for reducing execution times of this “trial and error” procedure. On the one hand, human-robot collaboration (HRC) can enhance assembly process efficiency, by combining human dexterity and cognitive capabilities with robot repetitiveness and support in heavy load handling; on the other, AR can provide interactive instructions to guide workers during the process. In this regard, the present paper is focused on the development of a novel assembly workstation using HRC and AR to support workers during car panel fitting operations. The system is based on the implementation of an algorithm able to convert the values on panel spacing, which are measured by laser gauge positioned on the collaborative robot, in the instructions for the worker to correctly carry out the panel fitting operation. The paper finally presents the application of the system to a real assembly example.
+ER  - 
+
+TY  - JOUR
+T1  - On an evolutionary information system for personalized support to plant operators
+AU  - Nikolakis, Nikolaos
+AU  - Stathakis, Ioannis
+AU  - Makris, Sotirios
+JO  - Procedia CIRP
+VL  - 81
+SP  - 547
+EP  - 551
+PY  - 2019
+DA  - 2019/01/01/
+T2  - 52nd CIRP Conference on Manufacturing Systems (CMS), Ljubljana, Slovenia, June 12-14, 2019
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2019.03.153
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827119304585
+KW  - Cyber-physical system
+KW  - Artificial intelligence
+KW  - Information support system
+AB  - Technological advances are gradually transforming industrial plants into cognitive cyber-physical systems. Such systems include heterogeneous assets which need to be adapted and supported throughout this transformation. However, operator support systems are still dependent on fixed guidance and paper-based instructions describing a standard procedure. This paper presents an evolutionary approach for evaluating operators’ feedback towards enriching and personalizing the instructions content on how to execute a certain activity. The feedback is provided through a web application and analyzed by artificial intelligence techniques. The proposed information support system has been applied on a case study about the maintenance of an industrial robot.
+ER  - 
+
+TY  - JOUR
+T1  - Robotics and labour in agriculture. A context consideration
+AU  - Marinoudi, Vasso
+AU  - Sørensen, Claus G.
+AU  - Pearson, Simon
+AU  - Bochtis, Dionysis
+JO  - Biosystems Engineering
+VL  - 184
+SP  - 111
+EP  - 121
+PY  - 2019
+DA  - 2019/08/01/
+SN  - 1537-5110
+DO  - https://doi.org/10.1016/j.biosystemseng.2019.06.013
+UR  - https://www.sciencedirect.com/science/article/pii/S1537511019303617
+KW  - labour-machine substitution
+KW  - labour-machine complementarity
+KW  - workforce in agriculture
+AB  - Over the last century, agriculture transformed from a labour-intensive industry towards mechanisation and power-intensive production systems, while over the last 15 years agricultural industry has started to digitise. Through this transformation there was a continuous labour outflow from agriculture, mainly from standardized tasks within production process. Robots and artificial intelligence can now be used to conduct non-standardised tasks (e.g. fruit picking, selective weeding, crop sensing) previously reserved for human workers and at economically feasible costs. As a consequence, automation is no longer restricted to standardized tasks within agricultural production (e.g. ploughing, combine harvesting). In addition, many job roles in agriculture may be augmented but not replaced by robots. Robots in many instances will work collaboratively with humans. This new robotic ecosystem creates complex ethical, legislative and social impacts. A key question, we consider here, is what are the short and mid-term effects of robotised agriculture on sector jobs and employment? The presented work outlines the conditions, constraints, and inherent relationships between labour input and technology input in bio-production, as well as, provides the procedural framework and research design to be followed in order to evaluate the effect of adoption automation and robotics in agriculture.
+ER  - 
+
+TY  - JOUR
+T1  - A method for systematically developing the knowledge base of reactor operators in nuclear power plants to support cognitive modeling of operator performance
+AU  - Zhao, Yunfei
+AU  - Smidts, Carol
+JO  - Reliability Engineering & System Safety
+VL  - 186
+SP  - 64
+EP  - 77
+PY  - 2019
+DA  - 2019/06/01/
+SN  - 0951-8320
+DO  - https://doi.org/10.1016/j.ress.2019.02.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0951832018307373
+KW  - Knowledge base development
+KW  - Cognitive modeling
+KW  - Human reliability analysis
+KW  - Nuclear power plant
+KW  - Severe accident
+AB  - Methods based on cognitive modeling have attracted increasing attention in the human reliability analysis community. In such methods, the operator knowledge base plays a central role. This paper proposes a method for systematically developing the knowledge base of nuclear power plant operators. The method starts with a systematic literature review of a predefined topic. Then, the many collected publications are reduced to summaries. Relevant knowledge is then extracted from the summaries using an improved qualitative content analysis method to generate a large number of pieces of knowledge. Lastly, the pieces of knowledge are integrated in a systematic way to generate a knowledge graph consisting of nodes and links. As a case study, the proposed method is applied to develop the knowledge base of reactor operators pertaining to severe accidents in nuclear power plants. The results show that the proposed method exhibits advantages over conventional methods, including reduced reliance on expert knowledge and improved traceability of the process. Generalization of the proposed method to other sources of materials and application of the knowledge base are also discussed. Although this paper is focused on nuclear applications, the proposed method may be extended to other industrial sectors with little additional effort.
+ER  - 
+
+TY  - JOUR
+T1  - Teaching Assembly by Demonstration Using Advanced Human Robot Interaction and a Knowledge Integration Framework
+AU  - Haage, Mathias
+AU  - Piperagkas, Grigoris
+AU  - Papadopoulos, Christos
+AU  - Mariolis, Ioannis
+AU  - Malec, Jacek
+AU  - Bekiroglu, Yasemin
+AU  - Hedelind, Mikael
+AU  - Tzovaras, Dimitrios
+JO  - Procedia Manufacturing
+VL  - 11
+SP  - 164
+EP  - 173
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 27th International Conference on Flexible Automation and Intelligent Manufacturing, FAIM2017, 27-30 June 2017, Modena, Italy
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2017.07.221
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978917304298
+KW  - Robotic Assembly
+KW  - Teaching by Demonstration
+KW  - Sequential Function Charts
+KW  - Knowledge Integration
+AB  - Conventional industrial robots are heavily dependent on hard automation that requires pre-specified fixtures and time-consuming (re)programming performed by experienced operators. In this work, teaching by human-only demonstration is used for reducing required time and expertise to setup a robotized assembly station. This is achieved by the proposed framework enhancing the robotic system with advanced perception and cognitive abilities, accessed through a user-friendly Human Robot Interaction interface. The approach is evaluated on a small parts’ assembly use case deployed onto a collaborative industrial robot testbed. Experiments indicate that the proposed approach allows inexperienced users to efficiently teach robots new assembly tasks.
+ER  - 
+
+TY  - JOUR
+T1  - Modeling effective cybersecurity training frameworks: A delphi method-based study
+AU  - Chowdhury, Nabin
+AU  - Katsikas, Sokratis
+AU  - Gkioulos, Vasileios
+JO  - Computers & Security
+VL  - 113
+SP  - 102551
+PY  - 2022
+DA  - 2022/02/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2021.102551
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404821003758
+KW  - Cyber-security
+KW  - Training framework
+KW  - Delphi method
+KW  - Learning theory
+KW  - Personalizedp learning
+AB  - Today, cybersecurity training is commonplace in both large companies and Small & Medium Enterprise (SME). Nonetheless, the effectiveness of many of the current training offerings is put into question by reports of increasing successful cyber-attacks. While a number of models for developing Cybersecurity (CS) training frameworks for industrial personnel or general audience have been proposed, these models often lack consideration for humans aspects of learning (cognitive abilities, learning styles, meta-cognition among others) during development. Additionally, the success of a CS training program highly depends on its ability to engage participants. To develop a CS training framework that is able to motivate participants, we must consider individual-specific factors that can affect the result of training, besides establishing optimal training delivery methods and assessment. For this, in this work we propose a CS training framework based on a revised version of the ADDIE model and more recent research personalised learning theory. The Delphi method was used to both develop and validate our decisions during the development of the training framework model. The results of the decision of the Delphi method have later been compared to recommendations in the literature to create the finalised framework. This work presents two major distinctions from other CS training frameworks models described in the literature. First, the developed model is strongly based in learning theory foundations and takes into consideration differences in learning styles, cognitive abilities and metacognition of individuals, to offer tailored solutions optimized for each group of employees and single individual. Second, the use of the Delphi method and the involvement of experts stakeholders from various sides of academia and industry gave a wide insight into current needs and recommendations for CS training, as well as formal validation for the final development.
+ER  - 
+
+TY  - JOUR
+T1  - Ironies of Automation 4.0
+AU  - Hancke, Tania
+JO  - IFAC-PapersOnLine
+VL  - 53
+IS  - 2
+SP  - 17463
+EP  - 17468
+PY  - 2020
+DA  - 2020/01/01/
+T2  - 21st IFAC World Congress
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2020.12.2122
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896320327737
+KW  - Cognitive Aspects of Automation
+KW  - Human-Centered Systems
+KW  - Knowledge Society
+AB  - This paper revisits a truly classic publication: Bainbridge’s Ironies of Automation (1983) - but it also aims to make the point that the insights gained many years ago are today becoming more important than ever. As we all know, it is due to technological advances that automation is leading to increasingly complex systems which considerably raises the impact of the potential effects. Bainbridge’s insights originated from manufacturing processes, but they equally apply to process control in general and to vehicle control, e.g., airplanes, road vehicles or trains. This paper shows that comparable observations can be reported and suggests a human-centered approach to overcome the problems.
+ER  - 
+
+TY  - JOUR
+T1  - Human reliability study on the door operation from the view of Deep Machine Learning
+AU  - Zhan, Yan
+AU  - Tadikamalla, Pandu R.
+AU  - Craft, James A.
+AU  - Lu, Jiansha
+AU  - Yuan, Jijun
+AU  - Pei, Zhi
+AU  - Li, Shiyun
+JO  - Future Generation Computer Systems
+VL  - 99
+SP  - 143
+EP  - 153
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2018.11.055
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X18326098
+KW  - Human reliability analysis (HRA)
+KW  - Qualitative screening
+KW  - Human error probability (HEP)
+KW  - Decision making
+KW  - Machine learning
+AB  - Despite the advances made in developing human reliability analysis (HRA) methods, a gap remains between the methods developed by HRA researchers and the ways HRA practitioners actually use. Automated process control and control room operating supervision are important in major process industries. This paper introduces operator’s operational and cognitive errors in the process reliability analysis based on a review of current research on HRA techniques, a procedural framework of qualitative screening phase for the control rooms in the metro industry context, and panel discussions with HRA analysts, systems analysts, and control operators. HRA method Standardized Plant Analysis Risk-HRA (SPARH) based on Machine Learning is utilized to evaluate human error probabilities (HEPs) of action and diagnosis in the Door Operation of Guangzhou Metro Corporation (GMC) Line 1. The results show that improving staff’s experience/training level will greatly enhance operating reliability of door operation. Considering diagnosis complexity and situational awareness, different decision makers have different effects on the operating reliability. We suggest that the quality of ergonomics/Human Machine Interface (HMI) and the availability of existing ergonomics/HMI assessment tools should be evaluated based on industry standards.
+ER  - 
+
+TY  - JOUR
+T1  - On the Visual Design of ERP Systems The – Role of Information Complexity, Presentation and Human Factors
+AU  - Mittelstädt, Victor
+AU  - Brauner, Philipp
+AU  - Blum, Matthias
+AU  - Ziefle, Martina
+JO  - Procedia Manufacturing
+VL  - 3
+SP  - 448
+EP  - 455
+PY  - 2015
+DA  - 2015/01/01/
+T2  - 6th International Conference on Applied Human Factors and Ergonomics (AHFE 2015) and the Affiliated Conferences, AHFE 2015
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2015.07.207
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978915002085
+KW  - Enterprise resource planning system (ERP)
+KW  - Supply chain management
+KW  - Information visualization
+KW  - Information systems
+KW  - Information complexity
+KW  - Human Factors
+KW  - Usability
+KW  - Cognitive abilities
+KW  - User diversity
+KW  - Tables
+KW  - Alphanumeric displays
+KW  - Usability for Industrial Internet
+AB  - The investment in Enterprise resource planning (ERP) systems is indispensable for manufacturing companies to obtain competitive advantages in the globalized market. However, end-users are confronted with complex interfaces and poor usability of these systems. In the present multi-factorial experiment, we examined the effects of information complexity and presentation as a key aspect of usability with consideration of human factors on decision quality. By using alphanumeric tables of simulated ERP system data to make a decision, users’ decision quality dropped with increasing information complexity and the use of a poor presentation. Furthermore, interactive effects of two different aspects of information complexity (data amount and task complexity) as well as compensatory effects through human factors were revealed. These findings show the importance of empirical user studies in this field and provide several practical implication. Especially, user-centered design processes can substantially contribute to a successful implementation of complex information systems, such as ERP systems.
+ER  - 
+
+TY  - JOUR
+T1  - Cognitive Assistance Systems in Intralogistics: A User Study on the Effects of Varying Levels of Customization
+AU  - Stern, Hendrik
+AU  - Diedrich, Rebecca
+AU  - Freitag, Michael
+JO  - IFAC-PapersOnLine
+VL  - 58
+IS  - 19
+SP  - 1102
+EP  - 1107
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 18th IFAC Symposium on Information Control Problems in Manufacturing INCOM 2024
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2024.09.121
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896324015301
+KW  - human-computer interaction
+KW  - human factors
+KW  - industry 4.0
+KW  - industry 5.0
+KW  - cognitive assistance systems
+KW  - intralogistics
+KW  - technology acceptance
+KW  - usability
+KW  - user experience
+AB  - This study investigates the impact of varying levels of customization in digital assistance systems on human-centered evaluation measures and logistical performance within intralogistics. In this regard, the provision of an adequate extent of such customization pose an open research question. Thus, in this research we focus on a user study centered on picking and packaging processes. The participants were supported by cognitive assistance systems of different levels of system customization. While performing tasks their logistical performance was measured and the usability, user experience and technology acceptance were assessed using standard questionnaires. The results show that customization influences both the performance and the human-centered evaluation of the cognitive assistance systems. The research suggests, that a certain level of customization should be considered in the design of digital assistance systems, which is not necessarily the maximum level.
+ER  - 
+
+TY  - JOUR
+T1  - Effect of anthropomorphic design and hierarchical status on balancing self-serving bias: Accounting for education, ethnicity, and experience
+AU  - Wu, Min
+AU  - Li, Zhaotong
+AU  - Yuen, Kum Fai
+JO  - Computers in Human Behavior
+VL  - 158
+SP  - 108299
+PY  - 2024
+DA  - 2024/09/01/
+SN  - 0747-5632
+DO  - https://doi.org/10.1016/j.chb.2024.108299
+UR  - https://www.sciencedirect.com/science/article/pii/S0747563224001675
+KW  - Anthropomorphism
+KW  - Hierarchical status
+KW  - Human-computer interaction
+KW  - Self-accountability
+KW  - Ethnic differences
+KW  - Incident experiences
+AB  - To address the issue of self-serving attributional bias linked to automation technology and artificial intelligence (AI), this study recruited a gender-balanced sample to investigate the positive effects of perceived anthropomorphism and hierarchical status of computer systems on users’ self-accountability and use intention. The specific research context was intelligent vehicles, a common form of automation and AI. Findings showed that anthropomorphism can significantly boost user self-accountability for both successes and failures, while hierarchical status primarily affected accountability for failures. Besides, the positive effects of anthropomorphism on self-accountability and use intention were mediated by cognitive empowerment and social rewards, respectively. This study also found that educational background amplified the impact of anthropomorphism, whereas ethnic differences moderated the effects of hierarchical status on self-accountability. Furthermore, incident experiences were found to positively moderate the relationship between hierarchical status and use intention, which indicates the need for more safety-focused strategies for human-computer interaction (HCI). In general, this study presented a promising strategy for academia and industry in designing human-like interactions to balance self-serving bias and foster self-accountability, which can potentially result in more inclusive and effective HCI experiences.
+ER  - 
+
+TY  - JOUR
+T1  - Enabling collaborative assembly between humans and robots using a digital twin system
+AU  - Zhang, Zequn
+AU  - Ji, Yuchen
+AU  - Tang, Dunbing
+AU  - Chen, Jie
+AU  - Liu, Changchun
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 86
+SP  - 102691
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2023.102691
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584523001667
+KW  - Human–robot collaboration
+KW  - Digital twin
+KW  - Action recognition
+KW  - Digital human
+KW  - Deep learning
+AB  - Human–robot collaboration (HRC) systems are intelligent systems that guide robots to collaborate with humans based on a cognitive understanding of human intention, ensuring safe, flexible, and efficient collaboration between humans and robots in shared workspaces. In industrial settings, the current methods for constructing a human digital twin model rely on motion capture devices that require personnel to wear cumbersome equipment, which goes against the principle of flexible interaction advocated for HRC. Furthermore, the current methods do not model humans and robots in a unified space, which is both unintuitive and inconvenient for perceiving and understanding the overall environment. To address these limitations, this paper proposes a digital twin system for HRC. This system facilitates the construction of a digital twin scene, the mapping from the real space to the virtual space, and the planning and execution of collaborative strategies from the virtual to the real space. Designed explicitly for common workstation settings, a robust human mesh recovery algorithm is introduced to address the challenge of reconstructing occluded human bodies. Additionally, uncertainty estimation is employed to enhance the action recognition algorithm, ensuring a controllable level of risk in the recognition process. Experimental results demonstrate the superiority of the proposed methods over baseline methods. Finally, the feasibility and effectiveness of the HRC system are validated through a case study involving component assembly.
+ER  - 
+
+TY  - JOUR
+T1  - The Comparison Study of Different Operator Support Tools for Assembly Task in the Era of Global Production
+AU  - Gong, Liang
+AU  - Li, Dan
+AU  - Mattsson, Sandra
+AU  - Åkerman, Magnus
+AU  - Berglund, Åsa Fasth
+JO  - Procedia Manufacturing
+VL  - 11
+SP  - 1271
+EP  - 1278
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 27th International Conference on Flexible Automation and Intelligent Manufacturing, FAIM2017, 27-30 June 2017, Modena, Italy
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2017.07.254
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978917304626
+KW  - Virtual reality
+KW  - operator support
+KW  - assembly
+KW  - global production
+AB  - As part of a global production strategy, many manufacturing companies locate their assembly plants in different countries around the world. While outsourcing final assembly closer to key markets has competitive benefits, these companies face new challenges with communication and dissemination of information. Concerning shop-floor operators specifically, these challenges affect the initial training and continuing improvement work instructions in particular. Emerging information and communication technology (ICT) have created new opportunities for supporting operators cognitively. In this paper, an immersive virtual reality (IVR) training environment for LEGO gearbox assembly was developed and tested. IVR technologies offer new opportunities where operators can access training and work instructions in an immersive environment, which could potentially improve and influence the operator performance and emotion. Both objective performance and subjective emotion were measured and the impacts were analyzed. The results were compared with four different operator support approaches and it was seen that IVR technology has the potential of improving operator and that further studies on integration, information, communication design and development of measurement methods are needed before the industry can benefit from the full potential of IVR technology.
+ER  - 
+
+TY  - JOUR
+T1  - Concepts for digitalisation of assembly instructions for short takt times
+AU  - Palmqvist, Anna
+AU  - Vikingsson, Emelie
+AU  - Li, Dan
+AU  - Fast-Berglund, Åsa
+AU  - Lund, Niklas
+JO  - Procedia CIRP
+VL  - 97
+SP  - 154
+EP  - 159
+PY  - 2021
+DA  - 2021/01/01/
+T2  - 8th CIRP Conference of Assembly Technology and Systems
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2020.05.218
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827120314396
+KW  - Assembly instructions
+KW  - Digitalisation
+KW  - Mixed model
+KW  - Final assembly
+KW  - Short takt times
+KW  - Industry 4.0
+KW  - Operator 4.0
+AB  - Operational complexity for shop-floor operators can be reduced with effective presentation of instructions, which in turn improves product quality. While this has been researched for longer takt times, final assembly with shorter takt times requires new approaches to properly support operators. Hence, this paper aims to present findings regarding concepts for digitalised assembly instructions to support shop-floor operators in a mixed model final assembly with shorter takt times. A bottom-up mixed-methods approach was applied in an iterative development process, resulting in concepts for short takt time instructions. The findings indicate how to cognitively support operators in two situations. First, work tasks are preferably taught beforehand, with educational instructions. Second, operators should be supported with simplified instructions, presenting key elements and deviations in real-time. Conclusively, these concepts will increase the likelihood of the instruction to be used by operators, which enables standardised work and contributes to enhanced product quality.
+ER  - 
+
+TY  - JOUR
+T1  - Decision support for process operators: Task loading in the days of big data
+AU  - Naef, Michelle
+AU  - Chadha, Karan
+AU  - Lefsrud, Lianne
+JO  - Journal of Loss Prevention in the Process Industries
+VL  - 75
+SP  - 104713
+PY  - 2022
+DA  - 2022/02/01/
+SN  - 0950-4230
+DO  - https://doi.org/10.1016/j.jlp.2021.104713
+UR  - https://www.sciencedirect.com/science/article/pii/S095042302100317X
+KW  - Distributed control system (DCS)
+KW  - Cognitive task load
+KW  - Chemical process industry
+KW  - Operator training
+KW  - Complex causality
+KW  - Transfer entropy
+AB  - Modern chemical processes rely on distributed control systems to make the repetitive and routine adjustments to maintain steady operation. Operators are still required to “supervise the (system) supervisor” and intervene when variables exceed pre-programmed parameters to avert major incidents. Research in human-computer interaction and advanced process control has often focused on data-driven methods for fault detection as distinct from operator effectiveness. In this paper, we explore the application of a novel data-driven fault-detection technique to enhance operator decision support. During a simulated abnormal event, three users attempted to diagnose the root cause of a process upset using a traditional or standard interface, then with the addition of causal maps, in a A-B-A single-subject design. The causal maps were derived using a hierarchical method that could be applied to a wide range of chemical processes as an online, adaptive augmentation for abnormal situation management. Using a think-aloud technique, the three participants developed high quality insights into the process without negatively impacting the overall task load. These preliminary findings challenge prevailing wisdom in process control interface design, which often focuses on de-cluttering displays at the cost of information resolution.
+ER  - 
+
+TY  - JOUR
+T1  - Picking with a robot colleague: A systematic literature review and evaluation of technology acceptance in human–robot collaborative warehouses
+AU  - Jacob, Frederic
+AU  - Grosse, Eric H.
+AU  - Morana, Stefan
+AU  - König, Cornelius J.
+JO  - Computers & Industrial Engineering
+VL  - 180
+SP  - 109262
+PY  - 2023
+DA  - 2023/06/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2023.109262
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835223002863
+KW  - Acceptance
+KW  - Warehousing 4.0
+KW  - Cobot
+KW  - Human–Robot Collaboration
+KW  - Systematic Literature Review
+AB  - Just-in-time delivery, shorter product life cycles, demographic changes, and the Covid-19 pandemic have driven the industrial application of collaborative robots in warehouses. These robots work alongside humans, increasing their productivity and relieving them of repetitive or strenuous tasks. However, human workers can be reluctant to collaborate with robots owing to certain fears; for example, they may be concerned about job loss, stress, expected effort, or risk to physical integrity. These concerns can negatively impact the acceptance of human–robot collaboration (HRC). As the literature on this topic is fragmented, this study analyzes HRC acceptance in warehouses based on the Unified Theory of Acceptance and Use of Technology. We identify, classify, and analyze studies examining HRC acceptance in warehouses using a systematic literature review methodology. A framework is established to guide the analysis of performance expectancy, effort expectancy, (perceived) occupational safety, psychosocial, and legal and privacy factors. The results indicate the importance of corporate infrastructure and consideration of cognitive factors in particular. The findings of this study will support future research on HRC in warehouses and provide guidance for managers regarding HRC applicability.
+ER  - 
+
+TY  - JOUR
+T1  - Application of robotics in offshore oil and gas industry— A review Part II
+AU  - Shukla, Amit
+AU  - Karki, Hamad
+JO  - Robotics and Autonomous Systems
+VL  - 75
+SP  - 508
+EP  - 524
+PY  - 2016
+DA  - 2016/01/01/
+SN  - 0921-8890
+DO  - https://doi.org/10.1016/j.robot.2015.09.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0921889015002018
+KW  - Robotics
+KW  - Automation
+KW  - Underwater manipulator
+KW  - Underwater welding
+KW  - Production structure
+KW  - NDT
+KW  - ROV
+KW  - AUV
+KW  - WSN
+KW  - Oil spill
+AB  - Demands for oil and gas are increasing with urbanization and industrialization of the world’s increasing population. Giant oil fields are declining in their production worldwide and this situation is creating need for search of new conventional and non-conventional fossil reserves. With steep depletion of major onshore and shallow-water-offshore oil fields new search of fossil fuel is moving towards deep-water and ultra-deep water offshore fields. Obviously new reserves are located in extreme, hostile and hard-to-reach environmental conditions. Exploration, development and production of oil from such difficult offshore fields have many serious challenges to health, safety and environment (HSE) therefore, require sophisticated technological innovations to support increasing energy demand. Biggest oil spill accidents in explosion of Deepwater Horizon offshore oil platform are burning example of such challenges which human society cannot risk to repeat. Therefore, development of advance drilling system, more accurate and intelligent inspection mechanism, faster responsive system in cases of unfortunate incidence and efficient damage control system is need of the safer future. Successful implementation of robotics, in space and manufacturing industry, is an critical example of how robotic assistance and automation is the only option for safe and cost-effective production of oil in foreseeable future. Teleoperation of unmanned drilling and production platforms, remote operated vehicles (ROVs), autonomous underwater vehicles (AUVs), under-water welding, welding robots for double hulled ships and under-water manipulator are such key robotic technologies which have facilitated smooth transition of offshore rigs from shallow waters to ultra-deep waters in modern time. Considering the sensitivity of product and difficulty of environment, most of these technologies fall under semi-autonomous category, where human operator is in loop for providing cognitive assistance to the overall operation for safe execution. This paper summarizes the key robotic technologies currently used in offshore oil and gas facilities.
+ER  - 
+
+TY  - JOUR
+T1  - Industry 4.0 and corporate sustainability: An exploratory analysis of possible impacts in the Brazilian context
+AU  - Siltori, Patricia F.S.
+AU  - Anholon, Rosley
+AU  - Rampasso, Izabela Simon
+AU  - Quelhas, Osvaldo L.G.
+AU  - Santa-Eulalia, Luis A.
+AU  - Leal Filho, Walter
+JO  - Technological Forecasting and Social Change
+VL  - 167
+SP  - 120741
+PY  - 2021
+DA  - 2021/06/01/
+SN  - 0040-1625
+DO  - https://doi.org/10.1016/j.techfore.2021.120741
+UR  - https://www.sciencedirect.com/science/article/pii/S0040162521001736
+KW  - Sustainability
+KW  - Industry 4.0
+KW  - Impacts
+KW  - Exploratory study
+AB  - This paper aims to analyse the impacts of Industry 4.0 on corporate sustainability, considering the Brazilian context. From a literature review, 12 impacts were identified and used to structure a questionnaire. This questionnaire was applied in a survey with experienced Brazilian researchers. The data was analysed using Hierarchical Cluster Analysis, Descriptive Statistics and TOPSIS, which allowed for impact ordering. It was evidenced that all the presented impacts will be evident in the Brazilian context in a ten-year horizon. Of these impacts, six stand out: 1) the reduction of job offers for manual and repetitive activities and the emergence of new, high value-added professions; 2) the emergence of innovative business; 3) the reduction of work accidents due to the expanded use of robots in dangerous tasks for humans; 4) problems with the employees’ qualification pace in the required modernisation changes; 5) the integration of all value chain activities, allowing for a better analysis of environmental, social and economic impacts; and 6) improvements in physical and cognitive ergonomics due to the use of sensors. These findings can contribute to the expansion of the debates related to the theme and can be used as a base for defining future industrial policies in Brazil.
+ER  - 
+
+TY  - JOUR
+T1  - Ethical AI and Global Cultural Coherence: Issues and Challenges
+AU  - Groumpos, Peter P.
+AU  - PAPER, PLENARY
+JO  - IFAC-PapersOnLine
+VL  - 55
+IS  - 39
+SP  - 358
+EP  - 363
+PY  - 2022
+DA  - 2022/01/01/
+T2  - 21st IFAC Conference on Technology, Culture and International Stability TECIS 2022
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2022.12.052
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896322030920
+KW  - Artificial intelligence
+KW  - diversity
+KW  - cultural coherence
+KW  - ethics
+KW  - morality
+KW  - wisdom
+KW  - global stability
+KW  - the wise anthropocentric revolution
+KW  - INDUSTRY 6.0
+AB  - The world is facing many and different, difficult, and challenging problems. Ways are explored, to make the world a safer and better place for all humans using Ethical AI and wisdom. Certain questions as to what intelligent machines can do and what cannot do are reviewed. The importance of global cultural diversity and its relation to global coherence is analyzed. Basic definitions of artificial intelligence (AI) are given. The relation of AI and ethics are provided in some details. Technical problems associated with its design and conceptualization, the cognitive revolution, brought about by the development of AI also gives rise to social and economic problems that directly impact humanity. It is vital and urgent to examine AI from a moral point of view. A new industrial revolution is proposed, the Wise Anthropocentric Revolution: INDUSTRY 6.0. We examine the relationship between wisdom and morality within the basic framework of neo-Aristotelian Virtue Ethics
+ER  - 
+
+TY  - JOUR
+T1  - Exploring gender dynamics in cybersecurity education: A self-determination theory and social cognitive theory perspective
+AU  - Francis, Saneesh P.
+AU  - Kolil, Vysakh Kani
+AU  - Pavithran, Vipin
+AU  - Ray, Indrakshi
+AU  - Achuthan, Krishnashree
+JO  - Computers & Security
+VL  - 144
+SP  - 103968
+PY  - 2024
+DA  - 2024/09/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2024.103968
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404824002736
+KW  - Cybersecurity education
+KW  - Gender difference
+KW  - Self-Determination Theory
+KW  - Social Cognitive Theory
+KW  - Capture The Flag
+AB  - The cybersecurity industry is facing two major challenges as cyber threats get more serious: a shortage of skilled workers to defend against these attacks and a noticeable underrepresentation of women in the field, underscoring the critical need for diversity and skill development. This research explores variations in cybersecurity learning based on gender using the frameworks of self-determination and social cognitive theories. Conducted over two years, the research utilized a Capture The Flag (CTF) platform to facilitate learning and assess outcomes. This study explores the gender disparities in key areas such as intrinsic and extrinsic motivation, self-efficacy, conceptual grasp, and performance across five distinct cybersecurity subdomains: web exploitation, cryptography, cyber forensics, binary exploitation, and reverse engineering. The comprehensive evaluation included participant interaction with learning materials, their adeptness in practical exercises, and their achievements in a comprehensive contest covering five essential cross-domain cybersecurity concepts. Pre- and post-study surveys were instrumental in tracking shifts in motivation and self-efficacy levels. Findings pointed to notable gender-based differences in motivational aspects and self-belief following the learning phase, with conceptual understanding and the ability to replicate challenges also varying significantly between genders, highlighting disparities in educational outcomes. Domain-based analysis reveals notable gender differences: male participants excelled in solving reverse engineering and cryptography problems, whereas female participants performed better in cyber forensics and web exploitation challenges. These findings underscore the importance of tailored educational strategies in cybersecurity training to bridge the gender gap and foster a more diverse and capable workforce, addressing both the skill shortage and the need for broader representation in the field.
+ER  - 
+
+TY  - JOUR
+T1  - Comparing fuzzy cognitive maps: Methods and their applications in team communication
+AU  - Engome Tchupo, Dominique
+AU  - Macht, Gretchen A.
+JO  - International Journal of Industrial Ergonomics
+VL  - 92
+SP  - 103344
+PY  - 2022
+DA  - 2022/11/01/
+SN  - 0169-8141
+DO  - https://doi.org/10.1016/j.ergon.2022.103344
+UR  - https://www.sciencedirect.com/science/article/pii/S0169814122000853
+KW  - FCM Comparison
+KW  - Team performance
+KW  - Speech acts
+KW  - FCM Metrics
+AB  - As fuzzy cognitive mapping becomes more ubiquitous and transferable between fields, there is a growing necessity to be able to compare its results. However, despite the abundance of measures for this purpose, the act of comparing these maps is not widespread. This paper gathers different analysis measures and demonstrates how they can be used for fuzzy cognitive map (FCM) comparison. For this, various measures are described and applied to communication FCMs, specifically when differentiating team performance levels. This paper shows how existing measures can be applied and interpreted, and identifies gaps in the current methods of FCM comparison. Relevance to Industry: This research can aid the communication, human systems engineering, and computer science communities in identifying appropriate measures for analysis and comparison of their FCMs. Our results indicate the need for transdisciplinary work on the application and comparison of FCMs.
+ER  - 
+
+TY  - JOUR
+T1  - The beginnings of tool innovation in human ontogeny: How three- to five-year-olds solve the vertical and horizontal tube task
+AU  - Breyel, Sabine
+AU  - Pauen, Sabina
+JO  - Cognitive Development
+VL  - 58
+SP  - 101049
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 0885-2014
+DO  - https://doi.org/10.1016/j.cogdev.2021.101049
+UR  - https://www.sciencedirect.com/science/article/pii/S0885201421000447
+KW  - Tool innovation
+KW  - Problem solving
+KW  - Preschool children
+KW  - Cognitive development
+AB  - This study focuses on tool innovation in preschoolers. It extends previous work by investigating task- and age-related changes in success rates, latency to success, and solution strategies. Three- to five-year-olds had 10 min to retrieve a toy from either a horizontal or a vertical tube by manufacturing a tool from multiple materials. In the Horizontal Tube Task, success rates were high irrespective of age. Solution strategies revealed mainly second-order innovation (i.e., manipulating materials while retrieving the toy). In the Vertical Tube Task, success rates increased with age and solution strategies reflected mainly first-order innovation (i.e., manufacturing the tool before trying to retrieve the toy). In the Vertical Tube Task, children needed more time to find a solution, with first-order innovation tending to be faster than second-order innovation. These findings demonstrate the potential of young preschoolers to innovate tools when given enough time, but also a high task-dependency of performance.
+ER  - 
+
+TY  - JOUR
+T1  - A learning system for adjustment processes based on human sensory perceptions
+AU  - Ruiz, Francisco Javier
+AU  - Agell, Núria
+AU  - Angulo, Cecilio
+AU  - Sánchez, Mónica
+JO  - Cognitive Systems Research
+VL  - 52
+SP  - 58
+EP  - 66
+PY  - 2018
+DA  - 2018/12/01/
+SN  - 1389-0417
+DO  - https://doi.org/10.1016/j.cogsys.2018.06.011
+UR  - https://www.sciencedirect.com/science/article/pii/S1389041717303005
+KW  - Artificial cognitive systems
+KW  - Expert knowledge management
+KW  - Color adjustment
+KW  - Color formulation
+AB  - Creating, designing and adjusting products are essential decision processes underlying creative industries, such as painting, perfume, food and beverage industries. These processes require the participation and continuous supervision of professionals with highly-developed expert sensory abilities. Training of these experts is very complex due to the difficulty of transmitting intuitive knowledge obtained from perception. A new methodology for capturing this sensory expert knowledge that relies on a machine learning tool, previously trained with ‘state-action’ type patterns, jointly with an actions generator module, is proposed in this work. The method is based on a closed loop architecture together with the decomposition of complex sensory knowledge into basic elements capable of being handled by standard machine learning systems. A real case application to color-adjustment in the automotive paint manufacturing industry is presented showing the potential benefits of the method.
+ER  - 
+
+TY  - JOUR
+T1  - Neurophysiological evaluation of workers' decision dynamics under time pressure and increased mental demand
+AU  - Pooladvand, Shiva
+AU  - Hasanzadeh, Sogand
+JO  - Automation in Construction
+VL  - 141
+SP  - 104437
+PY  - 2022
+DA  - 2022/09/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2022.104437
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580522003107
+KW  - Time pressure
+KW  - Mental demand
+KW  - Risk compensation
+KW  - Risk-taking behaviors
+KW  - Decision dynamics
+KW  - Working memory
+KW  - Risk perception
+KW  - Construction safety
+KW  - Mixed reality
+KW  - Virtual reality
+KW  - fNIRS
+AB  - Productivity demands, time pressure, and cognitively demanding construction tasks increase workers' arousal and stress; however, it is not clear how these factors may worsen risk compensation effects and lead to unanticipated hazards. This paper examined the extent to which limited time and increased mental load amplify the risk compensatory behavior of workers. Using an immersive mixed-reality environment to simulate an electrical construction task, this paper applied a promising neuroimaging approach (functional near-infrared spectroscopy- fNIRS) to study changes in individuals' cognitive responses and decision dynamics under normal and stressful conditions. The results showed that workers failed to process surrounding information due to limited cognitive resources, and misperceived potential risks under time pressure and increased mental demand. These cognitive failures then led to increased overreliance on safety protections and at-risk decisions, and decreased safety performance. This paper offers valuable insights into the potential neural mechanism driving risk-taking and risk compensatory behaviors and the importance of counteracting risk compensation bias in the construction industry.
+ER  - 
+
+TY  - JOUR
+T1  - Application of robotics in onshore oil and gas industry—A review Part I
+AU  - Shukla, Amit
+AU  - Karki, Hamad
+JO  - Robotics and Autonomous Systems
+VL  - 75
+SP  - 490
+EP  - 507
+PY  - 2016
+DA  - 2016/01/01/
+SN  - 0921-8890
+DO  - https://doi.org/10.1016/j.robot.2015.09.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0921889015002006
+KW  - Robotics
+KW  - Automation
+KW  - In-pipe inspection robots
+KW  - Tank inspection robots
+KW  - NDT
+KW  - UAV
+KW  - Wireless sensor networks (WSN)
+KW  - Oil and gas exploration
+AB  - With ever increasing global demand and depleting resources for fossil fuels, oil and gas industry is now positively looking for advanced robotic solutions to increase their productivity and safety. With time easy resources of the fossil fuels are shrinking and newly searched reservoirs, to feed supply demands of global consumption, are mostly located in extreme environmental conditions such as hot deserts, deep water and arctic zone etc. Production of the fossil fuels, in such inhospitable environmental conditions, poses difficult challenges to health, safety and environment (HSE). Tragic incidents like Exxon Valdez and Deepwater Horizon oil spills are examples of such challenges. Therefore, oil and gas industry has lot to learn from successful implementation of robotics and automation for dull, dirty and dangerous (3D) tasks of manufacturing industry. Most of the robotics technologies, currently used in the oil and gas industry, are mainly focused on inspection, maintenance and repair (IMR) of plant facilities with higher frequency and accuracy. Fundamental idea, involved in the automatization of these processes, is based on the principle of teleoperation with skilled operator. Automation of 3D tasks not only improves HSE standards but also lead to much needed economic efficiency by reducing production cycle, floor space and number of staff members required for continuous inspection and manipulation of plant facilities. Considering the risks involved in this industry usage of completely autonomous robots, first without achieving very high reliability, is still a far fetch choice. Therefore, semi-autonomous robots, where actions are performed by robots but cognitive decisions are still taken by skilled operator, is an excellent choice for this industry as a near future solution. In the onshore oil and gas industry robotic solutions are used both in upstream and downstream processes, such as site survey, drilling, production and transportation, mainly focused in the form of in-pipe inspection robots (IPIRs), tank inspection robots (TIRs), unmanned aerial vehicles (UAVs) and wireless sensor networks (WSNs) etc. This paper presents the state of art robotic solutions currently used in onshore oil and gas facilities.
+ER  - 
+
+TY  - JOUR
+T1  - Facilitation or hindrance: The contingent effect of organizational artificial intelligence adoption on proactive career behavior
+AU  - Lin, Hongxia
+AU  - Tian, Jian
+AU  - Cheng, Bao
+JO  - Computers in Human Behavior
+VL  - 152
+SP  - 108092
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0747-5632
+DO  - https://doi.org/10.1016/j.chb.2023.108092
+UR  - https://www.sciencedirect.com/science/article/pii/S0747563223004430
+KW  - Organizational AI adoption
+KW  - Proactive career behavior
+KW  - Self-perceived employability
+KW  - Future work self-salience
+AB  - The advent of Artificial intelligence (AI) technology is catalyzing significant transformations in human work dynamics. Nonetheless, there exists no unanimous consensus among researchers regarding whether organizational AI adoption has a favorable or unfavorable impact on employees' career development. Building upon social cognitive theory, we explores the underlying mechanism through which organizational AI adoption influences employees' proactive career behavior. A three-wave time-lagged survey involving 348 employees from three hotels and five advanced manufacturing enterprises in Chengdu, China, was conducted. The findings revealed that organizational AI adoption led to a reduction in employees' self-perceived employability. The prominence of an employee's future work self-salience was found to be a determining factor in how their self-perceived employability influenced proactive career behaviors. Specifically, this impact manifested negative for employees exhibiting high levels of future work self-salience, while it appears positive for those with low levels. Finally, this study confirmed the moderating role of future work self-salience in the indirect impact of organizational AI adoption on proactive career behavior through self-perceived employability. Our study underscores the significance of considering individual characteristics, such as future work self-salience, in analyzing how organizational AI adoption affects employees' career-related behaviors.
+ER  - 
+
+TY  - JOUR
+T1  - Pairwise comparison learning based bearing health quantitative modeling and its application in service life prediction
+AU  - Cui, Jin
+AU  - Ren, Lei
+AU  - Wang, Xiaokang
+AU  - Zhang, Lin
+JO  - Future Generation Computer Systems
+VL  - 97
+SP  - 578
+EP  - 586
+PY  - 2019
+DA  - 2019/08/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2019.03.026
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X18328097
+KW  - Cognitive inspired decision-making
+KW  - Quantitative modeling
+KW  - Extreme learning machine
+KW  - Pairwise comparison learning
+KW  - Prognostic and health management
+KW  - Health state assessment
+AB  - Cognitive computing is expected to meet the challenges posed by the avalanche problem of data being produced by experimental instruments and sensors in academia and industry. How to systematically, purposefully and reasonably interact with human beings and make-decision accordingly is one of the key factors for exerting the potential of cognitive computing and providing services for human beings. As one of the crucial supporting technologies for industrial equipment health management, bearing health analysis has increasingly become an important research field that is promising to improve the reliability and efficiency of modern industrial systems. One of the main challenges in condition-based maintenance and management of bearing is the health quantitative modeling and assessment. Therefore, a learning-based health modeling method, on the basis of newly defined multidimensional frequency-domain health feature, is proposed to realize quantitative assessment of bearing health state. First, a multilayer neural network with a special structure is designed. Then, a novel algorithm, namely PAirwiSe CompArison Learning (PASCAL) is proposed for network parameters learning. In addition, experiments are designed and carried out on a real industrial bearing testing dataset to verify the feasibility and efficiency of the proposed health modeling method. Experimental results are compared with those of two others recent research works, and the performance is measured with a percentage error metric.
+ER  - 
+
+TY  - JOUR
+T1  - Augmented reality guided autonomous assembly system: A novel framework for assembly sequence input validations and creation of virtual content for AR instructions development
+AU  - M., Eswaran
+AU  - Prasad, V.S.S. Vara
+AU  - Hymavathi, M.
+AU  - Bahubalendruni, M.V.A. Raju
+JO  - Journal of Manufacturing Systems
+VL  - 72
+SP  - 104
+EP  - 121
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0278-6125
+DO  - https://doi.org/10.1016/j.jmsy.2023.11.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0278612523002297
+KW  - Augmented reality
+KW  - Assembly sequence
+KW  - Virtual reality
+KW  - Assembly input validation
+KW  - Virtual scene creation
+KW  - Manufacturing system
+KW  - Assembly system
+AB  - In recent years, industries are striving to adapt immersive technologies in the real-time assembly shop floor setting to achieve effective outcomes in terms of enabling the worker to handle the complex cognitive assembly task execution/training circumstances. The manufacturers are presently facing difficulties with the process of Augmented reality (AR) instruction creation for the required product assembly system. The existing AR instruction development process demands highly skilled experts and more time consumption. Hence, the manufacturers are presently relying on third parties to acquire the required AR instructions by providing the necessary assembly particulars as input. Where, the cost of developing AR instruction is another big challenging concern. Predominantly, the significance of providing exact assembly input is vital for the experts to develop the appropriate AR content without any errors. An automated approach is developed in this study to resolve the difficulties with assembly sequence input for the AR instructions development process. The automated approach affords four different provisions that include validation of an assembly sequence input prior to the AR instructions development stage, suggestions for assembly sequence input generation, simulation of validated assembly sequence in the Virtual reality (VR) environment for user perception, and generation of virtual content for AR visualizations. Subsequently, the generated digital contents from the automated approach are imparted into the AR Unity platform to develop the required AR instructions for the product assembly system. Notably, this study explores the AR customized marker technique to visualize the AR content in the user’s view of the physical context. Finally, the AR guidelines are built as apps for the selected 11-part assembly and deployed on the shop floor for the user to perceive the AR content through visualization devices for execution of assembly operations in a real-time context. In addition, the effectiveness of the automated approach is analyzed with the existing approach, and the consequences are explored through the process of receiving feedback from the experts about the error rate, cognitive level, and creation time.
+ER  - 
+
+TY  - JOUR
+T1  - Information-based processing time affected by human age: An objective parameters-based model
+AU  - Cavallo, D.
+AU  - Facchini, F.
+AU  - Mossa, G.
+JO  - IFAC-PapersOnLine
+VL  - 54
+IS  - 1
+SP  - 7
+EP  - 12
+PY  - 2021
+DA  - 2021/01/01/
+T2  - 17th IFAC Symposium on Information Control Problems in Manufacturing INCOM 2021
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2021.08.001
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896321006972
+KW  - Cognitive-motor task
+KW  - Cognitive-motor processing time
+KW  - Aging
+KW  - Oxygen Consumption
+KW  - Heart Rate
+AB  - Recent studies show that an increasing amount of information, in terms of cognitive and motor demand, is required from tasks to be performed in work environments where Industry 4.0 technologies are implemented. In this paper, an objective parameters-based theoretical model is proposed to estimate the information-based processing time of a motor and cognitive task. The evaluation of the information-based processing time is based on two physiological parameters: Oxygen Consumption and Heart Rate. The effectiveness of the model on both cognitive and motor case study is tested. The results achieved shown that the individual respiratory capacity significantly affects the evaluation of the information-based processing time. More generally, a higher respiratory capacity allows to minimize the information-based processing time, improving the individual’s performance.
+ER  - 
+
+TY  - JOUR
+T1  - Towards digital cognitive clones for the decision-makers: adversarial training experiments
+AU  - Golovianko, Mariia
+AU  - Gryshko, Svitlana
+AU  - Terziyan, Vagan
+AU  - Tuunanen, Tuure
+JO  - Procedia Computer Science
+VL  - 180
+SP  - 180
+EP  - 189
+PY  - 2021
+DA  - 2021/01/01/
+T2  - Proceedings of the 2nd International Conference on Industry 4.0 and Smart Manufacturing (ISM 2020)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2021.01.155
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050921001952
+KW  - digital cloning
+KW  - machine learning
+KW  - Generative Adversarial Networks
+KW  - cybersecurity
+KW  - logistics
+AB  - There can be many reasons for anyone to make a digital copy (clone) of own decision-making behavior. This enables virtual presence of a professional decision-maker simultaneously in many places and processes of Industry 4.0. Such clone can be used as one’s responsible representative when the human is not available. Pi-Mind (“Patented Intelligence”) is a technology, which enables “cloning” cognitive skills of humans using adversarial machine learning. In this paper, we present a cyber-physical environment as an adversarial learning ecosystem for cloning image classification skills. The physical component of the environment is provided by the logistic laboratory with camera-surveillance over the conveyors. The digital component of the environment contains special modifications of Generative Adversarial Networks, which include a human-operator as a trainer, an autonomous Pi-Mind clone as a trainee (a discriminator) and a smart digital adversary as a challenger (generator of sophisticated decision situations, emergencies and attacks, which supposedly catalyzes the cloning process).
+ER  - 
+
+TY  - JOUR
+T1  - Investigating the short-term cognitive abilities under local strong thermal radiation through EEG measurement
+AU  - Niu, Haobo
+AU  - Zhai, Yingni
+AU  - Huang, Yanqiu
+AU  - Wang, Xianglin
+AU  - Wang, Xinta
+JO  - Building and Environment
+VL  - 224
+SP  - 109567
+PY  - 2022
+DA  - 2022/10/01/
+SN  - 0360-1323
+DO  - https://doi.org/10.1016/j.buildenv.2022.109567
+UR  - https://www.sciencedirect.com/science/article/pii/S0360132322007971
+KW  - Local Strong Thermal Radiation (LSTR)
+KW  - Mental workload
+KW  - Vigilance
+KW  - Electroencephalogram (EEG)
+KW  - Motivation
+AB  - Local Strong Thermal Radiant environment is widely present in industrial buildings, resulting in reduced cognitive abilities and thermal comfort for workers who perform monitoring operations. However, the effect is difficult to quantify, especially for jobs that are near hyperthermal radiant sources. In this study, ten young male subjects were directly exposed to five different radiation panel temperatures for 60 min, i.e., 100, 150, 200, 250, and 300 °C, at 0.8 m from the radiant panel. Subjects were asked to perform cognitive tasks and subjective questionnaires and monitor 16 channels of EEG signals in a chamber. Based on the assessment of the EEG characteristics, the impacts of Local Strong Thermal Radiant on cognitive abilities and EEG are investigated. The results indicated that cognitive abilities were improved while the radiant temperature was below 250 °C. As the radiation temperature increases, the normalized power of β activity and α activity increases, and the vigilance and frontal EEG asymmetry increase. When it reaches 300 °C, all these features decrease and show an inverted “U” shape. The Local Strong Thermal Radiant arouses β activity and motivation for a short period and enhances cognitive abilities. The thermal comfort scores and thermal sensation scores rise with increasing temperature. Several international standards and literature can verify the findings of this study. This study's findings provided a foundation for assessing the cognitive abilities and inducing the mental states of hyperthermal radiant environment young workers to advance effective safety management in the industrial workshop.
+ER  - 
+
+TY  - JOUR
+T1  - Intuitive robot teleoperation for civil engineering operations with virtual reality and deep learning scene reconstruction
+AU  - Zhou, Tianyu
+AU  - Zhu, Qi
+AU  - Du, Jing
+JO  - Advanced Engineering Informatics
+VL  - 46
+SP  - 101170
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2020.101170
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034620301415
+KW  - Robot
+KW  - Teleoperation
+KW  - Virtual reality
+KW  - Scene reconstruction
+KW  - Deep learning
+AB  - Robotic teleoperation, i.e., manipulating remote robotic systems at a distance, has gained its popularity in various industrial applications, including construction operations. The key to a successful teleoperation robot system is the delicate design of the human-robot interface that helps strengthen the human operator’s situational awareness. Traditional human-robot interface for robotic teleoperation is usually based on imagery data (e.g., video streaming), causing the limited field of view (FOV) and increased cognitive burden for processing additional spatial information. As a result, 3D scene reconstruction methods based on point cloud models captured by scanning technologies (e.g., depth camera and LiDAR) have been explored to provide immersive and intuitive feedback to the human operator. Despite the added benefits of applying reconstructed 3D scenes in telerobotic systems, challenges still present. Most 3D reconstruction methods utilize raw point cloud data due to the difficulty of real-time model rendering. The significant size of point cloud data makes the processing and transfer between robots and human operators difficult and slow. In addition, most reconstructed point cloud models do not contain physical properties such as weight and colliders. A more enriched control mechanism based on physics engine simulations is impossible. This paper presents an intelligent robot teleoperation interface that collects, processes, transfers, and reconstructs the immersive scene model of the workspace in Virtual Reality (VR) and enables intuitive robot controls accordingly. The proposed system, Telerobotic Operation based on Auto-reconstructed Remote Scene (TOARS), utilizes a deep learning algorithm to automatically detect objects in the captured scene, along with their physical properties, based on the point cloud data. The processed information is then transferred to the game engine where rendered virtual objects replace the original point cloud models in the VR environment. TOARS is expected to significantly improve the efficiency of 3D scene reconstruction and situational awareness of human operators in robotic teleoperation.
+ER  - 
+
+TY  - JOUR
+T1  - Towards predicting human error: Eye gaze analysis for identification of cognitive steps performed by control room operators
+AU  - Kodappully, Madhu
+AU  - Srinivasan, Babji
+AU  - Srinivasan, Rajagopalan
+JO  - Journal of Loss Prevention in the Process Industries
+VL  - 42
+SP  - 35
+EP  - 46
+PY  - 2016
+DA  - 2016/07/01/
+T2  - Selected Papers from the International Conference on Safety, 2014 – Commemorating the 30th anniversary of the Bhopal gas disaster
+SN  - 0950-4230
+DO  - https://doi.org/10.1016/j.jlp.2015.07.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0950423015300085
+KW  - Process safety
+KW  - Human error
+KW  - Eye tracking
+KW  - Cognitive engineering
+AB  - Today's plants use highly reliable equipment, state-of-the-art automation and control, and deploy sophisticated safety management regimes so as to make accidents rare. Despite these measures, a number of recent accidents point to the continued need to improve process safety. Various studies indicate that more than 70% of the accidents in process industries originate from human errors. Traditionally, human reliability is accounted for by using Human Error Probabilities, which emphasizes inevitability. In this work, we demonstrate that eye tracking serves as a reliable sensor of various cognitive tasks performed by the operator while managing process abnormalities. Experimental studies conducted on 11 participants reveal characteristic fixation patterns that contain information about their cognitive ability to orient, diagnose and execute recovery actions during abnormal situations. These results hold promise for predicting incipient cognitive failures which in turn would enable proactive measures to prevent human error.
+ER  - 
+
+TY  - JOUR
+T1  - Coordinating the interruption of assembly workers in manufacturing
+AU  - Kolbeinsson, Ari
+AU  - Thorvald, Peter
+AU  - Lindblom, Jessica
+JO  - Applied Ergonomics
+VL  - 58
+SP  - 361
+EP  - 371
+PY  - 2017
+DA  - 2017/01/01/
+SN  - 0003-6870
+DO  - https://doi.org/10.1016/j.apergo.2016.07.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0003687016301466
+KW  - Interruptions
+KW  - Manual assembly
+KW  - Manufacturing
+AB  - This paper examines how interruptions from information and communications technology systems affect errors and the time to complete tasks for assembly workers. Interruptions have previously been examined in laboratory experiments and office environments, but not much work has been performed in other authentic environments. This paper contains the results of an experiment that was performed in a simulated manufacturing assembly environment, which tested the effects of interruptions on a manual assembly task. The experiment used existing interruption coordination methods as a basis, and the results showed a difference in the effect of interruptions and interruption coordination between cognitively complex laboratory tasks and manual assembly tasks in an authentic environment. Most notably, the negative effects of interruptions delivered without consideration were smaller in this experiment. Based on these findings, recommendations were developed for designing interruption systems for minimizing the costs (errors and time) imposed by interruptions during assembly tasks in manufacturing.
+ER  - 
+
+TY  - JOUR
+T1  - A group learning curve model with motor, cognitive and waste elements
+AU  - Peltokorpi, J.
+AU  - Jaber, M.Y.
+JO  - Computers & Industrial Engineering
+VL  - 146
+SP  - 106621
+PY  - 2020
+DA  - 2020/08/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2020.106621
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835220303557
+KW  - Learning curves
+KW  - Group size
+KW  - Motor/cognitive/waste elements
+KW  - Experimental data
+AB  - Nowadays, workers, individually or in groups, are continually learning new tasks. The speed at which they learn directly contributes to the success of their firms in competitive markets. Learning curve research has been either on the individual or organizational level. A few papers have developed learning curve models for a group of workers, even fewer that used empirical data for that purpose. However, none of the existing models comprises measurable elements from real industrial tasks. This paper aims to fill this gap in the literature by proposing a bivariate group learning curve model, an aggregation of three learning curves where the number of workers in a group, and the number of repetitions are the independent variables. The dependent variable is the unit assembly time. The three learning curves represent motor, cognitive, and waste per unit assembled. The aggregated learning curve was fitted to experimental data consisting of different group sizes (1 to 4 students/workers), each performing four repetitions, and later compared to two log-linear learning curves, with and without plateauing. The results showed that the aggregated model represented the data the best and that segmenting waste into sub-elements (job familiarization, errors, and group coordination) improved the performance of the model. The parameter values affected by group sizes and repetitions for each task element provided insights that managers could use to improve the performance of their workforce.
+ER  - 
+
+TY  - JOUR
+T1  - A versatile interaction framework for robot programming based on hand gestures and poses
+AU  - Sun, Digang
+AU  - Zhang, Ping
+AU  - Chen, Mingxuan
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 84
+SP  - 102596
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2023.102596
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584523000728
+KW  - Robot programming
+KW  - Human–robot interaction
+KW  - Hand gesture dataset
+KW  - Hand gesture recognition
+KW  - Hand pose estimation
+AB  - This paper proposes a framework for industrial and collaborative robot programming based on the integration of hand gestures and poses. The framework allows operators to control the robot via both End-Effector (EE) and joint movements and to transfer compound shapes accurately to the robot. Seventeen hand gestures, which cover the position and orientation controls of the robotic EE and other auxiliary operations, are designed according to cognitive psychology. Gestures are classified by a deep neural network, which is pre-trained for two-hand pose estimation and fine-tuned on a custom dataset, achieving a test accuracy of 99%. The index finger’s pointing direction and the hand’s orientation are extracted via 3D hand pose estimation to indicate the robotic EE’s moving direction and orientation, respectively. The number of stretched fingers is detected via two-hand pose estimation to represent decimal digits for selecting robot joints and inputting numbers. Finally, we integrate these three manners seamlessly to form a programming framework. We conducted two interaction experiments. The reaction time of the proposed hand gestures in indicating randomly given instructions is significantly less than that of other gesture sets, such as American Sign Language (ASL). The accuracy of our method in compound shape reconstruction is much better than that of hand movement trajectory-based methods, and the operating time is comparable with that of teach pendants.
+ER  - 
+
+TY  - JOUR
+T1  - Automated machines and the labor wage gap
+AU  - Jiang, Hong
+AU  - Wang, Xue
+AU  - Liu, Chongguang
+JO  - Technological Forecasting and Social Change
+VL  - 206
+SP  - 123505
+PY  - 2024
+DA  - 2024/09/01/
+SN  - 0040-1625
+DO  - https://doi.org/10.1016/j.techfore.2024.123505
+UR  - https://www.sciencedirect.com/science/article/pii/S0040162524003019
+KW  - Automated machines
+KW  - General capital
+KW  - Wage gap
+AB  - This paper analyzes how the increase in the proportion of automated machines to general capital inputs affects the wage gap of the labor force complementary to the two types of capital, the general equilibrium model and constant elasticity of substitution production function are introduced and the impact mechanism is explored using a task-based model. Data for listed Chinese manufacturing companies from 2012 to 2020 is used and a double fixed effects model is invoked for empirical testing. The findings show that (1) a rise in the proportion of automated machines to general capital inputs increases the wage gap of labor complementary to automated machine capital and general capital, and a rise in the proportion of demand for both types of labor complementary to automated machines and general capital is an influential mechanism; (2) the productivity-enhancing effect suppresses the widening of the wage gap between the two types of labor; and (3) the results of heterogeneity analysis show that an increase in automated machine inputs among non-state-owned manufacturing firms and technology-intensive firms widens the labor wage gap. This paper makes a contribution to both theoretical and empirical analysis and provides references for the alleviation of the labor wage gap.
+ER  - 
+
+TY  - JOUR
+T1  - Proactive analysis of construction equipment operators’ hazard perception error based on cognitive modeling and a dynamic Bayesian network
+AU  - Li, Jue
+AU  - Li, Heng
+AU  - Wang, Fan
+AU  - Cheng, Andy S.K.
+AU  - Yang, Xincong
+AU  - Wang, Hongwei
+JO  - Reliability Engineering & System Safety
+VL  - 205
+SP  - 107203
+PY  - 2021
+DA  - 2021/01/01/
+SN  - 0951-8320
+DO  - https://doi.org/10.1016/j.ress.2020.107203
+UR  - https://www.sciencedirect.com/science/article/pii/S0951832020307043
+KW  - Construction equipment operation
+KW  - Hazard perception
+KW  - Dynamic Bayesian network
+KW  - Cognitive model
+KW  - Proactive analysis
+AB  - Construction equipment-related accidents are unarguably one of the most frequent types of construction accidents. Construction equipment operators’ hazard perception error (HPE) has been recognized as one of the primary reasons for these accidents. Operators’ hazard perception involves a series of cognitive functions that will change as the construction process evolves. Although the importance of hazard perception to construction equipment operating safety is widely recognized, the analysis and interpretation of its cognitive processes, potential cognitive failure modes, underlying causes, and dynamic characteristics involved has not been fully addressed. Furthermore, there is still a lack of an effective method to quantitatively assess HPE evolution and changes in corresponding cognitive states over time. This study combines a cognitive model and dynamic Bayesian network (DBN) modeling to provide a qualitative and quantitative proactive analysis of operators’ HPE. Considering the lack of prior knowledge of operators’ HPE in the construction industry, computational models of several key cognitive functions and multiple information sources were integrated to determine the conditional probability distributions of the DBN nodes. The method's feasibility was validated with a case study. Researchers and practitioners may customize the model to quantify the occurrence tendency of operators’ HPE under a specific construction condition to assist in proposing countermeasures to reduce and mitigate HPE.
+ER  - 
+
+TY  - JOUR
+T1  - Enabling the human in the loop: Linked data and knowledge in industrial cyber-physical systems
+AU  - Emmanouilidis, Christos
+AU  - Pistofidis, Petros
+AU  - Bertoncelj, Luka
+AU  - Katsouros, Vassilis
+AU  - Fournaris, Apostolos
+AU  - Koulamas, Christos
+AU  - Ruiz-Carcel, Cristobal
+JO  - Annual Reviews in Control
+VL  - 47
+SP  - 249
+EP  - 265
+PY  - 2019
+DA  - 2019/01/01/
+SN  - 1367-5788
+DO  - https://doi.org/10.1016/j.arcontrol.2019.03.004
+UR  - https://www.sciencedirect.com/science/article/pii/S1367578818301366
+KW  - Cyber-physical systems
+KW  - Internet of things
+KW  - Context information management
+KW  - Product lifecycle management
+KW  - Asset lifecycle management
+KW  - Maintenance
+KW  - Human in the loop
+AB  - Industrial Cyber-Physical Systems have benefitted substantially from the introduction of a range of technology enablers. These include web-based and semantic computing, ubiquitous sensing, internet of things (IoT) with multi-connectivity, advanced computing architectures and digital platforms, coupled with edge or cloud side data management and analytics, and have contributed to shaping up enhanced or new data value chains in manufacturing. While parts of such data flows are increasingly automated, there is now a greater demand for more effectively integrating, rather than eliminating, human cognitive capabilities in the loop of production related processes. Human integration in Cyber-Physical environments can already be digitally supported in various ways. However, incorporating human skills and tangible knowledge requires approaches and technological solutions that facilitate the engagement of personnel within technical systems in ways that take advantage or amplify their cognitive capabilities to achieve more effective sociotechnical systems. After analysing related research, this paper introduces a novel viewpoint for enabling human in the loop engagement linked to cognitive capabilities and highlighting the role of context information management in industrial systems. Furthermore, it presents examples of technology enablers for placing the human in the loop at selected application cases relevant to production environments. Such placement benefits from the joint management of linked maintenance data and knowledge, expands the power of machine learning for asset awareness with embedded event detection, and facilitates IoT-driven analytics for product lifecycle management.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive Spatial Augmented Reality for Industrial Site Assembly
+AU  - Rupprecht, Patrick
+AU  - Kueffner-McCauley, Hans
+AU  - Trimmel, Majesa
+AU  - Schlund, Sebastian
+JO  - Procedia CIRP
+VL  - 104
+SP  - 405
+EP  - 410
+PY  - 2021
+DA  - 2021/01/01/
+T2  - 54th CIRP CMS 2021 - Towards Digitalized Manufacturing 4.0
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2021.11.068
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827121009665
+KW  - Adaptive Spatial Augmented Reality
+KW  - real-time object recognition
+KW  - industrial site assembly
+AB  - Today, industrial assembly of large components is mostly organized as site assembly. The human-centered information provisioning for assembly tasks still bears significant optimization potential. The paper presents first results of the integration of a dynamic projection system with visual human position and gesture recognition. Work instructions and other relevant information is displayed relative to the humans’ position within a large workspace. A high-resolution RGB-camera as well as the real-time object recognition algorithm YOLOv3, have been integrated into a proof-of-concept demonstrator. An evaluation at the TU Wien Pilot Factory shows the potential in terms of efficiency, usability, and cognitive workload.
+ER  - 
+
+TY  - JOUR
+T1  - Cognitive Automation Strategies – Improving Use-efficiency of Carrier and Content of Information
+AU  - Fast-Berglund, Åsa
+AU  - Åkerman, Magnus
+AU  - Karlsson, Malin
+AU  - Hernández, Vanesa Garrido
+AU  - Stahre, Johan
+JO  - Procedia CIRP
+VL  - 17
+SP  - 67
+EP  - 70
+PY  - 2014
+DA  - 2014/01/01/
+T2  - Variety Management in Manufacturing
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2014.02.042
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827114003825
+KW  - Cognitive automation
+KW  - Strategies
+KW  - carrier
+KW  - content
+KW  - information
+KW  - production
+KW  - system
+KW  - operator
+AB  - The production paradigm of mass customization puts high demand on the production system and the people who works there. This is especially true for final assembly where the number of variants is the richest. To handle this variety, the operator needs the correct information accessible at the right time; the operator wants to know how and when to assemble what part. What is correct information includes the amount of information (content of information), how it is presented (carrier of information) and who is the receiver (specific operator). The strategy for Cognitive Automation will be more and more important for companies within this paradigm. This paper aims to show the use-efficiency of information, both carrier and content, in two industrial case studies. Furthermore how the cognitive automation strategy within a company is connected to the maturity of technology.
+ER  - 
+
+TY  - JOUR
+T1  - Designing a semantic based common taxonomy of mechanical component degradation to enable maintenance digitalisation
+AU  - Addepalli, Sri
+AU  - Namoano, Bernadin
+AU  - Oyedeji, Oluseyi Ayodeji
+AU  - Farsi, Maryam
+AU  - Erkoyuncu, John Ahmet
+JO  - Procedia CIRP
+VL  - 119
+SP  - 508
+EP  - 513
+PY  - 2023
+DA  - 2023/01/01/
+T2  - The 33rd CIRP Design Conference
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2023.04.008
+UR  - https://www.sciencedirect.com/science/article/pii/S221282712300478X
+KW  - Knowledge management
+KW  - decision making
+KW  - degradation analysis
+AB  - Digital data management and enterprise systems have become key to support the digitalisation of maintenance activities. With traditional maintenance activities still striving for efficiencies, platforms such as the natural language processing (NLP) are supporting industries to mine textural data, not just extracting degradation terminologies but providing the maintainer with holistic insights on the degradation process. Traditionally, the degradation analysis, the first step in maintenance, is a manual process for defect characterisation, followed by failure investigation and a remaining useful life estimation. To enable digitalisation, transfer of human cognitive decision making from the physical world to the digital world is key. This paper enables this cognitive knowledge transfer through the design of a common degradation taxonomy and extracting terminology relationships to produce degradation causality with an NLP knowledge extraction approach. Further, this paper proposes and demonstrates a framework to present the data in the form of a knowledge graph populated using an application-level ontology. Use cases in the aerospace context have been used to show the power of the NLP and conceptual journey into the digitalisation of maintenance.
+ER  - 
+
+TY  - JOUR
+T1  - Testing the vertical and cyber-physical integration of cognitive robots in manufacturing
+AU  - Krueger, Volker
+AU  - Rovida, Francesco
+AU  - Grossmann, Bjarne
+AU  - Petrick, Ronald
+AU  - Crosby, Matthew
+AU  - Charzoule, Arnaud
+AU  - Martin Garcia, German
+AU  - Behnke, Sven
+AU  - Toscano, Cesar
+AU  - Veiga, Germano
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 57
+SP  - 213
+EP  - 229
+PY  - 2019
+DA  - 2019/06/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2018.11.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584517304465
+KW  - Autonomous robot
+KW  - Robot skills
+KW  - Kitting
+AB  - In recent years, cognitive robots have started to find their way into manufacturing halls. However, the full potential of these robots can only be exploited through (a) an integration of the robots with the Manufacturing Execution System (MES), (b) a new and simpler way of programming based on robot skills, automated task planning, and knowledge modeling, and (c) enabling the robots to function in a shared human/robot workspace with the ability to handle unexpected situations. The STAMINA project has built a robotic system that meets these objectives for an automotive kitting application, which has also been tested, validated, and demonstrated in a relevant environment (TRL6). This paper describes the STAMINA robot system and the evaluation of this system on a series of realistic kitting tasks. The structure of the system, evaluation methodology, and experimental results, are presented along with the insights and experiences gained from this work.
+ER  - 
+
+TY  - JOUR
+T1  - Activities Triggered by Waste Generated in Steel Production: A Study from the Ergonomics Standpoint
+AU  - Yazigi, Sidney
+AU  - Yazigi, Rosa
+AU  - Porfiro, Fabiano Cruz
+AU  - Oliveira, Renata Cristina de
+JO  - Procedia Manufacturing
+VL  - 3
+SP  - 4517
+EP  - 4519
+PY  - 2015
+DA  - 2015/01/01/
+T2  - 6th International Conference on Applied Human Factors and Ergonomics (AHFE 2015) and the Affiliated Conferences, AHFE 2015
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2015.07.466
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978915004679
+KW  - Ergonomic risk
+KW  - Steel production
+KW  - Waste
+KW  - Labor organization
+KW  - Ergonomic work analysis
+KW  - Sustainability
+AB  - The treatment of waste in industrial production creates a sector apart from the production process in which activities are developed with varied ergonomic risks, either in treatment, transportation or disposal of material generated. Using Ergonomic Work Analysis (EWA) methodology, questions were raised about the influence of waste generated in the production of steel and its implications at work. The determining factors for ergonomic risk in a work activity are related to various aspects of the production process, the industry's physical characteristics, the layout of the work area, the types of tools used and work organization. These elements may influence the operating mode a worker adopts. Understanding the variability of activity may allow for taking corrective actions or for design in the workplace, providing better interaction with humans, reduced physical and cognitive overloads which directly influence worker productivity. Therefore, this study highlights the determinants for ergonomic risks, recommending improvements in the work process that are related to adequacy and sustainability in the production process.
+ER  - 
+
+TY  - JOUR
+T1  - Research on externality economic evaluation of China's education and training industry based on cognitive perspective
+AU  - Shen, Jian-Fei
+AU  - Ye, Chen-Dan
+AU  - Zhu, Yu-Xin
+JO  - Cognitive Systems Research
+VL  - 52
+SP  - 571
+EP  - 578
+PY  - 2018
+DA  - 2018/12/01/
+SN  - 1389-0417
+DO  - https://doi.org/10.1016/j.cogsys.2018.08.004
+UR  - https://www.sciencedirect.com/science/article/pii/S1389041718303371
+KW  - Externality
+KW  - Economic evaluation
+KW  - Cognitive perspective
+AB  - As a key industry promoting the transformation of the labour force and proving labour cognitive level, education and training has strong economic externality with positive external effects on socio-economic development according to many economists. However, the research on the economic evaluation of education and training industry is very limited. From the Western economics perspective of externality, this paper analyses education and training industry on the basis of the important role of human capital in China’s economic transformation. The difference between education training’s spillover effect and the relative marginal production factor’s productivity is calculated by using the fidelity model. In this way, labour cognitive level can be quantified. The more people who receive education training, the more they can promote the economic efficiency of enterprises, and the more they can promote the harmonious development of the entire society and economy. Education and training industry has a positive externality effect that can improve labour cognitive level.
+ER  - 
+
+TY  - JOUR
+T1  - Predicting human reliability for emergency fire pump operational process on tanker ships utilising fuzzy Bayesian Network CREAM modelling
+AU  - Aydin, Muhammet
+AU  - Sezer, Sukru Ilke
+AU  - Arici, Seher Suendam
+AU  - Akyuz, Emre
+JO  - Ocean Engineering
+VL  - 314
+SP  - 119717
+PY  - 2024
+DA  - 2024/12/15/
+SN  - 0029-8018
+DO  - https://doi.org/10.1016/j.oceaneng.2024.119717
+UR  - https://www.sciencedirect.com/science/article/pii/S0029801824030555
+KW  - Human reliability
+KW  - CREAM
+KW  - Bayesian network
+KW  - Emergency fire pump
+KW  - Operational safety
+AB  - An emergency fire pump is a critical equipment which assists the ship crew in handling extreme emergency situations involving fire on-board tanker ships. In case the main fire pump becomes ineffective during a fire, the emergency fire pump is used to extinguish the fire. In this case, it is necessary for the ship's crew to operate and use the pump without any failure. The aim of this study is to systematically predict human (crew) reliability for emergency fire pump operational processes on tanker ships since human dependability plays a significant role in safer shipment. To achieve this goal, fuzzy and BN (Bayesian Network) CREAM (Cognitive Reliability and Error Analysis Method) modelling is applied. CREAM is used to methodically estimate the probability of human error within a fuzzy set that accounts for uncertainties of CPC (Common Performance Condition), while BN is competent in estimating control modes in CREAM's reliability analysis. The paper's findings show ship crew reliability (9.08E-01) for the emergency fire pump operation process on tanker ships. These findings are expected to provide valuable information to prevent human errors and improve safety on tanker ships during firefighting, thereby reassuring the maritime industry of the potential for increased safety.
+ER  - 
+
+TY  - JOUR
+T1  - Carbon-zero agility: Enabling carbon-zero organizations through agile management and ambiguous feedback algorithms
+AU  - Lv, David Diwei
+AU  - Cho, Erin
+JO  - Environmental Modelling & Software
+VL  - 177
+SP  - 106062
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 1364-8152
+DO  - https://doi.org/10.1016/j.envsoft.2024.106062
+UR  - https://www.sciencedirect.com/science/article/pii/S1364815224001233
+KW  - Carbon net-zero
+KW  - Agile management
+KW  - Algorithm
+KW  - Feedback ambiguity
+AB  - To enable organizations to achieve carbon neutrality through agile capabilities, this paper establishes an integrative framework of carbon-zero agility consisting of three dimensions: search scope agility, search locus agility, and search pace agility. However, applying common agile methodologies like Scrum, Kanban, and Lean to cultivate these capabilities inevitably introduces feedback ambiguity, which can paralyze decision-making and increase errors due to inherent human cognitive limitations. To address this, tailored carbon-zero feedback algorithms are proposed to complement human judgment in agile workflows. Specifically, prescriptive analytics, federated learning, and probabilistic programming are injected into Scrum, Kanban, and Lean respectively to restore clarity amidst ambiguity. The framework is grounded in cases from the textile industry to demonstrate applicability in practical settings. By targeting the roots of distortions with human-algorithm collaborations, it provides an actionable roadmap to implement carbon-zero agility.
+ER  - 
+
+TY  - JOUR
+T1  - Creating New Knowledge through Intelligent & Cognitive Control: Reconsidering Control and Automation Science
+AU  - Groumpos, Peter
+JO  - IFAC-PapersOnLine
+VL  - 52
+IS  - 25
+SP  - 551
+EP  - 555
+PY  - 2019
+DA  - 2019/01/01/
+T2  - 19th IFAC Conference on Technology, Culture and International Stability TECIS 2019
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2019.12.604
+UR  - https://www.sciencedirect.com/science/article/pii/S240589631932525X
+KW  - intelligent control
+KW  - cognitive control
+KW  - automation
+KW  - intelligence
+KW  - manufacturing
+KW  - ethical control
+AB  - Creating new knowledge is a very complicated process. Understanding the human brain is one of the greatest challenges facing 21st century science. Knowledge acquisition involves complex cognitive processes: perception, communication, and reasoning; while knowledge is also said to be related to the capacity of acknowledgement in human beings. Knowledge is the driving force for all human and physical activities. Different definition of knowledge are provided. Intelligent control (IC) and Cognitive Control (CC) are the main driving forces of creating new knowledge. The concepts of control and automation are re-examined under the combined notion of intelligence and cognition.
+ER  - 
+
+TY  - JOUR
+T1  - A Human-centred Tactile Perception Device for Enhanced Learning
+AU  - Shenoy, Pooja
+AU  - Kumar, Tarun
+JO  - Procedia CIRP
+VL  - 128
+SP  - 43
+EP  - 48
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 34th CIRP Design Conference
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2024.06.005
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827124006486
+KW  - Type your keywords here
+KW  - separated by semicolons
+AB  - This study proposes a toy-based product that uses tactile perception to enhance memory retention and is carefully created for different learner groups. Every person falls somewhere within the spectrum of learners. As per educational psychology, there are 3 types of learner groups namely; visual, auditory, and kinesthetic learners. This concept focuses primarily on kinesthetic learning and its link to other forms of perception. According to the Cambridge dictionary, kinesthesia is ‘the ability to know where the parts of your body are and how they are moving’. Kinesthetic learning links the movement of the body with learning of different skills and acquiring knowledge. Among somatosensory sub-modalities, this product aims to incorporate tactile perceptions namely, touch and temperature into the development of the playable toy. Using different patterns, engravings, and fidget movements, this product aims to improve the field of education. TRIZ method of ideation and conceptualisation is used and a variety of different forms and functions are discussed. Primary research was conducted with 20 people to analyse the impact of certain tactile perceptions on mental cognitive processing. The study was done with several patterned discs and was then tracked using bio-monitoring and questionnaires. The results showed specific patterns to have increased cognitive functioning and awareness. Based on these results, further study was conducted with memory and skill-based tests. It was conducted while the subject used the discs. These concepts include the development of a line of various educational toys that serve as an advancement in the education industry. It aims to create further prototypes for testing. In essence, this study hopes to design and develop a product for learners of all ages to help them learn and retain knowledge faster.
+ER  - 
+
+TY  - JOUR
+T1  - Influence of work design elements on work performance and work perception – an experimental investigation
+AU  - Stern, Hendrik
+AU  - Becker, Till
+JO  - Procedia CIRP
+VL  - 72
+SP  - 1233
+EP  - 1238
+PY  - 2018
+DA  - 2018/01/01/
+T2  - 51st CIRP Conference on Manufacturing Systems
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2018.03.077
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827118301811
+KW  - Cyber-physical production system
+KW  - Industrial internet of things
+KW  - Work area design
+KW  - Experimental investigation
+AB  - Future work systems will be highly computerized and cognitively challenging. In order to design these systems being both productive and human-oriented, further work design research in the specific area of cyber-physical production systems (CPPS) is needed. Thus, we conducted an experimental investigation on three work design elements in CPPS. Within the experiment, the participants were asked to solve model manufacturing scheduling tasks which go along with a questionnaire. In this paper, we present the results of the study and a preliminary analysis on the effect of several work design elements on work performance and work perception.
+ER  - 
+
+TY  - JOUR
+T1  - Neuro-inspired Framework for cognitive manufacturing control
+AU  - Dumitrache, Ioan
+AU  - Caramihai, Simona Iuliana
+AU  - Moisescu, Mihnea Alexandru
+AU  - Sacala, Ioan Stefan
+JO  - IFAC-PapersOnLine
+VL  - 52
+IS  - 13
+SP  - 910
+EP  - 915
+PY  - 2019
+DA  - 2019/01/01/
+T2  - 9th IFAC Conference on Manufacturing Modelling, Management and Control MIM 2019
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2019.11.311
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896319312868
+KW  - Perception
+KW  - Internet of Things
+KW  - Control Architecture
+AB  - Industrie 4.0, Internet of Things and Cyber-Physical Systems are paradigms that are already shaping the enterprise of future design and functioning. The Cognitive Manufacturing or Cognitive enterprise are concepts that involve the use of such paradigms in the modelling of an Enterprise Information Infrastructure centered on the use of information in a customized problem-solving approach. This paper intends to present a Control approach for a Cognitive manufacturing enterprise inspired by the perception-reasoning-learning processes of the human brain.
+ER  - 
+
+TY  - JOUR
+T1  - The Knowledge-based tools for the steel industry
+AU  - Galasso, Luigi M.
+AU  - Polo, Andrea
+AU  - Ometto, Marco
+JO  - IFAC-PapersOnLine
+VL  - 49
+IS  - 19
+SP  - 379
+EP  - 384
+PY  - 2016
+DA  - 2016/01/01/
+T2  - 13th IFAC Symposium on Analysis, Design, and Evaluation ofHuman-Machine Systems HMS 2016
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2016.10.595
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896316321863
+KW  - Knowledge-based
+KW  - ergonomic
+KW  - cognitive
+KW  - process control
+KW  - 3Q
+KW  - Danieli.
+AB  - During last years, the evolution of process supervision shifted from a rule-base-oriented to a knowledge-base-oriented approach, where the automation systems relieve the human operator from most tedious and repetitive low-level information manipulation tasks; knowledge is considered more important than man by the introduction of applications for strict process control and tools for decision. In this context, Danieli Automation set itself a goal to design a new generation of supervision and control systems, which could provide added value to the operation of plant areas, taking advantage of recent advancements in user interface and information technology. These goals were met by creating new applications in which the know-how is transferred from operators to automation systems and the humanmachine interfaces are optimized in order to improve the quality of the operator work, making decisions faster and more accurate. The result is an innovative man-machine interface, called OPERATOR ASSISTANT. This paper aims to explain all the studies that have been done to develop this new tool, from ergonomics to the choice of the development platform, passing through the decision for the multitouch technology, the minimization of complexity, the consideration of cultural factors and the restraint of the emotional stress for the user. Furthermore it outlines the activities that are currently being made to optimize the product.
+ER  - 
+
+TY  - JOUR
+T1  - Inclusive manufacturing through the application of lean tools to sustainability issues
+AU  - Antonelli, Dario
+AU  - Stadnicka, Dorota
+AU  - Litwin, Paweł
+JO  - Procedia CIRP
+VL  - 122
+SP  - 593
+EP  - 598
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 31st CIRP Conference on Life Cycle Engineering
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2024.01.085
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827124001112
+KW  - lean thinking
+KW  - lean tools
+KW  - sustainable development
+KW  - disability
+KW  - inclusion
+AB  - Lean Thinking is a management philosophy that focuses on reducing waste and enhancing customer value. This study applies the concept of Lean Thinking to confront sustainability challenges in manufacturing companies, particularly with regards to achieving the Sustainable Development Goals (SDG) of the Agenda 2030 that aim to integrate people with disabilities. Some commonly used and less frequently used tools, including the Ishikawa Diagram, Value Stream Mapping, and Cognitive Maps, were revised to mitigate the risks posed to the inclusion, full utilization, and well-being of workers. The findings indicate that adopting a lean thinking approach can facilitate the inclusive design of new production processes and enhance the efficiency of current operations, promoting social sustainability. The study identified certain challenges and drawbacks associated with applying Lean Thinking to sustainability concerns, including the necessity for stakeholder involvement, organizational cultural transformations, and steadfast devotion. Additionally, the study contributes to the extensive literature on lean and sustainability by offering practical use cases and informative perspectives on utilizing lean thinking as a means of promoting sustainable process enhancement and development.
+ER  - 
+
+TY  - JOUR
+T1  - Human centered Lean automation in assembly
+AU  - Malik, Ali Ahmad
+AU  - Bilberg, Arne
+JO  - Procedia CIRP
+VL  - 81
+SP  - 659
+EP  - 664
+PY  - 2019
+DA  - 2019/01/01/
+T2  - 52nd CIRP Conference on Manufacturing Systems (CMS), Ljubljana, Slovenia, June 12-14, 2019
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2019.03.172
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827119304779
+KW  - Lean automation
+KW  - Smart manufacturing
+KW  - Human-centered automation
+KW  - Human-machine collaboration
+AB  - Empirical studies have documented skills that make humans superior to machines in various contexts while keeping them inferior in some others, nevertheless; humans are recognized as the most flexible element in a production system. This paper relates the theory of Lean automation with human-machine interaction; thereby taking benefits from the bests of humans and machines in a combination. The result is biomechatronic production systems. We present a framework that discusses the physical, sensorial and cognitive capabilities of humans; and the technologies that can enhance them. One technology for each capability enhancement has been selected and is evaluated for ease of use and industrial applicability in assembly tasks.
+ER  - 
+
+TY  - JOUR
+T1  - Using the TRL-methodology to Design Supporting ICT-tools for Production Operators
+AU  - Fast-Berglund, Åsa
+AU  - Bligård, Lars-Ola
+AU  - Åkerman, Magnus
+AU  - Karlsson, Malin
+JO  - Procedia CIRP
+VL  - 17
+SP  - 726
+EP  - 731
+PY  - 2014
+DA  - 2014/01/01/
+T2  - Variety Management in Manufacturing
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2014.02.039
+UR  - https://www.sciencedirect.com/science/article/pii/S221282711400376X
+KW  - ICT
+KW  - operators
+KW  - production
+KW  - cognitive automation
+KW  - variety
+KW  - strategy
+KW  - manage
+KW  - TRL
+AB  - The Technology Readiness Level or TRL, has a long history at NASA and American Department of Defence (DoD), when designing and testing new technologies. Could this methodology be used in a production system context? Due to the increased information complexity in production systems today new technologies and prototypes have to be developed and tested more frequently. Cognitive automation strategies are becoming a competitive benefit for the companies that have a standardisation when it comes to prototyping and testing. The aim of this paper is to show how the TRL could be used to design supporting ICT-tools for operators in Swedish production. The internal testing has been done at the university lab, and the external tests have been done in two industrial case studies as an input for the results in this paper. Results show that even though it is good to have a structured methodology to follow, it is difficult to put the methodology to use in a different context.
+ER  - 
+
+TY  - JOUR
+T1  - Prototyping proactive and adaptive techniques for human-robot collaboration in manufacturing using virtual reality
+AU  - Matsas, Elias
+AU  - Vosniakos, George-Christopher
+AU  - Batras, Dimitris
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 50
+SP  - 168
+EP  - 180
+PY  - 2018
+DA  - 2018/04/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2017.09.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584516303611
+KW  - Human-robot collaboration
+KW  - Virtual environments
+KW  - Human-robot interaction
+KW  - Safety
+KW  - Proactive techniques
+KW  - Adaptive trajectory
+KW  - Collision Avoidance
+AB  - Human-Robot Interaction (HRI) has emerged in recent years as a need for common collaborative execution of manufacturing tasks. This work examines two types of techniques of safe collaboration that do not interrupt the flow of collaboration as far as possible, namely proactive and adaptive. The former are materialised using audio and visual cognitive aids, which the user receives as dynamic stimuli in real time during collaboration, and are aimed at information enrichment of the latter. Adaptive techniques investigated refer to the robot; according to the first one of them the robot decelerates when a forthcoming contact with the user is traced, whilst according to the second one the robot retracts and moves to the final destination via a modified, safe trajectory, so as to avoid the human. The effectiveness as well as the activation criteria of the above techniques are investigated in order to avoid possible pointless or premature activation. Such investigation was implemented in a prototype highly interactive and immersive Virtual Environment (VE), in the framework of H-R collaborative hand lay-up process of carbon fabric in an industrial workcell. User tests were conducted, in which both subjective metrics of user satisfaction and performance metrics of the collaboration (task completion duration, robot mean velocity, number of detected human-robot collisions etc.) After statistical processing, results do verify the effectiveness of safe collaboration techniques as well as their acceptability by the user, showing that collaboration performance is affected to a different extent.
+ER  - 
+
+TY  - JOUR
+T1  - Dietary emulsifier polysorbate 80 exposure accelerates age-related cognitive decline
+AU  - Zhang, Lan
+AU  - Yin, Zhenyu
+AU  - Liu, Xilei
+AU  - Jin, Ge
+AU  - Wang, Yan
+AU  - He, Linlin
+AU  - Li, Meimei
+AU  - Pang, Xiaoqi
+AU  - Yan, Bo
+AU  - Jia, Zexi
+AU  - Ma, Jiahui
+AU  - Wei, Jingge
+AU  - Cheng, Fangyuan
+AU  - Li, Dai
+AU  - Wang, Lu
+AU  - Han, Zhaoli
+AU  - Liu, Qiang
+AU  - Chen, Fanglian
+AU  - Cao, Hailong
+AU  - Lei, Ping
+JO  - Brain, Behavior, and Immunity
+VL  - 119
+SP  - 171
+EP  - 187
+PY  - 2024
+DA  - 2024/07/01/
+SN  - 0889-1591
+DO  - https://doi.org/10.1016/j.bbi.2024.03.052
+UR  - https://www.sciencedirect.com/science/article/pii/S0889159124003337
+KW  - Age-related cognitive decline
+KW  - Neuroinflammation
+KW  - Gut-brain axis
+KW  - Emulsifier
+KW  - Gut microbiota
+KW  - Deoxycholic acid
+AB  - Gut microbial homeostasis is crucial for the health of cognition in elderly. Previous study revealed that polysorbate 80 (P80) as a widely used emulsifier in food industries and pharmaceutical formulations could directly alter the human gut microbiota compositions. However, whether long-term exposure to P80 could accelerate age-related cognitive decline via gut-brain axis is still unknown. Accordingly, in this study, we used the senescence accelerated mouse prone 8 (SAMP8) mouse model to investigate the effects of the emulsifier P80 intake (1 % P80 in drinking water for 12 weeks) on gut microbiota and cognitive function. Our results indicated that P80 intake significantly exacerbated cognitive decline in SAMP8 mice, along with increased brain pathological proteins deposition, disruption of the blood–brain barrier and activation of microglia and neurotoxic astrocytes. Besides, P80 intake could also induce gut microbiota dysbiosis, especially the increased abundance of secondary bile acids producing bacteria, such as Ruminococcaceae, Lachnospiraceae, and Clostridium scindens. Moreover, fecal microbiota transplantation from P80 mice into 16-week-old SAMP8 mice could also exacerbated cognitive decline, microglia activation and intestinal barrier impairment. Intriguingly, the alterations of gut microbial composition significantly affected bile acid metabolism profiles after P80 exposure, with markedly elevated levels of deoxycholic acid (DCA) in serum and brain tissue. Mechanically, DCA could activate microglial and promote senescence-associated secretory phenotype production through adenosine triphosphate-binding cassette transporter A1 (ABCA1) importing lysosomal cholesterol. Altogether, the emulsifier P80 accelerated cognitive decline of aging mice by inducing gut dysbiosis, bile acid metabolism alteration, intestinal barrier and blood brain barrier disruption as well as neuroinflammation. This study provides strong evidence that dietary-induced gut microbiota dysbiosis may be a risk factor for age-related cognitive decline.
+ER  - 
+
+TY  - JOUR
+T1  - The Evolution, Framework, and Future of Cognitive Intelligence-enabled Product Design
+AU  - Zuoxu, Wang
+AU  - Jihong, Liu
+AU  - Lianyu, Zheng
+JO  - Procedia CIRP
+VL  - 109
+SP  - 526
+EP  - 531
+PY  - 2022
+DA  - 2022/01/01/
+T2  - 32nd CIRP Design Conference (CIRP Design 2022) - Design in a changing world
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2022.05.289
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827122007387
+KW  - product design
+KW  - AI-enabled product design
+KW  - cognitive intelligence-enabled product design
+KW  - cognitive computing
+KW  - artificial intelligence
+AB  - In recent years, the powerful capabilities of big data and intelligent algorithms (e.g., machine learning (ML) and deep learning (DL)) have fostered a new product design paradigm called Artificial intelligence (AI)-enabled design. Although current AI-enabled design outperforms many other classic design methods by effectiveness and efficiency, most of its applications are still preliminary AI-based applications, such as classification, recognition, and detection. Many domain knowledge and design knowledge among historical design cases and designers have not been fully recognized and explored. To bridge the semantic gap between humans and systems/machines, this study proposed a cognitive intelligence-enabled product design (CIPD) framework in which cognitive computing serves as the key enabler. To make the vision concrete, this study proposes a CIPD framework to illustrate the relationship between cognitive intelligence and product design. Meanwhile, the prospective human-like capabilities of CIPD and the critical enabling technologies are also described. Finally, some potential CIPD industrial applications are envisioned.
+ER  - 
+
+TY  - JOUR
+T1  - Workload categorization for hazardous industries: The semantic modelling of multi-modal physiological data
+AU  - König, Jemma L.
+AU  - Hinze, Annika
+AU  - Bowen, Judy
+JO  - Future Generation Computer Systems
+VL  - 141
+SP  - 369
+EP  - 381
+PY  - 2023
+DA  - 2023/04/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2022.11.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X22003806
+KW  - Semantic modelling
+KW  - Complex event processing
+KW  - Parallel processing
+KW  - Rule-based modelling
+KW  - Multi-modal data
+KW  - Physiological data
+AB  - The forestry industry is one of the most hazardous industries in New Zealand, and the physical and cognitive fatigue of forestry workers has been shown to contribute to this. Physical and cognitive fatigue can be exacerbated by prolonged physical and cognitive workload. As such, we propose that the identification and mitigation of fatigue factors could reduce the risk of incident and injury in hazardous work environments. This paper introduces a semantic model for workload categorization. The model takes as input, a set of multi-modal physiological measurements, and uses parallel processing, complex event processing, and rule-based modelling to categorize a series of workloads (resting, cognitive workload, and physical workload). The model has undergone a set of evaluations, including categorization accuracy, and performance. The model has been tested under three scenarios: when a participant is resting and refraining from any physically or mentally demanding tasks; when a participant is undertaking a cognitively intensive task; and when a participant is walking, jogging, and running. The study has been conducted with participants between the ages of 22 and 39 and has shown an average accuracy of 89% for resting workload, 76% for cognitive workload, and 97% for physical workload. Finally, in this paper we discuss the application and extension of this model to predict fatigue in hazardous industries. The work described in this paper contributes to a larger research project centered on investigating technology uses in hazardous work environments.
+ER  - 
+
+TY  - JOUR
+T1  - An integrated interval-valued spherical fuzzy Choquet integral based decision making model for prioritizing risk in Fine-Kinney
+AU  - Wang, Yi
+AU  - Wang, Weizhong
+AU  - Deveci, Muhammet
+AU  - Yu, Xinyue
+JO  - Engineering Applications of Artificial Intelligence
+VL  - 127
+SP  - 107437
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0952-1976
+DO  - https://doi.org/10.1016/j.engappai.2023.107437
+UR  - https://www.sciencedirect.com/science/article/pii/S0952197623016214
+KW  - Fine-Kinney
+KW  - CRADIS model
+KW  - Interval-valued spherical fuzzy
+KW  - Occupational risk
+KW  - Choquet integral
+AB  - The Fine-Kinney model has been expanded to serve as a tool for analyzing systemic risk in different industries, including occupational hazards. However, existing models for prioritizing risk in Fine-Kinney fail to account for the interconnectedness of experts’ cognitive information in interval-valued spherical fuzzy situations. This paper creates a new fuzzy compromise ranking of alternatives from distance to ideal solution (CRADIS) method to address the limitations of the Fine-Kinney model in occupational risk analysis. The interval-valued spherical fuzzy numbers are extended into the conventional risk scales in the Fine-Kinney model to generate a processing method for uncertain risk rating data. Then, the weighted averaging operator is developed based on the Choquet integral and interval-valued spherical fuzzy sets to construct the collective risk assessment matrix. This developed operator can capture inter-dependencies among risk data. Next, an enhanced CRADIS method with interval-valued spherical fuzzy sets and entropy measures is presented to address the risk ranking issue in the application of Fine-Kinney. To demonstrate the implementation of the synthesized occupational risk framework, a case study analyzing the occupational hazards in the metro construction process uses numerical methods. The proposed framework undergoes parameter sensitivity analysis to test its rationality. An evaluation compares the enhanced framework with the risk-prioritizing methods used in F–K to assess its advantages. The outcome suggests that the framework offers an appropriate and dependable approach to prioritizing occupational risks in a subjective and ambiguous scenario.
+ER  - 
+
+TY  - JOUR
+T1  - Human-centred work design in times of digital change – work conditions, level of digitization and recent trends for object-related tasks
+AU  - Terhoeven, Jan
+AU  - Tegtmeier, Patricia
+AU  - Wischniewski, Sascha
+JO  - Procedia CIRP
+VL  - 107
+SP  - 302
+EP  - 307
+PY  - 2022
+DA  - 2022/01/01/
+T2  - Leading manufacturing systems transformation – Proceedings of the 55th CIRP Conference on Manufacturing Systems 2022
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2022.04.049
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827122002657
+KW  - OSH
+KW  - new technologies
+KW  - work conditions
+AB  - New technologies are influencing today’s work and change social attitudes towards the organization and design of work. Against this background, the question arises as to how human-centred work design has to be in the digital age. In order to derive indications for work design, first it is necessary to find out which work conditions actually are present for different tasks and what their level of digitization is. This article focuses on the working conditions and the level of digitization of object-related tasks. These tasks are characterized by the fact that objects are processed or handled. In particular, it includes the task groups manufacturing, transporting and cleaning. For these three groups, current working conditions of N = 6.435 employees with object-related tasks were analyzed based on the BIBB/BAuA Employment Survey. Furthermore, the current state of digitization of N = 411 employees with object-related tasks was analyzed based on the survey Digitization and Change in Employment (DiWaBe). The results show, that a high proportion of physical work requirements and physical-chemical environmental conditions have an impact on object-related tasks. Furthermore, the results indicate tendencies towards monotonous work processes. Object-related tasks show a rather low degree of digitization. However, especially in manufacturing and transport, detailed instructions are often given by means of various technologies. Based on the data analysis, a structured literature analysis was conducted about the current state of research on new technologies in object-related tasks. It was found, that research and practice is concerned with technologies that meet the high physical demands of object-related tasks in particular (e.g. HRC, exoskeletons). In addition, there are many approaches to support employees cognitively with digital assistance systems. This article present the results of the data and literature analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Deep learning-based smart task assistance in wearable augmented reality
+AU  - Park, Kyeong-Beom
+AU  - Kim, Minseok
+AU  - Choi, Sung Ho
+AU  - Lee, Jae Yeol
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 63
+SP  - 101887
+PY  - 2020
+DA  - 2020/06/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2019.101887
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584518306240
+KW  - Smart task assistance
+KW  - Wearable augmented reality
+KW  - Deep learning-based task assistance
+KW  - AR smart glasses
+AB  - Wearable augmented reality (AR) smart glasses have been utilized in various applications such as training, maintenance, and collaboration. However, most previous research on wearable AR technology did not effectively supported situation-aware task assistance because of AR marker-based static visualization and registration. In this study, a smart and user-centric task assistance method is proposed, which combines deep learning-based object detection and instance segmentation with wearable AR technology to provide more effective visual guidance with less cognitive load. In particular, instance segmentation using the Mask R-CNN and markerless AR are combined to overlay the 3D spatial mapping of an actual object onto its surrounding real environment. In addition, 3D spatial information with instance segmentation is used to provide 3D task guidance and navigation, which helps the user to more easily identify and understand physical objects while moving around in the physical environment. Furthermore, 2.5D or 3D replicas support the 3D annotation and collaboration between different workers without predefined 3D models. Therefore, the user can perform more realistic manufacturing tasks in dynamic environments. To verify the usability and usefulness of the proposed method, we performed quantitative and qualitative analyses by conducting two user studies: 1) matching a virtual object to a real object in a real environment, and 2) performing a realistic task, that is, the maintenance and inspection of a 3D printer. We also implemented several viable applications supporting task assistance using the proposed deep learning-based task assistance in wearable AR.
+ER  - 
+
+TY  - JOUR
+T1  - Human-Centred Dissemination of Data, Information and Knowledge in Industry 4.0
+AU  - Li, Dan
+AU  - Landström, Anna
+AU  - Fast-Berglund, Åsa
+AU  - Almström, Peter
+JO  - Procedia CIRP
+VL  - 84
+SP  - 380
+EP  - 386
+PY  - 2019
+DA  - 2019/01/01/
+T2  - 29th CIRP Design Conference 2019, 08-10 May 2019, Póvoa de Varzim, Portgal
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2019.04.261
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827119309084
+KW  - data
+KW  - information
+KW  - knowledge
+KW  - Industry 4.0
+AB  - The manufacturing industry faces immense challenges for maintaining and increasing their productivity and flexibility. In this context, it is important for companies to ensure that their employees have the relevant data, information and knowledge necessary to make well-informed decisions. Due to recent development with Industry 4.0 enabling technologies that create new possibilities, the amount of available data, information and knowledge increase rapidly, but the insights into how to utilize it to its full potential are still lacking. In this paper, a human-centred perspective has been applied, aiming at improving how to cognitively support humans at work with new Industry 4.0 enabling technologies. Heavy emphasis is placed on people’s requirements and preferences of data, information and knowledge for enhancing their performance and satisfaction at work. This paper examines the relationship between existing literature on dissemination of data, information and knowledge within the manufacturing industry with state-of-the-art research on Industry 4.0. The outcome of the research recognizes the increased importance of utilizing data, information and knowledge for people at work, facilitated by exploiting the new possibilities from Industry 4.0. To accomplish this, it is concluded that there exists an urgency to design: both a holistic framework for identifying and accommodating individuals’ needs and expectations of relevant data, information and knowledge; and demonstrators and concepts to simplify the implementation of Industry 4.0 enabling technologies that support the aforementioned dissemination of data, information and knowledge.
+ER  - 
+
+TY  - JOUR
+T1  - HMM-based models of control room operator's cognition during process abnormalities. 1. Formalism and model identification
+AU  - Shahab, Mohammed Aatif
+AU  - Iqbal, Mohd Umair
+AU  - Srinivasan, Babji
+AU  - Srinivasan, Rajagopalan
+JO  - Journal of Loss Prevention in the Process Industries
+VL  - 76
+SP  - 104748
+PY  - 2022
+DA  - 2022/05/01/
+SN  - 0950-4230
+DO  - https://doi.org/10.1016/j.jlp.2022.104748
+UR  - https://www.sciencedirect.com/science/article/pii/S0950423022000250
+KW  - Mental models
+KW  - Hidden markov model
+KW  - Eye tracking
+KW  - Learning
+KW  - Operator training
+AB  - Operators' mental models play a central role in safety-critical domains like the chemical process industries. Accurate mental models, i.e., a correct understanding of the process and its causal linkages, are prerequisites for safe operation. Mental models are often defined and explained in abstract terms that make their interpretation subjective and prone to bias. In this work, we propose a Hidden Markov Model (HMM) based formalism to characterize control room operators' mental models while handling abnormal situations. We show that a suitable HMM representing the operator's mental model – including the states, state transition probabilities, and emission probability distributions – can be identified experimentally using data of the operator's control actions, eye gaze, and process variable values. This HMM can be used for the quantitative assessment of operators' mental models as illustrated using various case studies. We discuss the potential applications of the model in identifying various cognitive errors and human reliability assessment. In Part 2 of this paper, we use the proposed approach to assess operators' learning during training.
+ER  - 
+
+TY  - JOUR
+T1  - The Effect of Psychosocial Safety Climate on Work Engagement Through Possibilities for Development and Cognitive Demands
+AU  - Krasniqi, Valdrin
+AU  - Hoxha, Agron
+JO  - IFAC-PapersOnLine
+VL  - 55
+IS  - 39
+SP  - 88
+EP  - 93
+PY  - 2022
+DA  - 2022/01/01/
+T2  - 21st IFAC Conference on Technology, Culture and International Stability TECIS 2022
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2022.12.016
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896322030567
+KW  - Psychosocial safety climate
+KW  - possibilities for development
+KW  - cognitive demands
+KW  - engagement
+AB  - The objective of the present study was to investigate the role of psychosocial safety climate (PSC) and its relationship to work-related outcome (i.e., work engagement) via working conditions such as job demands and resources. Specifically, by using the job demands-resources (JD-R) model as a basis of the argument, the research examines how cognitive demands and possibilities for development mediate the relationship between psychosocial safety climate and work engagement. The research predicted that PSC positively increases work engagement via enhancement of positive demands (i.e., cognitive demands) and possibilities for development. The current study utilized a cross-sectional survey approach among 392 employees in one oil and gas organization in Malaysia. To test the research hypotheses, data were analyzed using hierarchical linear modelling (HLM). The study revealed that PSC increased possibilities for development and had no significant relationship with cognitive demands. Furthermore, the results supported the notion that working condition (possibilities for development) mediated the relationship between PSC and work engagement. Overall, these findings suggest that PSC plays a significant role as predictor for working conditions and work outcomes in oil and gas industry. The results may be used to help occupational health and safety practitioners, human resource practitioners and higher management within organizations to understand how PSC influences working conditions and work outcomes.
+ER  - 
+
+TY  - JOUR
+T1  - Addressing the Issues and Developments Correlated with Envisaged 5G Mobile Technologies: Comprehensive Solutions
+AU  - Kocher, Idrees Sarhan
+JO  - Computers, Materials and Continua
+VL  - 77
+IS  - 2
+SP  - 2205
+EP  - 2223
+PY  - 2023
+DA  - 2023/11/29/
+SN  - 1546-2218
+DO  - https://doi.org/10.32604/cmc.2023.039392
+UR  - https://www.sciencedirect.com/science/article/pii/S1546221823006483
+KW  - E5G mobile technologies spectrum allocation
+KW  - pseudo outdoor communication
+KW  - key performance indicators
+KW  - cloud-based services
+KW  - efficient energy
+KW  - CR
+AB  - Fifth Generation (5G) communications are regarded as the cornerstone to household consumer experience improvements and smart manufacturing revolution from the standpoint of industries' objectives. It is anticipated that Envisaged 5G (E5G) mobile technology would be operational in certain developed countries by 2023. The Internet of Things (IoTs) will transform how humans live when combined with smart and integrated sensing devices, such as in-home sensing devices. Recent research is being carried out all over the world to produce a new technique that can be crucial in the success of the anticipated 5G mobile technology. High output, reduced latency, highly reliable, greater scalability, high performance, capacity, bandwidth efficiency, virtual open-air transmission, and efficient energy mobile wireless communications are all being investigated currently. In this work, a comprehensive path for addressing the difficulties and developments associated with 5G mobile technology is provided. The debate and description of a complete analysis of current situations, certain characteristics and prospective scenarios, important technologies, problems and advances, and spectrum allocation of envisioned 5G mobile technologies are provided. Furthermore, this paper analyzes the most notable elements of 5G mobile technology, such as Cognitive Radio (CR), flexibility, accessibility, and cloud-based service offers, which will assure 5G mobile technology’s dominance as the main protocol for international communication. Eventually, this paper provides a method for integrating CR with current wireless communication systems, the necessity for further evolution of the E5G network, and the need for comprehensive consideration of architecture evolution and function enhancement to enhance the E5G mobile technologies.
+ER  - 
+
+TY  - JOUR
+T1  - A fatigue-conscious dual resource constrained flexible job shop scheduling problem by enhanced NSGA-II: An application from casting workshop
+AU  - Tan, Weihua
+AU  - Yuan, Xiaofang
+AU  - Wang, Jinlei
+AU  - Zhang, Xizheng
+JO  - Computers & Industrial Engineering
+VL  - 160
+SP  - 107557
+PY  - 2021
+DA  - 2021/10/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2021.107557
+UR  - https://www.sciencedirect.com/science/article/pii/S0360835221004617
+KW  - Dual resource constrained flexible job shop scheduling problem
+KW  - Multi-objective optimization
+KW  - Worker fatigue
+KW  - Initialization method
+KW  - Neighborhood structure
+KW  - Casting workshop
+AB  - Dual resource constrained flexible job shop scheduling problem (DRCFJSP) becomes a hot research topic in recent years. However, worker fatigue is barely considered in DRCFJSP, which will result in unsuitable task assignments for workers and bring about negative effects such as muscle fatigue and cognitive confusion. To this end, a fatigue-conscious DRCFJSP is proposed in this paper, aiming at simultaneously relieving fatigue and promoting productivity by joint scheduling of machines and workers. A multi-objective optimization model is constructed to minimize the maximum worker fatigue and makespan. Furthermore, an enhanced NSGA-II (ENSGA) is developed in this paper to cope with the proposed problem. In the ENSGA, four dispatch rules are designed to generate high-quality solutions at the initialization stage. Two neighborhood structures based on a novel method of defining the critical path are designed to strengthen the ability of local search. Finally, with the comprehensive experiments on extensive test instances and a case study from real-world casting workshop, the effectiveness of proposed ENSGA for solving the fatigue-conscious DRCFJSP is verified, and the significance of the proposed joint scheduling approach is elucidated. This work renders the decision-maker practical and effective scheduling with fatigue-conscious for the machine and worker constrained flexible manufacturing system.
+ER  - 
+
+TY  - JOUR
+T1  - Reflections on societal and business model transformation arising from digitization and big data analytics: A research agenda
+AU  - Loebbecke, Claudia
+AU  - Picot, Arnold
+JO  - The Journal of Strategic Information Systems
+VL  - 24
+IS  - 3
+SP  - 149
+EP  - 157
+PY  - 2015
+DA  - 2015/09/01/
+SN  - 0963-8687
+DO  - https://doi.org/10.1016/j.jsis.2015.08.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0963868715000372
+KW  - Digitization
+KW  - Big data analytics
+KW  - Business transformation
+KW  - Societal transformation
+KW  - Information society
+AB  - In the era of accelerating digitization and advanced big data analytics, harnessing quality data for designing and delivering state-of-the-art services will enable innovative business models and management approaches (Boyd and Crawford, 2012; Brynjolfsson and McAfee, 2014) and yield an array of consequences. Among other consequences, digitization and big data analytics reshape business models and impact employment amongst knowledge workers – just as automation did for manufacturing workers. This Viewpoint paper considers the mechanisms underlying how digitization and big data analytics drive the transformation of business and society and outlines the potential effects of digitization and big data analytics on employment – especially in the context of cognitive tasks. Its aim is to outline a critical research agenda to explore and conceptualize evident changes in business models and society arising from these technological advances.
+ER  - 
+
+TY  - JOUR
+T1  - AI enabled applications towards intelligent transportation
+AU  - Iyer, Lakshmi Shankar
+JO  - Transportation Engineering
+VL  - 5
+SP  - 100083
+PY  - 2021
+DA  - 2021/09/01/
+SN  - 2666-691X
+DO  - https://doi.org/10.1016/j.treng.2021.100083
+UR  - https://www.sciencedirect.com/science/article/pii/S2666691X21000397
+KW  - Public transport
+KW  - Safety management
+KW  - Logistics
+KW  - Intelligent transportation systems
+KW  - Traffic management
+KW  - Transport management systems
+AB  - Artificial intelligence (AI) is the ability of a machine to perform cognitive functions like perceiving, reasoning, learning and problem-solving which humans are capable of performing at ease. AI has gained traction since the past two decades across the globe due to availability of huge volume of data generated through Internet. There has been a huge benefit to governments and businesses by processing this data using advanced algorithms in the recent past. The robust growth of machine learning algorithms supported by various technologies like Internet of Things, Robotic Process Automation, Computer Vision, Natural Language Processing have enabled the growth of AI. This article is a compilation of various issues plaguing Transport Industry classified under Intelligent Transportation Systems. Some of the sub-systems considered are related to Traffic Management, Public Transport, Safety Management, Manufacturing & Logistics from Intelligent Transportation Systems where AI benefits are put into use. The study takes up specific areas of concern in transport industry and its related issues that have possible solutions using AI. The approach involves a secondary study based on the country-wise data available from various sources. Further, discussions on AI solutions to resolve issues in transport industry across various countries in the globe and in Indian states is taken up.
+ER  - 
+
+TY  - JOUR
+T1  - Age-related operator deficits in a realistic instrument-control task: Assessment of possssible motor, cognitive and mental causes
+AU  - Dalecki, Marc
+AU  - Kalicinski, Michael
+AU  - Steinberg, Fabian
+AU  - Bock, Otmar
+JO  - International Journal of Industrial Ergonomics
+VL  - 59
+SP  - 100
+EP  - 107
+PY  - 2017
+DA  - 2017/05/01/
+SN  - 0169-8141
+DO  - https://doi.org/10.1016/j.ergon.2017.03.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0169814117301105
+KW  - Aging
+KW  - Workplace
+KW  - Motor control
+KW  - Cognition
+KW  - Motivation
+AB  - With advancing age, motor and mental functions gradually change. As these changes have been revealed by standardized laboratory tests, it remains unclear how much they affect older persons' performance in industrial workplace tasks. The present study therefore compared young and older participants in a task modeled after a complex, realistic industrial workplace scenario, and additionally assessed motor, cognitive and mental variables that might have an impact on overall task efficiency. 25 participants (13 young, mean age 25 years; 12 older participants, mean age 65 years) sat in front of a panel with multiple displays - indicating the momentary state of a simulated nuclear power plant (i.e., power supply and demand, fuel rod stock, temperature) - and multiple actuators - allowing them to modify that state. Their task was to maximize the plant's momentary earnings, which were displayed as well. Participants could increase the earnings by keeping the difference between power supply and demand as small as possible, and to sufficiently use the fuel rod stocks since they did cost earnings. Operator efficiency was defined as final earnings after 8.7 min of work. Kinematics and dynamics of grasping the actuators were assessed with a motion capture system and force sensors. Workload and strain was assessed with established questionnaires, and cognitive abilities with PC-based tests. We found that operator efficiency dramatically declined in older age (−70%). This decline was not related to differences in grasping kinetics and kinematics, workload, or cognition, but was related to the age-related decay of motivation, suggesting reduced motivation as one explanatory factor. We therefore conclude that performance on a simulated complex industrial workplace task is partially dependent of age and motivation, but is difficult to predict from other motor or mental functions. This conclusion is relevant for the assessment of industrial job skills, and possibly also of driving and household skills.
+ER  - 
+
+TY  - JOUR
+T1  - Learning Environment to Take Operational Decision in Emergency Situation
+AU  - Filho, S. Ávila
+AU  - Carvalho, A.C.F.
+AU  - Portela, G.P.J.
+AU  - Costa, C.
+JO  - Procedia Manufacturing
+VL  - 3
+SP  - 1780
+EP  - 1787
+PY  - 2015
+DA  - 2015/01/01/
+T2  - 6th International Conference on Applied Human Factors and Ergonomics (AHFE 2015) and the Affiliated Conferences, AHFE 2015
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2015.07.460
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978915004618
+KW  - Operational Decision
+KW  - Emergency
+KW  - Learning environment.
+AB  - In psychological and human factors engineering sciences have been strengthened research on the way in which social and demographic variables influence the cognitive functioning of the employee at the time of decision. It is understood that performing tasks at work seeks continuous satisfaction of demands for physical and material security, social and emotional comfort as well as economic and productive stability. Due to the complexity of living systems in the global community, involving increasing environmental changes and limit natural resources, intolerance and social violence, political and economic crises, the demand is presented by investigations of such dimensions on decision making, between designated professional to decide in emergency situations. In the high-risk process industry can happen emergency situations where the lives of many people depend on the decision of a few actors. Extrapolating limits of a model that is not only rational (manage) or emotional (preserve) or instinctual (flee, freeze or fight), the model indicated by the API 770 and discussed in this article indicates that there is an optimal range of stress level to maintain the effectiveness of the task. This paper proposes: a mental model to address emergencies that differs from the model used in the routine decision, and a method to assess technical and intuitive decision and the right profile of the teams for the actions in emergency situations. A case of the liquefied petroleum gas industry (LPG) was analyzed, which makes up a projection of behavior, learning environment, with the gradual increase of stress on the staff of operators and the effects on mental model for decision.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-source decision-making information fusion framework for evaluating coexisting-cooperative-cognitive capabilities of collaborative robots using text clustering and combination weighting
+AU  - Yao, Jiwei
+AU  - Zhao, Zhiang
+AU  - Zhao, Jing
+JO  - Advanced Engineering Informatics
+VL  - 62
+SP  - 102722
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2024.102722
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034624003707
+KW  - Collaborative robots
+KW  - Robot performance evaluation
+KW  - Multi-source information fusion
+KW  - Text clustering
+AB  - To effectively address the requirements of deeply coexisting-cooperative-cognitive (Tri-Co) interactions among humans, robots, and the environment within the context of Industry 4.0, it becomes crucial to conduct evaluation research on Tri-Co capabilities (TCCs) of collaborative robots (cobots), which is a knowledge-intensive task. However, existing research on performance evaluation of cobots has not yet established a common method for constructing a complete performance evaluation index system. The testing methods lack a design basis and fail to evaluate the performance of cobots through operational tasks in industrial production or daily life from the perspective of test tasks. Furthermore, these methods do not facilitate the fusion of multi-source subjective and objective decision-making information, which includes both the knowledge of experts and fundamental parameters of cobots. To this end, this study proposes a multi-source decision-making information fusion framework for evaluating the TCCs of cobots. This framework includes a construction method for an evaluation index system that fuses subjective and objective elements based on statistics, text clustering, and closed-loop feedback mechanism. It also incorporates TCCs test tasks, and an improved fuzzy analytic network process (IFANP). Additionally, it incorporates a combination weighting method that aims to minimise both subjective and objective weights deviations. This framework effectively integrates the subjective knowledge of experts with the objective fundamental parameters of cobots. It accomplishes local TCCs evaluation from the perspective of test tasks. Additionally, it achieves global TCCs evaluation by combining basic performance evaluation indices and the performance of completing the test tasks. A case by Rethink Sawyer (Sawyer) is presented to demonstrate the application process and viability of the developed framework. The experimental results and calculation examples indicate that the research has the potential to provide a certain theoretical basis and reference to solve the performance testing and evaluation issues for other types of robots in engineering applications.
+ER  - 
+
+TY  - JOUR
+T1  - The development and evaluation of Robot Light Skin: A novel robot signalling system to improve communication in industrial human–robot collaboration
+AU  - Tang, Gilbert
+AU  - Webb, Phil
+AU  - Thrower, John
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 56
+SP  - 85
+EP  - 94
+PY  - 2019
+DA  - 2019/04/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2018.08.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584518300553
+KW  - Human–robot interaction
+KW  - Collaborative system
+KW  - Industrial ergonomics
+KW  - Automation
+AB  - In a human–robot collaborative production system, the robot could make request for interaction or notify the human operator if an uncertainty arises. Conventional industrial tower lights were designed for generic machine signalling purposes which may not be the ultimate solution for robot signalling in a collaborative setting. In this type of system, human operators could be monitoring multiple robots while carrying out a manual task so it is important to minimise the diversion of their attention. This paper presents a novel robot signalling solution, the Robot Light Skin (RLS),which is an integrated signalling system that could be used on most articulated robots. Our experiment was conducted to validate this concept in terms of its effect on improving operator's reaction time, hit-rate, awareness and task performance. The results showed that participants reacted faster to the RLS as well as achieved higher hit-rate. An eye tracker was used in the experiment which shows a reduction in diversion away from the manual task when using the RLS. Future study should explore the effect of the RLS concept on large-scale systems and multi-robot systems.
+ER  - 
+
+TY  - JOUR
+T1  - Bio-Intelligent Selective Laser Melting System based on Convolutional Neural Networks for In-Process Fault Identification
+AU  - Angelone, Roberta
+AU  - Caggiano, Alessandra
+AU  - Teti, Roberto
+AU  - Spierings, Adriaan
+AU  - Staub, Alexandre
+AU  - Wegener, Konrad
+JO  - Procedia CIRP
+VL  - 88
+SP  - 612
+EP  - 617
+PY  - 2020
+DA  - 2020/01/01/
+T2  - 13th CIRP Conference on Intelligent Computation in Manufacturing Engineering, 17-19 July 2019, Gulf of Naples, Italy
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2020.05.107
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827120304297
+KW  - Additive manufacturing
+KW  - Selective laser melting
+KW  - Bio-intelligence
+KW  - Convolutional neural networks
+KW  - Machine learning
+KW  - Image processing
+AB  - This research work focuses on the development of a bio-intelligent additive manufacturing system based on Selective Laser Melting (SLM) technology in the framework of the Biological Transformation in Manufacturing. With the objective to provide the SLM system with cognition, decision making and self-learning capabilities inspired by human intelligence and cognitive skills, a machine learning approach using convolutional neural networks for in-process fault identification based on automatic image processing is presented. An in-process sensor monitoring system based on a camera installed on the SLM machine tool is employed to acquire images of the scanned layers with the final aim to timely identify possible faults and realize an adaptive layer-by-layer control loop in which the process is self-adjusted based on learning.
+ER  - 
+
+TY  - JOUR
+T1  - Eye gaze movement studies of control room operators: A novel approach to improve process safety
+AU  - Sharma, Chandresh
+AU  - Bhavsar, Punitkumar
+AU  - Srinivasan, Babji
+AU  - Srinivasan, Rajagopalan
+JO  - Computers & Chemical Engineering
+VL  - 85
+SP  - 43
+EP  - 57
+PY  - 2016
+DA  - 2016/02/02/
+SN  - 0098-1354
+DO  - https://doi.org/10.1016/j.compchemeng.2015.09.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0098135415003075
+KW  - Cognitive engineering
+KW  - Human error
+KW  - Eye tracking
+KW  - Process safety
+AB  - Process industries continue to suffer from accidents despite significant regulatory intervention since the mid-1980s. Human error is widely considered to be the major cause for most accidents today. Detailed analysis of various incidents indicates that reduced staffing levels in control rooms and inadequate operator training with complex automation strategies as common reasons for human errors. Therefore, there is a need to develop deeper understanding of human errors as well as strategies to prevent them. However, similar to hardware failures, traditionally human error has been quantified using likelihood approaches; this viewpoint abnegates the role of the cognitive abilities of the operators. Recent studies in other safety critical domains (aviation, health-care) show that operator's level of situation awareness as inferred by eye tracking is a good online indicator of human error. In this work, a novel attempt is made to understand the behavior of the operator in a typical chemical plant control room using the information obtained from eye tracker. Experimental studies conducted on 72 participants reveal that fixation patterns contain signatures about the operators learning and awareness at various situations. Implications of these findings on human error in process plant operations them are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Amplifying Employability Skills to Create Co-Working Space for Human and Cobots in the E-Commerce Industry
+AU  - Agarwal, Neetima
+AU  - Chauhan, Shivani
+JO  - Procedia Computer Science
+VL  - 214
+SP  - 1040
+EP  - 1048
+PY  - 2022
+DA  - 2022/01/01/
+T2  - 9th International Conference on Information Technology and Quantitative Management
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2022.11.275
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050922019871
+KW  - Industry 5.0
+KW  - Employability Skills
+KW  - Cobots
+KW  - Cognitive Interface
+KW  - Co-working Space
+KW  - E-commerce Industry
+AB  - Artificial Intelligence is transforming the E-commerce industry by predicting the shopping patterns and providing the customized shopping solutions. The germination phase of Industry 5.0 has provided a collaboration of Cobots and Humans assisting each other at work. The study has been conducted to scrutinize the Employability skills required for the creation of the co-working space for Human and Cobots to work together. Relative Importance Index (RII) & Analytical Hierarchy Process (AHP) is utilized to develop the “Employability Skills Interface for Industry 5.0” for improving work performance in the organisational level.
+ER  - 
+
+TY  - JOUR
+T1  - Effect of cognitive automation in a material handling system on manufacturing flexibility
+AU  - Choe, Pilsung
+AU  - Tew, Jeffrey D.
+AU  - Tong, Songzhen
+JO  - International Journal of Production Economics
+VL  - 170
+SP  - 891
+EP  - 899
+PY  - 2015
+DA  - 2015/12/01/
+T2  - Decision models for the design, optimization and management of warehousing and material handling systems
+SN  - 0925-5273
+DO  - https://doi.org/10.1016/j.ijpe.2015.01.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0925527315000304
+KW  - Manufacturing flexibility
+KW  - Material handling system
+KW  - Cognitive automation
+KW  - Level of automation
+AB  - Manufacturing flexibility has become a competitive strategy to deal with market uncertainty. The application of advanced automation technology in manufacturing systems has tremendously increased manufacturing flexibility; however, this creates significant mental pressure for operators who must deal with a series of decisions, and this decreases their job satisfaction. In this study, we primarily investigated how cognitive automation and mechanical automaton in the material handling system affect manufacturing flexibility. Cognitive automation is defined as a computerized system that provides relevant information to operators, thereby reducing the cognitive workload; mechanical automation refers to an automated system to reduce the physical workload. The case of a truck-body production line of a truck company was investigated by applying modified DYNAMO++ for the material handling system. Then, a simulation program, AnyLogic 6.9.0 was used to investigate the effect of the cognitive and mechanical automation in the material handling system on manufacturing flexibility. The research results showed that the levels of cognitive and mechanical automation of the material handling system were increased by 52.4% and 48.0%, respectively, which resulted in improving manufacturing flexibility by 14.2% in cycle time, 53.3% in downtime, and 26.3% in the number of tasks. Cognitive automation, in particular, contributed total improvements in cycle time and downtime of 64.2% and 74.1%, respectively, which showed that cognitive automation has a very critical effect on manufacturing flexibility in the material handling system.
+ER  - 
