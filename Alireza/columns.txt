@@ -1,16 +1,4 @@
-Index(['UT (Unique WOS ID)', 'Article Title', 'Authors', 'Volume',
-       'Author Full Names', 'Source Title', 'Publication Year',
-       'Publication Date', 'Pubmed Id', 'ISSN', 'DOI'],
-      dtype='object')
-
-
-Index(['Publication Type', 'Article Title', 'Authors', 'Source Title',
-       'Volume', 'Start Page', 'End Page', 'Publication Year',
-       'Publication Date', 'Conference Title', 'ISSN', 'DOI', 'DOI Link',
-       'Author Keywords', 'Abstract', 'Issue'],
-      dtype='object')
-
-
+WOS:
 Index(['Publication Type', 'Authors', 'Book Authors', 'Book Editors',
        'Book Group Authors', 'Author Full Names', 'Book Author Full Names',
        'Group Authors', 'Article Title', 'Source Title', 'Book Series Title',
@@ -34,18 +22,26 @@ Index(['Publication Type', 'Authors', 'Book Authors', 'Book Editors',
       dtype='object')
 
 
-Index(['Authors', 'Author full names', 'Author(s) ID', 'Title', 'Year',
-       'Source title', 'Volume', 'Issue', 'Art. No.', 'Page start', 'Page end',
-       'Page count', 'Cited by', 'DOI', 'Link', 'Affiliations',
-       'Authors with affiliations', 'Abstract', 'Author Keywords',
-       'Index Keywords', 'Molecular Sequence Numbers', 'Chemicals/CAS',
-       'Tradenames', 'Manufacturers', 'Funding Details', 'Funding Texts',
-       'References', 'Correspondence Address', 'Editors', 'Publisher',
-       'Sponsors', 'Conference name', 'Conference date', 'Conference location',
-       'Conference code', 'ISSN', 'ISBN', 'CODEN', 'PubMed ID',
-       'Language of Original Document', 'Abbreviated Source Title',
-       'Document Type', 'Publication Stage', 'Open Access', 'Source', 'EID'],
+
+SD:
+Index(['type_of_reference', 'primary_title', 'authors', 'journal_name',
+       'volume', 'start_page', 'end_page', 'year', 'date', 'issn', 'doi',
+       'urls', 'keywords', 'abstract', 'number', 'secondary_title'],
       dtype='object')
 
 
-['Article Title', 'Authors', 'Volume', 'Source Title', 'Publication Year', 'Publication Date', 'ISSN', 'DOI']
+
+SC:
+Index(['Authors', 'Author full names', 'Author(s) ID', 'Article Title',
+       'Publication Year', 'Source Title', 'Volume', 'Issue', 'Art. No.',
+       'Page start', 'Page end', 'Page count', 'Cited by', 'DOI', 'Link',
+       'Affiliations', 'Authors with affiliations', 'Abstract',
+       'Author Keywords', 'Index Keywords', 'Molecular Sequence Numbers',
+       'Chemicals/CAS', 'Tradenames', 'Manufacturers', 'Funding Details',
+       'Funding Texts', 'References', 'Correspondence Address', 'Editors',
+       'Publisher', 'Sponsors', 'Conference name', 'Conference date',
+       'Conference location', 'Conference code', 'ISSN', 'ISBN', 'CODEN',
+       'PubMed ID', 'Language of Original Document',
+       'Abbreviated Source Title', 'Document Type', 'Publication Stage',
+       'Open Access', 'Source', 'EID'],
+      dtype='object')
